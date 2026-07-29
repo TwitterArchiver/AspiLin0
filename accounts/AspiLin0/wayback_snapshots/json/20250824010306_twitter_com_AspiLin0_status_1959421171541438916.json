@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959421167758106624"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1959421171541438916",
+    "created_at": "2025-08-24T01:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T02:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959421171541438916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzDJd7JDY9",
+          "end": 120,
+          "expanded_url": "https://x.com/AspiLin0/status/1959421171541438916/photo/1",
+          "media_key": "3_1959421167758106624",
+          "start": 97,
+          "url": "https://t.co/gzDJd7JDY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959421171541438916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丘成桐让本来就畸形的cn教育体系更畸形了（\n我们学校冲yau班的四五年级过来学初中数学，初一把高中数学学完，接下来直接学大学数学😅\n最开始两年招的确实高素质数学天才，现在也成为一种别样的应试了 https://t.co/gzDJd7JDY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_1959421167758106624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFDK62aYAAlO91.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959421167758106624"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1959421171541438916",
+        "created_at": "2025-08-24T01:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T02:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959421171541438916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzDJd7JDY9",
+              "end": 120,
+              "expanded_url": "https://x.com/AspiLin0/status/1959421171541438916/photo/1",
+              "media_key": "3_1959421167758106624",
+              "start": 97,
+              "url": "https://t.co/gzDJd7JDY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959421171541438916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丘成桐让本来就畸形的cn教育体系更畸形了（\n我们学校冲yau班的四五年级过来学初中数学，初一把高中数学学完，接下来直接学大学数学😅\n最开始两年招的确实高素质数学天才，现在也成为一种别样的应试了 https://t.co/gzDJd7JDY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 479,
+          "like_count": 12403,
+          "listed_count": 4,
+          "media_count": 256,
+          "tweet_count": 3068
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}
