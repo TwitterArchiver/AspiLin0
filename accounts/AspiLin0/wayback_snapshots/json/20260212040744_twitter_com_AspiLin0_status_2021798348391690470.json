@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021597165592956928"
+      ],
+      "media_source_tweet_id": [
+        "2021597776165879894"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2021798348391690470",
+    "created_at": "2026-02-12T04:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021798348391690470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1967163673375592448",
+          "start": 3,
+          "username": "grapefrukt2233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhaXe6j27s",
+          "end": 49,
+          "expanded_url": "https://x.com/grapefrukt2233/status/2021597776165879894/photo/1",
+          "media_key": "3_2021597165592956928",
+          "start": 26,
+          "url": "https://t.co/GhaXe6j27s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021798348391690470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021597776165879894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grapefrukt2233: #重音テト https://t.co/GhaXe6j27s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021597165592956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4n6UYa0AAdrZR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021597165592956928"
+          ],
+          "media_source_tweet_id": [
+            "2021597776165879894"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2021798348391690470",
+        "created_at": "2026-02-12T04:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021798348391690470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1967163673375592448",
+              "start": 3,
+              "username": "grapefrukt2233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhaXe6j27s",
+              "end": 49,
+              "expanded_url": "https://x.com/grapefrukt2233/status/2021597776165879894/photo/1",
+              "media_key": "3_2021597165592956928",
+              "start": 26,
+              "url": "https://t.co/GhaXe6j27s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021798348391690470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021597776165879894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grapefrukt2233: #重音テト https://t.co/GhaXe6j27s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021597165592956928"
+          ]
+        },
+        "author_id": "1967163673375592448",
+        "conversation_id": "2021597776165879894",
+        "created_at": "2026-02-11T14:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021597776165879894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhaXe6j27s",
+              "end": 29,
+              "expanded_url": "https://x.com/grapefrukt2233/status/2021597776165879894/photo/1",
+              "media_key": "3_2021597165592956928",
+              "start": 6,
+              "url": "https://t.co/GhaXe6j27s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021597776165879894",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 9821,
+          "like_count": 1744,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/GhaXe6j27s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 564,
+          "like_count": 15538,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 3886
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T09:49:15.000Z",
+        "description": "感謝します\n👉@Grapefrukt520👈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Grapefrukt520"
+              }
+            ]
+          }
+        },
+        "id": "1967163673375592448",
+        "name": "grapefrukt",
+        "pinned_tweet_id": "2010727404004856267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003025145712250881/X4Pml2HY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 1,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 82
+        },
+        "username": "grapefrukt2233",
+        "verified": false
+      }
+    ]
+  }
+}

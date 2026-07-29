@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934628287915151749",
+    "created_at": "2025-06-16T15:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934629773520801802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1504799211799265282",
+          "start": 0,
+          "username": "LiuSuK7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934629773520801802",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934628287915151749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuSuK7777 讨论活着的意义时是不该想到死去的，因为死亡并不包括在活着的过程中，所以活着的意义就是做自己想做的\n而生命的意义呢，问宇宙去吧，和我有什么关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934628287915151749",
+        "created_at": "2025-06-16T15:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934629773520801802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934629773520801802",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934628287915151749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 讨论活着的意义时是不该想到死去的，因为死亡并不包括在活着的过程中，所以活着的意义就是做自己想做的\n而生命的意义呢，问宇宙去吧，和我有什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1934628287915151749",
+        "created_at": "2025-06-16T15:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934628287915151749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1934549170796597461",
+              "start": 43,
+              "url": "https://t.co/X1BpjV3lCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934628287915151749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934549170796597461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人活着到底有什么意义？反正最后都是虚无。如果终点是绝对的虚无，起点和过程究竟为何存在 https://t.co/X1BpjV3lCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 432,
+          "like_count": 8775,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |主人@yeziyu7777对象@zyh1428202小号@Loveyezi8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "zyh1428202"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "Loveyezi8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "name": "流苏",
+        "pinned_tweet_id": "1933059730144211014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 2437,
+          "like_count": 34245,
+          "listed_count": 11,
+          "media_count": 1118,
+          "tweet_count": 26410
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

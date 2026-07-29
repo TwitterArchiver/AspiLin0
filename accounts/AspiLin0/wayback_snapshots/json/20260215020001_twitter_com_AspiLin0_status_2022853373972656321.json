@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2022853373972656321",
+    "created_at": "2026-02-15T02:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022853373972656321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "19838082",
+          "start": 3,
+          "username": "huihoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022853373972656321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022836235526652351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huihoo: 我们在学习数学、物理学知识时\n应紧密结合计算机科学、根据自己兴趣工作需求\n建立长期学习研究应用领域\n这样学以致用，能更好的建立信心和长期价值\n \n比如：形式化、计算金融、人工智能中的数学\n统计机器学习、概率论与数理统计、数据科学\n安全密码学、建模仿真、自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2022853373972656321",
+        "created_at": "2026-02-15T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022853373972656321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "19838082",
+              "start": 3,
+              "username": "huihoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022853373972656321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022836235526652351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huihoo: 我们在学习数学、物理学知识时\n应紧密结合计算机科学、根据自己兴趣工作需求\n建立长期学习研究应用领域\n这样学以致用，能更好的建立信心和长期价值\n \n比如：形式化、计算金融、人工智能中的数学\n统计机器学习、概率论与数理统计、数据科学\n安全密码学、建模仿真、自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "19838082",
+        "conversation_id": "2022836235526652351",
+        "created_at": "2026-02-15T00:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022836235526652351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022836235526652351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们在学习数学、物理学知识时\n应紧密结合计算机科学、根据自己兴趣工作需求\n建立长期学习研究应用领域\n这样学以致用，能更好的建立信心和长期价值\n \n比如：形式化、计算金融、人工智能中的数学\n统计机器学习、概率论与数理统计、数据科学\n安全密码学、建模仿真、自动驾驶、机器人\n游戏中的数学、图形3D、物理 AI、量子计算等\n\nProgramming is a basic skill \nMathematics and Physics are long-term advantages"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1085,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们在学习数学、物理学知识时\n应紧密结合计算机科学、根据自己兴趣工作需求\n建立长期学习研究应用领域\n这样学以致用，能更好的建立信心和长期价值\n \n比如：形式化、计算金融、人工智能中的数学\n统计机器学习、概率论与数理统计、数据科学\n安全密码学、建模仿真、自动驾驶、机器人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 579,
+          "like_count": 15903,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 3928
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-31T23:47:35.000Z",
+        "description": "透过简单与美丽认识真理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huihoo.com",
+                "end": 23,
+                "expanded_url": "https://huihoo.com",
+                "start": 0,
+                "url": "https://t.co/R3EMK5rMj9"
+              }
+            ]
+          }
+        },
+        "id": "19838082",
+        "location": "Chengdu, China",
+        "name": "灰狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233132661608071169/_PRc7chX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21111,
+          "following_count": 1829,
+          "like_count": 4145,
+          "listed_count": 183,
+          "media_count": 955,
+          "tweet_count": 6725
+        },
+        "url": "https://t.co/R3EMK5rMj9",
+        "username": "huihoo",
+        "verified": true
+      }
+    ]
+  }
+}

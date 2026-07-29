@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1914528628198793441",
+    "created_at": "2025-04-22T03:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T04:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914529563423727789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1410093182176530437",
+          "start": 0,
+          "username": "CoolJX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914529563423727789",
+    "in_reply_to_user_id": "1410093182176530437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914528628198793441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoolJX4 国服还会分b服和官服（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1914528628198793441",
+        "created_at": "2025-04-22T03:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914529563423727789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1410093182176530437",
+              "start": 0,
+              "username": "CoolJX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914529563423727789",
+        "in_reply_to_user_id": "1410093182176530437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914528628198793441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoolJX4 国服还会分b服和官服（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1914528626261024768"
+          ]
+        },
+        "author_id": "1410093182176530437",
+        "conversation_id": "1914528628198793441",
+        "created_at": "2025-04-22T03:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914528628198793441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914528628198793441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "來推薦一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片要吃阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 326,
+          "like_count": 4205,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T04:31:11.000Z",
+        "description": "≧ω≦≧∇≦≧ω≦≧∇≦\n薯條：@Flowers8964\n小號：@RisingStar97606\n好朋朋：@SnAuFlat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "RisingStar97606"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "SnAuFlat"
+              }
+            ]
+          }
+        },
+        "id": "1410093182176530437",
+        "location": "Malaysia",
+        "name": "私は 進軒 (｡’▽’｡)♡",
+        "pinned_tweet_id": "1697622511188623794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885942715541807104/7N0YgPXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 849,
+          "like_count": 63402,
+          "listed_count": 5,
+          "media_count": 816,
+          "tweet_count": 7621
+        },
+        "username": "CoolJX4",
+        "verified": false
+      }
+    ]
+  }
+}

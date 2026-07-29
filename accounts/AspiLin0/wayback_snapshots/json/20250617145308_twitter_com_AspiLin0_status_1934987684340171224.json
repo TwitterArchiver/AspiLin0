@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934986354469028265",
+    "created_at": "2025-06-17T14:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934987684340171224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891618744960737280",
+          "start": 0,
+          "username": "axin1715253"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934987684340171224",
+    "in_reply_to_user_id": "1891618744960737280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934987126816559462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axin1715253 是连上二十天😭😭😭👊👊👊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 238,
+        "media_key": "3_1934987123851169792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtp0iYIakAAqvlO.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934986354469028265",
+        "created_at": "2025-06-17T14:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934987684340171224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891618744960737280",
+              "start": 0,
+              "username": "axin1715253"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934987684340171224",
+        "in_reply_to_user_id": "1891618744960737280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934987126816559462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axin1715253 是连上二十天😭😭😭👊👊👊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934987123851169792"
+          ]
+        },
+        "author_id": "1891618744960737280",
+        "conversation_id": "1934986354469028265",
+        "created_at": "2025-06-17T14:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934987126816559462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFGc02JVYn",
+              "end": 52,
+              "expanded_url": "https://x.com/axin1715253/status/1934987126816559462/photo/1",
+              "media_key": "3_1934987123851169792",
+              "start": 29,
+              "url": "https://t.co/tFGc02JVYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934987126816559462",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934986354469028265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我们也是考完继续上，还有二十天才放假 https://t.co/tFGc02JVYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 434,
+          "like_count": 8816,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T22:40:56.000Z",
+        "description": "男生哦，喜欢触手，不吃药不变性不约跑不是二次元）",
+        "id": "1891618744960737280",
+        "location": "中国",
+        "name": "axin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922773919263752193/SG3bBJkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 140,
+          "like_count": 4184,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 326
+        },
+        "username": "axin1715253",
+        "verified": false
+      }
+    ]
+  }
+}

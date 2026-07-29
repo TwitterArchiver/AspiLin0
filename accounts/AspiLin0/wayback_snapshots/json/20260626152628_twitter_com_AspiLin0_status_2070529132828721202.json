@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2070529132828721202",
+    "created_at": "2026-06-26T15:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070529132828721202"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070529132828721202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是不知道为什么自己想死理论上想死的理由都被排除了但在主观上还是感觉到绝望即使一切都有办法改变我也会相信一切都已经完蛋了几乎不会去抱怨别人不理解我因为用现象学视角来看我也不能理解自己或许是有着某种分裂的倾向像是浮在空中没有任何依靠的真实即使存在但也让人感到不真实我或许想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2070529132828721202",
+        "created_at": "2026-06-26T15:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070529132828721202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070529132828721202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是不知道为什么自己想死理论上想死的理由都被排除了但在主观上还是感觉到绝望即使一切都有办法改变我也会相信一切都已经完蛋了几乎不会去抱怨别人不理解我因为用现象学视角来看我也不能理解自己或许是有着某种分裂的倾向像是浮在空中没有任何依靠的真实即使存在但也让人感到不真实我或许想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 769,
+          "like_count": 21568,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 5090
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

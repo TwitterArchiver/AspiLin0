@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2014953815553016265",
+    "created_at": "2026-01-24T07:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014968165030363462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014968165030363462",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014953815553016265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 问题是神经可塑性在童年是最强的\n童年发生的一件事可能字面意义上的要用一生来治愈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2014953806694645769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_aNz77bAAkC2qn.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2014953815553016265",
+        "created_at": "2026-01-24T07:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014968165030363462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014968165030363462",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014953815553016265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 问题是神经可塑性在童年是最强的\n童年发生的一件事可能字面意义上的要用一生来治愈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014953806694645769"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2014953815553016265",
+        "created_at": "2026-01-24T06:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014953815553016265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgSnnqarhP",
+              "end": 136,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2014953815553016265/photo/1",
+              "media_key": "3_2014953806694645769",
+              "start": 113,
+              "url": "https://t.co/KgSnnqarhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014953815553016265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是研究大脑的，很客观地说，原生家庭可以不和解不理解，因为人来到世界睁眼的第一老师和照顾者就是父母，如果因此受到痛苦与伤害，那的确是很难过的事情\n但是呢有一个事实是：童年只是是很小的时间窗，而人生很长，不要被出厂设定限定死了 https://t.co/KgSnnqarhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 536,
+          "like_count": 14797,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3749
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2014692818175025393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3522,
+          "following_count": 1009,
+          "like_count": 259,
+          "listed_count": 10,
+          "media_count": 2780,
+          "tweet_count": 12804
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2036014799180738583",
+    "created_at": "2026-03-23T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036014799180738583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1928687976281944068",
+          "start": 3,
+          "username": "juhuhiulzy448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036014799180738583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035719206512025831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juhuhiulzy448: 接下来几个月，直到暑假\n我将对性少数群体，特别是MTF群体，进行更准确的研究\n直到出来一份研究报告\n有支持我的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2036014799180738583",
+        "created_at": "2026-03-23T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036014799180738583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1928687976281944068",
+              "start": 3,
+              "username": "juhuhiulzy448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036014799180738583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035719206512025831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juhuhiulzy448: 接下来几个月，直到暑假\n我将对性少数群体，特别是MTF群体，进行更准确的研究\n直到出来一份研究报告\n有支持我的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928687976281944068",
+        "conversation_id": "2035719206512025831",
+        "created_at": "2026-03-22T14:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035719206512025831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035719206512025831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1893,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "接下来几个月，直到暑假\n我将对性少数群体，特别是MTF群体，进行更准确的研究\n直到出来一份研究报告\n有支持我的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 660,
+          "like_count": 18514,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 4374
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T05:40:34.000Z",
+        "description": "初中生，轻度抑郁，是 pepoyo 的粉丝。\n想含又不敢含糖（?），无性恋。\n极度反共，和我一样的可互fo。\n全力支持同性恋及跨性别社群，反对的和习猪头一样没fm。\n可能会因为前面的原因不定时锁推。\n另外，超时空辉夜姬牛逼。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/P8uFgSTZce"
+              }
+            ]
+          }
+        },
+        "id": "1928687976281944068",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "pepoyoPPY（互fo）",
+        "pinned_tweet_id": "2035316707326140448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035290073415942144/2OkA9uTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 414,
+          "like_count": 9371,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/P8uFgSTZce",
+        "username": "juhuhiulzy448",
+        "verified": false
+      }
+    ]
+  }
+}

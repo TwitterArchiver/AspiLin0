@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1930414823625633970",
+    "created_at": "2025-06-05T10:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T11:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930579459322867928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907228313111691264",
+          "start": 0,
+          "username": "P_0_0_0_P"
+        },
+        {
+          "end": 18,
+          "id": "1507396901594820608",
+          "start": 11,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930579459322867928",
+    "in_reply_to_user_id": "1907228313111691264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930568760894611749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P_0_0_0_P @hgds01 就想看这个（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1930414823625633970",
+        "created_at": "2025-06-05T10:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930579459322867928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907228313111691264",
+              "start": 0,
+              "username": "P_0_0_0_P"
+            },
+            {
+              "end": 18,
+              "id": "1507396901594820608",
+              "start": 11,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930579459322867928",
+        "in_reply_to_user_id": "1907228313111691264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930568760894611749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P_0_0_0_P @hgds01 就想看这个（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907228313111691264",
+        "conversation_id": "1930414823625633970",
+        "created_at": "2025-06-05T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930568760894611749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930568760894611749",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930414823625633970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 一二三 跳！\n跳進染缸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 405,
+          "like_count": 7437,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T00:27:26.000Z",
+        "description": "",
+        "id": "1907228313111691264",
+        "name": "P.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907228756923572224/qBOHDli7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 46,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 208
+        },
+        "username": "P_0_0_0_P",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1929579130711875675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80731,
+          "following_count": 2917,
+          "like_count": 43635,
+          "listed_count": 97,
+          "media_count": 2393,
+          "tweet_count": 6690
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

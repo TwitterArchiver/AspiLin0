@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1921874809790644224",
+    "created_at": "2025-05-12T15:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T16:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921948397046509622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842105698509017088",
+          "start": 0,
+          "username": "Cyb3rn3rdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921948397046509622",
+    "in_reply_to_user_id": "1842105698509017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921874809790644224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb3rn3rdV 如果把意识看作量子物质，那么用orch-or理论来描述是合理的\n那么如果精神疾病会造成微管损害的确实可能会出现不兼容现象（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1921874809790644224",
+        "created_at": "2025-05-12T15:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T16:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921948397046509622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842105698509017088",
+              "start": 0,
+              "username": "Cyb3rn3rdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921948397046509622",
+        "in_reply_to_user_id": "1842105698509017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921874809790644224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb3rn3rdV 如果把意识看作量子物质，那么用orch-or理论来描述是合理的\n那么如果精神疾病会造成微管损害的确实可能会出现不兼容现象（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842105698509017088",
+        "conversation_id": "1921874809790644224",
+        "created_at": "2025-05-12T10:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921874809790644224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengqing5735/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/mengqing5735/status/1921535725683577336",
+              "start": 25,
+              "url": "https://t.co/ZR5va4qrKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921874809790644224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921535725683577336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bro认为自己灵魂的量子物质无法和自己的肉体兼容 https://t.co/ZR5va4qrKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 366,
+          "like_count": 5989,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:34:16.000Z",
+        "description": "Canadian-Chinese, now lives in Australia\n\nOtherAccounts @KINGSLAY3RV (for private posts)\n@ViiyElvin (Former Account)\n\nMy Only Master: @xckim392538",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "KINGSLAY3RV"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "ViiyElvin"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "xckim392538"
+              }
+            ]
+          }
+        },
+        "id": "1842105698509017088",
+        "location": "Melbourne, Victoria",
+        "name": "匚ybernerd(V)",
+        "pinned_tweet_id": "1918300026461438104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911642870387236864/0jxN01Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 948,
+          "like_count": 26205,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 3965
+        },
+        "username": "Cyb3rn3rdV",
+        "verified": false
+      }
+    ]
+  }
+}

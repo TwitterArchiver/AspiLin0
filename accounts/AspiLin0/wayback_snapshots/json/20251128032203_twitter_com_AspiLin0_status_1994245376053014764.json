@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1994245376053014764",
+    "created_at": "2025-11-28T03:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994245376053014764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994245376053014764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993983475037417758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: 其实文字能看出一个人读过多少书行过多少路，从别人的寥寥几句里就能感受到此人对文字把握的精准和理解的深刻，而从我的长篇大论里就能很轻易地看出我这人没读过书。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1994245376053014764",
+        "created_at": "2025-11-28T03:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994245376053014764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994245376053014764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993983475037417758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: 其实文字能看出一个人读过多少书行过多少路，从别人的寥寥几句里就能感受到此人对文字把握的精准和理解的深刻，而从我的长篇大论里就能很轻易地看出我这人没读过书。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1993983475037417758",
+        "created_at": "2025-11-27T10:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993983475037417758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993983475037417758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 42646,
+          "like_count": 374,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "其实文字能看出一个人读过多少书行过多少路，从别人的寥寥几句里就能感受到此人对文字把握的精准和理解的深刻，而从我的长篇大论里就能很轻易地看出我这人没读过书。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 516,
+          "like_count": 13609,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3501
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "感谢关注和支持/文案来源于网络 祝大家天天开心",
+        "id": "1826321786834944000",
+        "location": "粉",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1993230342703267896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4780,
+          "following_count": 712,
+          "like_count": 10097,
+          "listed_count": 12,
+          "media_count": 139,
+          "tweet_count": 876
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

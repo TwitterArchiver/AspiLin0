@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2081012928376189065",
+    "created_at": "2026-07-25T13:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012928376189065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653207153044520960",
+          "start": 3,
+          "username": "AsilenA123"
+        },
+        {
+          "end": 32,
+          "id": "1213412688790843397",
+          "start": 16,
+          "username": "AkiratheShining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012928376189065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080988059596988593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsilenA123: @AkiratheShining 我觉得概念在塑造意识，意识也在表达为概念。为什么这些概念能流行起来呢，为什么这么多人用它解释自己的生活，拍视频，互动留言？意识通过概念找到了出口，同时也通过表达固化了自身，于是循环，于是刻板印象自我实现，是部分女…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2081012928376189065",
+        "created_at": "2026-07-25T13:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012928376189065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653207153044520960",
+              "start": 3,
+              "username": "AsilenA123"
+            },
+            {
+              "end": 32,
+              "id": "1213412688790843397",
+              "start": 16,
+              "username": "AkiratheShining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012928376189065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080988059596988593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsilenA123: @AkiratheShining 我觉得概念在塑造意识，意识也在表达为概念。为什么这些概念能流行起来呢，为什么这么多人用它解释自己的生活，拍视频，互动留言？意识通过概念找到了出口，同时也通过表达固化了自身，于是循环，于是刻板印象自我实现，是部分女…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2080958754489762264",
+        "created_at": "2026-07-25T12:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080988059596988593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1213412688790843397",
+              "start": 0,
+              "username": "AkiratheShining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080988059596988593",
+        "in_reply_to_user_id": "1213412688790843397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080958754489762264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiratheShining 我觉得概念在塑造意识，意识也在表达为概念。为什么这些概念能流行起来呢，为什么这么多人用它解释自己的生活，拍视频，互动留言？意识通过概念找到了出口，同时也通过表达固化了自身，于是循环，于是刻板印象自我实现，是部分女性自己把自己情绪化了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛🍥",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 770,
+          "like_count": 22072,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 5220
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "加班中|嵌入式学习中|长三角|温州|爱好coding|我希望停止身份政治意识形态扩散|拒绝所有政治正确|BESS算法",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132✝️ ☪️☭",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1255,
+          "like_count": 45724,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 5135
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "可以叫我阿闪/提问箱：https://t.co/50hnnvH08s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akiratheshining",
+                "end": 34,
+                "expanded_url": "https://ngl.link/akiratheshining",
+                "start": 11,
+                "url": "https://t.co/50hnnvH08s"
+              }
+            ]
+          }
+        },
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "闪光阿基拉",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077135567759003648/-gRKopAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 214,
+          "like_count": 5151,
+          "listed_count": 7,
+          "media_count": 551,
+          "tweet_count": 8166
+        },
+        "url": "",
+        "username": "AkiratheShining",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1928918368012132639",
+    "created_at": "2025-06-01T11:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T12:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929131944744194547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "tou12345678910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929131944744194547",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928918368012132639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tou12345678910 记得人们会讨厌别人和自己一样的缺点\n可以作为一个佐证（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1928918368012132639",
+        "created_at": "2025-06-01T11:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T12:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929131944744194547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "tou12345678910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929131944744194547",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928918368012132639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou12345678910 记得人们会讨厌别人和自己一样的缺点\n可以作为一个佐证（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1928918368012132639",
+        "created_at": "2025-05-31T20:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928918368012132639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928918368012132639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 847,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从经验来看，通常人评价自己时，说的不是他自己。可能是他的理想，他的自恋自卑\n而他人口中的他，可能只是一个切面，一个印象，一句奉承或诬陷，或者发言人卖弄自己眼光的广告\n只有这个人评价他人时，他的用词和喜恶，他在意的事和品质，他的重复和念念不忘，他的创伤表现，这些可以折射出真正的他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 395,
+          "like_count": 7176,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1530
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8425,
+          "following_count": 5465,
+          "like_count": 203950,
+          "listed_count": 48,
+          "media_count": 2080,
+          "tweet_count": 36425
+        },
+        "username": "tou12345678910",
+        "verified": false
+      }
+    ]
+  }
+}

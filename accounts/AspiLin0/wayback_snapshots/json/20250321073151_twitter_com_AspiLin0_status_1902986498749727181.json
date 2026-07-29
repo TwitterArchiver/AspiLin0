@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1902986498749727181",
+    "created_at": "2025-03-21T07:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T08:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902986498749727181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JustJoker3562/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/JustJoker3562/status/1902912488896860565",
+          "start": 5,
+          "url": "https://t.co/M1tWeIBuGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902986498749727181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902912488896860565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我（） https://t.co/M1tWeIBuGe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_1902912481464553475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmiA0eBaEAM3nqw.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1902986498749727181",
+        "created_at": "2025-03-21T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902986498749727181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JustJoker3562/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/JustJoker3562/status/1902912488896860565",
+              "start": 5,
+              "url": "https://t.co/M1tWeIBuGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902986498749727181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902912488896860565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我（） https://t.co/M1tWeIBuGe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902912481464553475"
+          ]
+        },
+        "author_id": "1595756551699984384",
+        "conversation_id": "1902912488896860565",
+        "created_at": "2025-03-21T02:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T03:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902912488896860565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kR7snLsaU",
+              "end": 23,
+              "expanded_url": "https://x.com/JustJoker3562/status/1902912488896860565/photo/1",
+              "media_key": "3_1902912481464553475",
+              "start": 0,
+              "url": "https://t.co/4kR7snLsaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902912488896860565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6164,
+          "like_count": 187,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4kR7snLsaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 233,
+          "like_count": 2270,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "中文(母语)/English/日本語(苦手)┃求follow┃06软工大一┃喜欢分享meme图(网络/原创)┃转载居多-侵删┃ACG痴迷┃爱搞抽象┃偶尔吐槽生活┃超级话唠┃欢迎私信┃每周挑几个匿名信回复 ┃ *`꒳´ * )⃕↝ https://t.co/dXHZEfIIhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justjoker",
+                "end": 138,
+                "expanded_url": "http://ngl.link/justjoker",
+                "start": 115,
+                "url": "https://t.co/dXHZEfIIhM"
+              }
+            ]
+          }
+        },
+        "id": "1595756551699984384",
+        "location": "everywhere",
+        "name": "Just.Joker",
+        "pinned_tweet_id": "1902727741964976265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901524622304301056/CdWvSxID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 73,
+          "like_count": 1046,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 326
+        },
+        "username": "JustJoker3562",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2043636378232389864",
+    "created_at": "2026-04-13T16:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043727910591426750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1294579017060777985",
+          "start": 0,
+          "username": "karlmar71187498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043727910591426750",
+    "in_reply_to_user_id": "1294579017060777985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043726873461735743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karlmar71187498 忒修斯之船因为它对\"是同一艘船\"是没有良定义的，所以才会有这么多讨论。就很像\"白马非马\"对是的滥用这样。\n中文屋主客观混淆这个是我个人意见，其实只是因为它跟判断他人是否存在主体性是一致的，也就是说其他人也是\"中文屋\"。我们只能主观认识自己存在，通过客观的观察无法严谨地认识到他人存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2043636378232389864",
+        "created_at": "2026-04-13T16:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043727910591426750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1294579017060777985",
+              "start": 0,
+              "username": "karlmar71187498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043727910591426750",
+        "in_reply_to_user_id": "1294579017060777985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043726873461735743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karlmar71187498 忒修斯之船因为它对\"是同一艘船\"是没有良定义的，所以才会有这么多讨论。就很像\"白马非马\"对是的滥用这样。\n中文屋主客观混淆这个是我个人意见，其实只是因为它跟判断他人是否存在主体性是一致的，也就是说其他人也是\"中文屋\"。我们只能主观认识自己存在，通过客观的观察无法严谨地认识到他人存在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294579017060777985",
+        "conversation_id": "2043636378232389864",
+        "created_at": "2026-04-13T16:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043726873461735743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043726873461735743",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043636378232389864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 为什么会认为中文屋是主客观混淆？以及忒休斯之船为什么会是语言滥用？忒休斯我还能get到一点点，但不能理解中文房间.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 706,
+          "like_count": 19726,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 4645
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-15T10:17:54.000Z",
+        "description": "21/ENFJ/extrovert/Learing Polish",
+        "id": "1294579017060777985",
+        "location": "海浪尽头的，你",
+        "name": "W1nston Nero",
+        "pinned_tweet_id": "1963972864471867523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034536635254374400/hW5E1A9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 413,
+          "like_count": 6000,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3123
+        },
+        "username": "karlmar71187498",
+        "verified": false
+      }
+    ]
+  }
+}

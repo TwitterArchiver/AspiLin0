@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950120114570834297",
+    "created_at": "2025-07-30T07:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T08:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950458282088550436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878108711002271744",
+          "start": 0,
+          "username": "chenshuai1031"
+        },
+        {
+          "end": 28,
+          "id": "1822692347689508864",
+          "start": 15,
+          "username": "caicaiccniao"
+        },
+        {
+          "end": 40,
+          "id": "1684788633797287936",
+          "start": 29,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950458282088550436",
+    "in_reply_to_user_id": "1878108711002271744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950457882362990873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenshuai1031 @caicaiccniao @Moningmeng LSD经常有报告吸腻了自行放弃的\n你见过香烟吸腻的?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T07:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950458282088550436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878108711002271744",
+              "start": 0,
+              "username": "chenshuai1031"
+            },
+            {
+              "end": 28,
+              "id": "1822692347689508864",
+              "start": 15,
+              "username": "caicaiccniao"
+            },
+            {
+              "end": 40,
+              "id": "1684788633797287936",
+              "start": 29,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950458282088550436",
+        "in_reply_to_user_id": "1878108711002271744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950457882362990873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenshuai1031 @caicaiccniao @Moningmeng LSD经常有报告吸腻了自行放弃的\n你见过香烟吸腻的?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878108711002271744",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T07:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950457882362990873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 23,
+              "id": "1822692347689508864",
+              "start": 10,
+              "username": "caicaiccniao"
+            },
+            {
+              "end": 35,
+              "id": "1684788633797287936",
+              "start": 24,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950457882362990873",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950333302256390209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @caicaiccniao @Moningmeng 小时候，偷偷拿家里长辈的烟试水，抽了几次，感觉也就那样，然后也没上瘾。毒品你敢抽几次？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 447,
+          "like_count": 9936,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T15:56:37.000Z",
+        "description": "日本人就是贱种。日本狗应该灭绝。日本就是地球上的贱民。你反驳我，就代表我说的对，而你急了。对了，还有白皮猪。也是贱种。。低种姓。",
+        "id": "1878108711002271744",
+        "name": "轻取蛙声一片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878643325827227648/jzCQHyV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 69,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "username": "chenshuai1031",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T17:51:59.000Z",
+        "description": "",
+        "id": "1822692347689508864",
+        "name": "caicaiccniao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886148999859843072/suKoiTAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 106
+        },
+        "username": "caicaiccniao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21781,
+          "following_count": 10880,
+          "like_count": 81661,
+          "listed_count": 77,
+          "media_count": 3971,
+          "tweet_count": 14700
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

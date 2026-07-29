@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006397696261705728"
+      ],
+      "media_source_tweet_id": [
+        "2006397715043758540"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2006685100021526988",
+    "created_at": "2026-01-01T11:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006685100021526988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1765232056592736256",
+          "start": 3,
+          "username": "cyberseaurchin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rN3gnv3eaD",
+          "end": 43,
+          "expanded_url": "https://x.com/cyberseaurchin/status/2006397715043758540/photo/1",
+          "media_key": "3_2006397696261705728",
+          "start": 20,
+          "url": "https://t.co/rN3gnv3eaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006685100021526988",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006397715043758540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyberseaurchin: https://t.co/rN3gnv3eaD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006397696261705728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9goEwvXUAAOWi-.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006397696261705728"
+          ],
+          "media_source_tweet_id": [
+            "2006397715043758540"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2006685100021526988",
+        "created_at": "2026-01-01T11:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006685100021526988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1765232056592736256",
+              "start": 3,
+              "username": "cyberseaurchin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN3gnv3eaD",
+              "end": 43,
+              "expanded_url": "https://x.com/cyberseaurchin/status/2006397715043758540/photo/1",
+              "media_key": "3_2006397696261705728",
+              "start": 20,
+              "url": "https://t.co/rN3gnv3eaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006685100021526988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006397715043758540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyberseaurchin: https://t.co/rN3gnv3eaD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006397696261705728"
+          ]
+        },
+        "author_id": "1765232056592736256",
+        "conversation_id": "2006397715043758540",
+        "created_at": "2025-12-31T16:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006397715043758540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN3gnv3eaD",
+              "end": 23,
+              "expanded_url": "https://x.com/cyberseaurchin/status/2006397715043758540/photo/1",
+              "media_key": "3_2006397696261705728",
+              "start": 0,
+              "url": "https://t.co/rN3gnv3eaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006397715043758540",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 29947,
+          "like_count": 3302,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rN3gnv3eaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 523,
+          "like_count": 13991,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3587
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T04:25:05.000Z",
+        "description": "=海胆=Hyddan｜Commission contact: cyberseaurchin@gmail.com",
+        "id": "1765232056592736256",
+        "location": "🪐",
+        "name": "溺水海胆",
+        "pinned_tweet_id": "2005672206437949468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988536946558459904/QWZFRLmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9785,
+          "following_count": 733,
+          "like_count": 8282,
+          "listed_count": 49,
+          "media_count": 350,
+          "tweet_count": 882
+        },
+        "username": "cyberseaurchin",
+        "verified": false
+      }
+    ]
+  }
+}

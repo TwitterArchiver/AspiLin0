@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040674733780578304"
+      ],
+      "media_source_tweet_id": [
+        "2040674910138491309"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2040695912520163740",
+    "created_at": "2026-04-05T07:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040695912520163740"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "淡雨予報"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895005011048046595",
+          "start": 3,
+          "username": "awasameneu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vunBO3TcLb",
+          "end": 45,
+          "expanded_url": "https://x.com/awasameneu/status/2040674910138491309/photo/1",
+          "media_key": "3_2040674733780578304",
+          "start": 22,
+          "url": "https://t.co/vunBO3TcLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040695912520163740",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040674910138491309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awasameneu: #淡雨予報 https://t.co/vunBO3TcLb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1880,
+        "media_key": "3_2040674733780578304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHu28EbMAAXpLi.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040674733780578304"
+          ],
+          "media_source_tweet_id": [
+            "2040674910138491309"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2040695912520163740",
+        "created_at": "2026-04-05T07:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040695912520163740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "淡雨予報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895005011048046595",
+              "start": 3,
+              "username": "awasameneu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vunBO3TcLb",
+              "end": 45,
+              "expanded_url": "https://x.com/awasameneu/status/2040674910138491309/photo/1",
+              "media_key": "3_2040674733780578304",
+              "start": 22,
+              "url": "https://t.co/vunBO3TcLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040695912520163740",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040674910138491309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awasameneu: #淡雨予報 https://t.co/vunBO3TcLb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040674733780578304"
+          ]
+        },
+        "author_id": "1895005011048046595",
+        "conversation_id": "2040674910138491309",
+        "created_at": "2026-04-05T06:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040674910138491309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "淡雨予報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vunBO3TcLb",
+              "end": 29,
+              "expanded_url": "https://x.com/awasameneu/status/2040674910138491309/photo/1",
+              "media_key": "3_2040674733780578304",
+              "start": 6,
+              "url": "https://t.co/vunBO3TcLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040674910138491309",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2632,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "#淡雨予報 https://t.co/vunBO3TcLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 680,
+          "like_count": 19249,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 4534
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T06:56:39.000Z",
+        "description": "好きなことを好きなだけ。FA #淡雨予報 @111x717\nhttps://t.co/GsdNf5Lzyf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "淡雨予報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "111x717"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/awasameneu",
+                "end": 53,
+                "expanded_url": "https://lit.link/awasameneu",
+                "start": 30,
+                "url": "https://t.co/GsdNf5Lzyf"
+              }
+            ]
+          }
+        },
+        "id": "1895005011048046595",
+        "name": "淡雨ねう",
+        "pinned_tweet_id": "1967175271230177603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039362025646874624/TD46DSY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 49,
+          "like_count": 149,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "awasameneu",
+        "verified": false
+      }
+    ]
+  }
+}

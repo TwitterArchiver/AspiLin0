@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1964656294750732623",
+    "created_at": "2025-09-07T12:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T13:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964670609528598740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964670609528598740",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964656294750732623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 看学科吧🤔\n已经有完整体系的学科物理，数学，大陆哲学肯定要通过教科书来变得专业\n分哲，认知这些比较专门向的看论文比较合理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1964656294750732623",
+        "created_at": "2025-09-07T12:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964670609528598740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964670609528598740",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964656294750732623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 看学科吧🤔\n已经有完整体系的学科物理，数学，大陆哲学肯定要通过教科书来变得专业\n分哲，认知这些比较专门向的看论文比较合理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1964656294750732623",
+        "created_at": "2025-09-07T11:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964656294750732623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/386Nsg47079/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/386Nsg47079/status/1964405144151540137",
+              "start": 141,
+              "url": "https://t.co/DfugKUkWKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964656294750732623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964405144151540137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "读那点本科教材、研究生用书也就图一乐，入个门。很多时候要泡在Google Scholar或者数据库里的。\n\n很多数据库都有成熟的Mesh检索功能，能很快定位到你感兴趣的领域。论文要收费就去找预印本或是sci-hub。还找不到就去互助社区找人要。\n\n总之，成为一个专业的人并不容易。 https://t.co/DfugKUkWKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 485,
+          "like_count": 12776,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3186
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。\n互fo私信就可以了喔。",
+        "id": "1744320870800379904",
+        "name": "Mephylath-KIWI",
+        "pinned_tweet_id": "1918543024587768099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958095597841641472/XjO-tOy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 170,
+          "like_count": 881,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 982
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

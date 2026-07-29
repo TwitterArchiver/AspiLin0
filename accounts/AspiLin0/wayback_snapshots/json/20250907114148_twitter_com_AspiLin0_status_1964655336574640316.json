@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964602337961660421",
+        "3_1964602337974198272"
+      ],
+      "media_source_tweet_id": [
+        "1964602344672546971",
+        "1964602344672546971"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1964655336574640316",
+    "created_at": "2025-09-07T11:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T12:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964655336574640316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FykRAPl1B6",
+          "end": 62,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1964602344672546971/photo/1",
+          "media_key": "3_1964602337961660421",
+          "start": 39,
+          "url": "https://t.co/FykRAPl1B6"
+        },
+        {
+          "display_url": "pic.x.com/FykRAPl1B6",
+          "end": 62,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1964602344672546971/photo/1",
+          "media_key": "3_1964602337974198272",
+          "start": 39,
+          "url": "https://t.co/FykRAPl1B6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964655336574640316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964602344672546971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 鑒於我已經吃不起任何東西了…所以乞討一下 https://t.co/FykRAPl1B6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1964602337961660421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Orat8bUAUb4mp.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964602337974198272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Orat_aoAAZEqz.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964602337961660421",
+            "3_1964602337974198272"
+          ],
+          "media_source_tweet_id": [
+            "1964602344672546971",
+            "1964602344672546971"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1964655336574640316",
+        "created_at": "2025-09-07T11:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964655336574640316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FykRAPl1B6",
+              "end": 62,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1964602344672546971/photo/1",
+              "media_key": "3_1964602337961660421",
+              "start": 39,
+              "url": "https://t.co/FykRAPl1B6"
+            },
+            {
+              "display_url": "pic.x.com/FykRAPl1B6",
+              "end": 62,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1964602344672546971/photo/1",
+              "media_key": "3_1964602337974198272",
+              "start": 39,
+              "url": "https://t.co/FykRAPl1B6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964655336574640316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964602344672546971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 鑒於我已經吃不起任何東西了…所以乞討一下 https://t.co/FykRAPl1B6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964602337961660421",
+            "3_1964602337974198272"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1964602344672546971",
+        "created_at": "2025-09-07T08:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964602344672546971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FykRAPl1B6",
+              "end": 44,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1964602344672546971/photo/1",
+              "media_key": "3_1964602337961660421",
+              "start": 21,
+              "url": "https://t.co/FykRAPl1B6"
+            },
+            {
+              "display_url": "pic.x.com/FykRAPl1B6",
+              "end": 44,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1964602344672546971/photo/1",
+              "media_key": "3_1964602337974198272",
+              "start": 21,
+              "url": "https://t.co/FykRAPl1B6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964602344672546971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鑒於我已經吃不起任何東西了…所以乞討一下 https://t.co/FykRAPl1B6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 485,
+          "like_count": 12775,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3183
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "实际上叫葉加瀬 水素・MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・座右銘「給我一個機会，譲我再一次登上塔尖！」#數位遊民的自我修養",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 65,
+                "tag": "數位遊民的自我修養"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "✦水素渐远✦",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 177,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 343
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

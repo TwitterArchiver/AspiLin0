@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936628067453358542",
+    "created_at": "2025-06-22T14:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936800803320426644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936800803320426644",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936628067453358542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 今天数学难吧\n会好的😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936628067453358542",
+        "created_at": "2025-06-22T14:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936800803320426644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936800803320426644",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936628067453358542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 今天数学难吧\n会好的😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921426104763682816",
+        "conversation_id": "1936628067453358542",
+        "created_at": "2025-06-22T03:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936628067453358542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936628067453358542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5680,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了 可以去读职高了\n8分的数学没写出来……\n最绝望的是想到解法了 但是打铃了😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 433,
+          "like_count": 8998,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "这里是Hiner/15y初三生/ENTP一枚/清水/来找我玩ww",
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1931194479119384998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 560,
+          "like_count": 10274,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1767
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

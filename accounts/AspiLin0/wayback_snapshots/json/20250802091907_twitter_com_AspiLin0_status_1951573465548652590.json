@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1951330466835079477",
+    "created_at": "2025-08-02T09:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T10:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951573465548652590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869496646503219200",
+          "start": 0,
+          "username": "BarkerAT18"
+        },
+        {
+          "end": 27,
+          "id": "1865419581206208512",
+          "start": 12,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951573465548652590",
+    "in_reply_to_user_id": "1869496646503219200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951488064221749302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BarkerAT18 @DDzhanshou5150 不打码太平常了引不到流"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1951330466835079477",
+        "created_at": "2025-08-02T09:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951573465548652590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869496646503219200",
+              "start": 0,
+              "username": "BarkerAT18"
+            },
+            {
+              "end": 27,
+              "id": "1865419581206208512",
+              "start": 12,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951573465548652590",
+        "in_reply_to_user_id": "1869496646503219200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951488064221749302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BarkerAT18 @DDzhanshou5150 不打码太平常了引不到流"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869496646503219200",
+        "conversation_id": "1951330466835079477",
+        "created_at": "2025-08-02T03:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T04:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951488064221749302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951488064221749302",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951330466835079477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 打码干什么了，原图第一句是做梦梦到个中二病表妹…为什么打码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 455,
+          "like_count": 10537,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 2657
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T21:35:33.000Z",
+        "description": "泥嚎我是巴克尔，曾用名DJ132rTabler｜不建政、不引战、不造谣｜对无立场和能正常交流的人态度都好｜不敌队任何人，只攻击弱智｜上推只看少女乐队和屌图｜只希望世界和平，所有人的政治立场我都不在乎｜承诺不先手骂人，不友善扣帽子和蠢逼串子我直接操你妈｜言语经常过激｜男的女的跨都友好｜一击脱离你妈死了｜祝你幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/barkerat18",
+                "end": 23,
+                "expanded_url": "https://ngl.link/barkerat18",
+                "start": 0,
+                "url": "https://t.co/51GdaYzVK7"
+              }
+            ]
+          }
+        },
+        "id": "1869496646503219200",
+        "location": "月之森贵族学院",
+        "name": "绝望大逃祥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943747553666727936/oK0ClId2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 116,
+          "like_count": 8327,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/51GdaYzVK7",
+        "username": "BarkerAT18",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4952,
+          "following_count": 5189,
+          "like_count": 17985,
+          "listed_count": 8,
+          "media_count": 3390,
+          "tweet_count": 25597
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

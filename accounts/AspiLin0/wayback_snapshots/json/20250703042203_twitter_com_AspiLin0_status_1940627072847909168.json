@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1940627072847909168",
+    "created_at": "2025-07-03T04:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T05:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940627072847909168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chillizu_/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Chillizu_/status/1940570143547101184",
+          "start": 26,
+          "url": "https://t.co/pERCPDdfQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940627072847909168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940570143547101184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现实的本质，比梦境还要虚幻\n（雨果说的吧，有点健忘 https://t.co/pERCPDdfQW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 291,
+        "media_key": "3_1940570140224925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5KQs3WMAASm-i.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1940627072847909168",
+        "created_at": "2025-07-03T04:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T05:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940627072847909168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chillizu_/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Chillizu_/status/1940570143547101184",
+              "start": 26,
+              "url": "https://t.co/pERCPDdfQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940627072847909168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940570143547101184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现实的本质，比梦境还要虚幻\n（雨果说的吧，有点健忘 https://t.co/pERCPDdfQW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940570140224925696"
+          ]
+        },
+        "author_id": "1903012419468922881",
+        "conversation_id": "1940570143547101184",
+        "created_at": "2025-07-03T00:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T01:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940570143547101184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKd5M3Og98",
+              "end": 30,
+              "expanded_url": "https://x.com/Chillizu_/status/1940570143547101184/photo/1",
+              "media_key": "3_1940570140224925696",
+              "start": 7,
+              "url": "https://t.co/nKd5M3Og98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940570143547101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gpt如是说 https://t.co/nKd5M3Og98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 443,
+          "like_count": 9350,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T09:15:03.000Z",
+        "description": "只有一份哦",
+        "id": "1903012419468922881",
+        "name": "MickyDot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903012468005408770/1umTnhK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 88,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 658
+        },
+        "username": "Chillizu_",
+        "verified": false
+      }
+    ]
+  }
+}

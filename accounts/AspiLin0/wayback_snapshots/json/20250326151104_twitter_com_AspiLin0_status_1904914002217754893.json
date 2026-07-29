@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1904912720321003929",
+    "created_at": "2025-03-26T15:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T16:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904914002217754893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903416195820433408",
+          "start": 0,
+          "username": "LonelyLLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904914002217754893",
+    "in_reply_to_user_id": "1903416195820433408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904912720321003929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LonelyLLove 我以前好像也这种情况\n不过怎么解决的忘了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1904912720321003929",
+        "created_at": "2025-03-26T15:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T16:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904914002217754893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903416195820433408",
+              "start": 0,
+              "username": "LonelyLLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904914002217754893",
+        "in_reply_to_user_id": "1903416195820433408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904912720321003929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LonelyLLove 我以前好像也这种情况\n不过怎么解决的忘了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903416195820433408",
+        "conversation_id": "1904912720321003929",
+        "created_at": "2025-03-26T15:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T16:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904912720321003929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904912720321003929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了看大家 好像都可以开 telegram 只有 草花这边 收不到手机短信 注册不了吗 😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 259,
+          "like_count": 2798,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:00:05.000Z",
+        "description": "笨蛋草花 | 来自2008 | mtf | 是ISFP/ESFP | 喜欢清静的地方 || 喜欢小猫 | 是胆小鬼 | 缺爱想要被关注 | 内向或外向 | 带话题找我聊天我会很健谈 | 希望世界和平 || 想要互fo 100%回fo  🏳‍⚧🏳‍⚧",
+        "id": "1903416195820433408",
+        "location": "女巫的炼药小屋",
+        "name": "🌸草花草花🏳‍⚧",
+        "pinned_tweet_id": "1903430384534335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903422162775752704/aSJC8DtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 49,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "LonelyLLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913550793791377887",
+    "created_at": "2025-04-19T11:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T12:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913562926444863741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817579325782429696",
+          "start": 0,
+          "username": "Salaska24054"
+        },
+        {
+          "end": 29,
+          "id": "1620467638991454208",
+          "start": 14,
+          "username": "someofCocaCola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913562926444863741",
+    "in_reply_to_user_id": "1817579325782429696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913562288910655888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Salaska24054 @someofCocaCola 很好的人^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913550793791377887",
+        "created_at": "2025-04-19T11:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913562926444863741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817579325782429696",
+              "start": 0,
+              "username": "Salaska24054"
+            },
+            {
+              "end": 29,
+              "id": "1620467638991454208",
+              "start": 14,
+              "username": "someofCocaCola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913562926444863741",
+        "in_reply_to_user_id": "1817579325782429696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913562288910655888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Salaska24054 @someofCocaCola 很好的人^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817579325782429696",
+        "conversation_id": "1913550793791377887",
+        "created_at": "2025-04-19T11:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913562288910655888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913562288910655888",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913562145520029806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 那是谁()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 315,
+          "like_count": 3963,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:14:40.000Z",
+        "description": "喜欢你们，想交朋友♪02年 顺男 ❤️很包容的一位 私聊欢迎 现在发推是分享日常为主 点这里看行乐酱@jishixingle0721 看看🍀@Luv1Dream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "jishixingle0721"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Luv1Dream"
+              }
+            ]
+          }
+        },
+        "id": "1817579325782429696",
+        "location": "冰淇淋机",
+        "name": "🍁香草冰淇淋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911620035103047680/ukUYTGU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 143,
+          "like_count": 2019,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 580
+        },
+        "username": "Salaska24054",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:03:04.000Z",
+        "description": "天气晴朗。\n收件箱https://t.co/IMMmAf16ao",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/someofcocacola",
+                "end": 32,
+                "expanded_url": "https://ngl.link/someofcocacola",
+                "start": 9,
+                "url": "https://t.co/IMMmAf16ao"
+              }
+            ]
+          }
+        },
+        "id": "1620467638991454208",
+        "location": "渤海深处",
+        "name": "香草冰可乐",
+        "pinned_tweet_id": "1912466706964021428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909260646795116545/iIwnovOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 507,
+          "like_count": 51787,
+          "listed_count": 5,
+          "media_count": 826,
+          "tweet_count": 10949
+        },
+        "username": "someofCocaCola",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913164012403208464",
+    "created_at": "2025-04-18T09:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913164012403208464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oktavia_Majo/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Oktavia_Majo/status/1912829518961881504",
+          "start": 15,
+          "url": "https://t.co/enJLXnhKTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913164012403208464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912829518961881504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“安乐死运动”\n“亚硝酸钠” https://t.co/enJLXnhKTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912829516403404800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gou8T4EbcAAaJ_e.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913164012403208464",
+        "created_at": "2025-04-18T09:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913164012403208464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oktavia_Majo/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Oktavia_Majo/status/1912829518961881504",
+              "start": 15,
+              "url": "https://t.co/enJLXnhKTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913164012403208464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912829518961881504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“安乐死运动”\n“亚硝酸钠” https://t.co/enJLXnhKTw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912829516403404800"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "1912829518961881504",
+        "created_at": "2025-04-17T11:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T12:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912829518961881504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jvad2s4pdZ",
+              "end": 41,
+              "expanded_url": "https://x.com/Oktavia_Majo/status/1912829518961881504/photo/1",
+              "media_key": "3_1912829516403404800",
+              "start": 18,
+              "url": "https://t.co/Jvad2s4pdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912829518961881504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1483,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈我想死，但感觉该死的另有其人。 https://t.co/Jvad2s4pdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 294,
+          "like_count": 3692,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "想要个富婆xyn对象——家长不管党丨ADHD/ASD/BD/BPD 🏳️‍⚧️丨18岁老东西丨爱好:数码、音乐、二次元丨TG频道 https://t.co/cpKcBiIHen",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Oooooooo123K",
+                "end": 88,
+                "expanded_url": "https://t.me/Oooooooo123K",
+                "start": 65,
+                "url": "https://t.co/cpKcBiIHen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oktavia_Majo",
+                "end": 23,
+                "expanded_url": "http://t.me/Oktavia_Majo",
+                "start": 0,
+                "url": "https://t.co/1rHQv8IkHY"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Tokyo-to, Japan",
+        "name": "奥克塔维亚Oktavia🍉",
+        "pinned_tweet_id": "1911989558377591193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912868130088767488/GfYXlW00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 443,
+          "like_count": 1382,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/1rHQv8IkHY",
+        "username": "Oktavia_Majo",
+        "verified": true
+      }
+    ]
+  }
+}

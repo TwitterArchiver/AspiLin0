@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2010339559981384012",
+    "created_at": "2026-01-11T13:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010339559981384012"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010339559981384012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然但是今天有很多人说新帽子好看，开心~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2010339559981384012",
+        "created_at": "2026-01-11T13:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010339559981384012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010339559981384012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是今天有很多人说新帽子好看，开心~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 526,
+          "like_count": 14259,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3649
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

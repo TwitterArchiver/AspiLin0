@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949401934760464384"
+      ],
+      "media_source_tweet_id": [
+        "1949401941546598779"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1949435696835654142",
+    "created_at": "2025-07-27T11:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949435696835654142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1147105819772669952",
+          "start": 3,
+          "username": "tuyu_ha28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1eeUx7zgPH",
+          "end": 60,
+          "expanded_url": "https://x.com/tuyu_ha28/status/1949401941546598779/photo/1",
+          "media_key": "3_1949401934760464384",
+          "start": 37,
+          "url": "https://t.co/1eeUx7zgPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949435696835654142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949401941546598779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuyu_ha28: 好きな気持ちに無自覚な照れ屋ねこみみちゃん https://t.co/1eeUx7zgPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1341,
+        "media_key": "3_1949401934760464384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2quzXbUAAHx9d.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949401934760464384"
+          ],
+          "media_source_tweet_id": [
+            "1949401941546598779"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1949435696835654142",
+        "created_at": "2025-07-27T11:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949435696835654142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1147105819772669952",
+              "start": 3,
+              "username": "tuyu_ha28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eeUx7zgPH",
+              "end": 60,
+              "expanded_url": "https://x.com/tuyu_ha28/status/1949401941546598779/photo/1",
+              "media_key": "3_1949401934760464384",
+              "start": 37,
+              "url": "https://t.co/1eeUx7zgPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949435696835654142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949401941546598779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuyu_ha28: 好きな気持ちに無自覚な照れ屋ねこみみちゃん https://t.co/1eeUx7zgPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949401934760464384"
+          ]
+        },
+        "author_id": "1147105819772669952",
+        "conversation_id": "1949401941546598779",
+        "created_at": "2025-07-27T09:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949401941546598779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eeUx7zgPH",
+              "end": 45,
+              "expanded_url": "https://x.com/tuyu_ha28/status/1949401941546598779/photo/1",
+              "media_key": "3_1949401934760464384",
+              "start": 22,
+              "url": "https://t.co/1eeUx7zgPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949401941546598779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 381,
+          "impression_count": 46848,
+          "like_count": 3473,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "好きな気持ちに無自覚な照れ屋ねこみみちゃん https://t.co/1eeUx7zgPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 444,
+          "like_count": 9751,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-05T11:31:54.000Z",
+        "description": "絵を描いてます ◆サブ@tuyuha_sd◆skeb https://t.co/mdlIzeIUpS◆SDskeb https://t.co/SuiEhIGrC2◆FANBOX https://t.co/bWc2Z77fFl◆Fantia https://t.co/mMN03ywyjY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "tuyuha_sd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tuyu_ha28",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@tuyu_ha28",
+                "start": 27,
+                "url": "https://t.co/mdlIzeIUpS"
+              },
+              {
+                "display_url": "skeb.jp/@tuyuha_sd",
+                "end": 81,
+                "expanded_url": "https://skeb.jp/@tuyuha_sd",
+                "start": 58,
+                "url": "https://t.co/SuiEhIGrC2"
+              },
+              {
+                "display_url": "tuyuha.fanbox.cc",
+                "end": 112,
+                "expanded_url": "https://tuyuha.fanbox.cc",
+                "start": 89,
+                "url": "https://t.co/bWc2Z77fFl"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/525454",
+                "end": 143,
+                "expanded_url": "https://fantia.jp/fanclubs/525454",
+                "start": 120,
+                "url": "https://t.co/mMN03ywyjY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/29694453",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/29694453",
+                "start": 0,
+                "url": "https://t.co/HMgObTZqCN"
+              }
+            ]
+          }
+        },
+        "id": "1147105819772669952",
+        "location": "転載・自作発言・無断使用・AI学習禁止です",
+        "name": "ツユハ🐈",
+        "pinned_tweet_id": "1949401941546598779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938616167804891136/JJzvN4Q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86904,
+          "following_count": 883,
+          "like_count": 25585,
+          "listed_count": 681,
+          "media_count": 350,
+          "tweet_count": 24736
+        },
+        "url": "https://t.co/HMgObTZqCN",
+        "username": "tuyu_ha28",
+        "verified": true
+      }
+    ]
+  }
+}

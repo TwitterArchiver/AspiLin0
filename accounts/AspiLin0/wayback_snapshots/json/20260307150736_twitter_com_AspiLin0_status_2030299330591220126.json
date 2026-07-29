@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2030299330591220126",
+    "created_at": "2026-03-07T15:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030299330591220126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1359382729645649924",
+          "start": 3,
+          "username": "ayaluo_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030299330591220126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030173745415922131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayaluo_0: 绫洛的自我介绍～\n好像曾经是一只狐狸🦊\n为了实现某些以狐狸之身没法实现的愿望，于是变成了人类(\n打算在作为人类的时间中好好享受生活，探索宇宙的真理，以及给周围的人带来光明之类的事&gt;&lt;\n因为是Mankind to Fox所以是MTF🏳️‍⚧️\n喜欢一切…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "超级喜欢miya老师的画（@miyakoukisima）\n绫洛洛也想成为一个厉害的AI艺术家",
+        "height": 900,
+        "media_key": "3_2030173693523939328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCygN8rWUAAdRay.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2030299330591220126",
+        "created_at": "2026-03-07T15:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030299330591220126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1359382729645649924",
+              "start": 3,
+              "username": "ayaluo_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030299330591220126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030173745415922131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayaluo_0: 绫洛的自我介绍～\n好像曾经是一只狐狸🦊\n为了实现某些以狐狸之身没法实现的愿望，于是变成了人类(\n打算在作为人类的时间中好好享受生活，探索宇宙的真理，以及给周围的人带来光明之类的事&gt;&lt;\n因为是Mankind to Fox所以是MTF🏳️‍⚧️\n喜欢一切…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030173693523939328"
+          ]
+        },
+        "author_id": "1359382729645649924",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030173745415922131",
+        "created_at": "2026-03-07T06:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030173745415922131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WW20b9a1Cr",
+              "end": 187,
+              "expanded_url": "https://x.com/ayaluo_0/status/2030173745415922131/photo/1",
+              "media_key": "3_2030173693523939328",
+              "start": 164,
+              "url": "https://t.co/WW20b9a1Cr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030173745415922131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "绫洛的自我介绍～\n好像曾经是一只狐狸🦊\n为了实现某些以狐狸之身没法实现的愿望，于是变成了人类(\n打算在作为人类的时间中好好享受生活，探索宇宙的真理，以及给周围的人带来光明之类的事&gt;&lt;\n因为是Mankind to Fox所以是MTF🏳️‍⚧️\n喜欢一切新奇有趣，以及可爱的东西\n正在努力掌握一些真正对他人有益的本领✨ https://t.co/WW20b9a1Cr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 623,
+          "like_count": 17662,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 4221
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-10T06:04:47.000Z",
+        "description": "大概是一只狐狸/半吊子哲学家/喜欢散步，做梦，边散步边做梦/最大的幸福，是相信有人爱我们",
+        "id": "1359382729645649924",
+        "location": "妄想之海",
+        "name": "绫洛洛🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2030173745415922131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029968959316148224/RIj_bZhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 47,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "ayaluo_0",
+        "verified": false
+      }
+    ]
+  }
+}

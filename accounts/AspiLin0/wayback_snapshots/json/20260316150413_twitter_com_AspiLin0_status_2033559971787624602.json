@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033559971787624602",
+    "created_at": "2026-03-16T15:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033559971787624602"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "好久没有"
+        },
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "出现的"
+        },
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "心理治疗"
+        },
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "小感悟"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033559971787624602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 5,
+            "start": 0,
+            "tag": "好久没有"
+          },
+          {
+            "end": 10,
+            "start": 6,
+            "tag": "出现的"
+          },
+          {
+            "end": 16,
+            "start": 11,
+            "tag": "心理治疗"
+          },
+          {
+            "end": 21,
+            "start": 17,
+            "tag": "小感悟"
+          }
+        ]
+      },
+      "text": "#好久没有 #出现的 #心理治疗 #小感悟\n求助者前来往往带着两个问题，“怎么办”与“为什么”。\n既是求助，通常是带着改变的愿望，而又不知如何做起，因而前者的出现是自然的。后者往往起源于这样一种思维，某一种处境的出现必有其原因，而知晓了原因便能解决问题。\n可惜的是，这两个问题在本质上都是无解的。对于“怎么办”，由于个体情况往往具有极强的复杂性，找出一个行之有效的方法往往是困难的。甚至有很多生活中的困境没有解决方案。对于“为什么”，由于归因的无限性与随意性，追问是不存在一个满意的终点的。\n因此，咨询师要做的，是在陪伴患者在解决这两个问题的过程中，让患者的心情逐渐得到平复，从而重获独自面对这两个问题的能力。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#好久没有 #出现的 #心理治疗 #小感悟\n求助者前来往往带着两个问题，“怎么办”与“为什么”。\n既是求助，通常是带着改变的愿望，而又不知如何做起，因而前者的出现是自然的。后者往往起源于这样一种思维，某一种处境的出现必有其原因，而知晓了原因便能解决问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033559971787624602",
+        "created_at": "2026-03-16T15:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033559971787624602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "好久没有"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "出现的"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "心理治疗"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "小感悟"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033559971787624602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "好久没有"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "出现的"
+              },
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "心理治疗"
+              },
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "小感悟"
+              }
+            ]
+          },
+          "text": "#好久没有 #出现的 #心理治疗 #小感悟\n求助者前来往往带着两个问题，“怎么办”与“为什么”。\n既是求助，通常是带着改变的愿望，而又不知如何做起，因而前者的出现是自然的。后者往往起源于这样一种思维，某一种处境的出现必有其原因，而知晓了原因便能解决问题。\n可惜的是，这两个问题在本质上都是无解的。对于“怎么办”，由于个体情况往往具有极强的复杂性，找出一个行之有效的方法往往是困难的。甚至有很多生活中的困境没有解决方案。对于“为什么”，由于归因的无限性与随意性，追问是不存在一个满意的终点的。\n因此，咨询师要做的，是在陪伴患者在解决这两个问题的过程中，让患者的心情逐渐得到平复，从而重获独自面对这两个问题的能力。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#好久没有 #出现的 #心理治疗 #小感悟\n求助者前来往往带着两个问题，“怎么办”与“为什么”。\n既是求助，通常是带着改变的愿望，而又不知如何做起，因而前者的出现是自然的。后者往往起源于这样一种思维，某一种处境的出现必有其原因，而知晓了原因便能解决问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 635,
+          "like_count": 18021,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 4291
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

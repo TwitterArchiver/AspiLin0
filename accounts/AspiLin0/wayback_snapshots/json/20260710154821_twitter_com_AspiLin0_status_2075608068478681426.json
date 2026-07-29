@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2075244997230600548",
+    "created_at": "2026-07-10T15:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075608068478681426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959422320491347968",
+          "start": 0,
+          "username": "Meow5tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075608068478681426",
+    "in_reply_to_user_id": "1959422320491347968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075244997230600548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow5tr 还是发自己的blog上这样\n性别理论的术语和理论都太乱了\n所以谈论跨性别的哲学大概是得不到一个广泛的认同的（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2075244997230600548",
+        "created_at": "2026-07-10T15:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075608068478681426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959422320491347968",
+              "start": 0,
+              "username": "Meow5tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075608068478681426",
+        "in_reply_to_user_id": "1959422320491347968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075244997230600548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow5tr 还是发自己的blog上这样\n性别理论的术语和理论都太乱了\n所以谈论跨性别的哲学大概是得不到一个广泛的认同的（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959422320491347968",
+        "conversation_id": "2075244997230600548",
+        "created_at": "2026-07-09T15:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075244997230600548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dringsim_/stat…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/dringsim_/status/2075220104607146364",
+              "start": 116,
+              "url": "https://t.co/gRfvkAmKXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075244997230600548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075220104607146364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重新添加了关于mtf的哲学，因为我是asd所以使用了ai辅助生成语言，但是原文是我写的。如果任何人有疑问都可以找我验证原文，但请不要删除它。\n因为原文是原创观念，所以让ai辅助写成了关于综述的东西，请不要删除，求你了，我很认真做的 https://t.co/gRfvkAmKXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 770,
+          "like_count": 21817,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 5147
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T01:07:49.000Z",
+        "description": "🍥|司祭|🐱|No Biological Sex|✨：@NyaCookieNeko|Discipline：PhysicalChemi/Quantum phy/Quantum/Neurophysi/M-theory|* What went wrong:Who care.|crush:@kurosabikuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "NyaCookieNeko"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "kurosabikuna"
+              }
+            ]
+          }
+        },
+        "id": "1959422320491347968",
+        "name": "Mon5🍥",
+        "pinned_tweet_id": "2075177574972403940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023347910138900480/MX5ULQRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 30,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "Meow5tr",
+        "verified": false
+      }
+    ]
+  }
+}

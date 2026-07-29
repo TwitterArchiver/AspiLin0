@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936811204544249874",
+    "created_at": "2025-06-23T04:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T05:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936999726639141274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758876738652942336",
+          "start": 0,
+          "username": "B48B20A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936999726639141274",
+    "in_reply_to_user_id": "1758876738652942336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936811204544249874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B48B20A 语气不好\n人好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936811190736551936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDvhCzagAAy_Tb.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936811204544249874",
+        "created_at": "2025-06-23T04:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T05:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936999726639141274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758876738652942336",
+              "start": 0,
+              "username": "B48B20A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936999726639141274",
+        "in_reply_to_user_id": "1758876738652942336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936811204544249874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B48B20A 语气不好\n人好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936811190736551936"
+          ]
+        },
+        "author_id": "1758876738652942336",
+        "conversation_id": "1936811204544249874",
+        "created_at": "2025-06-22T15:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936811204544249874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0qdBkYzxS",
+              "end": 51,
+              "expanded_url": "https://x.com/B48B20A/status/1936811204544249874/photo/1",
+              "media_key": "3_1936811190736551936",
+              "start": 28,
+              "url": "https://t.co/j0qdBkYzxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936811204544249874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真他妈被这段话哈晕了\n不敢想象我妈知道后会是怎样的🤯 https://t.co/j0qdBkYzxS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 433,
+          "like_count": 9008,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T15:31:21.000Z",
+        "description": "🏳️‍⚧️🇨🇳Born2010.06.23 HRT20205.03.02",
+        "id": "1758876738652942336",
+        "location": "首都医科大学附属北京安贞医院",
+        "name": "Felicia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930781238744559616/zXREHuBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 706,
+          "like_count": 32055,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 788
+        },
+        "username": "B48B20A",
+        "verified": false
+      }
+    ]
+  }
+}

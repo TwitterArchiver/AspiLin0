@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037781613275500544"
+      ],
+      "media_source_tweet_id": [
+        "2037781632833478957"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2037824208965906770",
+    "created_at": "2026-03-28T09:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037824208965906770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1390819366560702466",
+          "start": 3,
+          "username": "eezee56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XNkz1DJ1Zm",
+          "end": 36,
+          "expanded_url": "https://x.com/eezee56/status/2037781632833478957/photo/1",
+          "media_key": "3_2037781613275500544",
+          "start": 13,
+          "url": "https://t.co/XNkz1DJ1Zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037824208965906770",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037781632833478957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eezee56: https://t.co/XNkz1DJ1Zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2037781613275500544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEenlKUb0AACgas.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037781613275500544"
+          ],
+          "media_source_tweet_id": [
+            "2037781632833478957"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2037824208965906770",
+        "created_at": "2026-03-28T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037824208965906770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390819366560702466",
+              "start": 3,
+              "username": "eezee56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNkz1DJ1Zm",
+              "end": 36,
+              "expanded_url": "https://x.com/eezee56/status/2037781632833478957/photo/1",
+              "media_key": "3_2037781613275500544",
+              "start": 13,
+              "url": "https://t.co/XNkz1DJ1Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037824208965906770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037781632833478957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eezee56: https://t.co/XNkz1DJ1Zm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037781613275500544"
+          ]
+        },
+        "author_id": "1390819366560702466",
+        "conversation_id": "2037781632833478957",
+        "created_at": "2026-03-28T06:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037781632833478957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNkz1DJ1Zm",
+              "end": 23,
+              "expanded_url": "https://x.com/eezee56/status/2037781632833478957/photo/1",
+              "media_key": "3_2037781613275500544",
+              "start": 0,
+              "url": "https://t.co/XNkz1DJ1Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037781632833478957",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 7136,
+          "like_count": 498,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XNkz1DJ1Zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 666,
+          "like_count": 18731,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 4423
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-08T00:02:49.000Z",
+        "description": "もなど。/連絡先✉yakan.1225@gmail.com/お知らせなど：https://t.co/YLgi6SaMXT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "eezee56.amebaownd.com",
+                "end": 60,
+                "expanded_url": "https://eezee56.amebaownd.com/",
+                "start": 37,
+                "url": "https://t.co/YLgi6SaMXT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@eezee56",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@eezee56",
+                "start": 0,
+                "url": "https://t.co/A5MfHXzvud"
+              }
+            ]
+          }
+        },
+        "id": "1390819366560702466",
+        "location": "skeb☞",
+        "name": "ez【TAMAコミ：オ-20】",
+        "pinned_tweet_id": "2034782740953145613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963044523023769600/K4YzZwVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15267,
+          "following_count": 124,
+          "like_count": 14792,
+          "listed_count": 146,
+          "media_count": 402,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/A5MfHXzvud",
+        "username": "eezee56",
+        "verified": false
+      }
+    ]
+  }
+}

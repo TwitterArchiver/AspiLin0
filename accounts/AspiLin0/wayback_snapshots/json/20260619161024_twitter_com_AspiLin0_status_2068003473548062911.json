@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068003445270089728"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2067941115387658279",
+    "created_at": "2026-06-19T16:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068003473548062911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pVbMMKHBcm",
+          "end": 45,
+          "expanded_url": "https://x.com/AspiLin0/status/2068003473548062911/photo/1",
+          "media_key": "3_2068003445270089728",
+          "start": 22,
+          "url": "https://t.co/pVbMMKHBcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068003473548062911",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067941115387658279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage 阿片家也有企鹅 https://t.co/pVbMMKHBcm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068003445270089728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMGLT2bkAAOHiy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067941100640464896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLNeYAa8AAeAKO.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067941100627865600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLNeX9asAA7GRV.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067941100632080384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLNeX-bAAAYXc_.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2067941100934045696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLNeZGaoAA-HXq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068003445270089728"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2067941115387658279",
+        "created_at": "2026-06-19T16:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068003473548062911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVbMMKHBcm",
+              "end": 45,
+              "expanded_url": "https://x.com/AspiLin0/status/2068003473548062911/photo/1",
+              "media_key": "3_2068003445270089728",
+              "start": 22,
+              "url": "https://t.co/pVbMMKHBcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003473548062911",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067941115387658279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage 阿片家也有企鹅 https://t.co/pVbMMKHBcm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067941100640464896",
+            "3_2067941100627865600",
+            "3_2067941100632080384",
+            "3_2067941100934045696"
+          ]
+        },
+        "author_id": "1089936552694693889",
+        "conversation_id": "2067941115387658279",
+        "created_at": "2026-06-19T12:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067941115387658279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uanLML2eQI",
+              "end": 53,
+              "expanded_url": "https://x.com/KaguraKurage/status/2067941115387658279/photo/1",
+              "media_key": "3_2067941100640464896",
+              "start": 30,
+              "url": "https://t.co/uanLML2eQI"
+            },
+            {
+              "display_url": "pic.x.com/uanLML2eQI",
+              "end": 53,
+              "expanded_url": "https://x.com/KaguraKurage/status/2067941115387658279/photo/1",
+              "media_key": "3_2067941100627865600",
+              "start": 30,
+              "url": "https://t.co/uanLML2eQI"
+            },
+            {
+              "display_url": "pic.x.com/uanLML2eQI",
+              "end": 53,
+              "expanded_url": "https://x.com/KaguraKurage/status/2067941115387658279/photo/1",
+              "media_key": "3_2067941100632080384",
+              "start": 30,
+              "url": "https://t.co/uanLML2eQI"
+            },
+            {
+              "display_url": "pic.x.com/uanLML2eQI",
+              "end": 53,
+              "expanded_url": "https://x.com/KaguraKurage/status/2067941115387658279/photo/1",
+              "media_key": "3_2067941100934045696",
+              "start": 30,
+              "url": "https://t.co/uanLML2eQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067941115387658279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "！?猪猪?！\n！?牛牛?！\n！?企鹅鹅企?！\n！?雁雁?！ https://t.co/uanLML2eQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 770,
+          "like_count": 21354,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 5032
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "家有乖乖小neko🐱: @Neko_65536 | a.k.a.神楽海月🪼 | 00后沪漂trash can主理人＆drudgery操盘手 | 🧀就是力量，法国就是🥓 | 料理＆烘焙爱好者 | 备用@Arti_grok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Neko_65536"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Arti_grok"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽平平蛋蛋🥚🥚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033837934999212032/QVUihXJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 414,
+          "like_count": 39914,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 7652
+        },
+        "url": "",
+        "username": "KaguraKurage",
+        "verified": false
+      }
+    ]
+  }
+}

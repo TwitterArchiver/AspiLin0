@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1907517096990486656",
+    "created_at": "2025-04-03T00:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T01:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907598047913361696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880464735675813888",
+          "start": 0,
+          "username": "ShikuiL23822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907598047913361696",
+    "in_reply_to_user_id": "1880464735675813888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907517096990486656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShikuiL23822 灵魂渴望休憩呢\n到了站点的话，停歇一刻，重新审视自我，也未尝不可"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1907517094264184832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnjcsNaaIAAj1q8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1907517096990486656",
+        "created_at": "2025-04-03T00:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T01:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907598047913361696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880464735675813888",
+              "start": 0,
+              "username": "ShikuiL23822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907598047913361696",
+        "in_reply_to_user_id": "1880464735675813888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907517096990486656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShikuiL23822 灵魂渴望休憩呢\n到了站点的话，停歇一刻，重新审视自我，也未尝不可"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907517094264184832"
+          ]
+        },
+        "author_id": "1880464735675813888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907517096990486656",
+        "created_at": "2025-04-02T19:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T20:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907517096990486656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGcEuQzcv2",
+              "end": 138,
+              "expanded_url": "https://x.com/ShikuiL23822/status/1907517096990486656/photo/1",
+              "media_key": "3_1907517094264184832",
+              "start": 115,
+              "url": "https://t.co/EGcEuQzcv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907517096990486656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想把手上的东西扔出去，大哭一场，但什么也没发生\n慢慢地无力，慢慢地呆滞，心脏仿佛被捏住\n想寻找名为“不知道”的东西，却一直找不到\n以为自己到达了归宿，却发现只是路边的站点\n欺骗、麻木地活着\n为什么我的意识会降临于世上\n好累\n…… https://t.co/EGcEuQzcv2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "每次邂逅都是事先约定，每次死亡都是自尽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1906003520081555510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 265,
+          "like_count": 3006,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:47.000Z",
+        "description": "二次元😈 | 游戏党👾 | 喜欢听金属摇滚 | 卑微社恐畜牲🤡🐮🐎 | 记录日常和感想 | 偶尔发疯 | 强迫 | 焦虑 | 抑郁 | 来我这里，随便聊聊，什么都行～",
+        "id": "1880464735675813888",
+        "location": "天堂",
+        "name": "头疼至此@~@",
+        "pinned_tweet_id": "1900543917843759284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897872965955649537/BByH9jO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 98,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 385
+        },
+        "username": "ShikuiL23822",
+        "verified": false
+      }
+    ]
+  }
+}

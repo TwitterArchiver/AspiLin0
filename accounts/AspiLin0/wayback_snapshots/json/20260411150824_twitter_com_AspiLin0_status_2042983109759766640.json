@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2042959672228057286",
+    "created_at": "2026-04-11T15:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042983109759766640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916005601563590656",
+          "start": 0,
+          "username": "Qiongli_BAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042983109759766640",
+    "in_reply_to_user_id": "1916005601563590656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042959672228057286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiongli_BAKA 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2042959672228057286",
+        "created_at": "2026-04-11T15:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042983109759766640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916005601563590656",
+              "start": 0,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042983109759766640",
+        "in_reply_to_user_id": "1916005601563590656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042959672228057286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiongli_BAKA 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916005601563590656",
+        "conversation_id": "2042959672228057286",
+        "created_at": "2026-04-11T13:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042959672228057286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042959672228057286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很烂很烂我也真的好贱好贱，我就只会伤害别人而已，每个认识我的人都会被我伤害，我就是个傻逼废物臭狗屎，我死了尸体扔地里还能当化肥呢，活着一点用都没有，每个人都比我强，我什么也不行，我考试都没有把答题卡扔地上踩一脚得的分多，我就是个废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 696,
+          "like_count": 19503,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 4600
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "the end\n一切都结束了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3tPgjPG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3tPgjPG",
+                "start": 0,
+                "url": "https://t.co/GTQahueaFa"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "fufu头顶上",
+        "name": "穹璃吖",
+        "pinned_tweet_id": "2040319119116095571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042943736263671808/w4fMmU42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 769,
+          "like_count": 2898,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/GTQahueaFa",
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

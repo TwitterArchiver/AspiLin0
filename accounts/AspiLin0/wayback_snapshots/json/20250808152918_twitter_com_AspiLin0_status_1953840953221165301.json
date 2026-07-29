@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1953829530273296744",
+    "created_at": "2025-08-08T15:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T16:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953840953221165301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1948316478832549888",
+          "start": 0,
+          "username": "Estrellat0724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953840953221165301",
+    "in_reply_to_user_id": "1948316478832549888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953840125626266056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estrellat0724 就是我讲的大概念下的拆分（\n但这个大概念就是自然的区分，它不是人为定义的就算把人类文明重启也会出现这个词，把人类全部洗脑也会出现这个词\n就像看到平原上有一座山，你不能对它熟视无睹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1953829530273296744",
+        "created_at": "2025-08-08T15:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953840953221165301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948316478832549888",
+              "start": 0,
+              "username": "Estrellat0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953840953221165301",
+        "in_reply_to_user_id": "1948316478832549888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953840125626266056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estrellat0724 就是我讲的大概念下的拆分（\n但这个大概念就是自然的区分，它不是人为定义的就算把人类文明重启也会出现这个词，把人类全部洗脑也会出现这个词\n就像看到平原上有一座山，你不能对它熟视无睹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948316478832549888",
+        "conversation_id": "1953829530273296744",
+        "created_at": "2025-08-08T15:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953840125626266056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953840125626266056",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953839448849793503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 这个可以不用性别来分类，性别可以改成任意的名词a，b，c……来指代"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin🦊",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 473,
+          "like_count": 11850,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 2931
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:37:13.000Z",
+        "description": "马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜INTP-A｜非二元性别规范⚧｜一切权力归苏维埃🗳️｜民主计划经济📈｜无产阶级专政⚒️｜平权主义✊｜民族平等🫱🏼‍🫲🏿｜知识公有化🏴‍☠️",
+        "id": "1948316478832549888",
+        "name": "☭辉夜🚩🇵🇸🇺🇦🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949498128794898432/pNLDMW12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 599,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 483
+        },
+        "username": "Estrellat0724",
+        "verified": false
+      }
+    ]
+  }
+}

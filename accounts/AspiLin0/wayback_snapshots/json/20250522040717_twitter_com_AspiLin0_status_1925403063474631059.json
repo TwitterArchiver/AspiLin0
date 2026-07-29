@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1925084237029638209",
+    "created_at": "2025-05-22T04:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T05:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925403063474631059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "Chihaya_Anon_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925403063474631059",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925084237029638209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihaya_Anon_01 怎么感觉第三次见这个问题了\n一般说的抑郁是指unipolar depression，双相是bipoalr disorder，看名字就知道不能共存了\n当然这里也存在一个歧义，双相是有mania和depression状态的，所以说双相和抑郁能共存也可以算对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1925084237029638209",
+        "created_at": "2025-05-22T04:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925403063474631059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "Chihaya_Anon_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925403063474631059",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925084237029638209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihaya_Anon_01 怎么感觉第三次见这个问题了\n一般说的抑郁是指unipolar depression，双相是bipoalr disorder，看名字就知道不能共存了\n当然这里也存在一个歧义，双相是有mania和depression状态的，所以说双相和抑郁能共存也可以算对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822380396497313792",
+        "conversation_id": "1925084237029638209",
+        "created_at": "2025-05-21T07:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T08:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925084237029638209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925084237029638209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1092,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问各位一个问题，双相和抑郁可以同时存在吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 380,
+          "like_count": 6793,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "是爱音喵~😘/正妻 @xiaoyu03141 /第二人格@YuanCCLove_dich/第三人格@Amemiya_Hasumi/「神さま」@Asaak1111 /女朋友@Remained3562 /Ba. @wuruto /Dr. @Keuurys /Vo. @Rencai_Nina /菲基卑@Miwu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "xiaoyu03141"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "YuanCCLove_dich"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Asaak1111"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Remained3562"
+              },
+              {
+                "end": 111,
+                "start": 104,
+                "username": "wuruto"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "Keuurys"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "Rencai_Nina"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Miwu0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Chihaya_Anon_0…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/Chihaya_Anon_01/status/1922676664867111133",
+                "start": 0,
+                "url": "https://t.co/k9lws9UCm4"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "介绍见链接",
+        "name": "迷人の爱音",
+        "pinned_tweet_id": "1922676664867111133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920740114969313280/ImncuTTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 830,
+          "like_count": 11278,
+          "listed_count": 2,
+          "media_count": 825,
+          "tweet_count": 5641
+        },
+        "url": "https://t.co/k9lws9UCm4",
+        "username": "Chihaya_Anon_01",
+        "verified": false
+      }
+    ]
+  }
+}

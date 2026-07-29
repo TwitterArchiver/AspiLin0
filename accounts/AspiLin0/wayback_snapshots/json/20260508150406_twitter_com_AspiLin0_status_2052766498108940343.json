@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052472019288231936"
+      ],
+      "media_source_tweet_id": [
+        "2052472022001934480"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2052766498108940343",
+    "created_at": "2026-05-08T15:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052766498108940343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "979224316351885312",
+          "start": 3,
+          "username": "saberQWERTY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuW4pKl9ok",
+          "end": 66,
+          "expanded_url": "https://x.com/saberQWERTY/status/2052472022001934480/photo/1",
+          "media_key": "3_2052472019288231936",
+          "start": 43,
+          "url": "https://t.co/zuW4pKl9ok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052766498108940343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052472022001934480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saberQWERTY: 不可能让所有人都喜欢你\n只要珍惜理解自己的人就行了 https://t.co/zuW4pKl9ok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2052472019288231936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvYbVUakAAO7T-.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052472019288231936"
+          ],
+          "media_source_tweet_id": [
+            "2052472022001934480"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2052766498108940343",
+        "created_at": "2026-05-08T15:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052766498108940343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "979224316351885312",
+              "start": 3,
+              "username": "saberQWERTY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuW4pKl9ok",
+              "end": 66,
+              "expanded_url": "https://x.com/saberQWERTY/status/2052472022001934480/photo/1",
+              "media_key": "3_2052472019288231936",
+              "start": 43,
+              "url": "https://t.co/zuW4pKl9ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052766498108940343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052472022001934480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saberQWERTY: 不可能让所有人都喜欢你\n只要珍惜理解自己的人就行了 https://t.co/zuW4pKl9ok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052472019288231936"
+          ]
+        },
+        "author_id": "979224316351885312",
+        "conversation_id": "2052472022001934480",
+        "created_at": "2026-05-07T19:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052472022001934480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuW4pKl9ok",
+              "end": 49,
+              "expanded_url": "https://x.com/saberQWERTY/status/2052472022001934480/photo/1",
+              "media_key": "3_2052472019288231936",
+              "start": 26,
+              "url": "https://t.co/zuW4pKl9ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052472022001934480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 440,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "不可能让所有人都喜欢你\n只要珍惜理解自己的人就行了 https://t.co/zuW4pKl9ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 740,
+          "like_count": 20663,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 4868
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-29T05:10:44.000Z",
+        "description": "想做一个善良的人/想做一个温柔的人/想做一个快乐的人/喜欢动漫/巨蟹座/不挑食/μ's/日本のアニメのように/喜欢的歌手：Taylor Swift/花泽香菜/宇多田光/LiSA/初音未来/Aimer/周杰伦/陈奕迅/林俊杰/邓紫棋/王力宏/《龙族》/上衫绘梨衣/喜欢这个世界/叫我吃酱/日常+转图/分享快乐/世界和平/",
+        "id": "979224316351885312",
+        "location": "地球",
+        "name": "养你只为吃掉你🍉",
+        "pinned_tweet_id": "1210886152015626242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866289609036230656/0zNCuluS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 3979,
+          "like_count": 171124,
+          "listed_count": 32,
+          "media_count": 3998,
+          "tweet_count": 24157
+        },
+        "username": "saberQWERTY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065406952436641792"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2065407122410729943",
+    "created_at": "2026-06-12T12:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065407122410729943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvEstOeOvH",
+          "end": 69,
+          "expanded_url": "https://x.com/AspiLin0/status/2065407122410729943/photo/1",
+          "media_key": "3_2065406952436641792",
+          "start": 46,
+          "url": "https://t.co/tvEstOeOvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065407122410729943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抑郁症朋友想要自驾带咱出去玩\n不过咱担心他可能会开车开一般嗜睡或者躯体化什么的\n要不要去呢 https://t.co/tvEstOeOvH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065406952436641792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnMriSbsAA7q5C.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065406952436641792"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2065407122410729943",
+        "created_at": "2026-06-12T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065407122410729943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvEstOeOvH",
+              "end": 69,
+              "expanded_url": "https://x.com/AspiLin0/status/2065407122410729943/photo/1",
+              "media_key": "3_2065406952436641792",
+              "start": 46,
+              "url": "https://t.co/tvEstOeOvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065407122410729943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症朋友想要自驾带咱出去玩\n不过咱担心他可能会开车开一般嗜睡或者躯体化什么的\n要不要去呢 https://t.co/tvEstOeOvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 761,
+          "like_count": 21149,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 4999
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913184125625712771",
+    "created_at": "2025-04-19T09:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913532568194159088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        },
+        {
+          "end": 27,
+          "id": "1859645013686153216",
+          "start": 11,
+          "username": "KoryoSupremeSov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913532568194159088",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913531856886415718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 @KoryoSupremeSov 共产主义👍👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913184125625712771",
+        "created_at": "2025-04-19T09:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913532568194159088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            },
+            {
+              "end": 27,
+              "id": "1859645013686153216",
+              "start": 11,
+              "username": "KoryoSupremeSov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913532568194159088",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913531856886415718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 @KoryoSupremeSov 共产主义👍👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793636329299066880",
+        "conversation_id": "1913184125625712771",
+        "created_at": "2025-04-19T09:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913531856886415718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859645013686153216",
+              "start": 0,
+              "username": "KoryoSupremeSov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913531856886415718",
+        "in_reply_to_user_id": "1859645013686153216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913184125625712771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoryoSupremeSov 吸毒是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 311,
+          "like_count": 3916,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 3709,
+          "like_count": 7677,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 2532
+        },
+        "username": "cuichuna7",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-21T17:08:25.000Z",
+        "description": "朝鮮半島に自由の輝き、勝利は労働者階級のものとなる【世上에 부럼없어라】「反對劣擰的列寧主義者，丘吉爾和史達琳官方指定葉疊」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minzu.rep.kp/home/index/pol…",
+                "end": 23,
+                "expanded_url": "http://www.minzu.rep.kp/home/index/politics/0/ch",
+                "start": 0,
+                "url": "https://t.co/yWQHzW2z7c"
+              }
+            ]
+          }
+        },
+        "id": "1859645013686153216",
+        "location": "IP属地：Soviet Socialist Koryo",
+        "name": "今日苏维埃高丽SSKT👊🇰🇵🇰🇷🔥",
+        "pinned_tweet_id": "1863967219849249117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905432486605160448/oQj6m4g5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 393,
+          "like_count": 3803,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2551
+        },
+        "url": "https://t.co/yWQHzW2z7c",
+        "username": "KoryoSupremeSov",
+        "verified": false
+      }
+    ]
+  }
+}

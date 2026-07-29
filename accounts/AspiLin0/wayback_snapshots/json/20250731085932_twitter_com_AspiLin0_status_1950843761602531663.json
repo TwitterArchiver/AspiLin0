@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950843761602531663",
+    "created_at": "2025-07-31T08:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T09:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950843761602531663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "929286186824220673",
+          "start": 3,
+          "username": "LihaiGeUpasaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950843761602531663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950841275231699130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LihaiGeUpasaka: 假定这个账号只有一个人在使用。\n\n图2的三条推文分别发布于今年的6月7日9:04，6月7日15:25，6月8日15:43，分别为今年高考语文、数学、外语考试期间，说明号主如果正常发表了这些推文，他应当并没有参加今年的高考。… https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1950835181344145408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLCQu9aQAAwMsh.png",
+        "width": 896
+      },
+      {
+        "height": 1125,
+        "media_key": "3_1950836323901988864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLDTPUbYAAZHPx.jpg",
+        "width": 1978
+      },
+      {
+        "height": 178,
+        "media_key": "3_1950838699912294400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLFdipbcAA7BS4.png",
+        "width": 899
+      },
+      {
+        "height": 244,
+        "media_key": "3_1950840134691430400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLGxDnboAAdNyC.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950843761602531663",
+        "created_at": "2025-07-31T08:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950843761602531663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "929286186824220673",
+              "start": 3,
+              "username": "LihaiGeUpasaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950843761602531663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950841275231699130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LihaiGeUpasaka: 假定这个账号只有一个人在使用。\n\n图2的三条推文分别发布于今年的6月7日9:04，6月7日15:25，6月8日15:43，分别为今年高考语文、数学、外语考试期间，说明号主如果正常发表了这些推文，他应当并没有参加今年的高考。… https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950835181344145408",
+            "3_1950836323901988864",
+            "3_1950838699912294400",
+            "3_1950840134691430400"
+          ]
+        },
+        "author_id": "929286186824220673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950841275231699130",
+        "created_at": "2025-07-31T08:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950841275231699130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qw1UEuYN5u",
+              "end": 135,
+              "expanded_url": "https://x.com/LihaiGeUpasaka/status/1950841275231699130/photo/1",
+              "media_key": "3_1950835181344145408",
+              "start": 112,
+              "url": "https://t.co/qw1UEuYN5u"
+            },
+            {
+              "display_url": "pic.x.com/qw1UEuYN5u",
+              "end": 135,
+              "expanded_url": "https://x.com/LihaiGeUpasaka/status/1950841275231699130/photo/1",
+              "media_key": "3_1950836323901988864",
+              "start": 112,
+              "url": "https://t.co/qw1UEuYN5u"
+            },
+            {
+              "display_url": "pic.x.com/qw1UEuYN5u",
+              "end": 135,
+              "expanded_url": "https://x.com/LihaiGeUpasaka/status/1950841275231699130/photo/1",
+              "media_key": "3_1950838699912294400",
+              "start": 112,
+              "url": "https://t.co/qw1UEuYN5u"
+            },
+            {
+              "display_url": "pic.x.com/qw1UEuYN5u",
+              "end": 135,
+              "expanded_url": "https://x.com/LihaiGeUpasaka/status/1950841275231699130/photo/1",
+              "media_key": "3_1950840134691430400",
+              "start": 112,
+              "url": "https://t.co/qw1UEuYN5u"
+            },
+            {
+              "display_url": "x.com/cupric_oxide_/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/cupric_oxide_/status/1950470852790927718",
+              "start": 136,
+              "url": "https://t.co/yz1yILzYtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950841275231699130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "假定这个账号只有一个人在使用。\n\n图2的三条推文分别发布于今年的6月7日9:04，6月7日15:25，6月8日15:43，分别为今年高考语文、数学、外语考试期间，说明号主如果正常发表了这些推文，他应当并没有参加今年的高考。\n\n并且，图3的推文表明，号主7月9日要参加期末考试，说明其高考时间后仍在上学中，很可能并不是应届考生。\n\n另外，号主既然没有参加高考，如果他确实被北大录取了，他可能是保送生吗？根据号主发表的录取通知书可知，这份通知书的主人姓宋。保送生的名单是全网公开的，查询2025年北大预录取的保送生名单，只有两位姓宋，而且都不是地质专业，显然号主并不是保送生。\n\n所以，除非这个账号由多人使用，否则这份录取通知书不可能是号主本人的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950470852790927718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假定这个账号只有一个人在使用。\n\n图2的三条推文分别发布于今年的6月7日9:04，6月7日15:25，6月8日15:43，分别为今年高考语文、数学、外语考试期间，说明号主如果正常发表了这些推文，他应当并没有参加今年的高考。 https://t.co/qw1UEuYN5u https://t.co/yz1yILzYtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 448,
+          "like_count": 10131,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-11T09:54:27.000Z",
+        "description": "知津 || 复发性阿弗他口炎 || 且愛路岐通南北，敢憑蠡測笑江湖。\n||一丸涼月，墮似他心 @Lily_Syrup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Lily_Syrup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LihaiZhaiUpasa…",
+                "end": 23,
+                "expanded_url": "http://t.me/LihaiZhaiUpasaka",
+                "start": 0,
+                "url": "https://t.co/cy3GVnQu9B"
+              }
+            ]
+          }
+        },
+        "id": "929286186824220673",
+        "location": "駕言隨子聽所之",
+        "name": "蠡海",
+        "pinned_tweet_id": "1407219840251695113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896934627249623040/4ERPSAaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 494,
+          "like_count": 80051,
+          "listed_count": 27,
+          "media_count": 2071,
+          "tweet_count": 18709
+        },
+        "url": "https://t.co/cy3GVnQu9B",
+        "username": "LihaiGeUpasaka",
+        "verified": false
+      }
+    ]
+  }
+}

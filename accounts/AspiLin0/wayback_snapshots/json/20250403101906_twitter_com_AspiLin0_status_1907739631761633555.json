@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1907719586050720085",
+    "created_at": "2025-04-03T10:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T11:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907739631761633555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1860560373264580611",
+          "start": 0,
+          "username": "suai1991"
+        },
+        {
+          "end": 17,
+          "id": "1613079089879076864",
+          "start": 10,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907739631761633555",
+    "in_reply_to_user_id": "1860560373264580611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907738538222682529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suai1991 @Cldeop 我们学校之前有人跳楼自杀，学校用大巴车把校门堵住了\n甚至放假延后一天（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1907719586050720085",
+        "created_at": "2025-04-03T10:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907739631761633555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860560373264580611",
+              "start": 0,
+              "username": "suai1991"
+            },
+            {
+              "end": 17,
+              "id": "1613079089879076864",
+              "start": 10,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907739631761633555",
+        "in_reply_to_user_id": "1860560373264580611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907738538222682529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suai1991 @Cldeop 我们学校之前有人跳楼自杀，学校用大巴车把校门堵住了\n甚至放假延后一天（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860560373264580611",
+        "conversation_id": "1907719586050720085",
+        "created_at": "2025-04-03T10:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907738538222682529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907738538222682529",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907719586050720085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 最难绷的是真的只有半天。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "每次邂逅都是事先约定，每次死亡都是自尽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1906003520081555510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 269,
+          "like_count": 3047,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:45:48.000Z",
+        "description": "苦逼高二生，男，不想登校😭，电吉他！梦想是在日本开琴行😋，还要有一把自己的telecaster，最近练习的曲目是やっぱり雨は降るんだね",
+        "id": "1860560373264580611",
+        "name": "所以音乐放弃了我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894725901038108672/37c74YPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 2657,
+          "like_count": 32819,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 1825
+        },
+        "username": "suai1991",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜うんはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59914,
+          "following_count": 563,
+          "like_count": 27555,
+          "listed_count": 206,
+          "media_count": 8604,
+          "tweet_count": 12264
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

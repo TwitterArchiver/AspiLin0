@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2060739033853284729",
+    "created_at": "2026-05-30T15:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060739033853284729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839273704859250689",
+          "start": 3,
+          "username": "gfxvjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060739033853284729",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060588869867999482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @gfxvjt: 나 버리지마.. 내가 잘못했어.. 나 이용해도 좋으니까 나 버리지만 말아줘… 나 너한테 사랑받는거 원하지도않아 그냥 나 사용해줘… 곁에만 있을게 내가 남자친구 아니여도 괜찮아 다른 남자랑 있어도 상관안해… 이대로 우리 관계 끝내…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2060739033853284729",
+        "created_at": "2026-05-30T15:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060739033853284729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839273704859250689",
+              "start": 3,
+              "username": "gfxvjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060739033853284729",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060588869867999482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @gfxvjt: 나 버리지마.. 내가 잘못했어.. 나 이용해도 좋으니까 나 버리지만 말아줘… 나 너한테 사랑받는거 원하지도않아 그냥 나 사용해줘… 곁에만 있을게 내가 남자친구 아니여도 괜찮아 다른 남자랑 있어도 상관안해… 이대로 우리 관계 끝내…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839273704859250689",
+        "conversation_id": "2060588869867999482",
+        "created_at": "2026-05-30T05:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060588869867999482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060588869867999482",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 26724,
+          "like_count": 741,
+          "quote_count": 80,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "나 버리지마.. 내가 잘못했어.. 나 이용해도 좋으니까 나 버리지만 말아줘… 나 너한테 사랑받는거 원하지도않아 그냥 나 사용해줘… 곁에만 있을게 내가 남자친구 아니여도 괜찮아 다른 남자랑 있어도 상관안해… 이대로 우리 관계 끝내지 말아줘.. 난 이제 너 없으면 안될거 같아… 제발 부탁이야…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 751,
+          "like_count": 20939,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 4919
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T12:00:05.000Z",
+        "description": "뭘봐?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4192438055/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4192438055/",
+                "start": 0,
+                "url": "https://t.co/NOs5VHrmC8"
+              }
+            ]
+          }
+        },
+        "id": "1839273704859250689",
+        "location": "MS",
+        "name": "📷",
+        "pinned_tweet_id": "1961665532022964318",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5888,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/NOs5VHrmC8",
+        "username": "gfxvjt",
+        "verified": false
+      }
+    ]
+  }
+}

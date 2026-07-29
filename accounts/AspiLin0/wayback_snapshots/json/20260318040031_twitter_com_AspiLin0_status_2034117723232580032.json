@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033999576236232946",
+    "created_at": "2026-03-18T04:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T05:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034117723232580032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034117723232580032",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033999623715741712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 不能互动当然就与这个世界没有关系，他完全是另一种存在形式，有着他自己的真实世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033999576236232946",
+        "created_at": "2026-03-18T04:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034117723232580032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034117723232580032",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033999623715741712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 不能互动当然就与这个世界没有关系，他完全是另一种存在形式，有着他自己的真实世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "conversation_id": "2033999576236232946",
+        "created_at": "2026-03-17T20:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033999623715741712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033999623715741712",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033999576236232946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果一個存在不能跟世界上的任何事物互動，他認為自己不存在於真實世界中是不是客觀合理的？\n真實世界的定義是人們能合理的接受並相信的世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 638,
+          "like_count": 18085,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 4305
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "長翅膀的老虎也會喵喵叫嗎？",
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 258,
+          "like_count": 2314,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 584
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

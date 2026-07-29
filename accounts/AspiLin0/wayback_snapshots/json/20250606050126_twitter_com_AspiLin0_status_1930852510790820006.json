@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1930831195962802560",
+    "created_at": "2025-06-06T05:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T06:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930852510790820006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707081013455912960",
+          "start": 0,
+          "username": "Hanxue0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930852510790820006",
+    "in_reply_to_user_id": "1707081013455912960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930831195962802560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanxue0509 学是有的上的\n但是国内目前似乎没有术前当学校教师的案例\n可能只能做补习班之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1930831195962802560",
+        "created_at": "2025-06-06T05:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T06:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930852510790820006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707081013455912960",
+              "start": 0,
+              "username": "Hanxue0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930852510790820006",
+        "in_reply_to_user_id": "1707081013455912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930831195962802560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanxue0509 学是有的上的\n但是国内目前似乎没有术前当学校教师的案例\n可能只能做补习班之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707081013455912960",
+        "conversation_id": "1930831195962802560",
+        "created_at": "2025-06-06T03:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930831195962802560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930831195962802560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "临近高考，晗雪想弱弱地问一句：\n作为mtf，报了国家公费师范生会怎样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 407,
+          "like_count": 7558,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:13:39.000Z",
+        "description": "🍥/游走于霓虹灯下的，梦想成为猫女仆的高三流浪猫/无论如何，很荣幸认识你",
+        "id": "1707081013455912960",
+        "location": "晗雪窝",
+        "name": "⌬🐱晗雪🍥",
+        "pinned_tweet_id": "1919767883540005144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 497,
+          "like_count": 21096,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1431
+        },
+        "username": "Hanxue0509",
+        "verified": false
+      }
+    ]
+  }
+}

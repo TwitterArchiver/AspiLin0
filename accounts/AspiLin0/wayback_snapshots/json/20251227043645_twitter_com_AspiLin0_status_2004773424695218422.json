@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004773424695218422",
+    "created_at": "2025-12-27T04:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T05:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004773424695218422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945157928010604544",
+          "start": 3,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004773424695218422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004513763526148432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiTvTing: 我手腕这里一直有东西一跳一跳的 应该是有虫 看我拿刀给它挑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004773424695218422",
+        "created_at": "2025-12-27T04:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004773424695218422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945157928010604544",
+              "start": 3,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004773424695218422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004513763526148432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiTvTing: 我手腕这里一直有东西一跳一跳的 应该是有虫 看我拿刀给它挑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2004513763526148432",
+        "created_at": "2025-12-26T11:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004513763526148432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004513763526148432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 30155,
+          "like_count": 348,
+          "quote_count": 2,
+          "reply_count": 105,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我手腕这里一直有东西一跳一跳的 应该是有虫 看我拿刀给它挑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 524,
+          "like_count": 13914,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3575
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们来找我互fo",
+        "id": "1945157928010604544",
+        "location": "🚪52",
+        "name": "操",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003555514010206211/Tk4wl8kH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 108,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 208
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

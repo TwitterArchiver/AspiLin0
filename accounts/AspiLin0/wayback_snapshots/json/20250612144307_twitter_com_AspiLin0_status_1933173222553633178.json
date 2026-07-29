@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1933163848607170773",
+    "created_at": "2025-06-12T14:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933173222553633178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924965014831824896",
+          "start": 0,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933173222553633178",
+    "in_reply_to_user_id": "1924965014831824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933163848607170773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuwen_Tang1019 “就好像在开天辟地以前”好像不适合表示“灵智未开”或类似的意思喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1933163848607170773",
+        "created_at": "2025-06-12T14:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933173222553633178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933173222553633178",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933163848607170773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 “就好像在开天辟地以前”好像不适合表示“灵智未开”或类似的意思喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924965014831824896",
+        "conversation_id": "1933163848607170773",
+        "created_at": "2025-06-12T14:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933163848607170773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933163848607170773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文雅版: 在空虚混沌，渊面黑暗的人啊 我祝你们的灵 便是神使 运行在水面\n神和神的使从啊，死亡，能免去痛苦 \n免去应有的所偿\n\n人话:你们这些灵智未开的，就好像在开天辟地以前的MTF畜生啊！你们包不能死得其所的\n\n上帝和上帝的狗腿子已经来了， Big brother are watching you一个跑不了！ 等着死惨吧!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 428,
+          "like_count": 8607,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "Mt毁灭战士\n我是不药娘网的唐毓文,反跨性别,顺男（生理心理表现男）有女友（不是下面那个，那个是宠物）\n小狗(宠物而已):@BAshirasu_1226",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BAshirasu_1226"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "Melbourne, Victoria",
+        "name": "不药娘网🍥🏳️‍⚧️-唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 165,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

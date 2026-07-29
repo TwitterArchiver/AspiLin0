@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931573135612215793",
+    "created_at": "2025-06-08T04:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T05:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931574961098891440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1225358261467197440",
+          "start": 0,
+          "username": "chanxiulumanzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931574961098891440",
+    "in_reply_to_user_id": "1225358261467197440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931573135612215793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanxiulumanzhi 考最后一门时没喊uno被加试卷了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931573135612215793",
+        "created_at": "2025-06-08T04:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931574961098891440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225358261467197440",
+              "start": 0,
+              "username": "chanxiulumanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931574961098891440",
+        "in_reply_to_user_id": "1225358261467197440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931573135612215793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanxiulumanzhi 考最后一门时没喊uno被加试卷了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225358261467197440",
+        "conversation_id": "1931573135612215793",
+        "created_at": "2025-06-08T04:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931573135612215793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931573135612215793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考作弊被监考老师抓了，还好裤兜里藏了一张uno逆转牌，现在站考场里监考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 415,
+          "like_count": 7961,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "圈名泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我) \n\n“谁にも爱されず闇の中朽ちるだけ それは楽园?”",
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "爱，死亡与猫猫娘",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927756291612766208/gL5z2gOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 229,
+          "like_count": 1594,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2168
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

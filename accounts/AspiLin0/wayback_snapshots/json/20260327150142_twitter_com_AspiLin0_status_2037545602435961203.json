@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2037545602435961203",
+    "created_at": "2026-03-27T15:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037545602435961203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1689672109612818432",
+          "start": 3,
+          "username": "KinaCatGirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037545602435961203",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2002
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037391834775965841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KinaCatGirl: In English, nothing ends with the letter g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2037545602435961203",
+        "created_at": "2026-03-27T15:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037545602435961203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1689672109612818432",
+              "start": 3,
+              "username": "KinaCatGirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037545602435961203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2002
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037391834775965841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KinaCatGirl: In English, nothing ends with the letter g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689672109612818432",
+        "conversation_id": "2037391834775965841",
+        "created_at": "2026-03-27T04:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037391834775965841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037391834775965841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1336,
+          "impression_count": 1870420,
+          "like_count": 30363,
+          "quote_count": 755,
+          "reply_count": 1756,
+          "retweet_count": 2002
+        },
+        "reply_settings": "everyone",
+        "text": "In English, nothing ends with the letter g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 665,
+          "like_count": 18674,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 4413
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T16:16:45.000Z",
+        "description": "Magical Cat Girl Vtuber 🐈‍⬛🪄 | EN/中文 | REBUILDING | Trans Teenager Who Uses the internet too much | 🍬 Started HRT: Sep/26/2025",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/KinaVT",
+                "end": 23,
+                "expanded_url": "https://www.ko-fi.com/KinaVT",
+                "start": 0,
+                "url": "https://t.co/aohP2pCAfO"
+              }
+            ]
+          }
+        },
+        "id": "1689672109612818432",
+        "location": "She/Her 🏳️‍⚧️",
+        "name": "Kina🐈‍⬛🪄",
+        "pinned_tweet_id": "2037043716352074155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037440588916862976/qGgTFSYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8924,
+          "following_count": 2194,
+          "like_count": 30312,
+          "listed_count": 13,
+          "media_count": 1669,
+          "tweet_count": 14402
+        },
+        "url": "https://t.co/aohP2pCAfO",
+        "username": "KinaCatGirl",
+        "verified": false
+      }
+    ]
+  }
+}

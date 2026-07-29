@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1966186104304054290",
+    "created_at": "2025-09-21T13:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969753985059053851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916081963045408768",
+          "start": 0,
+          "username": "Mariage7Sorcier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969753985059053851",
+    "in_reply_to_user_id": "1916081963045408768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966186104304054290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mariage7Sorcier 我确实是在学业上有很大挫折后走向康德的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1966186104304054290",
+        "created_at": "2025-09-21T13:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969753985059053851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916081963045408768",
+              "start": 0,
+              "username": "Mariage7Sorcier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969753985059053851",
+        "in_reply_to_user_id": "1916081963045408768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966186104304054290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mariage7Sorcier 我确实是在学业上有很大挫折后走向康德的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916081963045408768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1966186104304054290",
+        "created_at": "2025-09-11T17:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T18:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966186104304054290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966186104304054290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1232,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "”其实中式教育很成功的，让每个学生都在像哲学家一样思考活着的意义”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 498,
+          "like_count": 13031,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 3286
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:48:52.000Z",
+        "description": "小号\n②：@xinglinai8964/总觉得简介空荡荡的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "xinglinai8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@mariage7sorci…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@mariage7sorcier",
+                "start": 0,
+                "url": "https://t.co/OciWQPw07U"
+              }
+            ]
+          }
+        },
+        "id": "1916081963045408768",
+        "name": "右代宫·真里亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942900929293934592/qUjBIU3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 364,
+          "like_count": 17891,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/OciWQPw07U",
+        "username": "Mariage7Sorcier",
+        "verified": false
+      }
+    ]
+  }
+}

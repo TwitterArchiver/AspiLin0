@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2038638324940997040",
+    "created_at": "2026-03-30T15:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038638324940997040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038638324940997040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚犯病的时候想到\n如果把自己自杀的整个准备流程和死亡过程用视频记录下来，会是一件很有意义也很有趣的事\n（当然只是想象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2038638324940997040",
+        "created_at": "2026-03-30T15:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038638324940997040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038638324940997040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚犯病的时候想到\n如果把自己自杀的整个准备流程和死亡过程用视频记录下来，会是一件很有意义也很有趣的事\n（当然只是想象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 667,
+          "like_count": 18818,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 4442
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

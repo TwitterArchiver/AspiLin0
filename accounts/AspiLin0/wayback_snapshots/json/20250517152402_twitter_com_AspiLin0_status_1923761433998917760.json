@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1923035135470969098",
+    "created_at": "2025-05-17T15:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923761433998917760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785683748006264833",
+          "start": 0,
+          "username": "ChenXu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923761433998917760",
+    "in_reply_to_user_id": "1785683748006264833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923760298286252038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenXu233 其实那本全名是《认知神经科学--关于心智的生物学》\n话说业余爱好者会阅读这种专业性比较强的书吗（？\n（还有费曼是好文明）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923760283828330496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrKRyR6XoAAZYHL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1923035135470969098",
+        "created_at": "2025-05-17T15:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923761433998917760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785683748006264833",
+              "start": 0,
+              "username": "ChenXu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923761433998917760",
+        "in_reply_to_user_id": "1785683748006264833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923760298286252038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenXu233 其实那本全名是《认知神经科学--关于心智的生物学》\n话说业余爱好者会阅读这种专业性比较强的书吗（？\n（还有费曼是好文明）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923760283828330496"
+          ]
+        },
+        "author_id": "1785683748006264833",
+        "conversation_id": "1923035135470969098",
+        "created_at": "2025-05-17T15:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923760298286252038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNXiXfk7Cc",
+              "end": 55,
+              "expanded_url": "https://x.com/ChenXu233/status/1923760298286252038/photo/1",
+              "media_key": "3_1923760283828330496",
+              "start": 32,
+              "url": "https://t.co/QNXiXfk7Cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923760298286252038",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923035135470969098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我读过认知神经科学诶!我现在书架上就摆着! https://t.co/QNXiXfk7Cc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1923743451843264528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923619606213623809/_Y2aCUCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 376,
+          "like_count": 6573,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:52:46.000Z",
+        "description": "主人是@snowykami1145的小猫。是一只mtx类似物，加上猫耳有170，52kg大卡车，不再盲目希望世界变得更美好，不愿只留下失望，不希望我认识的大家出事，不想被悲伤吞没。\n技术栈:Python+jinja2+Dart(flutter)+Cpp+Typescript(vue)(只会一点点)，可以一起交流代码问题",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "snowykami1145"
+              }
+            ]
+          }
+        },
+        "id": "1785683748006264833",
+        "location": "Everywhere",
+        "name": "沐浴晨煦",
+        "pinned_tweet_id": "1923053132751175963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 208,
+          "like_count": 7323,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1041
+        },
+        "username": "ChenXu233",
+        "verified": false
+      }
+    ]
+  }
+}

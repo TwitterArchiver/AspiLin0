@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1958549675620835448",
+    "created_at": "2025-08-22T11:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T12:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958858204433326543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648402059526569988",
+          "start": 0,
+          "username": "Avxxxxyyyyyy"
+        },
+        {
+          "end": 26,
+          "id": "1931114312296538112",
+          "start": 14,
+          "username": "Ayumi_0222_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958858204433326543",
+    "in_reply_to_user_id": "1648402059526569988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958855701201396133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avxxxxyyyyyy @Ayumi_0222_ 对事物的感知受经验影响（参见斑点狗图）\n因此误差是很难接受的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1958549675620835448",
+        "created_at": "2025-08-22T11:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958858204433326543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648402059526569988",
+              "start": 0,
+              "username": "Avxxxxyyyyyy"
+            },
+            {
+              "end": 26,
+              "id": "1931114312296538112",
+              "start": 14,
+              "username": "Ayumi_0222_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958858204433326543",
+        "in_reply_to_user_id": "1648402059526569988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958855701201396133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avxxxxyyyyyy @Ayumi_0222_ 对事物的感知受经验影响（参见斑点狗图）\n因此误差是很难接受的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "1958549675620835448",
+        "created_at": "2025-08-22T11:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958855701201396133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931114312296538112",
+              "start": 0,
+              "username": "Ayumi_0222_"
+            },
+            {
+              "end": 22,
+              "id": "1360161759257104384",
+              "start": 13,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958855701201396133",
+        "in_reply_to_user_id": "1931114312296538112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958844960330981539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayumi_0222_ @AspiLin0 身为人类的模式下，可能我们的对事物的某方面感知（相同刺激导致的神经信号）的误差在可接受范围内，但不同的经历（神经信号）不在保证范围内。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 483,
+          "like_count": 12332,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 3051
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "♂/拼凑人格中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/avxy95252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/avxy95252",
+                "start": 0,
+                "url": "https://t.co/UhVsTs8QYv"
+              }
+            ]
+          }
+        },
+        "id": "1648402059526569988",
+        "location": "墓地招租",
+        "name": "Avxy",
+        "pinned_tweet_id": "1917620493651435575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958040773641048064/rQ3cvnux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 262,
+          "like_count": 4111,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/UhVsTs8QYv",
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n以及我爹现在是@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "众神的阿优咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933088477681496064/Z0lVQx35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 209,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 286
+        },
+        "username": "Ayumi_0222_",
+        "verified": false
+      }
+    ]
+  }
+}

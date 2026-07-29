@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023008113645977883",
+    "created_at": "2026-02-15T12:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023010146138693849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023010146138693849",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023008113645977883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 连不了网路是不是全剧终了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023008113645977883",
+        "created_at": "2026-02-15T12:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023010146138693849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023010146138693849",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023008113645977883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 连不了网路是不是全剧终了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2023008113645977883",
+        "created_at": "2026-02-15T12:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023008113645977883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023008113645977883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什麼時候會有「帶著GPT」闖蕩異世界可以看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 583,
+          "like_count": 16074,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 3954
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了。\n謝謝你找到我看到我、また見つけてくれてありがとう。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 230,
+          "like_count": 1532,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 441
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

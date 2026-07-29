@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923352171913117696",
+        "3_1923352171913084928"
+      ],
+      "media_source_tweet_id": [
+        "1923352180666368172",
+        "1923352180666368172"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1923361114881974394",
+    "created_at": "2025-05-16T12:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T13:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923361114881974394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478042617958912005",
+          "start": 3,
+          "username": "knowledgefxg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0s7g8truQ",
+          "end": 57,
+          "expanded_url": "https://x.com/knowledgefxg/status/1923352180666368172/photo/1",
+          "media_key": "3_1923352171913117696",
+          "start": 34,
+          "url": "https://t.co/A0s7g8truQ"
+        },
+        {
+          "display_url": "pic.x.com/A0s7g8truQ",
+          "end": 57,
+          "expanded_url": "https://x.com/knowledgefxg/status/1923352180666368172/photo/1",
+          "media_key": "3_1923352171913084928",
+          "start": 34,
+          "url": "https://t.co/A0s7g8truQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923361114881974394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923352180666368172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knowledgefxg: 我的朋友很少但我的推友很多啊🥰 https://t.co/A0s7g8truQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 199,
+        "media_key": "3_1923352171913117696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEenCjbgAA9HA_.jpg",
+        "width": 280
+      },
+      {
+        "height": 177,
+        "media_key": "3_1923352171913084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEenCjbAAAmdEz.jpg",
+        "width": 238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923352171913117696",
+            "3_1923352171913084928"
+          ],
+          "media_source_tweet_id": [
+            "1923352180666368172",
+            "1923352180666368172"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1923361114881974394",
+        "created_at": "2025-05-16T12:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T13:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923361114881974394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1478042617958912005",
+              "start": 3,
+              "username": "knowledgefxg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0s7g8truQ",
+              "end": 57,
+              "expanded_url": "https://x.com/knowledgefxg/status/1923352180666368172/photo/1",
+              "media_key": "3_1923352171913117696",
+              "start": 34,
+              "url": "https://t.co/A0s7g8truQ"
+            },
+            {
+              "display_url": "pic.x.com/A0s7g8truQ",
+              "end": 57,
+              "expanded_url": "https://x.com/knowledgefxg/status/1923352180666368172/photo/1",
+              "media_key": "3_1923352171913084928",
+              "start": 34,
+              "url": "https://t.co/A0s7g8truQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923361114881974394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923352180666368172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knowledgefxg: 我的朋友很少但我的推友很多啊🥰 https://t.co/A0s7g8truQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923352171913117696",
+            "3_1923352171913084928"
+          ]
+        },
+        "author_id": "1478042617958912005",
+        "conversation_id": "1923352180666368172",
+        "created_at": "2025-05-16T12:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T13:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923352180666368172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0s7g8truQ",
+              "end": 39,
+              "expanded_url": "https://x.com/knowledgefxg/status/1923352180666368172/photo/1",
+              "media_key": "3_1923352171913117696",
+              "start": 16,
+              "url": "https://t.co/A0s7g8truQ"
+            },
+            {
+              "display_url": "pic.x.com/A0s7g8truQ",
+              "end": 39,
+              "expanded_url": "https://x.com/knowledgefxg/status/1923352180666368172/photo/1",
+              "media_key": "3_1923352171913084928",
+              "start": 16,
+              "url": "https://t.co/A0s7g8truQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923352180666368172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9481,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的朋友很少但我的推友很多啊🥰 https://t.co/A0s7g8truQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 371,
+          "like_count": 6305,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 合作请DM私信，本人一直在用的vps推荐：https://t.co/84rULlj6Hv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bandwagonhost.com/aff.php?aff=77…",
+                "end": 98,
+                "expanded_url": "https://bandwagonhost.com/aff.php?aff=77675",
+                "start": 75,
+                "url": "https://t.co/84rULlj6Hv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.knowledgefxg.com",
+                "end": 23,
+                "expanded_url": "https://en.knowledgefxg.com/",
+                "start": 0,
+                "url": "https://t.co/UqzCEN6qAY"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1915774820052017566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180453,
+          "following_count": 1449,
+          "like_count": 32023,
+          "listed_count": 1079,
+          "media_count": 2442,
+          "tweet_count": 7203
+        },
+        "url": "https://t.co/UqzCEN6qAY",
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

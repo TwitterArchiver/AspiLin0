@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1942095608392597570",
+    "created_at": "2025-07-07T05:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T06:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942097208188514670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4229371640",
+          "start": 0,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942097208188514670",
+    "in_reply_to_user_id": "4229371640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942095608392597570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringochichidim 可爱\n这是什么（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1942095605502779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvO1qd3XIAAiyLw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1942095608392597570",
+        "created_at": "2025-07-07T05:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942097208188514670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942097208188514670",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942095608392597570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim 可爱\n这是什么（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942095605502779392"
+          ]
+        },
+        "author_id": "4229371640",
+        "conversation_id": "1942095608392597570",
+        "created_at": "2025-07-07T05:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942095608392597570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04bH5Iu1qW",
+              "end": 23,
+              "expanded_url": "https://x.com/ringochichidim/status/1942095608392597570/photo/1",
+              "media_key": "3_1942095605502779392",
+              "start": 0,
+              "url": "https://t.co/04bH5Iu1qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942095608392597570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/04bH5Iu1qW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 447,
+          "like_count": 9446,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\nこいびと：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1457,
+          "like_count": 35283,
+          "listed_count": 6,
+          "media_count": 3031,
+          "tweet_count": 9686
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

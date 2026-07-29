@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974000063312769025",
+        "3_1974000063103004672"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1974000065938419804",
+    "created_at": "2025-10-03T06:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T07:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974000065938419804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JkfUPc4DRW",
+          "end": 23,
+          "expanded_url": "https://x.com/AspiLin0/status/1974000065938419804/photo/1",
+          "media_key": "3_1974000063312769025",
+          "start": 0,
+          "url": "https://t.co/JkfUPc4DRW"
+        },
+        {
+          "display_url": "pic.x.com/JkfUPc4DRW",
+          "end": 23,
+          "expanded_url": "https://x.com/AspiLin0/status/1974000065938419804/photo/1",
+          "media_key": "3_1974000063103004672",
+          "start": 0,
+          "url": "https://t.co/JkfUPc4DRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974000065938419804",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JkfUPc4DRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1974000063312769025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UOmVBbMAETWKp.jpg",
+        "width": 778
+      },
+      {
+        "height": 900,
+        "media_key": "3_1974000063103004672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UOmUPacAATO2M.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974000063312769025",
+            "3_1974000063103004672"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1974000065938419804",
+        "created_at": "2025-10-03T06:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974000065938419804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkfUPc4DRW",
+              "end": 23,
+              "expanded_url": "https://x.com/AspiLin0/status/1974000065938419804/photo/1",
+              "media_key": "3_1974000063312769025",
+              "start": 0,
+              "url": "https://t.co/JkfUPc4DRW"
+            },
+            {
+              "display_url": "pic.x.com/JkfUPc4DRW",
+              "end": 23,
+              "expanded_url": "https://x.com/AspiLin0/status/1974000065938419804/photo/1",
+              "media_key": "3_1974000063103004672",
+              "start": 0,
+              "url": "https://t.co/JkfUPc4DRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974000065938419804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JkfUPc4DRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 508,
+          "like_count": 13239,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 3365
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

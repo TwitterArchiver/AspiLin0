@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937117332645847261",
+    "created_at": "2025-06-24T03:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T04:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937355752542470248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671765957134663680",
+          "start": 0,
+          "username": "Maid_Sarafina"
+        },
+        {
+          "end": 22,
+          "id": "1467175651954200577",
+          "start": 15,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937355752542470248",
+    "in_reply_to_user_id": "1671765957134663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937348000038469765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maid_Sarafina @kjkluk 朗道看了力学看了点场论（不过是当小说看的\n前面那个平常没有计算机使用权，不结合实际是不是比较难懂?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_1937347992224505856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLXvALboAAnH-S.jpg",
+        "width": 700
+      },
+      {
+        "height": 566,
+        "media_key": "3_1937347992182468608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLXvABaMAAKHu7.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937117332645847261",
+        "created_at": "2025-06-24T03:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937355752542470248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671765957134663680",
+              "start": 0,
+              "username": "Maid_Sarafina"
+            },
+            {
+              "end": 22,
+              "id": "1467175651954200577",
+              "start": 15,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937355752542470248",
+        "in_reply_to_user_id": "1671765957134663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937348000038469765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maid_Sarafina @kjkluk 朗道看了力学看了点场论（不过是当小说看的\n前面那个平常没有计算机使用权，不结合实际是不是比较难懂?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937347992224505856",
+            "3_1937347992182468608"
+          ]
+        },
+        "author_id": "1671765957134663680",
+        "conversation_id": "1937117332645847261",
+        "created_at": "2025-06-24T03:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937348000038469765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            },
+            {
+              "end": 17,
+              "id": "1360161759257104384",
+              "start": 8,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSmADAfD40",
+              "end": 41,
+              "expanded_url": "https://x.com/Maid_Sarafina/status/1937348000038469765/photo/1",
+              "media_key": "3_1937347992224505856",
+              "start": 18,
+              "url": "https://t.co/FSmADAfD40"
+            },
+            {
+              "display_url": "pic.x.com/FSmADAfD40",
+              "end": 41,
+              "expanded_url": "https://x.com/Maid_Sarafina/status/1937348000038469765/photo/1",
+              "media_key": "3_1937347992182468608",
+              "start": 18,
+              "url": "https://t.co/FSmADAfD40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937348000038469765",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937128415599247456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk @AspiLin0 https://t.co/FSmADAfD40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 435,
+          "like_count": 9049,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T06:24:12.000Z",
+        "description": "中文(简体/正體/粤语)/EN/日本語 | \n企图画插画的现任码农 | ←TypeScript、Java、NodeJS、Dart及Swift\n前UI、平面设计|\nLGBT友好 |\n英式女仆制服控",
+        "id": "1671765957134663680",
+        "name": "美夜🐇𝓢𝓪𝓻𝓪𝓯𝓲𝓷𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895903470927876096/atyqFN4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 190,
+          "like_count": 6987,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3712
+        },
+        "username": "Maid_Sarafina",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3U8dO"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1932904144186360228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 3022,
+          "like_count": 276089,
+          "listed_count": 15,
+          "media_count": 882,
+          "tweet_count": 12612
+        },
+        "url": "https://t.co/i3MKU3U8dO",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

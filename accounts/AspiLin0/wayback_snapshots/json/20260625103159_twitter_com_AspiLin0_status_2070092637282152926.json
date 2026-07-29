@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070091526458535936"
+      ],
+      "media_source_tweet_id": [
+        "2070091635128774943"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2070092637282152926",
+    "created_at": "2026-06-25T10:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070092637282152926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753419726582345728",
+          "start": 3,
+          "username": "GravitySwiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MP4K0tkSLC",
+          "end": 51,
+          "expanded_url": "https://x.com/GravitySwiss/status/2070091635128774943/photo/1",
+          "media_key": "3_2070091526458535936",
+          "start": 28,
+          "url": "https://t.co/MP4K0tkSLC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070092637282152926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070091635128774943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GravitySwiss: 这几天的简中推特： https://t.co/MP4K0tkSLC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2070091526458535936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpxRocbcAABGfy.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070091526458535936"
+          ],
+          "media_source_tweet_id": [
+            "2070091635128774943"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2070092637282152926",
+        "created_at": "2026-06-25T10:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070092637282152926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753419726582345728",
+              "start": 3,
+              "username": "GravitySwiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MP4K0tkSLC",
+              "end": 51,
+              "expanded_url": "https://x.com/GravitySwiss/status/2070091635128774943/photo/1",
+              "media_key": "3_2070091526458535936",
+              "start": 28,
+              "url": "https://t.co/MP4K0tkSLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070092637282152926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070091635128774943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GravitySwiss: 这几天的简中推特： https://t.co/MP4K0tkSLC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070091526458535936"
+          ]
+        },
+        "author_id": "1753419726582345728",
+        "conversation_id": "2070091635128774943",
+        "created_at": "2026-06-25T10:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070091635128774943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MP4K0tkSLC",
+              "end": 33,
+              "expanded_url": "https://x.com/GravitySwiss/status/2070091635128774943/photo/1",
+              "media_key": "3_2070091526458535936",
+              "start": 10,
+              "url": "https://t.co/MP4K0tkSLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070091635128774943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这几天的简中推特： https://t.co/MP4K0tkSLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 767,
+          "like_count": 21516,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 5078
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "Plus ultra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1940446075699282266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 3199,
+          "like_count": 144079,
+          "listed_count": 15,
+          "media_count": 2008,
+          "tweet_count": 42229
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

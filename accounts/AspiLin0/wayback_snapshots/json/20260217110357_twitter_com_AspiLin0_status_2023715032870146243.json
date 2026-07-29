@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023715032870146243",
+    "created_at": "2026-02-17T11:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T12:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023715032870146243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798691696001355776",
+          "start": 3,
+          "username": "ZaoTon618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023715032870146243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023710426064920728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaoTon618: 药品知识科普~抗雄篇~色（上）\n色普龙为Cyproterone的音译，其中文名称为醋酸环丙孕酮，一般用于治疗前列腺癌，由其名字可得该药是具有强效孕激素作用的，大量研究发现该药物在与雌二醇共用时10mg/d的剂量已可最大程度抑制睾酮，吃多了没大用处反…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2023710423162499072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWp6GTbMAAie_0.jpg",
+        "width": 1000
+      },
+      {
+        "height": 500,
+        "media_key": "3_2023710423363788801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWp6HDaoAErr_t.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023715032870146243",
+        "created_at": "2026-02-17T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023715032870146243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798691696001355776",
+              "start": 3,
+              "username": "ZaoTon618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023715032870146243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023710426064920728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaoTon618: 药品知识科普~抗雄篇~色（上）\n色普龙为Cyproterone的音译，其中文名称为醋酸环丙孕酮，一般用于治疗前列腺癌，由其名字可得该药是具有强效孕激素作用的，大量研究发现该药物在与雌二醇共用时10mg/d的剂量已可最大程度抑制睾酮，吃多了没大用处反…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023710423162499072",
+            "3_2023710423363788801"
+          ]
+        },
+        "author_id": "1798691696001355776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2023710426064920728",
+        "created_at": "2026-02-17T10:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023710426064920728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cblfSx6Cs",
+              "end": 176,
+              "expanded_url": "https://x.com/ZaoTon618/status/2023710426064920728/photo/1",
+              "media_key": "3_2023710423162499072",
+              "start": 153,
+              "url": "https://t.co/3cblfSx6Cs"
+            },
+            {
+              "display_url": "pic.x.com/3cblfSx6Cs",
+              "end": 176,
+              "expanded_url": "https://x.com/ZaoTon618/status/2023710426064920728/photo/1",
+              "media_key": "3_2023710423363788801",
+              "start": 153,
+              "url": "https://t.co/3cblfSx6Cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023710426064920728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药品知识科普~抗雄篇~色（上）\n色普龙为Cyproterone的音译，其中文名称为醋酸环丙孕酮，一般用于治疗前列腺癌，由其名字可得该药是具有强效孕激素作用的，大量研究发现该药物在与雌二醇共用时10mg/d的剂量已可最大程度抑制睾酮，吃多了没大用处反而会有更大的副作用与健康风险！下图分别为50与100土色 https://t.co/3cblfSx6Cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 595,
+          "like_count": 16419,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4002
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T12:21:58.000Z",
+        "description": "HRT2023.11.24 MtF🍥/已炸柜/家长不管党/不抽烟不喝酒/不od不割手/应该没有精神疾病/一般不会发负能量内容/可互fo有关注基本必回(前提我确定你是人)/欢迎找我咨询MtF用药方案及相关知识，有跨性别意愿的也可以找我做心理疏导🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "https://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/rKC6bXjeLt"
+              }
+            ]
+          }
+        },
+        "id": "1798691696001355776",
+        "location": "创国",
+        "name": "枣桐酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015014041513845212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004470062452035588/PVjS6TLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 730,
+          "like_count": 25516,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/rKC6bXjeLt",
+        "username": "ZaoTon618",
+        "verified": false
+      }
+    ]
+  }
+}

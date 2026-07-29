@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2029953731568222284",
+    "created_at": "2026-03-06T16:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029953731568222284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/520illusion/status/2029880857281056814",
+          "start": 32,
+          "url": "https://t.co/4MQhA4P9q7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029953731568222284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029880857281056814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么要对改变不了的东西悲叹，更应该关注的是未来如何更好的生活 https://t.co/4MQhA4P9q7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2029953731568222284",
+        "created_at": "2026-03-06T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029953731568222284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/520illusion/status/2029880857281056814",
+              "start": 32,
+              "url": "https://t.co/4MQhA4P9q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029953731568222284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029880857281056814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么要对改变不了的东西悲叹，更应该关注的是未来如何更好的生活 https://t.co/4MQhA4P9q7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2029880857281056814",
+        "created_at": "2026-03-06T11:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029880857281056814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "xx"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "xy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/newchinesevoic…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/newchinesevoice/status/2029588326303351240",
+              "start": 90,
+              "url": "https://t.co/vQFz4nXBhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029880857281056814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029588326303351240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个mtf前辈和我说过一句 至今难忘 \n\ny是原罪   \n\n应该是两年多前说的  当时不是跨没什么反应 甚至想笑 但现在嗯只能说 多年前射出的子弹贯穿了心脏  \n\n#xx #xy https://t.co/vQFz4nXBhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 617,
+          "like_count": 17556,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4204
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "再望流星划破天际🌠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳‍⚧",
+        "pinned_tweet_id": "2028075625962152006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 430,
+          "like_count": 8211,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 4993
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

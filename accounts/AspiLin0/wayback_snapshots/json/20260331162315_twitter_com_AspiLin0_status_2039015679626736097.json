@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2039015679626736097",
+    "created_at": "2026-03-31T16:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039015679626736097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981918860883488768",
+          "start": 3,
+          "username": "Lira_Fox13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039015679626736097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039004453832167630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lira_Fox13: 我想报狐狸专业，继续攻读狐狸硕士博士博士后，成为狐狸专家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2039015679626736097",
+        "created_at": "2026-03-31T16:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039015679626736097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981918860883488768",
+              "start": 3,
+              "username": "Lira_Fox13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039015679626736097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039004453832167630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lira_Fox13: 我想报狐狸专业，继续攻读狐狸硕士博士博士后，成为狐狸专家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981918860883488768",
+        "conversation_id": "2039004453832167630",
+        "created_at": "2026-03-31T15:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039004453832167630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foooxwww/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/foooxwww/status/2038998347923787782",
+              "start": 29,
+              "url": "https://t.co/qcs2T8k6kF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039004453832167630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038998347923787782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想报狐狸专业，继续攻读狐狸硕士博士博士后，成为狐狸专家 https://t.co/qcs2T8k6kF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 671,
+          "like_count": 18872,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 4456
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "非二进制狐巫器，很高兴认识你们",
+        "id": "1981918860883488768",
+        "location": "天国阶梯",
+        "name": "᯽劣等感💜",
+        "pinned_tweet_id": "2020345641797611626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017951996372992000/_bLmMzJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 152,
+          "like_count": 1817,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1029
+        },
+        "username": "Lira_Fox13",
+        "verified": false
+      }
+    ]
+  }
+}

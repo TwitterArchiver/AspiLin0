@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2053849166133260745",
+    "created_at": "2026-05-11T14:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053849166133260745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1343151486432399360",
+          "start": 3,
+          "username": "StarryNocts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053849166133260745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053667522017415382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarryNocts: 真服了我妈说她从短视频里看专家说抑郁只是一种暂时的情绪\n可是我是抑郁症啊啊啊啊\n抑郁是情绪 抑郁症是病！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2053849166133260745",
+        "created_at": "2026-05-11T14:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053849166133260745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1343151486432399360",
+              "start": 3,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053849166133260745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053667522017415382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarryNocts: 真服了我妈说她从短视频里看专家说抑郁只是一种暂时的情绪\n可是我是抑郁症啊啊啊啊\n抑郁是情绪 抑郁症是病！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2053667522017415382",
+        "created_at": "2026-05-11T02:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053667522017415382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053667522017415382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3356,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "真服了我妈说她从短视频里看专家说抑郁只是一种暂时的情绪\n可是我是抑郁症啊啊啊啊\n抑郁是情绪 抑郁症是病！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 742,
+          "like_count": 20740,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 4881
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtf🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053054977611038720/CnM4tr2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 403,
+          "like_count": 3979,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 5692
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

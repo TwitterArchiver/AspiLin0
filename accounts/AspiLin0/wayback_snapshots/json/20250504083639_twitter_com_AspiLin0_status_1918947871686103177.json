@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918947037485076676",
+    "created_at": "2025-05-04T08:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T09:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918947871686103177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "Lily_Syrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918947871686103177",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918947037485076676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_Syrup 实用主义vs享乐主义（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918947037485076676",
+        "created_at": "2025-05-04T08:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T09:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918947871686103177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "Lily_Syrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918947871686103177",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918947037485076676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_Syrup 实用主义vs享乐主义（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627301480440164352",
+        "conversation_id": "1918947037485076676",
+        "created_at": "2025-05-04T08:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T09:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918947037485076676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918947037485076676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有人发动态说大学学制应该改成三年早点放学生去实习\n我：你改你妈呢？改了我还怎么安安心心地玩，实习哪有我玩得开心重要，实习哪有我一天睡12小时重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 353,
+          "like_count": 5598,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜你可以叫我 糖浆/松饼｜烤批 akt an单推｜粥原摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜日本語 English｜华枝春满，天心月圆@LihaigeUpasaka\n｜用爱发电@Alter_Syrup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "Alter_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "Eucrite",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900478254311776256/0XzoVkXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 1191,
+          "like_count": 93452,
+          "listed_count": 3,
+          "media_count": 1141,
+          "tweet_count": 5532
+        },
+        "username": "Lily_Syrup",
+        "verified": false
+      }
+    ]
+  }
+}

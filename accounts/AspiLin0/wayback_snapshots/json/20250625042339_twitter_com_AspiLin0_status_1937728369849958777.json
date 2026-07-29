@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937444471806837094",
+    "created_at": "2025-06-25T04:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T05:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937728369849958777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851134609347719168",
+          "start": 0,
+          "username": "AnqilaSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937728369849958777",
+    "in_reply_to_user_id": "1851134609347719168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937444471806837094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnqilaSong 半个月前不就有人被骗了（\n还能中招"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1937444072395874304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMvHmtXoAAIuEK.jpg",
+        "width": 858
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1937444072592965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMvHncXAAAPA3I.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1937444072525873153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMvHnMXQAEj_pD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1937444072425238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMvHm0XsAAXMa1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937444471806837094",
+        "created_at": "2025-06-25T04:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T05:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937728369849958777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937728369849958777",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937444471806837094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 半个月前不就有人被骗了（\n还能中招"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937444072395874304",
+            "3_1937444072592965632",
+            "3_1937444072525873153",
+            "3_1937444072425238528"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937444471806837094",
+        "created_at": "2025-06-24T09:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937444471806837094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtf"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nddk1AOM8",
+              "end": 96,
+              "expanded_url": "https://x.com/AnqilaSong/status/1937444471806837094/photo/1",
+              "media_key": "3_1937444072395874304",
+              "start": 73,
+              "url": "https://t.co/1nddk1AOM8"
+            },
+            {
+              "display_url": "pic.x.com/1nddk1AOM8",
+              "end": 96,
+              "expanded_url": "https://x.com/AnqilaSong/status/1937444471806837094/photo/1",
+              "media_key": "3_1937444072592965632",
+              "start": 73,
+              "url": "https://t.co/1nddk1AOM8"
+            },
+            {
+              "display_url": "pic.x.com/1nddk1AOM8",
+              "end": 96,
+              "expanded_url": "https://x.com/AnqilaSong/status/1937444471806837094/photo/1",
+              "media_key": "3_1937444072525873153",
+              "start": 73,
+              "url": "https://t.co/1nddk1AOM8"
+            },
+            {
+              "display_url": "pic.x.com/1nddk1AOM8",
+              "end": 96,
+              "expanded_url": "https://x.com/AnqilaSong/status/1937444471806837094/photo/1",
+              "media_key": "3_1937444072425238528",
+              "start": 73,
+              "url": "https://t.co/1nddk1AOM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937444471806837094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1598,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#mtf #xyn 大家注意了，千万不要买这个人的药，一定要去粉丝体量大，有人评论的药商那买，千万不要买来路不明的，已经有人被骗好多钱了😭QAQ https://t.co/1nddk1AOM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 439,
+          "like_count": 9196,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 2148
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 322,
+          "like_count": 507,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 96
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

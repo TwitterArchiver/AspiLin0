@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931646515690549502",
+    "created_at": "2025-06-08T09:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T10:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931646515690549502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/27rainyseason/…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/27rainyseason/status/1931240692355158054",
+          "start": 69,
+          "url": "https://t.co/iaUyIhwZ2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931646515690549502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931240692355158054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反对，broca失语只是无法发出具有明确语义的句子，而并非\"开不了口\"\n本质上应该是随意动作的发起失败，可以考虑基底神经节或者脑桥的损伤 https://t.co/iaUyIhwZ2G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931646515690549502",
+        "created_at": "2025-06-08T09:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931646515690549502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/27rainyseason/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/27rainyseason/status/1931240692355158054",
+              "start": 69,
+              "url": "https://t.co/iaUyIhwZ2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931646515690549502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931240692355158054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对，broca失语只是无法发出具有明确语义的句子，而并非\"开不了口\"\n本质上应该是随意动作的发起失败，可以考虑基底神经节或者脑桥的损伤 https://t.co/iaUyIhwZ2G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810940278468964352",
+        "conversation_id": "1931240692355158054",
+        "created_at": "2025-06-07T06:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T07:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931240692355158054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanghongwen89/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/wanghongwen89/status/1931200833775194390",
+              "start": 104,
+              "url": "https://t.co/WL8JbHjUvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931240692355158054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931200833775194390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"想唱却开不了口\"\n提示布罗卡区（左额下回后部）受损，可能是优势半球语言中枢损伤。\n\"喉咙嘶哑\"\n可能为喉返神经损伤致单侧声带麻痹，声门闭合不全。\n\"带血的手\"\n疑指掌侧固有动脉损伤，需指根部两侧压迫止血。 https://t.co/WL8JbHjUvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 416,
+          "like_count": 8058,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "1926611334847741961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926345283174027264/Fm2-5x3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 414,
+          "like_count": 5652,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4140
+        },
+        "username": "27rainyseason",
+        "verified": false
+      }
+    ]
+  }
+}

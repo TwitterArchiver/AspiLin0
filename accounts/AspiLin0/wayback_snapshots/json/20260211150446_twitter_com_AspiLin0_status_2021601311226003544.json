@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2021478748814705073",
+    "created_at": "2026-02-11T15:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021601311226003544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786055418684264448",
+          "start": 0,
+          "username": "SIRliquid_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021601311226003544",
+    "in_reply_to_user_id": "1786055418684264448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021478748814705073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIRliquid_ 技术的目的只限于无限发展自身\n它可不会在乎一个人力资源单位的快乐（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2021478748814705073",
+        "created_at": "2026-02-11T15:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021601311226003544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786055418684264448",
+              "start": 0,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021601311226003544",
+        "in_reply_to_user_id": "1786055418684264448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021478748814705073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIRliquid_ 技术的目的只限于无限发展自身\n它可不会在乎一个人力资源单位的快乐（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786055418684264448",
+        "conversation_id": "2021478748814705073",
+        "created_at": "2026-02-11T06:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021478748814705073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CynunVIIV/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/CynunVIIV/status/2021173565689643094",
+              "start": 27,
+              "url": "https://t.co/VwpFJObJvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021478748814705073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021173565689643094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活在这样一个技术发展的天堂里，为什么我感受不到快乐呢 https://t.co/VwpFJObJvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 564,
+          "like_count": 15482,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 3875
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁 || 喜欢音乐🎶 || 🏳️‍⚧️&🏳️‍🌈友好 || (Fan Account) || 各种其他平台的链接详见LinkTree👇 || 不喜欢聊政治🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SIRliquid_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SIRliquid_",
+                "start": 0,
+                "url": "https://t.co/yJkNLuGSBM"
+              }
+            ]
+          }
+        },
+        "id": "1786055418684264448",
+        "name": "Ring.✦リング",
+        "pinned_tweet_id": "2014974275372122506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 299,
+          "like_count": 8017,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/yJkNLuGSBM",
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

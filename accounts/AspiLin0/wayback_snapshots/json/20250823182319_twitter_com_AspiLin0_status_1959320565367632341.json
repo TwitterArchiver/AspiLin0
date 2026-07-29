@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1959287265072644592",
+    "created_at": "2025-08-23T18:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T19:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959320565367632341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599780842427109379",
+          "start": 0,
+          "username": "weiyena1919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959320565367632341",
+    "in_reply_to_user_id": "1599780842427109379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959287265072644592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiyena1919 先爱自己吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1959287265072644592",
+        "created_at": "2025-08-23T18:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959320565367632341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599780842427109379",
+              "start": 0,
+              "username": "weiyena1919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959320565367632341",
+        "in_reply_to_user_id": "1599780842427109379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959287265072644592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiyena1919 先爱自己吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599780842427109379",
+        "conversation_id": "1959287265072644592",
+        "created_at": "2025-08-23T16:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959287265072644592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959287265072644592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实清楚的知道这辈子都没有在对方身边的机会才会每天如此焦虑吧，只是给自己画的饼，像是吊着驴子前面的胡萝卜，我大概率是没有十年的，精神，身体，都很烂，各种的慢性病之类的，抛开不谈，我在追一个有女友的男人（虽然他说喜欢被倒追），这是没未来的，我再怎么做也是无法动摇的，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 479,
+          "like_count": 12397,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 3066
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T15:01:34.000Z",
+        "description": "面具下的另一面",
+        "id": "1599780842427109379",
+        "name": "维也纳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617795506368876550/hY8ZWAJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 160
+        },
+        "username": "weiyena1919",
+        "verified": false
+      }
+    ]
+  }
+}

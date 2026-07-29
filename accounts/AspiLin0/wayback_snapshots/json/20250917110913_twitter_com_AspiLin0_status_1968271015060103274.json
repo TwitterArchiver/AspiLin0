@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968264398969192882",
+    "created_at": "2025-09-17T11:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968271015060103274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968271015060103274",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968264398969192882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko 没麻醉情况下氯化钾注射有强烈灼烧感\n虽然能很快的让心脏停跳但大概会有强烈疼痛\n鉴定为中等方式，不推荐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968264356799643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CuARMbAAApXKa.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968264356396969985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CuAPsasAEng1d.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968264398969192882",
+        "created_at": "2025-09-17T11:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968271015060103274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968271015060103274",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968264398969192882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko 没麻醉情况下氯化钾注射有强烈灼烧感\n虽然能很快的让心脏停跳但大概会有强烈疼痛\n鉴定为中等方式，不推荐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968264356799643648",
+            "3_1968264356396969985"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1968264398969192882",
+        "created_at": "2025-09-17T10:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968264398969192882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvXLB31E6k",
+              "end": 79,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1968264398969192882/photo/1",
+              "media_key": "3_1968264356799643648",
+              "start": 56,
+              "url": "https://t.co/kvXLB31E6k"
+            },
+            {
+              "display_url": "pic.x.com/kvXLB31E6k",
+              "end": 79,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1968264398969192882/photo/1",
+              "media_key": "3_1968264356396969985",
+              "start": 56,
+              "url": "https://t.co/kvXLB31E6k"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1968224432318812430",
+              "start": 80,
+              "url": "https://t.co/1lhe0cL29L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968264398969192882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 145,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968224432318812430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我自杀了...想到我悲惨的人生\n氯化钾 x1\n草莓牛奶 100mg:10ml x3\n昏迷 一小时 自杀未遂 https://t.co/kvXLB31E6k https://t.co/1lhe0cL29L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 486,
+          "like_count": 12901,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3236
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・余命1年 ・Wife @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🍥",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 223,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 457
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

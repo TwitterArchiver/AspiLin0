@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1964279743215493305",
+    "created_at": "2025-09-06T10:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T11:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964279743215493305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1395658814402162689",
+          "start": 3,
+          "username": "8964tou12345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964279743215493305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964213582624915777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964tou12345678: 可喜可贺，8888fo了，尤其感谢fo我多年但头像名字都换了我还记不得的网友。\n以后会继续为大家揭露人和世界的堕落和尖锐问题，或给大家审美和精神和道德水平建设做贡献"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1964279743215493305",
+        "created_at": "2025-09-06T10:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T11:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964279743215493305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1395658814402162689",
+              "start": 3,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964279743215493305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964213582624915777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964tou12345678: 可喜可贺，8888fo了，尤其感谢fo我多年但头像名字都换了我还记不得的网友。\n以后会继续为大家揭露人和世界的堕落和尖锐问题，或给大家审美和精神和道德水平建设做贡献"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1964213582624915777",
+        "created_at": "2025-09-06T06:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964213582624915777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964213582624915777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2498,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可喜可贺，8888fo了，尤其感谢fo我多年但头像名字都换了我还记不得的网友。\n以后会继续为大家揭露人和世界的堕落和尖锐问题，或给大家审美和精神和道德水平建设做贡献"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 485,
+          "like_count": 12755,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3172
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8898,
+          "following_count": 6546,
+          "like_count": 242879,
+          "listed_count": 61,
+          "media_count": 2168,
+          "tweet_count": 40663
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

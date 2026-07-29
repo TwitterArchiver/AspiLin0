@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2065328942060544335",
+    "created_at": "2026-06-12T08:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065356816356438138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065356816356438138",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065328942060544335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 如果你不想让人理解的话就不会有人理解你("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1751,
+        "media_key": "3_2065328930975109120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmFuFsb0AApQXp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2065328942060544335",
+        "created_at": "2026-06-12T08:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065356816356438138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065356816356438138",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065328942060544335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 如果你不想让人理解的话就不会有人理解你("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065328930975109120"
+          ]
+        },
+        "author_id": "1643785305533874177",
+        "conversation_id": "2065328942060544335",
+        "created_at": "2026-06-12T07:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065328942060544335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kig64s6DmA",
+              "end": 23,
+              "expanded_url": "https://x.com/MeraK_Rinchi/status/2065328942060544335/photo/1",
+              "media_key": "3_2065328930975109120",
+              "start": 0,
+              "url": "https://t.co/Kig64s6DmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065328942060544335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kig64s6DmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 760,
+          "like_count": 21134,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 4995
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "旧名凛柒  ——『望む結末へと伸ばした両手。』\n逃生舱：@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karagawa_roku2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/karagawa_roku2",
+                "start": 0,
+                "url": "https://t.co/H1yqKwcN6p"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2065328942060544335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065261866943913984/o-XegWu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 457,
+          "like_count": 19254,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1710
+        },
+        "url": "https://t.co/H1yqKwcN6p",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2043731484960534806",
+    "created_at": "2026-04-13T16:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043731484960534806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830586296005476353",
+          "start": 3,
+          "username": "Chudai1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043731484960534806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043451991813493106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chudai1108: 能不能对我生气啊\n能不能为了我吃醋啊\n能不能因为我情绪不稳定啊\n快说你需要我啊\n快说你好想我啊\n快说你没有我不行啊\n为什么总是怎么平静\n能不能在心里也为我掀起一点点波澜\n能不能告诉我你其实也很在意我\n求你了\n被吃醋好爽\n被质问好爽\n被控制好爽\n你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2043731484960534806",
+        "created_at": "2026-04-13T16:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043731484960534806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830586296005476353",
+              "start": 3,
+              "username": "Chudai1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043731484960534806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043451991813493106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chudai1108: 能不能对我生气啊\n能不能为了我吃醋啊\n能不能因为我情绪不稳定啊\n快说你需要我啊\n快说你好想我啊\n快说你没有我不行啊\n为什么总是怎么平静\n能不能在心里也为我掀起一点点波澜\n能不能告诉我你其实也很在意我\n求你了\n被吃醋好爽\n被质问好爽\n被控制好爽\n你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830586296005476353",
+        "conversation_id": "2043451991813493106",
+        "created_at": "2026-04-12T22:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043451991813493106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043451991813493106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 15536,
+          "like_count": 772,
+          "quote_count": 24,
+          "reply_count": 12,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "能不能对我生气啊\n能不能为了我吃醋啊\n能不能因为我情绪不稳定啊\n快说你需要我啊\n快说你好想我啊\n快说你没有我不行啊\n为什么总是怎么平静\n能不能在心里也为我掀起一点点波澜\n能不能告诉我你其实也很在意我\n求你了\n被吃醋好爽\n被质问好爽\n被控制好爽\n你对我的占有欲控制欲窥探欲太低我真的会很失望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 707,
+          "like_count": 19731,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 4648
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T12:39:35.000Z",
+        "description": "我的灵魂应该是风的形状\n/infp/brat/160cm39kg/🚪99999999/不陪聊（偶尔回消息）/纯绿聊天/举报我的替我挡灾/来财，来财/˶ˊᜊˋ˶",
+        "id": "1830586296005476353",
+        "location": "你心里",
+        "name": "卿卿月",
+        "pinned_tweet_id": "1924823320408863161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974136646351355904/Mg_xIlJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 64,
+          "like_count": 125,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 212
+        },
+        "username": "Chudai1108",
+        "verified": false
+      }
+    ]
+  }
+}

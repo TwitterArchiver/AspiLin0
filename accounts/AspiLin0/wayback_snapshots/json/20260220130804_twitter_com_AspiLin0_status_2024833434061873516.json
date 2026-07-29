@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2024833434061873516",
+    "created_at": "2026-02-20T13:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024833434061873516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MarilouTot7993…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/MarilouTot79932/status/2024830312677814350",
+          "start": 22,
+          "url": "https://t.co/DClXBhCcMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024833434061873516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024830312677814350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注小巴喵，关注小巴谢谢喵&gt;&lt; https://t.co/DClXBhCcMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024830302699544576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmkbqraYAAARMc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2024833434061873516",
+        "created_at": "2026-02-20T13:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024833434061873516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MarilouTot7993…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/MarilouTot79932/status/2024830312677814350",
+              "start": 22,
+              "url": "https://t.co/DClXBhCcMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024833434061873516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024830312677814350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注小巴喵，关注小巴谢谢喵&gt;&lt; https://t.co/DClXBhCcMG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024830302699544576"
+          ]
+        },
+        "author_id": "1706547691013242880",
+        "conversation_id": "2024830312677814350",
+        "created_at": "2026-02-20T12:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024830312677814350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAOGPpfqZD",
+              "end": 23,
+              "expanded_url": "https://x.com/MarilouTot79932/status/2024830312677814350/photo/1",
+              "media_key": "3_2024830302699544576",
+              "start": 0,
+              "url": "https://t.co/bAOGPpfqZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024830312677814350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bAOGPpfqZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 613,
+          "like_count": 17177,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 4133
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-26T05:54:18.000Z",
+        "description": "我是小巴，一只柯基\n2025年4月20日出生",
+        "id": "1706547691013242880",
+        "name": "小巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024035741299609600/g_wkZ6h5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "MarilouTot79932",
+        "verified": false
+      }
+    ]
+  }
+}

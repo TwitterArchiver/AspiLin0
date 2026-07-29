@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936641826490085743",
+    "created_at": "2025-06-22T04:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T05:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936641826490085743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0__11Xx/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/0__11Xx/status/1936121463859470617",
+          "start": 21,
+          "url": "https://t.co/UmnFvOSGfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936641826490085743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936121463859470617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "模糊了的天使的脸庞\n救了众生却忘记救自己 https://t.co/UmnFvOSGfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1936121430522892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt58LtxWkAAj244.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936641826490085743",
+        "created_at": "2025-06-22T04:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T05:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936641826490085743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0__11Xx/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/0__11Xx/status/1936121463859470617",
+              "start": 21,
+              "url": "https://t.co/UmnFvOSGfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936641826490085743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936121463859470617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "模糊了的天使的脸庞\n救了众生却忘记救自己 https://t.co/UmnFvOSGfd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936121430522892288"
+          ]
+        },
+        "author_id": "1821004052395913219",
+        "conversation_id": "1936121463859470617",
+        "created_at": "2025-06-20T17:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T18:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936121463859470617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KE5uPbeM6N",
+              "end": 23,
+              "expanded_url": "https://x.com/0__11Xx/status/1936121463859470617/photo/1",
+              "media_key": "3_1936121430522892288",
+              "start": 0,
+              "url": "https://t.co/KE5uPbeM6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936121463859470617",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 45267,
+          "like_count": 2226,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KE5uPbeM6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 433,
+          "like_count": 8989,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:03:05.000Z",
+        "description": "夢と現の狭間で青に溺れる。/ DM OPEN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/011Xx",
+                "end": 23,
+                "expanded_url": "https://lit.link/011Xx",
+                "start": 0,
+                "url": "https://t.co/pydlonnbX3"
+              }
+            ]
+          }
+        },
+        "id": "1821004052395913219",
+        "location": "Gen Ai #niji journey",
+        "name": "夢鬱つ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857265300506640384/R4AjuVu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106889,
+          "following_count": 58,
+          "like_count": 614,
+          "listed_count": 629,
+          "media_count": 875,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/pydlonnbX3",
+        "username": "0__11Xx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1923320426853257246",
+    "created_at": "2025-05-16T10:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T11:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923324471072436453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596405792315691008",
+          "start": 0,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923324471072436453",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923320426853257246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0502railgun1949 看起来像只保留了神经作用的雌二醇（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1021,
+        "media_key": "3_1923320396235051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEBtc7akAA3yK9.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1923320426853257246",
+        "created_at": "2025-05-16T10:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T11:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923324471072436453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923324471072436453",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923320426853257246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 看起来像只保留了神经作用的雌二醇（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923320396235051008"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1923320426853257246",
+        "created_at": "2025-05-16T10:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T11:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923320426853257246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/ALTO-100",
+              "end": 109,
+              "expanded_url": "https://en.wikipedia.org/wiki/ALTO-100",
+              "images": [
+                {
+                  "height": 488,
+                  "url": "https://pbs.twimg.com/news_img/1923320470633402368/PyD4yJ32?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1923320470633402368/PyD4yJ32?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "ALTO-100 - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/ALTO-100",
+              "url": "https://t.co/CVbiFK3FBU"
+            },
+            {
+              "display_url": "pic.x.com/3fKW08QaS8",
+              "end": 133,
+              "expanded_url": "https://x.com/0502railgun1949/status/1923320426853257246/photo/1",
+              "media_key": "3_1923320396235051008",
+              "start": 110,
+              "url": "https://t.co/3fKW08QaS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923320426853257246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ALTO-100的确切作用机制尚不清楚。然而，据信它通过间接增强BDNF信号传导并增加神经可塑性和神经发生来发挥作用，主要在海马体中，有人感兴趣吗500元10g一起拼一个\nhttps://t.co/CVbiFK3FBU https://t.co/3fKW08QaS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 372,
+          "like_count": 6257,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 648,
+          "like_count": 7403,
+          "listed_count": 2,
+          "media_count": 972,
+          "tweet_count": 6282
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

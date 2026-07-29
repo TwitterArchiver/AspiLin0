@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012154126566842369"
+      ],
+      "media_source_tweet_id": [
+        "2012154131570667891"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2012491997446054198",
+    "created_at": "2026-01-17T11:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012491997446054198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689257282348158976",
+          "start": 3,
+          "username": "Inaba_Tsumugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSEwOxeIJ2",
+          "end": 60,
+          "expanded_url": "https://x.com/Inaba_Tsumugi/status/2012154131570667891/photo/1",
+          "media_key": "3_2012154126566842369",
+          "start": 37,
+          "url": "https://t.co/rSEwOxeIJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012491997446054198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012154131570667891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inaba_Tsumugi: 学校里面怎么到处都是这个神秘符号🙀 https://t.co/rSEwOxeIJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2012154126566842369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ybhGtaYAEGU2T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012154126566842369"
+          ],
+          "media_source_tweet_id": [
+            "2012154131570667891"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2012491997446054198",
+        "created_at": "2026-01-17T11:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012491997446054198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689257282348158976",
+              "start": 3,
+              "username": "Inaba_Tsumugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSEwOxeIJ2",
+              "end": 60,
+              "expanded_url": "https://x.com/Inaba_Tsumugi/status/2012154131570667891/photo/1",
+              "media_key": "3_2012154126566842369",
+              "start": 37,
+              "url": "https://t.co/rSEwOxeIJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012491997446054198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012154131570667891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inaba_Tsumugi: 学校里面怎么到处都是这个神秘符号🙀 https://t.co/rSEwOxeIJ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012154126566842369"
+          ]
+        },
+        "author_id": "1689257282348158976",
+        "conversation_id": "2012154131570667891",
+        "created_at": "2026-01-16T13:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012154131570667891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSEwOxeIJ2",
+              "end": 41,
+              "expanded_url": "https://x.com/Inaba_Tsumugi/status/2012154131570667891/photo/1",
+              "media_key": "3_2012154126566842369",
+              "start": 18,
+              "url": "https://t.co/rSEwOxeIJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012154131570667891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 39188,
+          "like_count": 362,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "学校里面怎么到处都是这个神秘符号🙀 https://t.co/rSEwOxeIJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 529,
+          "like_count": 14555,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3719
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:48:24.000Z",
+        "description": "◀Ⓘ▶夏が近づくと胸が騒めくのは何でなんでしょうか。 / 🍔🍟麦当劳重度依赖 / #青ブタ #ボカロ #夢見る 🏳️‍🌈🏳️‍⚧️🇦🇶🏴‍☠️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "青ブタ"
+              },
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "夢見る"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.tsumugi.icu",
+                "end": 23,
+                "expanded_url": "http://blog.tsumugi.icu",
+                "start": 0,
+                "url": "https://t.co/AgaPQs6hFd"
+              }
+            ]
+          }
+        },
+        "id": "1689257282348158976",
+        "location": "🌙",
+        "name": "🌙つむぎ🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999352261034782720/C0JDTDNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1065,
+          "like_count": 48528,
+          "listed_count": 3,
+          "media_count": 1256,
+          "tweet_count": 8907
+        },
+        "url": "https://t.co/AgaPQs6hFd",
+        "username": "Inaba_Tsumugi",
+        "verified": false
+      }
+    ]
+  }
+}

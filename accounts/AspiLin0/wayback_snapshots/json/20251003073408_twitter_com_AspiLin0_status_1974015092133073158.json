@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1974012418654081140",
+    "created_at": "2025-10-03T07:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974015092133073158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974015092133073158",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974012418654081140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1974012418654081140",
+        "created_at": "2025-10-03T07:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974015092133073158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974015092133073158",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974012418654081140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "1974012418654081140",
+        "created_at": "2025-10-03T07:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974012418654081140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974012418654081140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么心里空空的好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 508,
+          "like_count": 13241,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 3366
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "cn鸢安（0_an）/已毕业初三牲/maimai/chunithm/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美&官匹)/友跨/成分正常的都会回\nfo/好朋友@Quitewaterqwq | @Allknowbody2 /最喜欢的姐姐@JadezKayoko/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "JadezKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an（互fo）",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973421198311858176/cWwfCpoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1231,
+          "like_count": 31682,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 10152
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

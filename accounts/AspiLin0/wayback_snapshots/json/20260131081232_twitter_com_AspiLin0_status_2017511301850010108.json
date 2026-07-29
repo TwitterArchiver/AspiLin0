@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2017511301850010108",
+    "created_at": "2026-01-31T08:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017511301850010108"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "星辰计划"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017511301850010108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#星辰计划 \n身体，灵魂，神经科学\n若是再加上些许加缪式的荒谬，那么似乎恰当的选题便能确定了。\n下面是拙作&gt;&lt;\n被锁住的灵魂\n苏格拉底曾将肉身喻为灵魂的牢狱。然而对某些人而言，这并非仅是一个比喻。(1/n）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2017511301850010108",
+        "created_at": "2026-01-31T08:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017511301850010108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "星辰计划"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017511301850010108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#星辰计划 \n身体，灵魂，神经科学\n若是再加上些许加缪式的荒谬，那么似乎恰当的选题便能确定了。\n下面是拙作&gt;&lt;\n被锁住的灵魂\n苏格拉底曾将肉身喻为灵魂的牢狱。然而对某些人而言，这并非仅是一个比喻。(1/n）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 553,
+          "like_count": 15239,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 3822
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

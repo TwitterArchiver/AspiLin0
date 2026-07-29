@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950120114570834297",
+    "created_at": "2025-07-30T09:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950496231534543082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505441610871422978",
+          "start": 0,
+          "username": "shengshengbuxiv"
+        },
+        {
+          "end": 29,
+          "id": "921081016202100741",
+          "start": 17,
+          "username": "Chinoprprpr"
+        },
+        {
+          "end": 41,
+          "id": "1684788633797287936",
+          "start": 30,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950496231534543082",
+    "in_reply_to_user_id": "1505441610871422978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950492012190556450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengshengbuxiv @Chinoprprpr @Moningmeng 只是随机性被固定了（\n禁尼古丁推广大麻不会有太大区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T09:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950496231534543082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505441610871422978",
+              "start": 0,
+              "username": "shengshengbuxiv"
+            },
+            {
+              "end": 29,
+              "id": "921081016202100741",
+              "start": 17,
+              "username": "Chinoprprpr"
+            },
+            {
+              "end": 41,
+              "id": "1684788633797287936",
+              "start": 30,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950496231534543082",
+        "in_reply_to_user_id": "1505441610871422978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950492012190556450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengshengbuxiv @Chinoprprpr @Moningmeng 只是随机性被固定了（\n禁尼古丁推广大麻不会有太大区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505441610871422978",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T09:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950492012190556450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "921081016202100741",
+              "start": 0,
+              "username": "Chinoprprpr"
+            },
+            {
+              "end": 22,
+              "id": "1360161759257104384",
+              "start": 13,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 34,
+              "id": "1684788633797287936",
+              "start": 23,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950492012190556450",
+        "in_reply_to_user_id": "921081016202100741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950269485338022000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinoprprpr @AspiLin0 @Moningmeng 烟酒毒品一样有危害的情况下，重点不在于危害大小，而在于危害大到什么程度才必须用法律去制止，以及这个制止的界线为什么就在毒品之上烟酒之下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 447,
+          "like_count": 9958,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T07:10:30.000Z",
+        "description": "ᕕ😆ᕗ",
+        "id": "1505441610871422978",
+        "location": "台北",
+        "name": "杨少华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926988088644878337/SqNECOv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 47,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "shengshengbuxiv",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T18:30:01.000Z",
+        "description": "佛系/玩游戏为了快乐/请勿转发墙内\n为了避免误会所以把emoji换成了🐴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/chinoprp…",
+                "end": 23,
+                "expanded_url": "http://peing.net/zh-TW/chinoprprpr",
+                "start": 0,
+                "url": "https://t.co/Pn6H4m5BhE"
+              }
+            ]
+          }
+        },
+        "id": "921081016202100741",
+        "location": "广东, 中华人民共和国",
+        "name": "智乃prprpr🐴不是炼铜",
+        "pinned_tweet_id": "1282412463921586176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339336645988896768/-fsVuCBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 529,
+          "like_count": 5097,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 5705
+        },
+        "url": "https://t.co/Pn6H4m5BhE",
+        "username": "Chinoprprpr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21787,
+          "following_count": 10880,
+          "like_count": 81662,
+          "listed_count": 77,
+          "media_count": 3972,
+          "tweet_count": 14701
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

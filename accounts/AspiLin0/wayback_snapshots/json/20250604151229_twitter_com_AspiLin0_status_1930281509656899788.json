@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1930115816462397560",
+    "created_at": "2025-06-04T15:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T16:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930281509656899788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521781722551103490",
+          "start": 0,
+          "username": "_XiaoYu_OvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930281509656899788",
+    "in_reply_to_user_id": "1521781722551103490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930115816462397560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_XiaoYu_OvO_ 为什么16号（惊\n我们是高考考完晚上就回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1930115816462397560",
+        "created_at": "2025-06-04T15:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930281509656899788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521781722551103490",
+              "start": 0,
+              "username": "_XiaoYu_OvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930281509656899788",
+        "in_reply_to_user_id": "1521781722551103490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930115816462397560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XiaoYu_OvO_ 为什么16号（惊\n我们是高考考完晚上就回来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521781722551103490",
+        "conversation_id": "1930115816462397560",
+        "created_at": "2025-06-04T04:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T05:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930115816462397560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930115816462397560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【高中考放假通知】因我校承担着高中考任务,经学校研究决定,今天下午整理完考场后,高二学生离校回家,6月16日上午返校上第一节课。本次放假时间较长,提醒几点:1.来回路上注意安全,天气炎热,远离河塘,注意防溺水。2.临近学考和期末，,紧时间复习,各科老师都有布置的作业,要按时完成,请家长做好监督。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 402,
+          "like_count": 7362,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1599
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T09:20:23.000Z",
+        "description": "| 小破县城高二在读的笨蛋 | 奇怪的数字之071230和241002 | 可能会发带有各种情绪的推文 | 贴贴姐姐@porphyrin49 | 蹭蹭妹妹@Panxi___ | 呆受的k酱@raidraptormirai | hmm不知道说什么好了 祝看到的你开心快乐每一天awa（ '▿ ' ）|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "porphyrin49"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "Panxi___"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "raidraptormirai"
+              }
+            ]
+          }
+        },
+        "id": "1521781722551103490",
+        "location": "距你2147483647米",
+        "name": "筱雨awa",
+        "pinned_tweet_id": "1922606074273661215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 232,
+          "like_count": 10632,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1659
+        },
+        "username": "_XiaoYu_OvO_",
+        "verified": false
+      }
+    ]
+  }
+}

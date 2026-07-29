@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1922144766294143041",
+    "created_at": "2025-05-13T04:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T05:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922146668348096891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846705278521430017",
+          "start": 0,
+          "username": "yumiralove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922146668348096891",
+    "in_reply_to_user_id": "1846705278521430017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922144766294143041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumiralove 中国有江西省吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1509,
+        "media_key": "3_1922144750343487492",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqzUd2sbAAQK0YB.jpg",
+        "width": 825
+      },
+      {
+        "height": 1886,
+        "media_key": "3_1922144750377041923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqzUd20bAAM0t6H.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1922144766294143041",
+        "created_at": "2025-05-13T04:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T05:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922146668348096891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846705278521430017",
+              "start": 0,
+              "username": "yumiralove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922146668348096891",
+        "in_reply_to_user_id": "1846705278521430017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922144766294143041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumiralove 中国有江西省吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922144750343487492",
+            "3_1922144750377041923"
+          ]
+        },
+        "author_id": "1846705278521430017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922144766294143041",
+        "created_at": "2025-05-13T04:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T05:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922144766294143041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KPhlmjiWd",
+              "end": 35,
+              "expanded_url": "https://x.com/yumiralove/status/1922144766294143041/photo/1",
+              "media_key": "3_1922144750343487492",
+              "start": 12,
+              "url": "https://t.co/5KPhlmjiWd"
+            },
+            {
+              "display_url": "pic.x.com/5KPhlmjiWd",
+              "end": 35,
+              "expanded_url": "https://x.com/yumiralove/status/1922144766294143041/photo/1",
+              "media_key": "3_1922144750377041923",
+              "start": 12,
+              "url": "https://t.co/5KPhlmjiWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922144766294143041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听我说\n这姐妹真的能处 https://t.co/5KPhlmjiWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 367,
+          "like_count": 6022,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:10:34.000Z",
+        "description": "INFP-T 、Les&泛、花藝師、仿真花設計師、貓貓教第八百八十八代傳人",
+        "id": "1846705278521430017",
+        "location": "距离你1km内",
+        "name": "幽米拉_Yumira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846705390458912768/hqg2_yTz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 166,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1276
+        },
+        "username": "yumiralove",
+        "verified": false
+      }
+    ]
+  }
+}

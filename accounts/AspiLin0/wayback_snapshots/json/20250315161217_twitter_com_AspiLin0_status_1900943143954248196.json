@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1900943143954248196",
+    "created_at": "2025-03-15T16:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T17:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900943143954248196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900943143954248196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人不会两次踏入同一条河流。\n但有时改变的不只是奔流而去的流水，还有流逝的我们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1900943143954248196",
+        "created_at": "2025-03-15T16:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900943143954248196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900943143954248196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人不会两次踏入同一条河流。\n但有时改变的不只是奔流而去的流水，还有流逝的我们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin0",
+                "start": 0,
+                "url": "https://t.co/3MNLmpd4MB"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 230,
+          "like_count": 2091,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/3MNLmpd4MB",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

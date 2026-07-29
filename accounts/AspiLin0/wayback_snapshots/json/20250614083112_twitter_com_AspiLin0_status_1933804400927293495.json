@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1933804400927293495",
+    "created_at": "2025-06-14T08:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T09:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933804400927293495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ruizei_Ayan/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Ruizei_Ayan/status/1933766142314885454",
+          "start": 15,
+          "url": "https://t.co/HTk39PylGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933804400927293495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933766142314885454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请关注下冷泉😢\n已知持有钡盐 https://t.co/HTk39PylGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933766138867195904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYeDsnboAAEoGq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1933804400927293495",
+        "created_at": "2025-06-14T08:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933804400927293495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ruizei_Ayan/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Ruizei_Ayan/status/1933766142314885454",
+              "start": 15,
+              "url": "https://t.co/HTk39PylGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933804400927293495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933766142314885454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请关注下冷泉😢\n已知持有钡盐 https://t.co/HTk39PylGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933766138867195904"
+          ]
+        },
+        "author_id": "901896270",
+        "conversation_id": "1933766142314885454",
+        "created_at": "2025-06-14T05:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T06:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933766142314885454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55lqmQW8Va",
+              "end": 46,
+              "expanded_url": "https://x.com/Ruizei_Ayan/status/1933766142314885454/photo/1",
+              "media_key": "3_1933766138867195904",
+              "start": 23,
+              "url": "https://t.co/55lqmQW8Va"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933766142314885454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢小猫。你隔着玻璃一直找让我没把它送入口中 https://t.co/55lqmQW8Va"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 427,
+          "like_count": 8681,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-24T14:11:55.000Z",
+        "description": "迷途中的冷泉狐🦊 | 04 | mtx🏳‍⚧ | 友跨 | 重度社恐 | INFP-T | 不鉴证 | 日常or发病推 | 重抑中焦 | 🐰@Mojester1984 | 认知重建中 | 前路无坎坷 归来有星光✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Mojester1984"
+              }
+            ]
+          }
+        },
+        "id": "901896270",
+        "location": "杭州",
+        "name": "凌波冷泉（🦊言乱语版）",
+        "pinned_tweet_id": "1926096616945045797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909505261695647747/6teDihf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 174,
+          "like_count": 2397,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1481
+        },
+        "username": "Ruizei_Ayan",
+        "verified": false
+      }
+    ]
+  }
+}

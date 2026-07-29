@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2025074905583419589",
+    "created_at": "2026-02-21T05:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025076754604257452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025076754604257452",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025074905583419589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ 内圈&gt;&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2025074892237144066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqC4ptbgAIBYwa.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2025074905583419589",
+        "created_at": "2026-02-21T05:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025076754604257452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025076754604257452",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025074905583419589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 内圈&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025074892237144066"
+          ]
+        },
+        "author_id": "1676228046247038976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2025074905583419589",
+        "created_at": "2026-02-21T05:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025074905583419589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/JFRRXjkz8Z"
+            },
+            {
+              "display_url": "pic.x.com/gIcnNL5A5a",
+              "end": 64,
+              "expanded_url": "https://x.com/ElP15_/status/2025074905583419589/photo/1",
+              "media_key": "3_2025074892237144066",
+              "start": 41,
+              "url": "https://t.co/gIcnNL5A5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025074905583419589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/JFRRXjkz8Z https://t.co/gIcnNL5A5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 618,
+          "like_count": 17316,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 4169
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai/好朋友@Quitewaterqwq | @Allknowbody2 |@aya__maimai/最喜欢的姐姐@FusiKayoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "FusiKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012559813092212736/40ospGT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 1354,
+          "like_count": 35367,
+          "listed_count": 4,
+          "media_count": 388,
+          "tweet_count": 11547
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

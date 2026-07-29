@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029918895927422976"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029918899513196613",
+    "created_at": "2026-03-06T13:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029918899513196613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q55U8x7gun",
+          "end": 54,
+          "expanded_url": "https://x.com/AspiLin0/status/2029918899513196613/photo/1",
+          "media_key": "3_2029918895927422976",
+          "start": 31,
+          "url": "https://t.co/Q55U8x7gun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029918899513196613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢这种萌萌的卡图（\n可惜k社从来不公开画师&gt;&lt; https://t.co/Q55U8x7gun"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2029918895927422976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu4exqbcAATYrW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029918895927422976"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029918899513196613",
+        "created_at": "2026-03-06T13:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029918899513196613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q55U8x7gun",
+              "end": 54,
+              "expanded_url": "https://x.com/AspiLin0/status/2029918899513196613/photo/1",
+              "media_key": "3_2029918895927422976",
+              "start": 31,
+              "url": "https://t.co/Q55U8x7gun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029918899513196613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这种萌萌的卡图（\n可惜k社从来不公开画师&gt;&lt; https://t.co/Q55U8x7gun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 617,
+          "like_count": 17538,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4197
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

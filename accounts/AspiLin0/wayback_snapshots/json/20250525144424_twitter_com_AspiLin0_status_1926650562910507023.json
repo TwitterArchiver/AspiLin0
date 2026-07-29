@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1926648658742628760",
+    "created_at": "2025-05-25T14:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T15:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926650562910507023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846705278521430017",
+          "start": 0,
+          "username": "yumiralove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926650562910507023",
+    "in_reply_to_user_id": "1846705278521430017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926648658742628760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumiralove “能以足音辨人”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1926648658742628760",
+        "created_at": "2025-05-25T14:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926650562910507023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846705278521430017",
+              "start": 0,
+              "username": "yumiralove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926650562910507023",
+        "in_reply_to_user_id": "1846705278521430017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926648658742628760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumiralove “能以足音辨人”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846705278521430017",
+        "conversation_id": "1926648658742628760",
+        "created_at": "2025-05-25T14:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926648658742628760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926648658742628760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个人走路的频率和轻重都不一样\n我发现我真的可以通过走路的声音来分辨是哪个人，以此来决定要不要继续摸鱼😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 384,
+          "like_count": 6912,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:10:34.000Z",
+        "description": "INFP-T 、Les&泛、花藝師、仿真花設計師、貓貓教第八百八十八代傳人",
+        "id": "1846705278521430017",
+        "location": "距离你1km内",
+        "name": "幽米拉_Yumira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922913006758907904/IN7EkQ5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 193,
+          "like_count": 2151,
+          "listed_count": 2,
+          "media_count": 345,
+          "tweet_count": 1780
+        },
+        "username": "yumiralove",
+        "verified": false
+      }
+    ]
+  }
+}

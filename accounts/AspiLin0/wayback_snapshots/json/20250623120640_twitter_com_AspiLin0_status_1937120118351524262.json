@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937118274300617076",
+    "created_at": "2025-06-23T12:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T13:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937120118351524262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816082073863815168",
+          "start": 0,
+          "username": "MrZ1evel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937120118351524262",
+    "in_reply_to_user_id": "1816082073863815168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937118274300617076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrZ1evel 背太少了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937118270944952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIGzduXwAAqAe2.jpg",
+        "width": 941
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937118271842463744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIGzhEWsAAvQJu.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937118274300617076",
+        "created_at": "2025-06-23T12:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937120118351524262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816082073863815168",
+              "start": 0,
+              "username": "MrZ1evel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937120118351524262",
+        "in_reply_to_user_id": "1816082073863815168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937118274300617076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrZ1evel 背太少了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937118270944952320",
+            "3_1937118271842463744"
+          ]
+        },
+        "author_id": "1816082073863815168",
+        "conversation_id": "1937118274300617076",
+        "created_at": "2025-06-23T11:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937118274300617076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYGVUXGvkw",
+              "end": 23,
+              "expanded_url": "https://x.com/MrZ1evel/status/1937118274300617076/photo/1",
+              "media_key": "3_1937118270944952320",
+              "start": 0,
+              "url": "https://t.co/xYGVUXGvkw"
+            },
+            {
+              "display_url": "pic.x.com/xYGVUXGvkw",
+              "end": 23,
+              "expanded_url": "https://x.com/MrZ1evel/status/1937118274300617076/photo/1",
+              "media_key": "3_1937118271842463744",
+              "start": 0,
+              "url": "https://t.co/xYGVUXGvkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937118274300617076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xYGVUXGvkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 434,
+          "like_count": 9000,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T12:04:53.000Z",
+        "description": "玩推特就图一乐，交个朋友也好。第一次玩是2021年5月，不歧视任何人，除非你先来搞我 QQ:3682308306(不是常用账号)\n别开我户求你了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "我是缺爱逼.com",
+                "end": 23,
+                "expanded_url": "http://xn--wnup5gr9mm7mb7t.com",
+                "start": 0,
+                "url": "https://t.co/2l4LUDHVow"
+              }
+            ]
+          }
+        },
+        "id": "1816082073863815168",
+        "location": "Birthday 18 July 2010",
+        "name": "MrZ1evel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936429970529611776/CyVxO-mu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 1924,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/2l4LUDHVow",
+        "username": "MrZ1evel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1999403372471083152",
+    "created_at": "2025-12-12T09:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999410426380222569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1410093182176530437",
+          "start": 0,
+          "username": "CoolJX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999410426380222569",
+    "in_reply_to_user_id": "1410093182176530437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999403569787863395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoolJX4 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1999403372471083152",
+        "created_at": "2025-12-12T09:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999410426380222569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1410093182176530437",
+              "start": 0,
+              "username": "CoolJX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999410426380222569",
+        "in_reply_to_user_id": "1410093182176530437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999403569787863395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoolJX4 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410093182176530437",
+        "conversation_id": "1999403372471083152",
+        "created_at": "2025-12-12T08:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999403569787863395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999403569787863395",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999403372471083152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我在意你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 521,
+          "like_count": 13707,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 3530
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T04:31:11.000Z",
+        "description": "≧ω≦≧∇≦≧ω≦≧∇≦\n薯條：@Flowers8964\n小號：@RisingStar97606\n好朋朋：@SnAuFlat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "RisingStar97606"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "SnAuFlat"
+              }
+            ]
+          }
+        },
+        "id": "1410093182176530437",
+        "location": "Malaysia",
+        "name": "私は 進軒 (｡’▽’｡)♡",
+        "pinned_tweet_id": "1697622511188623794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995515651679834112/ozAugdoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 949,
+          "like_count": 78125,
+          "listed_count": 5,
+          "media_count": 1063,
+          "tweet_count": 9748
+        },
+        "username": "CoolJX4",
+        "verified": false
+      }
+    ]
+  }
+}

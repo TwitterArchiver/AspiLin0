@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040319117031583744"
+      ],
+      "media_source_tweet_id": [
+        "2040319119116095571"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040346053036425274",
+    "created_at": "2026-04-04T08:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040346053036425274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916005601563590656",
+          "start": 3,
+          "username": "Qiongli_BAKA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0b96D0425B",
+          "end": 98,
+          "expanded_url": "https://x.com/Qiongli_BAKA/status/2040319119116095571/photo/1",
+          "media_key": "3_2040319117031583744",
+          "start": 75,
+          "url": "https://t.co/0b96D0425B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040346053036425274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040319119116095571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qiongli_BAKA: 呃\n我也要乞讨\n赛博乞讨了\n穷死了起步价6块钱的出租车都打不起\n家里不怎么给钱(⋟﹏⋞)\n话说好像有点太厚脸皮了 https://t.co/0b96D0425B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2040319117031583744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCrbUcbMAAi1Gx.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040319117031583744"
+          ],
+          "media_source_tweet_id": [
+            "2040319119116095571"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040346053036425274",
+        "created_at": "2026-04-04T08:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040346053036425274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916005601563590656",
+              "start": 3,
+              "username": "Qiongli_BAKA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b96D0425B",
+              "end": 98,
+              "expanded_url": "https://x.com/Qiongli_BAKA/status/2040319119116095571/photo/1",
+              "media_key": "3_2040319117031583744",
+              "start": 75,
+              "url": "https://t.co/0b96D0425B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040346053036425274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040319119116095571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qiongli_BAKA: 呃\n我也要乞讨\n赛博乞讨了\n穷死了起步价6块钱的出租车都打不起\n家里不怎么给钱(⋟﹏⋞)\n话说好像有点太厚脸皮了 https://t.co/0b96D0425B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040319117031583744"
+          ]
+        },
+        "author_id": "1916005601563590656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040319119116095571",
+        "created_at": "2026-04-04T06:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040319119116095571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b96D0425B",
+              "end": 80,
+              "expanded_url": "https://x.com/Qiongli_BAKA/status/2040319119116095571/photo/1",
+              "media_key": "3_2040319117031583744",
+              "start": 57,
+              "url": "https://t.co/0b96D0425B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040319119116095571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃\n我也要乞讨\n赛博乞讨了\n穷死了起步价6块钱的出租车都打不起\n家里不怎么给钱(⋟﹏⋞)\n话说好像有点太厚脸皮了 https://t.co/0b96D0425B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 679,
+          "like_count": 19049,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 4493
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "呜呜呜呜\n最好的朋友  好き@hello1145110043",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "hello1145110043"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3tPgjPG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3tPgjPG",
+                "start": 0,
+                "url": "https://t.co/GTQahueaFa"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "fufu头顶上",
+        "name": "穹璃吖",
+        "pinned_tweet_id": "2040319119116095571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981006291293085696/e6WXa7Yi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 738,
+          "like_count": 2821,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/GTQahueaFa",
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

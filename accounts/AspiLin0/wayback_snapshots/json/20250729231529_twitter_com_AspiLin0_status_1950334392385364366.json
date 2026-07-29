@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950120114570834297",
+    "created_at": "2025-07-29T23:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T00:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950334392385364366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "921081016202100741",
+          "start": 0,
+          "username": "Chinoprprpr"
+        },
+        {
+          "end": 24,
+          "id": "1684788633797287936",
+          "start": 13,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950334392385364366",
+    "in_reply_to_user_id": "921081016202100741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950269485338022000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chinoprprpr @Moningmeng 成瘾性来说大部分毒品都比不过尼古丁\n社会问题永远只是合理的管制问题\n最后一个例证无效，酒精灯为什么不点大麻做燃料，和人无关的用途与讨论命题无关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-29T23:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T00:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950334392385364366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "921081016202100741",
+              "start": 0,
+              "username": "Chinoprprpr"
+            },
+            {
+              "end": 24,
+              "id": "1684788633797287936",
+              "start": 13,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950334392385364366",
+        "in_reply_to_user_id": "921081016202100741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950269485338022000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinoprprpr @Moningmeng 成瘾性来说大部分毒品都比不过尼古丁\n社会问题永远只是合理的管制问题\n最后一个例证无效，酒精灯为什么不点大麻做燃料，和人无关的用途与讨论命题无关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921081016202100741",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-29T18:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T19:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950269485338022000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 21,
+              "id": "1684788633797287936",
+              "start": 10,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950269485338022000",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950130124227293591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @Moningmeng 本质区别不大？你倒是说说哪里区别不大？无论成瘾性还是危害，毒品或者说精神类药物都远大于烟酒，社会问题也根本不在一个层面😅能说出“毒品和烟酒本质区别不大”的人到底是有多蠢，手术台需要麻醉的时候医生打的难道不是精神类药物而是烟酒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 446,
+          "like_count": 9898,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T18:30:01.000Z",
+        "description": "佛系/玩游戏为了快乐/请勿转发墙内\n为了避免误会所以把emoji换成了🐴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/chinoprp…",
+                "end": 23,
+                "expanded_url": "http://peing.net/zh-TW/chinoprprpr",
+                "start": 0,
+                "url": "https://t.co/Pn6H4m5BhE"
+              }
+            ]
+          }
+        },
+        "id": "921081016202100741",
+        "location": "广东, 中华人民共和国",
+        "name": "智乃prprpr🐴不是炼铜",
+        "pinned_tweet_id": "1282412463921586176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339336645988896768/-fsVuCBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 529,
+          "like_count": 5097,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 5705
+        },
+        "url": "https://t.co/Pn6H4m5BhE",
+        "username": "Chinoprprpr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21754,
+          "following_count": 10879,
+          "like_count": 81654,
+          "listed_count": 77,
+          "media_count": 3970,
+          "tweet_count": 14700
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

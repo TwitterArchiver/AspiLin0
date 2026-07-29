@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937453959565967834",
+    "created_at": "2025-06-24T10:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937458274619785357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761357247643594752",
+          "start": 0,
+          "username": "mugong5036"
+        },
+        {
+          "end": 27,
+          "id": "1924965014831824896",
+          "start": 12,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937458274619785357",
+    "in_reply_to_user_id": "1761357247643594752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937455844209102902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mugong5036 @Yuwen_Tang1019 有人分析过是创伤导致的（\n不过原文献找不到了就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937453959565967834",
+        "created_at": "2025-06-24T10:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937458274619785357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761357247643594752",
+              "start": 0,
+              "username": "mugong5036"
+            },
+            {
+              "end": 27,
+              "id": "1924965014831824896",
+              "start": 12,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937458274619785357",
+        "in_reply_to_user_id": "1761357247643594752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937455844209102902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mugong5036 @Yuwen_Tang1019 有人分析过是创伤导致的（\n不过原文献找不到了就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761357247643594752",
+        "conversation_id": "1937453959565967834",
+        "created_at": "2025-06-24T10:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937455844209102902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937455844209102902",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937453959565967834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 就比如你我永远理解不了为什么有人体面的金钱来源不要要去圆角"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 438,
+          "like_count": 9140,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:47:58.000Z",
+        "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\nmtf/hrt24.03\n反跨跨畜-滥药毒虫-合约土块-钞票走狗-总之就是人渣败类\n 🚪888.88 \n二代帐号:@mugong5037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mugong5037"
+              }
+            ]
+          }
+        },
+        "id": "1761357247643594752",
+        "name": "子归离🍥",
+        "pinned_tweet_id": "1933751893983178884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 552,
+          "like_count": 14302,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 4107
+        },
+        "username": "mugong5036",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF木桶饭\n墨尔本\n道德价值观如钢板\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 58,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 35,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "迪肯大学",
+        "name": "NoMTF | 唐毓文",
+        "pinned_tweet_id": "1937353251449635121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 244,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2081770755671634226",
+    "created_at": "2026-07-28T03:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081948834184454352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900590967289466880",
+          "start": 0,
+          "username": "hathawaybk56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081948834184454352",
+    "in_reply_to_user_id": "1900590967289466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081830142880645183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hathawaybk56 没有只是看了下通知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2081770755671634226",
+        "created_at": "2026-07-28T03:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081948834184454352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900590967289466880",
+              "start": 0,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081948834184454352",
+        "in_reply_to_user_id": "1900590967289466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081830142880645183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hathawaybk56 没有只是看了下通知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900590967289466880",
+        "conversation_id": "2081770755671634226",
+        "created_at": "2026-07-27T19:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081830142880645183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081830142880645183",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081770755671634226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 这个时候军训吗，好苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛🍥",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 770,
+          "like_count": 22161,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 5240
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T16:53:04.000Z",
+        "description": "弗洛伊德是我的精神导师",
+        "id": "1900590967289466880",
+        "location": "天台",
+        "name": "Noa人间",
+        "pinned_tweet_id": "2020513526213693947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081820146621132800/HppBLLDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 23,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "hathawaybk56",
+        "verified": false
+      }
+    ]
+  }
+}

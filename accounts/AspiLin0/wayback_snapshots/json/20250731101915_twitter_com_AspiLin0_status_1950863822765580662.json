@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950863822765580662",
+    "created_at": "2025-07-31T10:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T11:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950863822765580662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1621839796674101249",
+          "start": 3,
+          "username": "a123p567890"
+        },
+        {
+          "end": 26,
+          "id": "1360161759257104384",
+          "start": 17,
+          "username": "AspiLin0"
+        },
+        {
+          "end": 38,
+          "id": "1627301480440164352",
+          "start": 27,
+          "username": "Lily_Syrup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cupric_oxide_/…",
+          "end": 68,
+          "expanded_url": "https://x.com/cupric_oxide_/status/1911227794031608251?t=TBCVqdfebLYZi53Iz9eExQ&s=19",
+          "start": 45,
+          "url": "https://t.co/RnHAUCEale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950863822765580662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950860527640408535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a123p567890: @AspiLin0 @Lily_Syrup 可能是他哥的https://t.co/RnHAUCEale"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950863822765580662",
+        "created_at": "2025-07-31T10:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950863822765580662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1621839796674101249",
+              "start": 3,
+              "username": "a123p567890"
+            },
+            {
+              "end": 26,
+              "id": "1360161759257104384",
+              "start": 17,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 38,
+              "id": "1627301480440164352",
+              "start": 27,
+              "username": "Lily_Syrup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cupric_oxide_/…",
+              "end": 68,
+              "expanded_url": "https://x.com/cupric_oxide_/status/1911227794031608251?t=TBCVqdfebLYZi53Iz9eExQ&s=19",
+              "start": 45,
+              "url": "https://t.co/RnHAUCEale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950863822765580662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950860527640408535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a123p567890: @AspiLin0 @Lily_Syrup 可能是他哥的https://t.co/RnHAUCEale"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621839796674101249",
+        "conversation_id": "1950807211493527707",
+        "created_at": "2025-07-31T10:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950860527640408535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 21,
+              "id": "1627301480440164352",
+              "start": 10,
+              "username": "Lily_Syrup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cupric_oxide_/…",
+              "end": 51,
+              "expanded_url": "https://x.com/cupric_oxide_/status/1911227794031608251?t=TBCVqdfebLYZi53Iz9eExQ&s=19",
+              "start": 28,
+              "url": "https://t.co/RnHAUCEale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950860527640408535",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911227794031608251",
+            "type": "quoted"
+          },
+          {
+            "id": "1950810913121984613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @Lily_Syrup 可能是他哥的https://t.co/RnHAUCEale"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 448,
+          "like_count": 10143,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T11:55:38.000Z",
+        "description": "…",
+        "id": "1621839796674101249",
+        "location": "𝚂𝚘𝚕𝚊𝚛 𝚂𝚢𝚜𝚝𝚎𝚖",
+        "name": "꧁꫞ℐ 𝑊𝑎𝑛𝑡 𝔜𝔬𝔲 𝟮 (𝕊𝕥𝕒𝕪)꫞꧂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915748559196237825/cFMUsuYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1587,
+          "like_count": 9913,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "a123p567890",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜你可以叫我 糖浆｜有理有据表达不满 ｜烤批粥原摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka\n｜用爱发电@Alter_Syrup ｜单推@hatunagi_yuzuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Alter_Syrup"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "Hypersthene",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900478254311776256/0XzoVkXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1251,
+          "like_count": 106226,
+          "listed_count": 4,
+          "media_count": 1365,
+          "tweet_count": 6556
+        },
+        "username": "Lily_Syrup",
+        "verified": false
+      }
+    ]
+  }
+}

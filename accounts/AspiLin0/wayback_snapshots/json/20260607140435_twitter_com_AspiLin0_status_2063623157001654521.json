@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2063471395355734036",
+    "created_at": "2026-06-07T14:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063623157001654521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999956455433371648",
+          "start": 0,
+          "username": "ILRX1016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063623157001654521",
+    "in_reply_to_user_id": "1999956455433371648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063607789361225917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ILRX1016 全国一卷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2063471395355734036",
+        "created_at": "2026-06-07T14:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063623157001654521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999956455433371648",
+              "start": 0,
+              "username": "ILRX1016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063623157001654521",
+        "in_reply_to_user_id": "1999956455433371648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607789361225917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ILRX1016 全国一卷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999956455433371648",
+        "conversation_id": "2063471395355734036",
+        "created_at": "2026-06-07T13:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063607789361225917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063607789361225917",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063471395355734036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 什么地区什么题目？我突然想试试看自己有没有思路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 755,
+          "like_count": 20962,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 4954
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T21:36:25.000Z",
+        "description": "愿你们得到幸福\n我没有抑郁症",
+        "id": "1999956455433371648",
+        "name": "ILRX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999957163515817984/Up3Jn1II_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 157
+        },
+        "username": "ILRX1016",
+        "verified": false
+      }
+    ]
+  }
+}

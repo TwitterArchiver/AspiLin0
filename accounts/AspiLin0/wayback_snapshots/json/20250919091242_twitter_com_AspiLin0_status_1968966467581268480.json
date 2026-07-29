@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968966467581268480",
+    "created_at": "2025-09-19T09:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T10:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968966467581268480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Y ou can add new chats to your chat list on Telegram.",
+          "display_url": "t.me/addlist/ajDVgp…",
+          "end": 109,
+          "expanded_url": "https://t.me/addlist/ajDVgpdmrLo4ZDk8",
+          "start": 86,
+          "status": 200,
+          "title": "Telegram: Add Chats",
+          "unwound_url": "https://t.me/addlist/ajDVgpdmrLo4ZDk8",
+          "url": "https://t.co/KsjNIw9C8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968966467581268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968966080015049138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 各位要来插眼370的日雌吗w\n我们在未来可能会搞大使计划，所以说可以先加频道观望这样，另外请让我看到你们高举的双手(笑\n先加频道不迷路：https://t.co/KsjNIw9C8j\n也可以看看我们的qq群：1040170880 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_1968966072616583168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MsNgUbgAAFggl.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968966467581268480",
+        "created_at": "2025-09-19T09:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968966467581268480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Y ou can add new chats to your chat list on Telegram.",
+              "display_url": "t.me/addlist/ajDVgp…",
+              "end": 109,
+              "expanded_url": "https://t.me/addlist/ajDVgpdmrLo4ZDk8",
+              "start": 86,
+              "status": 200,
+              "title": "Telegram: Add Chats",
+              "unwound_url": "https://t.me/addlist/ajDVgpdmrLo4ZDk8",
+              "url": "https://t.co/KsjNIw9C8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968966467581268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968966080015049138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 各位要来插眼370的日雌吗w\n我们在未来可能会搞大使计划，所以说可以先加频道观望这样，另外请让我看到你们高举的双手(笑\n先加频道不迷路：https://t.co/KsjNIw9C8j\n也可以看看我们的qq群：1040170880 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968966072616583168"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1968966080015049138",
+        "created_at": "2025-09-19T09:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968966080015049138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Y ou can add new chats to your chat list on Telegram.",
+              "display_url": "t.me/addlist/ajDVgp…",
+              "end": 91,
+              "expanded_url": "https://t.me/addlist/ajDVgpdmrLo4ZDk8",
+              "start": 68,
+              "status": 200,
+              "title": "Telegram: Add Chats",
+              "unwound_url": "https://t.me/addlist/ajDVgpdmrLo4ZDk8",
+              "url": "https://t.co/KsjNIw9C8j"
+            },
+            {
+              "display_url": "pic.x.com/oraejAdLZo",
+              "end": 138,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1968966080015049138/photo/1",
+              "media_key": "3_1968966072616583168",
+              "start": 115,
+              "url": "https://t.co/oraejAdLZo"
+            },
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1968382078577426613",
+              "start": 139,
+              "url": "https://t.co/jgYGW9TCwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968966080015049138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968382078577426613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位要来插眼370的日雌吗w\n我们在未来可能会搞大使计划，所以说可以先加频道观望这样，另外请让我看到你们高举的双手(笑\n先加频道不迷路：https://t.co/KsjNIw9C8j\n也可以看看我们的qq群：1040170880 https://t.co/oraejAdLZo https://t.co/jgYGW9TCwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 490,
+          "like_count": 13045,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 3278
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "葉加瀬 水素仍在人間・MTX奇異搞笑小朋友🍥・業餘調查記者、偵探・私人實驗室「水素實驗室」創始人(建設ing…)🧬・有效利他主義者・余命1年 ・「すべてを癒す万能薬になりたい」・Wife @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "location": "Nozomuten Technology&science",
+        "name": "☯️🧬水素實驗室 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 237,
+          "like_count": 966,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 490
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

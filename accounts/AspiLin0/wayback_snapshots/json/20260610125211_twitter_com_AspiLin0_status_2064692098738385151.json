@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2064395978644607234",
+    "created_at": "2026-06-10T12:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064692098738385151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029957028807118848",
+          "start": 0,
+          "username": "Go_Karagawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064692098738385151",
+    "in_reply_to_user_id": "2029957028807118848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064395978644607234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Go_Karagawa 为什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2064395978644607234",
+        "created_at": "2026-06-10T12:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064692098738385151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029957028807118848",
+              "start": 0,
+              "username": "Go_Karagawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064692098738385151",
+        "in_reply_to_user_id": "2029957028807118848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064395978644607234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Go_Karagawa 为什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029957028807118848",
+        "conversation_id": "2064395978644607234",
+        "created_at": "2026-06-09T17:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064395978644607234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064395978644607234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慢慢剥离认识的人，然后找个合适的时间去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 757,
+          "like_count": 21076,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 4978
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T16:28:44.000Z",
+        "description": "容易被孤立的自由主义小市民。\n@MeraK_Rinchi的逃生舱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "MeraK_Rinchi"
+              }
+            ]
+          }
+        },
+        "id": "2029957028807118848",
+        "location": "德国-波茨坦",
+        "name": "空川小五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029957480705630208/Iw8vdDWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 32,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 10
+        },
+        "username": "Go_Karagawa",
+        "verified": false
+      }
+    ]
+  }
+}

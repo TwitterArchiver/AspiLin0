@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2022636169801142694",
+    "created_at": "2026-02-14T11:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022636169801142694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279242635341729792",
+          "start": 3,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022636169801142694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022582210763854018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigomaigoHH: 我甚至在TL上看到了因为下架4o闹自杀的，这还是地球吗，互联网你看看你把人害成什么样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2022636169801142694",
+        "created_at": "2026-02-14T11:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022636169801142694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279242635341729792",
+              "start": 3,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022636169801142694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022582210763854018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigomaigoHH: 我甚至在TL上看到了因为下架4o闹自杀的，这还是地球吗，互联网你看看你把人害成什么样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279242635341729792",
+        "conversation_id": "2022582210763854018",
+        "created_at": "2026-02-14T08:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022582210763854018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022582210763854018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7117,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至在TL上看到了因为下架4o闹自杀的，这还是地球吗，互联网你看看你把人害成什么样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 574,
+          "like_count": 15843,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 3920
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5104,
+          "following_count": 527,
+          "like_count": 24542,
+          "listed_count": 22,
+          "media_count": 1371,
+          "tweet_count": 17636
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,942 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053653751",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1892006613050900480",
+          "name": "Crystal Palace vs Brighton & Hove Albion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "768559217619767296",
+          "name": "Jean-Philippe Mateta"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226211804794880",
+          "name": "England - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1892006613050900480",
+          "name": "Crystal Palace vs Brighton & Hove Albion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1892006613050900480",
+          "name": "Crystal Palace vs Brighton & Hove Albion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "768559217619767296",
+          "name": "Jean-Philippe Mateta"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "768559217619767296",
+          "name": "Jean-Philippe Mateta"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226231832608768",
+          "name": "Brighton & Hove Albion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226231832608768",
+          "name": "Brighton & Hove Albion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      }
+    ],
+    "conversation_id": "1908522054111887471",
+    "created_at": "2025-04-05T14:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908522054111887471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OfficialBHAFC/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/OfficialBHAFC/status/1908521045482491972",
+          "start": 27,
+          "url": "https://t.co/waJhIPaM8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908522054111887471",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908521045482491972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Thanks for saving my time😅 https://t.co/waJhIPaM8A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "768559217619767296",
+              "name": "Jean-Philippe Mateta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "768559217619767296",
+              "name": "Jean-Philippe Mateta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "768559217619767296",
+              "name": "Jean-Philippe Mateta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832608768",
+              "name": "Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832608768",
+              "name": "Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          }
+        ],
+        "conversation_id": "1908522054111887471",
+        "created_at": "2025-04-05T14:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908522054111887471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OfficialBHAFC/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/OfficialBHAFC/status/1908521045482491972",
+              "start": 27,
+              "url": "https://t.co/waJhIPaM8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908522054111887471",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908521045482491972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Thanks for saving my time😅 https://t.co/waJhIPaM8A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "57606154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "768559217619767296",
+              "name": "Jean-Philippe Mateta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "768559217619767296",
+              "name": "Jean-Philippe Mateta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "768559217619767296",
+              "name": "Jean-Philippe Mateta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832608768",
+              "name": "Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832608768",
+              "name": "Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1892006613050900480",
+              "name": "Crystal Palace vs Brighton & Hove Albion"
+            }
+          }
+        ],
+        "conversation_id": "1908521045482491972",
+        "created_at": "2025-04-05T14:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908521045482491972"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Jean-Philippe Mateta",
+              "probability": 0.8348,
+              "start": 4,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "BHAFC",
+              "probability": 0.5045,
+              "start": 65,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "CRYBHA"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "BHAFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908521045482491972",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6168,
+          "like_count": 54,
+          "quote_count": 12,
+          "reply_count": 52,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "4': Jean-Philippe Mateta opens the scoring.\n\n[1-0] 📲 #CRYBHA // #BHAFC 🟡🔵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些某名奇妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 285,
+          "like_count": 3496,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-17T10:08:15.000Z",
+        "description": "Official Albion account. @BHAFCWomen ⚽️ // @BHAFC_Academy 💙 // @OfficialBHAJPN 🇯🇵 // @BHAFCFoundation 🤝 // @OfficialBHAHelp 💬 // #BHAFC 📲",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "BHAFC"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "BHAFCWomen"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "BHAFC_Academy"
+              },
+              {
+                "end": 78,
+                "start": 63,
+                "username": "OfficialBHAJPN"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "BHAFCFoundation"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "OfficialBHAHelp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brightonandhovealbion.com/pages/en/home",
+                "end": 23,
+                "expanded_url": "https://www.brightonandhovealbion.com/pages/en/home",
+                "start": 0,
+                "url": "https://t.co/GavYHzm0q2"
+              }
+            ]
+          }
+        },
+        "id": "57606154",
+        "location": "Brighton & Hove",
+        "name": "Brighton & Hove Albion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889708203207798784/U5KauHQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054143,
+          "following_count": 227,
+          "like_count": 9933,
+          "listed_count": 4435,
+          "media_count": 38174,
+          "tweet_count": 91088
+        },
+        "url": "https://t.co/GavYHzm0q2",
+        "username": "OfficialBHAFC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903077514026582104",
+    "created_at": "2025-03-21T13:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T14:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903077514026582104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kiraing_poi/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Kiraing_poi/status/1902769576825569626",
+          "start": 6,
+          "url": "https://t.co/w32ndmD4d1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903077514026582104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902769576825569626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "486可爱 https://t.co/w32ndmD4d1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_1902769560312483841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmf-1XPaEAEkBG_.jpg",
+        "width": 1311
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903077514026582104",
+        "created_at": "2025-03-21T13:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T14:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903077514026582104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kiraing_poi/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Kiraing_poi/status/1902769576825569626",
+              "start": 6,
+              "url": "https://t.co/w32ndmD4d1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903077514026582104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902769576825569626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "486可爱 https://t.co/w32ndmD4d1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902769560312483841"
+          ]
+        },
+        "author_id": "1845043295807995907",
+        "conversation_id": "1902769576825569626",
+        "created_at": "2025-03-20T17:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T18:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902769576825569626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOxValXO7F",
+              "end": 37,
+              "expanded_url": "https://x.com/Kiraing_poi/status/1902769576825569626/photo/1",
+              "media_key": "3_1902769560312483841",
+              "start": 14,
+              "url": "https://t.co/rOxValXO7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902769576825569626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 45224,
+          "like_count": 4483,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 633
+        },
+        "reply_settings": "everyone",
+        "text": "peace✌️ #ガルクラ https://t.co/rOxValXO7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 234,
+          "like_count": 2366,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:06:33.000Z",
+        "description": "练习中",
+        "id": "1845043295807995907",
+        "name": "Kiraing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845097971299323908/GGq6IDMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 13,
+          "like_count": 117,
+          "listed_count": 20,
+          "media_count": 15,
+          "tweet_count": 15
+        },
+        "username": "Kiraing_poi",
+        "verified": false
+      }
+    ]
+  }
+}

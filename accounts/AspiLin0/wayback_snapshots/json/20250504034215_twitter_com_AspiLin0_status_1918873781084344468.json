@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918872408376955274",
+    "created_at": "2025-05-04T03:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T04:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918873781084344468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620590639200059397",
+          "start": 0,
+          "username": "QwQMikuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918873781084344468",
+    "in_reply_to_user_id": "1620590639200059397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918872408376955274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQMikuF 看不起我做题家是吧😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918872408376955274",
+        "created_at": "2025-05-04T03:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T04:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918873781084344468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620590639200059397",
+              "start": 0,
+              "username": "QwQMikuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918873781084344468",
+        "in_reply_to_user_id": "1620590639200059397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918872408376955274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQMikuF 看不起我做题家是吧😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620590639200059397",
+        "conversation_id": "1918872408376955274",
+        "created_at": "2025-05-04T03:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T04:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918872408376955274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918872408376955274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉跨是最性压抑的那批人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 352,
+          "like_count": 5506,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:11:41.000Z",
+        "description": "普通中国高中牲/音游/可以叫我葱葱！😼",
+        "id": "1620590639200059397",
+        "location": "People's Republic of China",
+        "name": "Y葱Y✞",
+        "pinned_tweet_id": "1913458729581973946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880621684585291776/nd7GKbWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 297,
+          "like_count": 2090,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1463
+        },
+        "username": "QwQMikuF",
+        "verified": false
+      }
+    ]
+  }
+}

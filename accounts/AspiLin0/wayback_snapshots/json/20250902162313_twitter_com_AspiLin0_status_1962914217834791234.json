@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962914214764515328"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1962914217834791234",
+    "created_at": "2025-09-02T16:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962914217834791234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZOqQ5VlOY",
+          "end": 38,
+          "expanded_url": "https://x.com/AspiLin0/status/1962914217834791234/photo/1",
+          "media_key": "3_1962914214764515328",
+          "start": 15,
+          "url": "https://t.co/pZOqQ5VlOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962914217834791234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们我们精神分析是这样的： https://t.co/pZOqQ5VlOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962914214764515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2sFA-akAAidjh.jpg",
+        "width": 551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962914214764515328"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1962914217834791234",
+        "created_at": "2025-09-02T16:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962914217834791234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZOqQ5VlOY",
+              "end": 38,
+              "expanded_url": "https://x.com/AspiLin0/status/1962914217834791234/photo/1",
+              "media_key": "3_1962914214764515328",
+              "start": 15,
+              "url": "https://t.co/pZOqQ5VlOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962914217834791234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我们精神分析是这样的： https://t.co/pZOqQ5VlOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 481,
+          "like_count": 12630,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 3138
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

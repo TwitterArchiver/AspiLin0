@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2060419821200879714",
+    "created_at": "2026-05-29T17:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060419821200879714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1469027102536380416",
+          "start": 3,
+          "username": "auesea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060419821200879714",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060346299384553486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @auesea: 너를 좋아하던 그날들이 나에게는 가장 행복한 순간들이었다고"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2060419821200879714",
+        "created_at": "2026-05-29T17:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060419821200879714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1469027102536380416",
+              "start": 3,
+              "username": "auesea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060419821200879714",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060346299384553486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @auesea: 너를 좋아하던 그날들이 나에게는 가장 행복한 순간들이었다고"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469027102536380416",
+        "conversation_id": "2060346299384553486",
+        "created_at": "2026-05-29T13:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060346299384553486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060346299384553486",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 28238,
+          "like_count": 576,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "너를 좋아하던 그날들이 나에게는 가장 행복한 순간들이었다고"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 753,
+          "like_count": 20945,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 4915
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-09T19:32:24.000Z",
+        "description": "",
+        "id": "1469027102536380416",
+        "name": "໊",
+        "pinned_tweet_id": "1862826866912231706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050746624935391232/x0s25V-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59951,
+          "following_count": 0,
+          "like_count": 100915,
+          "listed_count": 139,
+          "media_count": 1193,
+          "tweet_count": 16302
+        },
+        "username": "auesea",
+        "verified": false
+      }
+    ]
+  }
+}

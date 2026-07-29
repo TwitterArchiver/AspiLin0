@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1905284576299147274",
+    "created_at": "2025-03-28T13:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T14:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905619035502575686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619373564217663488",
+          "start": 0,
+          "username": "Yankey22560980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905619035502575686",
+    "in_reply_to_user_id": "1619373564217663488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905284576299147274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yankey22560980 🤔佛教很重要的一观点不是破我执吗（？）\n也就是说如果选择佛教的话意味着需要认识到自我是虚假的，认识到这些性别都是虚假的\n与🏳️‍⚧️的目的是不是有些冲突了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1905284576299147274",
+        "created_at": "2025-03-28T13:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905619035502575686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619373564217663488",
+              "start": 0,
+              "username": "Yankey22560980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905619035502575686",
+        "in_reply_to_user_id": "1619373564217663488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905284576299147274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yankey22560980 🤔佛教很重要的一观点不是破我执吗（？）\n也就是说如果选择佛教的话意味着需要认识到自我是虚假的，认识到这些性别都是虚假的\n与🏳️‍⚧️的目的是不是有些冲突了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619373564217663488",
+        "conversation_id": "1905284576299147274",
+        "created_at": "2025-03-27T15:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T16:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905284576299147274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yankey22560980…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/yankey22560980/status/1905264585147310459",
+              "start": 108,
+              "url": "https://t.co/t169n5imVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905284576299147274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4375,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905264585147310459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "艹，没人理我😭，有没有佛教🏳️‍⚧️的。虽然我不是很硬核那种，而且不太守戒律，但是有时仍然会自发为去喵喵星的xyn念经超度哦…\n别骂…，我知道自己很缝合，如果我以后状态更好，有时间有精力打扮自己了，甚至还想擦边的… https://t.co/t169n5imVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 261,
+          "like_count": 2892,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T16:35:28.000Z",
+        "description": "精神病患\nhttps://t.co/EICUs9cs3S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransChatDevel…",
+                "end": 28,
+                "expanded_url": "https://github.com/TransChatDevelopment/.github",
+                "start": 5,
+                "url": "https://t.co/EICUs9cs3S"
+              }
+            ]
+          }
+        },
+        "id": "1619373564217663488",
+        "name": "🍥🍥haha🏳️‍⚧️",
+        "pinned_tweet_id": "1902376770361242008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746886617061593088/VM2XwwMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 387,
+          "like_count": 6225,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1363
+        },
+        "username": "Yankey22560980",
+        "verified": false
+      }
+    ]
+  }
+}

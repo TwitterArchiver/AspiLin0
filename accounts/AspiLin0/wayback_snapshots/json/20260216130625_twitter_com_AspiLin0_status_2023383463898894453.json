@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023363419693552122",
+    "created_at": "2026-02-16T13:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023383463898894453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959422320491347968",
+          "start": 0,
+          "username": "Meow5tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023383463898894453",
+    "in_reply_to_user_id": "1959422320491347968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023363419693552122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow5tr 心理咨询师欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023363398767976448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRuSnsXoAASFBW.jpg",
+        "width": 1187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023363419693552122",
+        "created_at": "2026-02-16T13:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023383463898894453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959422320491347968",
+              "start": 0,
+              "username": "Meow5tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023383463898894453",
+        "in_reply_to_user_id": "1959422320491347968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023363419693552122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow5tr 心理咨询师欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023363398767976448"
+          ]
+        },
+        "author_id": "1959422320491347968",
+        "conversation_id": "2023363419693552122",
+        "created_at": "2026-02-16T11:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023363419693552122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hn7DubsuPH",
+              "end": 23,
+              "expanded_url": "https://x.com/Meow5tr/status/2023363419693552122/photo/1",
+              "media_key": "3_2023363398767976448",
+              "start": 0,
+              "url": "https://t.co/hn7DubsuPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023363419693552122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hn7DubsuPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 592,
+          "like_count": 16236,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 3979
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-24T01:07:49.000Z",
+        "description": "🍥|司祭|🪼|No Biological Sex|✨：@yaoguangmao|Discipline：Physical Chemi/Quantum phy/Quantum chro/Neurophysi/M-theory",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "yaoguangmao"
+              }
+            ]
+          }
+        },
+        "id": "1959422320491347968",
+        "name": "Mon5🍥",
+        "pinned_tweet_id": "2023363419693552122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023347910138900480/MX5ULQRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 5,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "Meow5tr",
+        "verified": true
+      }
+    ]
+  }
+}

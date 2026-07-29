@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2043636378232389864",
+    "created_at": "2026-04-13T10:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043636378232389864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043636378232389864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉已经把悖论完全玩明白了(\n应该只有五种是比较有意思的，然后都有一定的解释方案\n1)自指型:罗素悖论，说谎者悖论，苏格拉底悖论等\n2)无限型:Yablo悖论，超任务引发的一系列问题\n3)主客观混淆:中文屋悖论，色盲悖论\n4)语言滥用:忒修斯之船，谷堆悖论\n5)认知论相关:意外考试悖论，睡美人悖论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2043636378232389864",
+        "created_at": "2026-04-13T10:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043636378232389864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043636378232389864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉已经把悖论完全玩明白了(\n应该只有五种是比较有意思的，然后都有一定的解释方案\n1)自指型:罗素悖论，说谎者悖论，苏格拉底悖论等\n2)无限型:Yablo悖论，超任务引发的一系列问题\n3)主客观混淆:中文屋悖论，色盲悖论\n4)语言滥用:忒修斯之船，谷堆悖论\n5)认知论相关:意外考试悖论，睡美人悖论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 700,
+          "like_count": 19636,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 4631
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

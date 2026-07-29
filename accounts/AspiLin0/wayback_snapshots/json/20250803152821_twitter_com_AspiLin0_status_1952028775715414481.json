@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952027541163893020",
+    "created_at": "2025-08-03T15:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952028775715414481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901896270",
+          "start": 0,
+          "username": "Ruizei_Ayan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952028775715414481",
+    "in_reply_to_user_id": "901896270",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952027541163893020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruizei_Ayan 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952027538009763840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxb-tBraMAAcIeJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952027541163893020",
+        "created_at": "2025-08-03T15:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952028775715414481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901896270",
+              "start": 0,
+              "username": "Ruizei_Ayan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952028775715414481",
+        "in_reply_to_user_id": "901896270",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952027541163893020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruizei_Ayan 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952027538009763840"
+          ]
+        },
+        "author_id": "901896270",
+        "conversation_id": "1952027541163893020",
+        "created_at": "2025-08-03T15:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952027541163893020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KuyiuR7hn",
+              "end": 30,
+              "expanded_url": "https://x.com/Ruizei_Ayan/status/1952027541163893020/photo/1",
+              "media_key": "3_1952027538009763840",
+              "start": 7,
+              "url": "https://t.co/3KuyiuR7hn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952027541163893020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陪完数钱环节 https://t.co/3KuyiuR7hn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 462,
+          "like_count": 11003,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 2757
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-24T14:11:55.000Z",
+        "description": "迷途中的冷泉狐🦊 | 04 | mtx🏳‍⚧ | 友跨 | 重度社恐 | INFP-T | 不鉴证 | 日常or发病推 | 重抑中焦 | 有🐰 | 认知重建中 | 前路无坎坷 归来有星光✨",
+        "id": "901896270",
+        "location": "杭州",
+        "name": "凌波冷泉（🦊言乱语版）",
+        "pinned_tweet_id": "1926096616945045797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909505261695647747/6teDihf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 171,
+          "like_count": 2349,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1569
+        },
+        "username": "Ruizei_Ayan",
+        "verified": false
+      }
+    ]
+  }
+}

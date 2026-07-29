@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1938989242610524202",
+    "created_at": "2025-06-29T04:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T05:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939175534166188087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835764493231751168",
+          "start": 0,
+          "username": "mirekintoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939175534166188087",
+    "in_reply_to_user_id": "1835764493231751168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938989242610524202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirekintoc 加油欸\n保送了就可以随便摆了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1938989242610524202",
+        "created_at": "2025-06-29T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939175534166188087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835764493231751168",
+              "start": 0,
+              "username": "mirekintoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939175534166188087",
+        "in_reply_to_user_id": "1835764493231751168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938989242610524202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirekintoc 加油欸\n保送了就可以随便摆了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835764493231751168",
+        "conversation_id": "1938989242610524202",
+        "created_at": "2025-06-28T15:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938989242610524202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938989242610524202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 150,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在杭二的机房待了好几天……\n中考完次日就开始集训竞赛，从一种忙无间断的到了另一种忙，都挺累的。我个人选择了算法竞赛，这种日程是客观上无法避免的，且是自愿的，但令人疲惫也是事实喵。\n可能这段时间会比较少陪着大家了 ＞_＜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 441,
+          "like_count": 9219,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T19:36:00.000Z",
+        "description": "✨正在重新拾起算法竞赛｜09 年高一 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "ninety_nine199"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "omkechan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mirekintocvoid",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mirekintocvoid",
+                "start": 0,
+                "url": "https://t.co/Gm4k8wa7mW"
+              }
+            ]
+          }
+        },
+        "id": "1835764493231751168",
+        "location": "VALEINT SHIN",
+        "name": "Mirekintoc",
+        "pinned_tweet_id": "1917620497195622553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 883,
+          "like_count": 4539,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/Gm4k8wa7mW",
+        "username": "mirekintoc",
+        "verified": false
+      }
+    ]
+  }
+}

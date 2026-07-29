@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1949832576216211869",
+    "created_at": "2025-07-28T14:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949838887377092872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1665019483474530311",
+          "start": 0,
+          "username": "yuqkchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949838887377092872",
+    "in_reply_to_user_id": "1665019483474530311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949832576216211869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqkchan 有（\n不过鸭舌更多？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1949832573418721280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8yZRYb0AAGKxR.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1949832576216211869",
+        "created_at": "2025-07-28T14:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949838887377092872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1665019483474530311",
+              "start": 0,
+              "username": "yuqkchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949838887377092872",
+        "in_reply_to_user_id": "1665019483474530311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949832576216211869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqkchan 有（\n不过鸭舌更多？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949832573418721280"
+          ]
+        },
+        "author_id": "1665019483474530311",
+        "conversation_id": "1949832576216211869",
+        "created_at": "2025-07-28T14:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949832576216211869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2T5uU7xrd",
+              "end": 36,
+              "expanded_url": "https://x.com/yuqkchan/status/1949832576216211869/photo/1",
+              "media_key": "3_1949832573418721280",
+              "start": 13,
+              "url": "https://t.co/I2T5uU7xrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949832576216211869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温州特产是鱼饼吗\n🍥（？ https://t.co/I2T5uU7xrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 443,
+          "like_count": 9774,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T15:36:06.000Z",
+        "description": "春の中に 君と落ちていく。\nAmature Radio Callsign BD6IBL\n纯透明低质量kiger\n疑似要重读高一了\n🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuqknya",
+                "end": 23,
+                "expanded_url": "https://t.me/yuqknya",
+                "start": 0,
+                "url": "https://t.co/tPDi9AeKpd"
+              }
+            ]
+          }
+        },
+        "id": "1665019483474530311",
+        "location": "0371/OM64¿¿",
+        "name": "C⅐H⅑ClF³NO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947324569326657537/mQnCW7GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 1146,
+          "like_count": 8432,
+          "listed_count": 5,
+          "media_count": 972,
+          "tweet_count": 6730
+        },
+        "url": "https://t.co/tPDi9AeKpd",
+        "username": "yuqkchan",
+        "verified": false
+      }
+    ]
+  }
+}

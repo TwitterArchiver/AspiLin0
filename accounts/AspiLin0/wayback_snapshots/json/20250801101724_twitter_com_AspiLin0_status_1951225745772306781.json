@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951225742366498816"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1951225745772306781",
+    "created_at": "2025-08-01T10:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T11:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951225745772306781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/puzeLdYByd",
+          "end": 115,
+          "expanded_url": "https://x.com/AspiLin0/status/1951225745772306781/photo/1",
+          "media_key": "3_1951225742366498816",
+          "start": 92,
+          "url": "https://t.co/puzeLdYByd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951225745772306781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以要开什么形式的空间呢？\n是闲聊的，座谈式的，还是讲座式的？（（\n开那种讲座式的（但是能自由提问之类的）会不会太无聊死板了\n但是感觉座谈式的最后也会演变成只有一个人在讲？\n有点困难 https://t.co/puzeLdYByd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_1951225742366498816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQleYJaYAAlPTe.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951225742366498816"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1951225745772306781",
+        "created_at": "2025-08-01T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951225745772306781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/puzeLdYByd",
+              "end": 115,
+              "expanded_url": "https://x.com/AspiLin0/status/1951225745772306781/photo/1",
+              "media_key": "3_1951225742366498816",
+              "start": 92,
+              "url": "https://t.co/puzeLdYByd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951225745772306781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以要开什么形式的空间呢？\n是闲聊的，座谈式的，还是讲座式的？（（\n开那种讲座式的（但是能自由提问之类的）会不会太无聊死板了\n但是感觉座谈式的最后也会演变成只有一个人在讲？\n有点困难 https://t.co/puzeLdYByd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 451,
+          "like_count": 10317,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2012121365630042335",
+    "created_at": "2026-01-17T14:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012531086015017379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012531086015017379",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012121365630042335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 自杀性的环境破坏是本时代的一个重要特征"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012121357237313537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x9trcbYAENrCm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2012121365630042335",
+        "created_at": "2026-01-17T14:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012531086015017379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012531086015017379",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012121365630042335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 自杀性的环境破坏是本时代的一个重要特征"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012121357237313537"
+          ]
+        },
+        "author_id": "3889037112",
+        "conversation_id": "2012121365630042335",
+        "created_at": "2026-01-16T11:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012121365630042335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/resqzUKnIT",
+              "end": 37,
+              "expanded_url": "https://x.com/ntfuko/status/2012121365630042335/photo/1",
+              "media_key": "3_2012121357237313537",
+              "start": 14,
+              "url": "https://t.co/resqzUKnIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012121365630042335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人類本身就是一場滅絕紀元！ https://t.co/resqzUKnIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 529,
+          "like_count": 14574,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3721
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了\n還希望保持聯絡的推友請fo我、\nまた見つけてくれてありがとう。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "pinned_tweet_id": "2007498195707015530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 143,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 173
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

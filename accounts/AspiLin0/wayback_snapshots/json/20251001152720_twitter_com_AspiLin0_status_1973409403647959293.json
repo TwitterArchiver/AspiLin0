@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1973409333007491426",
+    "created_at": "2025-10-01T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973409403647959293"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973409403647959293",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973409333007491426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "混沌邪恶：奇奇你坏事做尽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1973409333007491426",
+        "created_at": "2025-10-01T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973409403647959293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973409403647959293",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973409333007491426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "混沌邪恶：奇奇你坏事做尽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1973409333007491426",
+        "created_at": "2025-10-01T15:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973409333007491426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/19…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/grok/status/1973407278872293723",
+              "start": 155,
+              "url": "https://t.co/xBxjhgzdo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973409333007491426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973407278872293723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解读;\n守序善良:拾柒是小天使所以是守序善良\n中立善良:有待更多的了解\n混乱善良:灵狐，混沌的外在下有美好的心（\n守序中立:有待更多了解\n完全中立:阿片是logos的信徒当然完全中立（\n混乱中立:清凤，因为大多时候是提出问题，但是基本倾向有点怪\n守序邪恶：wayne,理性但偏离大众？\n邪恶中立：swc，合理 https://t.co/xBxjhgzdo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 503,
+          "like_count": 13124,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 3341
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

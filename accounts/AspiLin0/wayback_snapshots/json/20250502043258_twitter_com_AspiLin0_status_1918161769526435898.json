@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1917932832326107603",
+    "created_at": "2025-05-02T04:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T05:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918161769526435898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        },
+        {
+          "end": 32,
+          "id": "1470943033365438470",
+          "start": 17,
+          "username": "_Camano_Diana_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918161769526435898",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918144012986532117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi @_Camano_Diana_ True"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1918144010616750081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp6d0JzawAEYx-Z.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1917932832326107603",
+        "created_at": "2025-05-02T04:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T05:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918161769526435898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            },
+            {
+              "end": 32,
+              "id": "1470943033365438470",
+              "start": 17,
+              "username": "_Camano_Diana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918161769526435898",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918144012986532117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi @_Camano_Diana_ True"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918144010616750081"
+          ]
+        },
+        "author_id": "1356583549",
+        "conversation_id": "1917932832326107603",
+        "created_at": "2025-05-02T03:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T04:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918144012986532117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "_Camano_Diana_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWfoLhIYBo",
+              "end": 39,
+              "expanded_url": "https://x.com/kagurazakayashi/status/1918144012986532117/photo/1",
+              "media_key": "3_1918144010616750081",
+              "start": 16,
+              "url": "https://t.co/YWfoLhIYBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918144012986532117",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917932832326107603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Camano_Diana_ https://t.co/YWfoLhIYBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 336,
+          "like_count": 4854,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "2023.7之前的所有内容已经清空，这里是3周目，今年女装11周年啦，希望认识更多友人。没有头像和推文的还有广告人乐子人还是别点关注哦，会被拉黑的。大龄伪娘，非药非跨，友跨顺男，纯爱好不发18x。之前脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推🩵🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩👒KagurazakaMiyabi",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701949516134375424/nAcSX2PA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13513,
+          "following_count": 5132,
+          "like_count": 16081,
+          "listed_count": 57,
+          "media_count": 391,
+          "tweet_count": 3243
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "酷儿🏳️‍⚧️ 禅学家 反孔精英 嘉心糖专政 生态主义❄️",
+        "id": "1470943033365438470",
+        "location": "Pacific Temperate Rainforest",
+        "name": "然子",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901482275491180544/Z1RmW6Kb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 894,
+          "like_count": 24139,
+          "listed_count": 11,
+          "media_count": 1236,
+          "tweet_count": 16328
+        },
+        "username": "_Camano_Diana_",
+        "verified": false
+      }
+    ]
+  }
+}

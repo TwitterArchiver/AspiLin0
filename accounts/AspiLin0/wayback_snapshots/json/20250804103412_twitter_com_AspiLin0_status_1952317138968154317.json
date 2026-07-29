@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952142575114272768"
+      ],
+      "media_source_tweet_id": [
+        "1952142580852146180"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952317138968154317",
+    "created_at": "2025-08-04T10:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952317138968154317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604096095788769280",
+          "start": 3,
+          "username": "mirute3939"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eXs1R3L4Ft",
+          "end": 56,
+          "expanded_url": "https://x.com/mirute3939/status/1952142580852146180/photo/1",
+          "media_key": "3_1952142575114272768",
+          "start": 33,
+          "url": "https://t.co/eXs1R3L4Ft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952317138968154317",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952142580852146180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirute3939: Cheerful diva💕🌞✨ https://t.co/eXs1R3L4Ft"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1952142575114272768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxdnVESaQAA6clS.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952142575114272768"
+          ],
+          "media_source_tweet_id": [
+            "1952142580852146180"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952317138968154317",
+        "created_at": "2025-08-04T10:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952317138968154317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604096095788769280",
+              "start": 3,
+              "username": "mirute3939"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eXs1R3L4Ft",
+              "end": 56,
+              "expanded_url": "https://x.com/mirute3939/status/1952142580852146180/photo/1",
+              "media_key": "3_1952142575114272768",
+              "start": 33,
+              "url": "https://t.co/eXs1R3L4Ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952317138968154317",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952142580852146180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirute3939: Cheerful diva💕🌞✨ https://t.co/eXs1R3L4Ft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952142575114272768"
+          ]
+        },
+        "author_id": "1604096095788769280",
+        "conversation_id": "1952142580852146180",
+        "created_at": "2025-08-03T23:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T00:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952142580852146180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eXs1R3L4Ft",
+              "end": 40,
+              "expanded_url": "https://x.com/mirute3939/status/1952142580852146180/photo/1",
+              "media_key": "3_1952142575114272768",
+              "start": 17,
+              "url": "https://t.co/eXs1R3L4Ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952142580852146180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 988,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "Cheerful diva💕🌞✨ https://t.co/eXs1R3L4Ft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 463,
+          "like_count": 11093,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 2769
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T12:48:48.000Z",
+        "description": "🌈Nijijourneyで笑顔な初音ミクちゃんのイラストを投稿しています💕🎶",
+        "id": "1604096095788769280",
+        "name": "mirute",
+        "pinned_tweet_id": "1946525549704446405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626518092250763268/94z24jCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10655,
+          "following_count": 293,
+          "like_count": 39430,
+          "listed_count": 86,
+          "media_count": 3089,
+          "tweet_count": 13259
+        },
+        "username": "mirute3939",
+        "verified": true
+      }
+    ]
+  }
+}

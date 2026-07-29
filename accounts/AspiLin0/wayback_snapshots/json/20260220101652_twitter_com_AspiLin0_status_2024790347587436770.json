@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2024789134985015762",
+    "created_at": "2026-02-20T10:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024790347587436770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982450015927971840",
+          "start": 0,
+          "username": "xichuan412888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024790347587436770",
+    "in_reply_to_user_id": "1982450015927971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024789134985015762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichuan412888 摸摸你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2024789134985015762",
+        "created_at": "2026-02-20T10:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024790347587436770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982450015927971840",
+              "start": 0,
+              "username": "xichuan412888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024790347587436770",
+        "in_reply_to_user_id": "1982450015927971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024789134985015762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichuan412888 摸摸你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982450015927971840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2024789134985015762",
+        "created_at": "2026-02-20T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024789134985015762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xichuan412888/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xichuan412888/status/2024788788262900219",
+              "start": 5,
+              "url": "https://t.co/Vlvv2CJXEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024789134985015762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024788788262900219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "入好少😭 https://t.co/Vlvv2CJXEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 610,
+          "like_count": 17087,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 4116
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜是小废物(哭)｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 348,
+          "like_count": 6606,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 178
+        },
+        "username": "xichuan412888",
+        "verified": false
+      }
+    ]
+  }
+}

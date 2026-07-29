@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934266428611530988",
+    "created_at": "2025-06-16T04:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T05:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934461682983854511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1410093182176530437",
+          "start": 0,
+          "username": "CoolJX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934461682983854511",
+    "in_reply_to_user_id": "1410093182176530437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934268301280227566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoolJX4 贴^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934266428611530988",
+        "created_at": "2025-06-16T04:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T05:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934461682983854511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1410093182176530437",
+              "start": 0,
+              "username": "CoolJX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934461682983854511",
+        "in_reply_to_user_id": "1410093182176530437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934268301280227566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoolJX4 贴^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410093182176530437",
+        "conversation_id": "1934266428611530988",
+        "created_at": "2025-06-15T15:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934268301280227566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934268301280227566",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934266428611530988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 在內圈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 430,
+          "like_count": 8739,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1947
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T04:31:11.000Z",
+        "description": "≧ω≦≧∇≦≧ω≦≧∇≦\n薯條：@Flowers8964\n小號：@RisingStar97606\n好朋朋：@SnAuFlat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "RisingStar97606"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "SnAuFlat"
+              }
+            ]
+          }
+        },
+        "id": "1410093182176530437",
+        "location": "Malaysia",
+        "name": "私は 進軒 (｡’▽’｡)♡",
+        "pinned_tweet_id": "1697622511188623794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885942715541807104/7N0YgPXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 883,
+          "like_count": 65506,
+          "listed_count": 5,
+          "media_count": 913,
+          "tweet_count": 8129
+        },
+        "username": "CoolJX4",
+        "verified": false
+      }
+    ]
+  }
+}

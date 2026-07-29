@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1929548495775555836",
+    "created_at": "2025-06-02T15:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T16:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929559465973481701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1556640645447827461",
+          "start": 0,
+          "username": "Bq88UorZLiFvyMN"
+        },
+        {
+          "end": 24,
+          "id": "1467175651954200577",
+          "start": 17,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929559465973481701",
+    "in_reply_to_user_id": "1556640645447827461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929557350467145877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bq88UorZLiFvyMN @kjkluk 人的意识由脑细胞形成并不代表人的意识只是一群脑细胞\n其实我觉得灵魂在一个更广义的概念上是存在的，我们的记忆，情感，个性会消失，但仍有东西是延续和不灭的，类似于叔本华说的「意志」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1929548495775555836",
+        "created_at": "2025-06-02T15:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T16:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929559465973481701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1556640645447827461",
+              "start": 0,
+              "username": "Bq88UorZLiFvyMN"
+            },
+            {
+              "end": 24,
+              "id": "1467175651954200577",
+              "start": 17,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929559465973481701",
+        "in_reply_to_user_id": "1556640645447827461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929557350467145877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bq88UorZLiFvyMN @kjkluk 人的意识由脑细胞形成并不代表人的意识只是一群脑细胞\n其实我觉得灵魂在一个更广义的概念上是存在的，我们的记忆，情感，个性会消失，但仍有东西是延续和不灭的，类似于叔本华说的「意志」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556640645447827461",
+        "conversation_id": "1929548495775555836",
+        "created_at": "2025-06-02T15:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T16:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929557350467145877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929557350467145877",
+        "in_reply_to_user_id": "1556640645447827461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929551083367453153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 其實我很矛盾，以感性上而言，我相信人有靈魂，所以我要轉世到仙界成仙或轉世到其他世界\n但以理性上而言，人沒有靈魂，死亡就是永恆的，人的意識只不過是一堆腦細胞所形成的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 399,
+          "like_count": 7268,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧，【我們將主動靠近那些我們曾經迴避恐懼的情境,否則將永遠無法寬容包容地看待一切。】",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1927011482807554131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905495387194175488/SxgTGKrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1747,
+          "like_count": 42923,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 11309
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3U8dO"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 2913,
+          "like_count": 257669,
+          "listed_count": 13,
+          "media_count": 820,
+          "tweet_count": 11755
+        },
+        "url": "https://t.co/i3MKU3U8dO",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

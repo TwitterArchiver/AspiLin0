@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1951661072433520681",
+    "created_at": "2025-08-02T15:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T16:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951662318724759623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951662318724759623",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951661072433520681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 被人救的自杀一般是表演性自杀\n甚至有时候本人都意识不到，但其实内心希望得到他人的关注与帮助才会有这种极端的行为\n而这种表演性自杀也一般会留下漏洞并暗示别人之类的\n真正的自杀在计划时就会想好规避被救的方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1951661072433520681",
+        "created_at": "2025-08-02T15:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951662318724759623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951662318724759623",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951661072433520681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 被人救的自杀一般是表演性自杀\n甚至有时候本人都意识不到，但其实内心希望得到他人的关注与帮助才会有这种极端的行为\n而这种表演性自杀也一般会留下漏洞并暗示别人之类的\n真正的自杀在计划时就会想好规避被救的方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1951661072433520681",
+        "created_at": "2025-08-02T15:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951661072433520681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951661072433520681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不理解\n既然自杀的那一部分人都会被救回来\n那自杀有什么意义呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 457,
+          "like_count": 10702,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 2688
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "just do it.",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1948326046593675681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949846572541542400/p5-6HQgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 393,
+          "like_count": 29711,
+          "listed_count": 13,
+          "media_count": 1808,
+          "tweet_count": 16158
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

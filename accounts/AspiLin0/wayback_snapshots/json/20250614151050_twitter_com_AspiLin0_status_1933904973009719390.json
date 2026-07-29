@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1933807512022929807",
+    "created_at": "2025-06-14T15:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933904973009719390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590892760462413824",
+          "start": 0,
+          "username": "partono8964"
+        },
+        {
+          "end": 25,
+          "id": "1788485889225834496",
+          "start": 13,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933904973009719390",
+    "in_reply_to_user_id": "1590892760462413824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933903620401156311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partono8964 @horizon_tem 我已经理解你的意思也不想再回顾那些细枝末节了\n不要让无意义的文字游戏影响生活了\n祝好梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1933807512022929807",
+        "created_at": "2025-06-14T15:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933904973009719390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590892760462413824",
+              "start": 0,
+              "username": "partono8964"
+            },
+            {
+              "end": 25,
+              "id": "1788485889225834496",
+              "start": 13,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933904973009719390",
+        "in_reply_to_user_id": "1590892760462413824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933903620401156311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partono8964 @horizon_tem 我已经理解你的意思也不想再回顾那些细枝末节了\n不要让无意义的文字游戏影响生活了\n祝好梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590892760462413824",
+        "conversation_id": "1933807512022929807",
+        "created_at": "2025-06-14T15:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933903620401156311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 22,
+              "id": "1788485889225834496",
+              "start": 10,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933903620401156311",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933896849536245802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @horizon_tem 你自己都好奇了為何哲學跟邏輯會被歸在這個思想政治裡面，包括說到一些人以為數學那個是邏輯學\n你就想想我總結的：只是用在其它架構下的工具而已\n到底是所謂的望文生義，還是親身感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 427,
+          "like_count": 8717,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T02:23:38.000Z",
+        "description": "歡迎光臨樂土商店～",
+        "id": "1590892760462413824",
+        "location": "Singapore",
+        "name": "parto-eac（nya～）",
+        "pinned_tweet_id": "1808373735608697098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844902693569167363/YroJVyQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 761,
+          "like_count": 143297,
+          "listed_count": 3,
+          "media_count": 1507,
+          "tweet_count": 17553
+        },
+        "username": "partono8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "“那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。” 哲学导师 @KunaAkem1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "KunaAkem1"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1933627389604663739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 1908,
+          "like_count": 22337,
+          "listed_count": 5,
+          "media_count": 396,
+          "tweet_count": 8815
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

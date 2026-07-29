@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1905111862448189889",
+    "created_at": "2025-03-27T15:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T16:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905282914730029220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880464735675813888",
+          "start": 0,
+          "username": "ShikuiL23822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905282914730029220",
+    "in_reply_to_user_id": "1880464735675813888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905281201331736662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShikuiL23822 其实阿片想表达的是认知使人们对同一事件的产生的情感不同（？）医生往往是想知道哪里疼痛，而病人想缓解疼痛。认知的差异导致了共情的障壁，因此导致了病人对医生的抱怨（主要是对精神科有感）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1905111862448189889",
+        "created_at": "2025-03-27T15:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T16:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905282914730029220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880464735675813888",
+              "start": 0,
+              "username": "ShikuiL23822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905282914730029220",
+        "in_reply_to_user_id": "1880464735675813888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905281201331736662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShikuiL23822 其实阿片想表达的是认知使人们对同一事件的产生的情感不同（？）医生往往是想知道哪里疼痛，而病人想缓解疼痛。认知的差异导致了共情的障壁，因此导致了病人对医生的抱怨（主要是对精神科有感）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464735675813888",
+        "conversation_id": "1905111862448189889",
+        "created_at": "2025-03-27T15:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T16:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905281201331736662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905281201331736662",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905111862448189889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 错误的认知导致不好的情绪，不好的情绪影响认知的对错，反复循环，无法逃脱，医生的作用，不是共情，只是帮助摆脱循环，但真正能打破循环的，只有自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 259,
+          "like_count": 2842,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:47.000Z",
+        "description": "二次元😈 | 游戏党👾 | 喜欢听金属摇滚 | 卑微社恐畜牲🤡🐮🐎 | 记录日常和感想 | 偶尔发疯 | 强迫 | 焦虑 | 抑郁 | 来我这里，随便聊聊，什么都行～",
+        "id": "1880464735675813888",
+        "location": "天堂",
+        "name": "头疼至此@~@",
+        "pinned_tweet_id": "1900543917843759284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897872965955649537/BByH9jO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 93,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 357
+        },
+        "username": "ShikuiL23822",
+        "verified": false
+      }
+    ]
+  }
+}

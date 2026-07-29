@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2068985964060631338",
+    "created_at": "2026-06-22T09:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068985964060631338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ntfuko/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ntfuko/status/2068862875889025436",
+          "start": 8,
+          "url": "https://t.co/EFXzrZY4HD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068985964060631338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068862875889025436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "我家宝宝欸♥️ https://t.co/EFXzrZY4HD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068862871099076608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYT0eja8AAkWTm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2068985964060631338",
+        "created_at": "2026-06-22T09:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068985964060631338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ntfuko/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ntfuko/status/2068862875889025436",
+              "start": 8,
+              "url": "https://t.co/EFXzrZY4HD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068985964060631338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068862875889025436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我家宝宝欸♥️ https://t.co/EFXzrZY4HD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068862871099076608"
+          ]
+        },
+        "author_id": "3889037112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068862875889025436",
+        "created_at": "2026-06-22T01:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068862875889025436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exmG6XIUVu",
+              "end": 31,
+              "expanded_url": "https://x.com/ntfuko/status/2068862875889025436/photo/1",
+              "media_key": "3_2068862871099076608",
+              "start": 8,
+              "url": "https://t.co/exmG6XIUVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068862875889025436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大大的狐狸尾巴 https://t.co/exmG6XIUVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 767,
+          "like_count": 21449,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5055
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "恋人： @AspiLin0 \nI wanna be an android's dream of electric sheep.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "AspiLin0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+73oB26Bh_SYwY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+73oB26Bh_SYwYTA1",
+                "start": 0,
+                "url": "https://t.co/Q7RaV6M9D2"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 363,
+          "like_count": 4962,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/Q7RaV6M9D2",
+        "username": "ntfuko",
+        "verified": true
+      }
+    ]
+  }
+}

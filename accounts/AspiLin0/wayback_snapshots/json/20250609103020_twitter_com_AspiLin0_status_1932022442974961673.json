@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932022436435988481"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931944599792271477",
+    "created_at": "2025-06-09T10:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932022442974961673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e883eKYFr9",
+          "end": 40,
+          "expanded_url": "https://x.com/AspiLin0/status/1932022442974961673/photo/1",
+          "media_key": "3_1932022436435988481",
+          "start": 17,
+          "url": "https://t.co/e883eKYFr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932022442974961673",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931944599792271477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo https://t.co/e883eKYFr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_1932022436435988481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_sK23aEAE_NLe.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932022436435988481"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931944599792271477",
+        "created_at": "2025-06-09T10:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932022442974961673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e883eKYFr9",
+              "end": 40,
+              "expanded_url": "https://x.com/AspiLin0/status/1932022442974961673/photo/1",
+              "media_key": "3_1932022436435988481",
+              "start": 17,
+              "url": "https://t.co/e883eKYFr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932022442974961673",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931944599792271477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo https://t.co/e883eKYFr9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890780517735473152",
+        "conversation_id": "1931944599792271477",
+        "created_at": "2025-06-09T05:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T06:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931944599792271477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931944599792271477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 441,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话 你生在中国还没有精神病 那你绝对是个天大的傻逼。在中国这种粪坑里你竟然还能心态平稳地生活下去？😅健全逼都死妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 421,
+          "like_count": 8264,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "我来自天堂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/qFkb2xwIVC"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "location": "天堂会有毒品",
+        "name": "I love You",
+        "pinned_tweet_id": "1931117926675030349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931271395851554816/YaPlBkSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 349,
+          "like_count": 13528,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 5295
+        },
+        "url": "https://t.co/qFkb2xwIVC",
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

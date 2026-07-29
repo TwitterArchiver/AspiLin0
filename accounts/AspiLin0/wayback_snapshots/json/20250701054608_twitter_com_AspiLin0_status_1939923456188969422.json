@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1939915494112600327",
+    "created_at": "2025-07-01T05:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T06:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939923456188969422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758876738652942336",
+          "start": 0,
+          "username": "B48B20A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939923456188969422",
+    "in_reply_to_user_id": "1758876738652942336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939915494112600327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B48B20A 抱抱你\n既然如此就远离人群休息吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1939915494112600327",
+        "created_at": "2025-07-01T05:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939923456188969422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758876738652942336",
+              "start": 0,
+              "username": "B48B20A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939923456188969422",
+        "in_reply_to_user_id": "1758876738652942336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939915494112600327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B48B20A 抱抱你\n既然如此就远离人群休息吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758876738652942336",
+        "conversation_id": "1939915494112600327",
+        "created_at": "2025-07-01T05:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939915494112600327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939915494112600327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头疼\n对任何人都没有耐心了\n这还是我吗\n怎么就变成这样了\n我应该远离人类\n为什么\n是不是我的身体\n谁在控制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 443,
+          "like_count": 9259,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T15:31:21.000Z",
+        "description": "🏳️‍⚧️🇨🇳出生:2010.06.23 HRT:2025.03.02",
+        "id": "1758876738652942336",
+        "location": "首都医科大学附属北京安贞医院",
+        "name": "Felicia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939733023127420928/UGaJvYDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 783,
+          "like_count": 33128,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 931
+        },
+        "username": "B48B20A",
+        "verified": false
+      }
+    ]
+  }
+}

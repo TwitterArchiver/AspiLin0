@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2064361324117885046",
+    "created_at": "2026-06-09T14:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064361324117885046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JyushitiYizuka…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/JyushitiYizuka/status/2064185923152282027",
+          "start": 79,
+          "url": "https://t.co/89f3oMUeug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064361324117885046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064185923152282027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平\n语文：学考B\n数学：学考A\n英语：学考A\n物理：学考A\n化学：学考B\n生物：学考A\n政治：学考A\n历史：学考A\n地理：学考B\n最量化的一集（ https://t.co/89f3oMUeug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 367,
+        "media_key": "3_2064185920920993793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV2KJbbwAEF9zy.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064361324117885046",
+        "created_at": "2026-06-09T14:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064361324117885046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JyushitiYizuka…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/JyushitiYizuka/status/2064185923152282027",
+              "start": 79,
+              "url": "https://t.co/89f3oMUeug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361324117885046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064185923152282027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平\n语文：学考B\n数学：学考A\n英语：学考A\n物理：学考A\n化学：学考B\n生物：学考A\n政治：学考A\n历史：学考A\n地理：学考B\n最量化的一集（ https://t.co/89f3oMUeug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064185920920993793"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064185923152282027",
+        "created_at": "2026-06-09T03:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064185923152282027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5a3tM2yzxG",
+              "end": 106,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2064185923152282027/photo/1",
+              "media_key": "3_2064185920920993793",
+              "start": 83,
+              "url": "https://t.co/5a3tM2yzxG"
+            },
+            {
+              "display_url": "x.com/blackna1201/st…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/blackna1201/status/2064173152717218079",
+              "start": 107,
+              "url": "https://t.co/RlxDMBhzy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064185923152282027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2220,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064173152717218079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：善\n数学：∮\n英语：nihao\n物理：g为什么等于9.8m/s²?\n化学：2H+O≌H₂O\n生物：有时候下面会有生理性反应\n地理：北极有洲吗 https://t.co/5a3tM2yzxG https://t.co/RlxDMBhzy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 757,
+          "like_count": 21053,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 4972
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 1332,
+          "like_count": 43524,
+          "listed_count": 8,
+          "media_count": 1736,
+          "tweet_count": 27394
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

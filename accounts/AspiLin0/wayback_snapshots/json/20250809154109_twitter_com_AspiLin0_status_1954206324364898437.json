@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1954205931291472035",
+    "created_at": "2025-08-09T15:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T16:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954206324364898437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239352911596941312",
+          "start": 0,
+          "username": "asahisuki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954206324364898437",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954206213463330959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahisuki0 热点（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1954205931291472035",
+        "created_at": "2025-08-09T15:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T16:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954206324364898437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239352911596941312",
+              "start": 0,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954206324364898437",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954206213463330959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahisuki0 热点（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1954205931291472035",
+        "created_at": "2025-08-09T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954206213463330959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239352911596941312",
+              "start": 0,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954206213463330959",
+        "in_reply_to_user_id": "1239352911596941312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954205931291472035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahisuki0 不好用\n不如开流量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin🦊",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 472,
+          "like_count": 11987,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 2959
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "石之心\n好亲友 @Flowers8964 @hikawarinaOvO\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "hikawarinaOvO"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "milktea_ch51900"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1915463355537719384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953850758920908801/-IiacnBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1211,
+          "like_count": 238318,
+          "listed_count": 7,
+          "media_count": 330,
+          "tweet_count": 17293
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      }
+    ]
+  }
+}

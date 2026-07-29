@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903818453766857167",
+    "created_at": "2025-03-24T04:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T05:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904021037232066958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778549999963623424",
+          "start": 0,
+          "username": "aaA1481735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904021037232066958",
+    "in_reply_to_user_id": "1778549999963623424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903818453766857167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaA1481735 小小的也很可爱（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1903818451887816704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmu4y42bgAAKFKX.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903818453766857167",
+        "created_at": "2025-03-24T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904021037232066958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778549999963623424",
+              "start": 0,
+              "username": "aaA1481735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904021037232066958",
+        "in_reply_to_user_id": "1778549999963623424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903818453766857167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaA1481735 小小的也很可爱（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903818451887816704"
+          ]
+        },
+        "author_id": "1778549999963623424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1903818453766857167",
+        "created_at": "2025-03-23T14:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903818453766857167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1903671739588206592/9RX2U8wb?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1903671739588206592/9RX2U8wb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/XqJjKwNxGH"
+            },
+            {
+              "display_url": "pic.x.com/aq4E32Oxh4",
+              "end": 64,
+              "expanded_url": "https://x.com/aaA1481735/status/1903818453766857167/photo/1",
+              "media_key": "3_1903818451887816704",
+              "start": 41,
+              "url": "https://t.co/aq4E32Oxh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903818453766857167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/XqJjKwNxGH https://t.co/aq4E32Oxh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin（Learning...）",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 255,
+          "like_count": 2672,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T22:25:49.000Z",
+        "description": "忘记说什么了，反正，赛博狐娘喵，别（多）说奇怪的话，会脸红的（雾）不是同，不变性，不看牛子，不要再给我推抽像鉴证推文了啊啊啊啊啊",
+        "id": "1778549999963623424",
+        "location": "Fremont, CA",
+        "name": "狐言狐语ing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859285535803793408/T7Stmx5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 111,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 403
+        },
+        "username": "aaA1481735",
+        "verified": false
+      }
+    ]
+  }
+}

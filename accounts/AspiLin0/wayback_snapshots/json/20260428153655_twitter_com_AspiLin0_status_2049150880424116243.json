@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2049149218217132043",
+    "created_at": "2026-04-28T15:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049150880424116243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786055418684264448",
+          "start": 0,
+          "username": "SIRliquid_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049150880424116243",
+    "in_reply_to_user_id": "1786055418684264448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049149218217132043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIRliquid_ 定期让ai总结一下（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2049149215675437056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAKWtQa0AAS7cP.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2049149218217132043",
+        "created_at": "2026-04-28T15:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049150880424116243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786055418684264448",
+              "start": 0,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049150880424116243",
+        "in_reply_to_user_id": "1786055418684264448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049149218217132043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIRliquid_ 定期让ai总结一下（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049149215675437056"
+          ]
+        },
+        "author_id": "1786055418684264448",
+        "conversation_id": "2049149218217132043",
+        "created_at": "2026-04-28T15:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049149218217132043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BGdZNgizj",
+              "end": 173,
+              "expanded_url": "https://x.com/SIRliquid_/status/2049149218217132043/photo/1",
+              "media_key": "3_2049149215675437056",
+              "start": 150,
+              "url": "https://t.co/8BGdZNgizj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049149218217132043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ring最近能在推上刷到很多介绍AI功能，甚至有些恶意散播焦虑的帖子，对此…\n\n「若是选择全面屏蔽：」\nRing可能了解不到比较新的技术，容易陷入认知不足的焦虑……\n\n「若是坐视不理：」\n以Ring超容易焦虑的属性，估计刷多了会焦虑到爆炸，然后开始无止境玩手机，什么都不会做……\n\n推油们怎么看呢🤔 https://t.co/8BGdZNgizj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 728,
+          "like_count": 20206,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 4756
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁 || 喜欢音乐🎶 || 🏳️‍⚧️&🏳️‍🌈友好 || (Fan Account) || 不喜欢聊政治🚫 || 想变成女孩子但仅仅是想罢了 || TG Channel : https://t.co/a89Bs8XvKG || 各种其他平台的链接详见LinkTree👇",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UDSUjt1s6F1hY…",
+                "end": 113,
+                "expanded_url": "https://t.me/+UDSUjt1s6F1hYmY8",
+                "start": 90,
+                "url": "https://t.co/a89Bs8XvKG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SIRliquid_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SIRliquid_",
+                "start": 0,
+                "url": "https://t.co/yJkNLuGSBM"
+              }
+            ]
+          }
+        },
+        "id": "1786055418684264448",
+        "location": "Somewhere of the Outside ",
+        "name": "Ring.✦リン",
+        "pinned_tweet_id": "2014974275372122506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 350,
+          "like_count": 17988,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 3767
+        },
+        "url": "https://t.co/yJkNLuGSBM",
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1920026276443914488",
+    "created_at": "2025-05-07T15:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T16:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920136687885111344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742289249188360192",
+          "start": 0,
+          "username": "LithiumOxalate"
+        },
+        {
+          "end": 24,
+          "id": "1507794054511497219",
+          "start": 16,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920136687885111344",
+    "in_reply_to_user_id": "1742289249188360192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920135577757745244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LithiumOxalate @Miyu__Z 可以这样认为（\n不过值得提醒的一点是不论是脑电图还是脑磁图反映的都是神经元的群体编码状态\n在精度上可能只能体现大脑目前在兴奋抑或休息，实际上并没有像fmri一样获取确切的信息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1920026276443914488",
+        "created_at": "2025-05-07T15:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920136687885111344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742289249188360192",
+              "start": 0,
+              "username": "LithiumOxalate"
+            },
+            {
+              "end": 24,
+              "id": "1507794054511497219",
+              "start": 16,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920136687885111344",
+        "in_reply_to_user_id": "1742289249188360192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920135577757745244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LithiumOxalate @Miyu__Z 可以这样认为（\n不过值得提醒的一点是不论是脑电图还是脑磁图反映的都是神经元的群体编码状态\n在精度上可能只能体现大脑目前在兴奋抑或休息，实际上并没有像fmri一样获取确切的信息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742289249188360192",
+        "conversation_id": "1920026276443914488",
+        "created_at": "2025-05-07T15:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920135577757745244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 18,
+              "id": "1507794054511497219",
+              "start": 10,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920135577757745244",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920133898383884377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @Miyu__Z 是的！EEG 一般需要將電極緊貼在頭部，而且許多現行的技術需要直接接觸頭皮，而不能以非接觸方式感應。但我想它們仍然算側信道攻擊，因為並沒有直接接觸大腦（例如大腦皮層植入電極），而是通過大腦附近的電磁信號來推測大腦的活動。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1913194579031167028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 357,
+          "like_count": 5706,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T20:58:51.000Z",
+        "description": "Nothing to declare\nen / zh-Hant / zh-Hans",
+        "id": "1742289249188360192",
+        "location": "/dev/ttyACM0",
+        "name": "Lithium (Cascade Kobayashi)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837934458713907200/ixtBt2xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 332,
+          "like_count": 21421,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 3547
+        },
+        "username": "LithiumOxalate",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "infp|| lang:CN/EN/DE|| 喜欢的东西很多~|| 应该会回fo喵",
+        "id": "1507794054511497219",
+        "location": "幻想乡",
+        "name": "芝士腐竹喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 83,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 357
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

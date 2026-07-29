@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021550772220264450"
+      ],
+      "media_source_tweet_id": [
+        "2021550910464512364"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2021612309169512944",
+    "created_at": "2026-02-11T15:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021612309169512944"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "るなぱれっと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "57277380",
+          "start": 3,
+          "username": "watakokyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V9HB9rYkkg",
+          "end": 49,
+          "expanded_url": "https://x.com/watakokyu/status/2021550910464512364/photo/1",
+          "media_key": "3_2021550772220264450",
+          "start": 26,
+          "url": "https://t.co/V9HB9rYkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021612309169512944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021550910464512364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watakokyu: ふー\n#るなぱれっと https://t.co/V9HB9rYkkg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2021550772220264450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA39t3mbAAIRLkO.jpg",
+        "width": 1277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021550772220264450"
+          ],
+          "media_source_tweet_id": [
+            "2021550910464512364"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2021612309169512944",
+        "created_at": "2026-02-11T15:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021612309169512944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "るなぱれっと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "57277380",
+              "start": 3,
+              "username": "watakokyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9HB9rYkkg",
+              "end": 49,
+              "expanded_url": "https://x.com/watakokyu/status/2021550910464512364/photo/1",
+              "media_key": "3_2021550772220264450",
+              "start": 26,
+              "url": "https://t.co/V9HB9rYkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021612309169512944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021550910464512364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watakokyu: ふー\n#るなぱれっと https://t.co/V9HB9rYkkg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021550772220264450"
+          ]
+        },
+        "author_id": "57277380",
+        "conversation_id": "2021550910464512364",
+        "created_at": "2026-02-11T11:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021550910464512364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "るなぱれっと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9HB9rYkkg",
+              "end": 34,
+              "expanded_url": "https://x.com/watakokyu/status/2021550910464512364/photo/1",
+              "media_key": "3_2021550772220264450",
+              "start": 11,
+              "url": "https://t.co/V9HB9rYkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021550910464512364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 17899,
+          "like_count": 1914,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "ふー\n#るなぱれっと https://t.co/V9HB9rYkkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 565,
+          "like_count": 15503,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 3881
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-16T08:05:26.000Z",
+        "description": "イラストレーター //  詳細⇒https://t.co/nf6mTUV3mq　✉ wabetto@gmail.com\npixiv  https://t.co/McS4kQAmjY\nFANBOX https://t.co/JYmEVqTXRy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/watakokyu",
+                "end": 39,
+                "expanded_url": "http://lit.link/watakokyu",
+                "start": 16,
+                "url": "https://t.co/nf6mTUV3mq"
+              },
+              {
+                "display_url": "pixiv.net/users/298647",
+                "end": 90,
+                "expanded_url": "http://pixiv.net/users/298647",
+                "start": 67,
+                "url": "https://t.co/McS4kQAmjY"
+              },
+              {
+                "display_url": "watakokyu.fanbox.cc",
+                "end": 121,
+                "expanded_url": "http://watakokyu.fanbox.cc",
+                "start": 98,
+                "url": "https://t.co/JYmEVqTXRy"
+              }
+            ]
+          }
+        },
+        "id": "57277380",
+        "location": "関東",
+        "name": "渡コキュー",
+        "pinned_tweet_id": "2005234804477079964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952571145619951617/6gZs5wG3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40362,
+          "following_count": 392,
+          "like_count": 1168,
+          "listed_count": 390,
+          "media_count": 548,
+          "tweet_count": 5233
+        },
+        "username": "watakokyu",
+        "verified": false
+      }
+    ]
+  }
+}

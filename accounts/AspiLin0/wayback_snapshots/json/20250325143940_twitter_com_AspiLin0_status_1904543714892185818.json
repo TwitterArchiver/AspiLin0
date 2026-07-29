@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1904543714892185818",
+    "created_at": "2025-03-25T14:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T15:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904543714892185818"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1904543714892185818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "某天，阿片死了\n他一如既往的在案前著书立说\n天使们提醒他，上帝无限，理智无以穷尽\n阿片争辩说：“天主已赐我永恒，必叫我求知”\n于是他便被遗弃于那铁屋中\n天堂有传言，昨日阿片已登上玫瑰圈。又有传言，在无数的世代中，无人再看见他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1904543714892185818",
+        "created_at": "2025-03-25T14:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T15:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904543714892185818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904543714892185818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某天，阿片死了\n他一如既往的在案前著书立说\n天使们提醒他，上帝无限，理智无以穷尽\n阿片争辩说：“天主已赐我永恒，必叫我求知”\n于是他便被遗弃于那铁屋中\n天堂有传言，昨日阿片已登上玫瑰圈。又有传言，在无数的世代中，无人再看见他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 257,
+          "like_count": 2740,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

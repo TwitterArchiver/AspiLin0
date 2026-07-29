@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1954513042546282834",
+    "created_at": "2025-08-10T12:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T13:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954515358922269106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "JadezKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954515358922269106",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954513042546282834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JadezKayoko 主播不网购的吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1954513042546282834",
+        "created_at": "2025-08-10T12:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954515358922269106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "JadezKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954515358922269106",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954513042546282834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JadezKayoko 主播不网购的吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "1954513042546282834",
+        "created_at": "2025-08-10T11:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954513042546282834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954513042546282834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两块五的可乐，一块三的农夫山泉，六块钱的西瓜，我以前过的都是什么日子😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 476,
+          "like_count": 12076,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 2978
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的Fu4，随时都可以找我私信聊天，深柜，脾气超好的，不用害怕我喔｜匿名提问链接https://t.co/shf7QG8yWD｜最爱的妹妹@ElP15_｜最笨的咩咩@littlelambqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "ElP15_"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "littlelambqwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jadez40430",
+                "end": 67,
+                "expanded_url": "https://ngl.link/jadez40430",
+                "start": 44,
+                "url": "https://t.co/shf7QG8yWD"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "name": "Fusi④（冷狐版）",
+        "pinned_tweet_id": "1947918707877155135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949797811299729408/yM4_FQmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 142,
+          "like_count": 1616,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 965
+        },
+        "username": "JadezKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

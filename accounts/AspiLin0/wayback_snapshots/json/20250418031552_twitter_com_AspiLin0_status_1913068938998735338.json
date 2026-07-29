@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913068938998735338",
+    "created_at": "2025-04-18T03:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T04:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913068938998735338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ibelulo/status…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/ibelulo/status/1912901057857925549",
+          "start": 37,
+          "url": "https://t.co/W8hbxyKkiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913068938998735338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912901057857925549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "放弃思考才是最大的精神鸦片\n没脑子的宗教人士和反宗教人士都是吸嗨了的疯子 https://t.co/W8hbxyKkiy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913068938998735338",
+        "created_at": "2025-04-18T03:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T04:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913068938998735338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ibelulo/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ibelulo/status/1912901057857925549",
+              "start": 37,
+              "url": "https://t.co/W8hbxyKkiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913068938998735338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912901057857925549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "放弃思考才是最大的精神鸦片\n没脑子的宗教人士和反宗教人士都是吸嗨了的疯子 https://t.co/W8hbxyKkiy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556713726169923585",
+        "conversation_id": "1912901057857925549",
+        "created_at": "2025-04-17T16:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T17:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912901057857925549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912901057857925549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3051,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位对宗教如何看待宗教是人民的鸦片这句话？宗教能否算得上是某种另类的毒品呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 291,
+          "like_count": 3658,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T18:47:48.000Z",
+        "description": "毁灭与重生",
+        "id": "1556713726169923585",
+        "location": "阜姆自由邦",
+        "name": "无拘无束",
+        "pinned_tweet_id": "1756244994912895307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848196341190594560/dAKJIuEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 508,
+          "like_count": 144354,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 3532
+        },
+        "username": "ibelulo",
+        "verified": false
+      }
+    ]
+  }
+}

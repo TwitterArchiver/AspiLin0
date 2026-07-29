@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1923743451843264528",
+    "created_at": "2025-05-17T15:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923759714955034947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923759714955034947",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923758660859330831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z 但好像更多是😢😇风格（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1923743451843264528",
+        "created_at": "2025-05-17T15:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923759714955034947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923759714955034947",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923758660859330831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z 但好像更多是😢😇风格（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507794054511497219",
+        "conversation_id": "1923743451843264528",
+        "created_at": "2025-05-17T15:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923758660859330831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923758660859330831",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923743451843264528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 🥺风格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1923743451843264528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923619606213623809/_Y2aCUCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 376,
+          "like_count": 6572,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "更多简介在🔗链接里 || infp|| lang:CN/EN/DE|| 有人看我我很开心，会分享很多喜欢的东西~|| 看情况回fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ggl.link/mwwTkxa",
+                "end": 23,
+                "expanded_url": "https://ggl.link/mwwTkxa",
+                "start": 0,
+                "url": "https://t.co/Ca9DiJSquO"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "月之暗面",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1921833767787983022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 141,
+          "like_count": 2649,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/Ca9DiJSquO",
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

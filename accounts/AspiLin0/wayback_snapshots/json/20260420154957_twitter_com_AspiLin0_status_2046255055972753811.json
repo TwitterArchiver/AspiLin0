@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2046255055972753811",
+    "created_at": "2026-04-20T15:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046255055972753811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046238259919912960",
+          "start": 3,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046255055972753811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046253157475582381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Type_zhi: 我又复活啦！ 话说这是几代目了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2046255055972753811",
+        "created_at": "2026-04-20T15:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046255055972753811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046238259919912960",
+              "start": 3,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046255055972753811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046253157475582381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Type_zhi: 我又复活啦！ 话说这是几代目了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046238259919912960",
+        "conversation_id": "2046253157475582381",
+        "created_at": "2026-04-20T15:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046253157475582381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046253157475582381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我又复活啦！ 话说这是几代目了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 716,
+          "like_count": 20003,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 4702
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07/有小证了捏🥺/还在上学喵☺️/想和大家坐朋友喵/现居湖北/还有myl你还我的号😭😭",
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931979080041382272",
+    "created_at": "2025-06-10T04:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932294054748045355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910137141570740225",
+          "start": 0,
+          "username": "AsabaLazy233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932294054748045355",
+    "in_reply_to_user_id": "1910137141570740225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931979080041382272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsabaLazy233 放假来看👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1931979057291546624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_Et29bUAALVsG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1931979057329319936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_Et3GbsAA1N5p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931979058088390656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_Et57aMAAre8F.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1931979057299894272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_Et2_asAAEs39.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931979080041382272",
+        "created_at": "2025-06-10T04:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932294054748045355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910137141570740225",
+              "start": 0,
+              "username": "AsabaLazy233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932294054748045355",
+        "in_reply_to_user_id": "1910137141570740225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931979080041382272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaLazy233 放假来看👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931979057291546624",
+            "3_1931979057329319936",
+            "3_1931979058088390656",
+            "3_1931979057299894272"
+          ]
+        },
+        "author_id": "1910137141570740225",
+        "conversation_id": "1931979080041382272",
+        "created_at": "2025-06-09T07:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T08:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931979080041382272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFfES6gV3k",
+              "end": 59,
+              "expanded_url": "https://x.com/AsabaLazy233/status/1931979080041382272/photo/1",
+              "media_key": "3_1931979057291546624",
+              "start": 36,
+              "url": "https://t.co/GFfES6gV3k"
+            },
+            {
+              "display_url": "pic.x.com/GFfES6gV3k",
+              "end": 59,
+              "expanded_url": "https://x.com/AsabaLazy233/status/1931979080041382272/photo/1",
+              "media_key": "3_1931979057329319936",
+              "start": 36,
+              "url": "https://t.co/GFfES6gV3k"
+            },
+            {
+              "display_url": "pic.x.com/GFfES6gV3k",
+              "end": 59,
+              "expanded_url": "https://x.com/AsabaLazy233/status/1931979080041382272/photo/1",
+              "media_key": "3_1931979058088390656",
+              "start": 36,
+              "url": "https://t.co/GFfES6gV3k"
+            },
+            {
+              "display_url": "pic.x.com/GFfES6gV3k",
+              "end": 59,
+              "expanded_url": "https://x.com/AsabaLazy233/status/1931979080041382272/photo/1",
+              "media_key": "3_1931979057299894272",
+              "start": 36,
+              "url": "https://t.co/GFfES6gV3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931979080041382272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 702,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "爱丽丝の喫茶屋\n浙江省温州市鹿城区五马街道县后巷30弄2幢\n欢迎您来～ https://t.co/GFfES6gV3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 428,
+          "like_count": 8456,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T01:06:09.000Z",
+        "description": "这里是洛洛｜长存不灭的过去、逐渐消逝的未来",
+        "id": "1910137141570740225",
+        "location": "地球",
+        "name": "AsabaLazy⭐️",
+        "pinned_tweet_id": "1928500024671089032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929406731278589952/R_xVLztV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 182,
+          "like_count": 8113,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1308
+        },
+        "username": "AsabaLazy233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2006685480923038033",
+    "created_at": "2026-01-01T11:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006685480923038033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2006602315462226255",
+          "start": 9,
+          "url": "https://t.co/bQntNRV34o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006685480923038033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006602315462226255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想象自己如何死掉 https://t.co/bQntNRV34o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2006685480923038033",
+        "created_at": "2026-01-01T11:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006685480923038033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2006602315462226255",
+              "start": 9,
+              "url": "https://t.co/bQntNRV34o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006685480923038033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006602315462226255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想象自己如何死掉 https://t.co/bQntNRV34o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2006602315462226255",
+        "created_at": "2026-01-01T05:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006602315462226255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006602315462226255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5219,
+          "like_count": 48,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们玉玉的时候会做什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 523,
+          "like_count": 13993,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3588
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2006395834460475728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9842,
+          "following_count": 3643,
+          "like_count": 70915,
+          "listed_count": 16,
+          "media_count": 1585,
+          "tweet_count": 16253
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

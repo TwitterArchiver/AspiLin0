@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1932220900432314617",
+    "created_at": "2025-06-10T00:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T01:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932235972248478125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932235972248478125",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932220900432314617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932220897848655872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtCgq1PbAAAcwt7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1932220900432314617",
+        "created_at": "2025-06-10T00:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T01:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932235972248478125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932235972248478125",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932220900432314617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932220897848655872"
+          ]
+        },
+        "author_id": "1911351259749294080",
+        "conversation_id": "1932220900432314617",
+        "created_at": "2025-06-09T23:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T00:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932220900432314617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndeEgQff9U",
+              "end": 58,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/1932220900432314617/photo/1",
+              "media_key": "3_1932220897848655872",
+              "start": 35,
+              "url": "https://t.co/ndeEgQff9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932220900432314617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们这三天我要中考哦，周三周四要去学校上课了，祝水水中考顺利吧☺️ https://t.co/ndeEgQff9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 426,
+          "like_count": 8388,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "09山东初三生|不b任何人|坚持对任何人友好原则|是岁静人|互fo以及回复评论的时候，可能不及时，因为上学，请你置顶留言哦\n好宝宝😘@1ka16103257",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "1ka16103257"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PJRSYa",
+                "end": 23,
+                "expanded_url": "https://t.me/PJRSYa",
+                "start": 0,
+                "url": "https://t.co/stoKZFmhvd"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "location": "IP属地:中国",
+        "name": "平静如水🇨🇳|第二转世|推友巡回",
+        "pinned_tweet_id": "1915791319613808730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 534,
+          "like_count": 1534,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/stoKZFmhvd",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

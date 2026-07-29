@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2024513812871741697",
+    "created_at": "2026-02-19T15:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024513812871741697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IzayoiMarin/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/IzayoiMarin/status/2024499689266029050",
+          "start": 18,
+          "url": "https://t.co/fi3KJ1quxS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024513812871741697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024499689266029050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿片高中三年就没在早读前吃过早饭（ https://t.co/fi3KJ1quxS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1774,
+        "media_key": "3_2024499686170603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh3vQIWsAA7s4d.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2024513812871741697",
+        "created_at": "2026-02-19T15:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024513812871741697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IzayoiMarin/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/IzayoiMarin/status/2024499689266029050",
+              "start": 18,
+              "url": "https://t.co/fi3KJ1quxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024513812871741697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024499689266029050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿片高中三年就没在早读前吃过早饭（ https://t.co/fi3KJ1quxS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024499686170603520"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2024499689266029050",
+        "created_at": "2026-02-19T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024499689266029050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZgtQmeRyM",
+              "end": 29,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2024499689266029050/photo/1",
+              "media_key": "3_2024499686170603520",
+              "start": 6,
+              "url": "https://t.co/IZgtQmeRyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024499689266029050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福你雷霆 https://t.co/IZgtQmeRyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 607,
+          "like_count": 16934,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 4087
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "びゃくやこう     梗图源网络，如有侵权可删\nsub： @IzayoiMarinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "IzayoiMarinn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "まりん",
+        "pinned_tweet_id": "2003470270389191105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024096794045550592/IZEutM8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 2307,
+          "like_count": 38686,
+          "listed_count": 4,
+          "media_count": 1630,
+          "tweet_count": 18138
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

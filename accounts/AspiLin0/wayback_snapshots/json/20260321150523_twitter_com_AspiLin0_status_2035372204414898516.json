@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035371615278813184"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2035372204414898516",
+    "created_at": "2026-03-21T15:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:03:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035371635851546923",
+      "2035372204414898516"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "狐狸·涌现·爱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iT2osZdn7x",
+          "end": 171,
+          "expanded_url": "https://x.com/AspiLin0/status/2035372204414898516/photo/1",
+          "media_key": "3_2035371615278813184",
+          "start": 148,
+          "url": "https://t.co/iT2osZdn7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035372204414898516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 8,
+            "start": 0,
+            "tag": "狐狸·涌现·爱"
+          }
+        ]
+      },
+      "text": "#狐狸·涌现·爱\n悖论篇\n​「Yablo悖论」，一个很有意思但并不广为人知的悖论，表述如下：\n存在一个无穷序列，其中的每一项都声称后面的全部命题为假，则该序列中每一个命题的真假都无法判定。\n​论证如下：若序列中所有命题均为假命题，则可得出序列中必有真命题，矛盾。若序列中存在真命题，不妨令第 n 项为真命题，则前 n-1 项为假命题，但对于 n 以后的项，由于 n 的宣称，它们全为假命题，又由于第 n+1 项为假命题，则 n+1 以后的项必有真命题，矛盾。\n​对于这个悖论主要有两种理解：一是认为这依旧是「自指型悖论」的某种变体。事实上，「自指型悖论」的自环能通过添加元素以拓展为回路，且仍保存悖论的性质。而 Yablo 悖论的线性链条可以看成拥有无穷个元素的自环，从而与自指型悖论等价。另一种观点认为这并不构成悖论，而只是我们的思维不能很好地处理无穷。很显然，在元素有限的情况下，Yablo 悖论是可判定的（仅有最后一项为真）。也就是说，假若我们的思维能越过无穷（参考超任务），就能完成对该序列命题的判断。而早在三千年前，芝诺讲述的那个关于乌龟的故事就告诉我们，思维过程与客观过程不能画等号（追乌龟的思维过程是无限的，在这场思维赛跑中，我们永恒地追不上这只思维中的乌龟。但客观的进程与此是完全不同的）。即我们可以认为，虽然我们将 Yablo 悖论思维为不可判定，但（客观上）该序列中的每一项的真假都是确定的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#狐狸·涌现·爱\n悖论篇\n​「Yablo悖论」，一个很有意思但并不广为人知的悖论，表述如下：\n存在一个无穷序列，其中的每一项都声称后面的全部命题为假，则该序列中每一个命题的真假都无法判定。\n​论证如下：若序列中所有命题均为假命题，则可得出序列中必有真命题，矛盾。若序列中存在真命题，不妨令第 n https://t.co/iT2osZdn7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2035371615278813184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8Xs0KbUAAbeb3.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035371615278813184"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2035371635851546923",
+        "created_at": "2026-03-21T15:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:03:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035371635851546923",
+          "2035372204414898516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "狐狸·涌现·爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/89SqQAWWeN",
+              "end": 171,
+              "expanded_url": "https://x.com/AspiLin0/status/2035371635851546923/photo/1",
+              "media_key": "3_2035371615278813184",
+              "start": 148,
+              "url": "https://t.co/89SqQAWWeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035371635851546923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "狐狸·涌现·爱"
+              }
+            ]
+          },
+          "text": "#狐狸·涌现·爱\n悖论篇\n​「Yablo悖论」，一个很有意思但并不广为人知的悖论，表述如下：\n存在一个无穷序列，其中的每一项都声称后面的全部命题为假，则该序列中每一个命题的真假都无法判定。\n​论证如下：若序列中所有命题均为假命题，则可得出序列中必有真命题，矛盾。若序列中存在真命题，不妨令第 n 项为真命题，则前 n-1 项为假命题，但对于 n 以后的项，由于 n 的宣称，它们全为假命题，又由于第 n+1 项为假命题，则 n+1 以后的项必有真命题，矛盾。\n​对于这个悖论主要有两种理解：一是认为这依旧是「自指型悖论」的某种变体。事实上，「自指型悖论」的自环能通过添加元素以拓展为回路，且仍保存悖论的性质。而 Yablo 悖论的线性链条可以看成拥有无穷个元素的自环，从而与自指型悖论等价。另一种观点认为这并不构成悖论，而只是我们的思维不能很好地处理无穷。很显然，在元素有限的情况下，Yablo 悖论是可判定的（仅有最后一项为真）。也就是说，假若我们的思维能越过无穷（参考超任务），就能完成对该序列命题的判断。而早在三千年前，芝诺讲述的那个关于乌龟的故事就告诉我们，思维过程与客观过程不能画等号（追乌龟的思维过程是无限的，在这场思维赛跑中，我们永恒地追不上这只思维中的原乌龟。但客观的进程与此是完全不同的）。即我们可以认为，虽然我们将 Yablo 悖论思维为不可判定，但（客观上）该序列中的每一项的真假都是确定的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#狐狸·涌现·爱\n悖论篇\n​「Yablo悖论」，一个很有意思但并不广为人知的悖论，表述如下：\n存在一个无穷序列，其中的每一项都声称后面的全部命题为假，则该序列中每一个命题的真假都无法判定。\n​论证如下：若序列中所有命题均为假命题，则可得出序列中必有真命题，矛盾。若序列中存在真命题，不妨令第 n https://t.co/89SqQAWWeN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035371615278813184"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2035372204414898516",
+        "created_at": "2026-03-21T15:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:03:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035371635851546923",
+          "2035372204414898516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "狐狸·涌现·爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iT2osZdn7x",
+              "end": 171,
+              "expanded_url": "https://x.com/AspiLin0/status/2035372204414898516/photo/1",
+              "media_key": "3_2035371615278813184",
+              "start": 148,
+              "url": "https://t.co/iT2osZdn7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035372204414898516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "狐狸·涌现·爱"
+              }
+            ]
+          },
+          "text": "#狐狸·涌现·爱\n悖论篇\n​「Yablo悖论」，一个很有意思但并不广为人知的悖论，表述如下：\n存在一个无穷序列，其中的每一项都声称后面的全部命题为假，则该序列中每一个命题的真假都无法判定。\n​论证如下：若序列中所有命题均为假命题，则可得出序列中必有真命题，矛盾。若序列中存在真命题，不妨令第 n 项为真命题，则前 n-1 项为假命题，但对于 n 以后的项，由于 n 的宣称，它们全为假命题，又由于第 n+1 项为假命题，则 n+1 以后的项必有真命题，矛盾。\n​对于这个悖论主要有两种理解：一是认为这依旧是「自指型悖论」的某种变体。事实上，「自指型悖论」的自环能通过添加元素以拓展为回路，且仍保存悖论的性质。而 Yablo 悖论的线性链条可以看成拥有无穷个元素的自环，从而与自指型悖论等价。另一种观点认为这并不构成悖论，而只是我们的思维不能很好地处理无穷。很显然，在元素有限的情况下，Yablo 悖论是可判定的（仅有最后一项为真）。也就是说，假若我们的思维能越过无穷（参考超任务），就能完成对该序列命题的判断。而早在三千年前，芝诺讲述的那个关于乌龟的故事就告诉我们，思维过程与客观过程不能画等号（追乌龟的思维过程是无限的，在这场思维赛跑中，我们永恒地追不上这只思维中的乌龟。但客观的进程与此是完全不同的）。即我们可以认为，虽然我们将 Yablo 悖论思维为不可判定，但（客观上）该序列中的每一项的真假都是确定的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#狐狸·涌现·爱\n悖论篇\n​「Yablo悖论」，一个很有意思但并不广为人知的悖论，表述如下：\n存在一个无穷序列，其中的每一项都声称后面的全部命题为假，则该序列中每一个命题的真假都无法判定。\n​论证如下：若序列中所有命题均为假命题，则可得出序列中必有真命题，矛盾。若序列中存在真命题，不妨令第 n https://t.co/iT2osZdn7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 655,
+          "like_count": 18455,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 4358
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

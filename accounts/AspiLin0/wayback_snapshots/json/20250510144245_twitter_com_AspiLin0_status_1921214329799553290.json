@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1921212322275574016",
+    "created_at": "2025-05-10T14:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T15:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921214329799553290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868130816951513088",
+          "start": 0,
+          "username": "JerryCatX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921214329799553290",
+    "in_reply_to_user_id": "1868130816951513088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921212322275574016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JerryCatX 那就别救\n自己才是最重要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1921212322275574016",
+        "created_at": "2025-05-10T14:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921214329799553290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868130816951513088",
+              "start": 0,
+              "username": "JerryCatX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921214329799553290",
+        "in_reply_to_user_id": "1868130816951513088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921212322275574016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JerryCatX 那就别救\n自己才是最重要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868130816951513088",
+        "conversation_id": "1921212322275574016",
+        "created_at": "2025-05-10T14:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921212322275574016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921212322275574016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人关心关心我啊 我草我真是服了 真的不想管这破事了 但不管又于心不忍 你妈的我操赶快去死吧 能不能别烦我了啊操 我真是受够了 谁能来救我啊 人有同理心是干什么的 我为什么要救别人 我连自己都救不了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1913194579031167028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 363,
+          "like_count": 5859,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T03:08:02.000Z",
+        "description": "生命脆若游丝，愿每一个生命都得以善待。 欢迎来到青雀的废纸篓。发癫里推@NMSL_Que ⚠️负能警告，继续浏览代表您接受所有饼干。/09高一生/S.D.D/废物/INFP/精神病/负能/割手/od/顺女/厌男/🚬/厌世/💊/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "NMSL_Que"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihoyo.com",
+                "end": 23,
+                "expanded_url": "https://mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/FkvHkGY3sa"
+              }
+            ]
+          }
+        },
+        "id": "1868130816951513088",
+        "location": "提瓦特 稻妻 鸣神大社",
+        "name": "雀的日记簿",
+        "pinned_tweet_id": "1916048413805973594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911091557542825984/mHdISRZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 79,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/FkvHkGY3sa",
+        "username": "JerryCatX",
+        "verified": false
+      }
+    ]
+  }
+}

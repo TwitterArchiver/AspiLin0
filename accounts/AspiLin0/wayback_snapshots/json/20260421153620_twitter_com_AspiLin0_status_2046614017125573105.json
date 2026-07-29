@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046613987073421312",
+        "3_2046613998712541184",
+        "3_2046614003552825344",
+        "3_2046614010955808768"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046614017125573105",
+    "created_at": "2026-04-21T15:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046614017125573105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6brYJxA2h",
+          "end": 167,
+          "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+          "media_key": "3_2046613987073421312",
+          "start": 144,
+          "url": "https://t.co/A6brYJxA2h"
+        },
+        {
+          "display_url": "pic.x.com/A6brYJxA2h",
+          "end": 167,
+          "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+          "media_key": "3_2046613998712541184",
+          "start": 144,
+          "url": "https://t.co/A6brYJxA2h"
+        },
+        {
+          "display_url": "pic.x.com/A6brYJxA2h",
+          "end": 167,
+          "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+          "media_key": "3_2046614003552825344",
+          "start": 144,
+          "url": "https://t.co/A6brYJxA2h"
+        },
+        {
+          "display_url": "pic.x.com/A6brYJxA2h",
+          "end": 167,
+          "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+          "media_key": "3_2046614010955808768",
+          "start": 144,
+          "url": "https://t.co/A6brYJxA2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046614017125573105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "ngl.link/aspilin058357",
+            "end": 161,
+            "expanded_url": "https://ngl.link/aspilin058357",
+            "start": 138,
+            "url": "https://t.co/f4lpFKVz0N"
+          }
+        ]
+      },
+      "text": "图1：如果了解投射理论的会比较好解释，总之在把阿尼玛乱投射（（\n通俗的解释是喜欢的人还挺多的，但没有特别想要和谁在一起这样\n图2：感觉多读书是好的，而且大抵一般不会干涉别人的自由（？\n图3：看看可爱洛铃👀\n图4：自我压力是动力的一个来源，不过不会再把自己往死里压力了这样><\nhttps://t.co/f4lpFKVz0N"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图1：如果了解投射理论的会比较好解释，总之在把阿尼玛乱投射（（\n通俗的解释是喜欢的人还挺多的，但没有特别想要和谁在一起这样\n图2：感觉多读书是好的，而且大抵一般不会干涉别人的自由（？\n图3：看看可爱洛铃👀\n图4：自我压力是动力的一个来源，不过不会再把自己往死里压力了这样&gt;&lt; https://t.co/A6brYJxA2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2046613987073421312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcIk-vbcAA2r04.jpg",
+        "width": 1080
+      },
+      {
+        "height": 933,
+        "media_key": "3_2046613998712541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcIlqGaUAAAdaT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 899,
+        "media_key": "3_2046614003552825344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcIl8IbMAAdNXs.jpg",
+        "width": 1079
+      },
+      {
+        "height": 891,
+        "media_key": "3_2046614010955808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcImXtbwAALrVM.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046613987073421312",
+            "3_2046613998712541184",
+            "3_2046614003552825344",
+            "3_2046614010955808768"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046614017125573105",
+        "created_at": "2026-04-21T15:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046614017125573105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6brYJxA2h",
+              "end": 167,
+              "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+              "media_key": "3_2046613987073421312",
+              "start": 144,
+              "url": "https://t.co/A6brYJxA2h"
+            },
+            {
+              "display_url": "pic.x.com/A6brYJxA2h",
+              "end": 167,
+              "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+              "media_key": "3_2046613998712541184",
+              "start": 144,
+              "url": "https://t.co/A6brYJxA2h"
+            },
+            {
+              "display_url": "pic.x.com/A6brYJxA2h",
+              "end": 167,
+              "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+              "media_key": "3_2046614003552825344",
+              "start": 144,
+              "url": "https://t.co/A6brYJxA2h"
+            },
+            {
+              "display_url": "pic.x.com/A6brYJxA2h",
+              "end": 167,
+              "expanded_url": "https://x.com/AspiLin0/status/2046614017125573105/photo/1",
+              "media_key": "3_2046614010955808768",
+              "start": 144,
+              "url": "https://t.co/A6brYJxA2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046614017125573105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin058357",
+                "end": 161,
+                "expanded_url": "https://ngl.link/aspilin058357",
+                "start": 138,
+                "url": "https://t.co/f4lpFKVz0N"
+              }
+            ]
+          },
+          "text": "图1：如果了解投射理论的会比较好解释，总之在把阿尼玛乱投射（（\n通俗的解释是喜欢的人还挺多的，但没有特别想要和谁在一起这样\n图2：感觉多读书是好的，而且大抵一般不会干涉别人的自由（？\n图3：看看可爱洛铃👀\n图4：自我压力是动力的一个来源，不过不会再把自己往死里压力了这样><\nhttps://t.co/f4lpFKVz0N"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图1：如果了解投射理论的会比较好解释，总之在把阿尼玛乱投射（（\n通俗的解释是喜欢的人还挺多的，但没有特别想要和谁在一起这样\n图2：感觉多读书是好的，而且大抵一般不会干涉别人的自由（？\n图3：看看可爱洛铃👀\n图4：自我压力是动力的一个来源，不过不会再把自己往死里压力了这样&gt;&lt; https://t.co/A6brYJxA2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 716,
+          "like_count": 20016,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 4704
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

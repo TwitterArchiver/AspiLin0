@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1939941030674964717",
+    "created_at": "2025-07-02T04:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T05:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940260648602255407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785683748006264833",
+          "start": 0,
+          "username": "ChenXu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940260648602255407",
+    "in_reply_to_user_id": "1785683748006264833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940181009359937967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenXu233 其实不用考虑这些（\n因为poincare那个时代还是经典宇宙观（\n用现在的观念反驳属于无效反驳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1939941030674964717",
+        "created_at": "2025-07-02T04:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940260648602255407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785683748006264833",
+              "start": 0,
+              "username": "ChenXu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940260648602255407",
+        "in_reply_to_user_id": "1785683748006264833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940181009359937967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenXu233 其实不用考虑这些（\n因为poincare那个时代还是经典宇宙观（\n用现在的观念反驳属于无效反驳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785683748006264833",
+        "conversation_id": "1939941030674964717",
+        "created_at": "2025-07-01T22:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T23:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940181009359937967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940181009359937967",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939941030674964717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 而且要求是空间有限和时间无限。而宇宙在不断膨胀，时间也不一定无限，这就导致事实上我们宇宙不太可能实现彭加莱回归。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 443,
+          "like_count": 9291,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:52:46.000Z",
+        "description": "不想沉沦了。",
+        "id": "1785683748006264833",
+        "location": "Everywhere",
+        "name": "沐浴晨煦",
+        "pinned_tweet_id": "1924859381755347059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 272,
+          "like_count": 8629,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1418
+        },
+        "username": "ChenXu233",
+        "verified": false
+      }
+    ]
+  }
+}

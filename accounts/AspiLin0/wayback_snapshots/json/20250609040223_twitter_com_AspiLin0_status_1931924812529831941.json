@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931924810126487552"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931924812529831941",
+    "created_at": "2025-06-09T04:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T05:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931924812529831941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFx9zbE4bq",
+          "end": 115,
+          "expanded_url": "https://x.com/AspiLin0/status/1931924812529831941/photo/1",
+          "media_key": "3_1931924810126487552",
+          "start": 92,
+          "url": "https://t.co/MFx9zbE4bq"
+        },
+        {
+          "display_url": "x.com/Muoujiang_/sta…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/Muoujiang_/status/1931920716414452083",
+          "start": 116,
+          "url": "https://t.co/sarA5CM8De"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931924812529831941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931920716414452083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们可以利用带入数据法验证是否合理\n例如取3,9,10,-22，5\n由原方法3+9+10-22+5÷5=1\n又(3+9+10-22+5）÷5=1\n所以我们不排除这种计算是合理的可能（ https://t.co/MFx9zbE4bq https://t.co/sarA5CM8De"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_1931924810126487552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-TYQhacAARD76.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931924810126487552"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931924812529831941",
+        "created_at": "2025-06-09T04:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931924812529831941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFx9zbE4bq",
+              "end": 115,
+              "expanded_url": "https://x.com/AspiLin0/status/1931924812529831941/photo/1",
+              "media_key": "3_1931924810126487552",
+              "start": 92,
+              "url": "https://t.co/MFx9zbE4bq"
+            },
+            {
+              "display_url": "x.com/Muoujiang_/sta…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/Muoujiang_/status/1931920716414452083",
+              "start": 116,
+              "url": "https://t.co/sarA5CM8De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931924812529831941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931920716414452083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们可以利用带入数据法验证是否合理\n例如取3,9,10,-22，5\n由原方法3+9+10-22+5÷5=1\n又(3+9+10-22+5）÷5=1\n所以我们不排除这种计算是合理的可能（ https://t.co/MFx9zbE4bq https://t.co/sarA5CM8De"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1931920716414452083",
+        "created_at": "2025-06-09T03:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931920716414452083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931920716414452083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2，8，14，16，20的平均数……\n\n谁让你用2+8+14+16+20÷5=44这么算的……加括号啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 420,
+          "like_count": 8168,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1768
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→大学之后🍥（怕被家里发现 | 跨跨帮助跨跨 | @huahuojiang_ | 最好的姐妹 @wflmyblj @Sakura_mo_yu @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931731982066847744/9-oy6911_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21178,
+          "following_count": 10670,
+          "like_count": 75972,
+          "listed_count": 74,
+          "media_count": 3682,
+          "tweet_count": 13569
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

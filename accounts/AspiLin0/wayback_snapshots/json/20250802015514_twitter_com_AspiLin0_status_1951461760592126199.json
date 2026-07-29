@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1951203236792222137",
+    "created_at": "2025-08-02T01:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T02:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951461760592126199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1715533602489053184",
+          "start": 0,
+          "username": "IX01030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951461760592126199",
+    "in_reply_to_user_id": "1715533602489053184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951203236792222137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX01030 bro以为自己是章鱼博士💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1951203236792222137",
+        "created_at": "2025-08-02T01:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T02:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951461760592126199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715533602489053184",
+              "start": 0,
+              "username": "IX01030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951461760592126199",
+        "in_reply_to_user_id": "1715533602489053184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951203236792222137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX01030 bro以为自己是章鱼博士💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715533602489053184",
+        "conversation_id": "1951203236792222137",
+        "created_at": "2025-08-01T08:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951203236792222137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951203236792222137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 548,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就不能一手抓学习一手抓人际一手抓编曲一手抓调教一手抓钢琴一手抓追番一手抓赚钱一手抓游戏吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 453,
+          "like_count": 10454,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 2641
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T01:01:08.000Z",
+        "description": "咕…",
+        "id": "1715533602489053184",
+        "location": "距离你520m",
+        "name": "无🔜被作业搞残疾♿♿♿",
+        "pinned_tweet_id": "1895782422001959195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950160296695263232/SorqAKy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 827,
+          "like_count": 28985,
+          "listed_count": 3,
+          "media_count": 825,
+          "tweet_count": 6534
+        },
+        "username": "IX01030",
+        "verified": false
+      }
+    ]
+  }
+}

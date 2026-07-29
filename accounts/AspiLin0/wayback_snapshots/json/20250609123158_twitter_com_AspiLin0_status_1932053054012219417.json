@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1932049349959409919",
+    "created_at": "2025-06-09T12:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T13:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932053054012219417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732775121797136384",
+          "start": 0,
+          "username": "zuilizhishier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932053054012219417",
+    "in_reply_to_user_id": "1732775121797136384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932049349959409919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuilizhishier 染色体还是xy,不顺直（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 429,
+        "media_key": "3_1932049342644535296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAEpATawAArkJW.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1932049349959409919",
+        "created_at": "2025-06-09T12:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932053054012219417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732775121797136384",
+              "start": 0,
+              "username": "zuilizhishier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932053054012219417",
+        "in_reply_to_user_id": "1732775121797136384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932049349959409919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuilizhishier 染色体还是xy,不顺直（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932049342644535296"
+          ]
+        },
+        "author_id": "1732775121797136384",
+        "conversation_id": "1932049349959409919",
+        "created_at": "2025-06-09T12:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932049349959409919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvLynUSCDC",
+              "end": 125,
+              "expanded_url": "https://x.com/zuilizhishier/status/1932049349959409919/photo/1",
+              "media_key": "3_1932049342644535296",
+              "start": 102,
+              "url": "https://t.co/wvLynUSCDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932049349959409919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小鼠母体在孕期严重的铁缺乏，竟然能让本应发育成雄性的鼠宝宝，变成顺直女鼠\n\n为什么要研究小鼠呢，因为小鼠是一种模式动物，相关的解剖基因都已经研究的很透彻了、这种模式生物在遗传学是果蝇，甲基化领域是拟南芥 https://t.co/wvLynUSCDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 423,
+          "like_count": 8341,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:52:46.000Z",
+        "description": "万物非猫，唯有哈猫，哈猫是希波克拉底行走在中推的影子，汉语、日语、英语，猫语使用者。哈猫喵咪咪（互粉请私信",
+        "id": "1732775121797136384",
+        "name": "枫糖哈猫🍐",
+        "pinned_tweet_id": "1927727163966362038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925358835340091392/0wu-aWfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 265,
+          "like_count": 2414,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 1182
+        },
+        "username": "zuilizhishier",
+        "verified": false
+      }
+    ]
+  }
+}

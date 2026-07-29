@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952335789163180216",
+    "created_at": "2025-08-04T11:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T12:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952336091622846495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952336091622846495",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952335789163180216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等人ing..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952335789163180216",
+        "created_at": "2025-08-04T11:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952336091622846495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952336091622846495",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952335789163180216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等人ing..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952335789163180216",
+        "created_at": "2025-08-04T11:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952335789163180216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "阿司匹林片也是阿片’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lPKq…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lPKqMMkYRQKb",
+              "start": 0,
+              "status": 200,
+              "title": "Scheduled: 梦之屿茶话会：闲聊02",
+              "unwound_url": "https://twitter.com/i/spaces/1lPKqMMkYRQKb/peek",
+              "url": "https://t.co/BIEwAfd0ER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952335789163180216",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BIEwAfd0ER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 463,
+          "like_count": 11120,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 2778
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

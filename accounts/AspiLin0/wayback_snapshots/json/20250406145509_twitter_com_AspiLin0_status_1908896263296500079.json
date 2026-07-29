@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1908894643967992229",
+    "created_at": "2025-04-06T14:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T15:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908896263296500079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863256225137524736",
+          "start": 0,
+          "username": "niwanglaixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908896263296500079",
+    "in_reply_to_user_id": "1863256225137524736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908894643967992229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niwanglaixi 还可以发涩图（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1908894643967992229",
+        "created_at": "2025-04-06T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908896263296500079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863256225137524736",
+              "start": 0,
+              "username": "niwanglaixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908896263296500079",
+        "in_reply_to_user_id": "1863256225137524736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908894643967992229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niwanglaixi 还可以发涩图（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863256225137524736",
+        "conversation_id": "1908894643967992229",
+        "created_at": "2025-04-06T14:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908894643967992229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908894643967992229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是只有引战才会有流量啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些某名奇妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 288,
+          "like_count": 3547,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T16:18:59.000Z",
+        "description": "只喜欢喜欢的事/会发疯/溺在雨里的人/死在黄昏的狗/日本語を勉強する",
+        "id": "1863256225137524736",
+        "location": "Tokyo-to, Japan",
+        "name": "溺兮",
+        "pinned_tweet_id": "1906066890302370077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906708705338667009/-SfVUpSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 28,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 173
+        },
+        "username": "niwanglaixi",
+        "verified": false
+      }
+    ]
+  }
+}

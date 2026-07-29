@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952742299521495040"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952742302289731868",
+    "created_at": "2025-08-05T14:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T15:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952742302289731868"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "感觉不如"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "拉康派"
+        },
+        {
+          "end": 142,
+          "start": 139,
+          "tag": "神经"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/il82rRsYF4",
+          "end": 166,
+          "expanded_url": "https://x.com/AspiLin0/status/1952742302289731868/photo/1",
+          "media_key": "3_1952742299521495040",
+          "start": 143,
+          "url": "https://t.co/il82rRsYF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952742302289731868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "时代精神导致阿尼玛和人格面具的冲突加剧，集体无意识使原始意象得到了活化，使阿尼玛外显迫使主体完成人格面具的摧毁与重建。但是错位的理想与自性化的进行时矛盾，产生的强大阴影与智慧老人的缺失可能从而引发了神经症。面对这种情况理应遏制扭曲的个性化，完成原型的整合\n#感觉不如 #拉康派 #神经 https://t.co/il82rRsYF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1952742299521495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmIxnzbsAA3rto.jpg",
+        "width": 1404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952742299521495040"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952742302289731868",
+        "created_at": "2025-08-05T14:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952742302289731868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "感觉不如"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "拉康派"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "神经"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/il82rRsYF4",
+              "end": 166,
+              "expanded_url": "https://x.com/AspiLin0/status/1952742302289731868/photo/1",
+              "media_key": "3_1952742299521495040",
+              "start": 143,
+              "url": "https://t.co/il82rRsYF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952742302289731868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时代精神导致阿尼玛和人格面具的冲突加剧，集体无意识使原始意象得到了活化，使阿尼玛外显迫使主体完成人格面具的摧毁与重建。但是错位的理想与自性化的进行时矛盾，产生的强大阴影与智慧老人的缺失可能从而引发了神经症。面对这种情况理应遏制扭曲的个性化，完成原型的整合\n#感觉不如 #拉康派 #神经 https://t.co/il82rRsYF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 463,
+          "like_count": 11319,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 2826
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

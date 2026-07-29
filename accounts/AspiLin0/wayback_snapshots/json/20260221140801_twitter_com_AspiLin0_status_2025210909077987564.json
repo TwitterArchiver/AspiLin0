@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2025208480064569563",
+    "created_at": "2026-02-21T14:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025210909077987564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025210909077987564",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025208480064569563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 因为所有归纳法都不是严格正确，只是根据样本量给出一个置信区间。\n置信区间在某个范围内我们便认为是正确的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_2025208472514748416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr8YDBaYAAoA3w.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2025208480064569563",
+        "created_at": "2026-02-21T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025210909077987564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025210909077987564",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025208480064569563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 因为所有归纳法都不是严格正确，只是根据样本量给出一个置信区间。\n置信区间在某个范围内我们便认为是正确的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025208472514748416"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2025208480064569563",
+        "created_at": "2026-02-21T13:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025208480064569563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ca0LIACERd",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2025208480064569563/photo/1",
+              "media_key": "3_2025208472514748416",
+              "start": 0,
+              "url": "https://t.co/ca0LIACERd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025208480064569563",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ca0LIACERd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 621,
+          "like_count": 17511,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 4191
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117869,
+          "following_count": 1040,
+          "like_count": 51453,
+          "listed_count": 273,
+          "media_count": 19431,
+          "tweet_count": 29410
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

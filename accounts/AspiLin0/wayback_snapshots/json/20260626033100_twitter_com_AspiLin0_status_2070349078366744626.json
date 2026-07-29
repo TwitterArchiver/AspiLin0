@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2070317018616844553",
+    "created_at": "2026-06-26T03:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070349078366744626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968300138222215168",
+          "start": 0,
+          "username": "wafuunai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070349078366744626",
+    "in_reply_to_user_id": "1968300138222215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070348185361621198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wafuunai 家长比较焦虑吧（\n其实里面学生并不是很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2070317018616844553",
+        "created_at": "2026-06-26T03:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070349078366744626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968300138222215168",
+              "start": 0,
+              "username": "wafuunai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070349078366744626",
+        "in_reply_to_user_id": "1968300138222215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070348185361621198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wafuunai 家长比较焦虑吧（\n其实里面学生并不是很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968300138222215168",
+        "conversation_id": "2070317018616844553",
+        "created_at": "2026-06-26T03:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070348185361621198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070348185361621198",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070342995136893304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 草 不好意思听起来可能有点指向性了（\n主要不理解的是为什么有那么多人挤在里面去听，感觉大家有问题问一嘴就走的话也不至于这样）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 769,
+          "like_count": 21549,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 5088
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T13:05:04.000Z",
+        "description": "UTC +8｜不想转@UMichCSE 的 @UMichECE 学生将永远无法做@UMRobotics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "UMichCSE"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "UMichECE"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "UMRobotics"
+              }
+            ]
+          }
+        },
+        "id": "1968300138222215168",
+        "name": "水无清奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968300496143220736/_PytA9lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 112,
+          "like_count": 11428,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "wafuunai",
+        "verified": false
+      }
+    ]
+  }
+}

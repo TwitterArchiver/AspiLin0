@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952013724807754187",
+    "created_at": "2025-08-03T14:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T15:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952015911520702949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648402059526569988",
+          "start": 0,
+          "username": "Avxxxxyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952015911520702949",
+    "in_reply_to_user_id": "1648402059526569988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952013724807754187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avxxxxyyyyyy 十点半会有人吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952013724807754187",
+        "created_at": "2025-08-03T14:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952015911520702949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648402059526569988",
+              "start": 0,
+              "username": "Avxxxxyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952015911520702949",
+        "in_reply_to_user_id": "1648402059526569988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952013724807754187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avxxxxyyyyyy 十点半会有人吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "1952013724807754187",
+        "created_at": "2025-08-03T14:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952013724807754187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Avxy’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ypJd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ypJdZZXOWYKW",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1952013767484854272/LvczDw6r?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952013767484854272/LvczDw6r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 闲聊sps",
+              "unwound_url": "https://twitter.com/i/spaces/1ypJdZZXOWYKW/peek",
+              "url": "https://t.co/zXBdZUls9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952013724807754187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zXBdZUls9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 462,
+          "like_count": 10991,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 2755
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "♂/拼凑人格中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/avxy95252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/avxy95252",
+                "start": 0,
+                "url": "https://t.co/UhVsTs8QYv"
+              }
+            ]
+          }
+        },
+        "id": "1648402059526569988",
+        "location": "墓地招租",
+        "name": "Avxy",
+        "pinned_tweet_id": "1917620493651435575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930942138164170752/zLi92VN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 241,
+          "like_count": 3940,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/UhVsTs8QYv",
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

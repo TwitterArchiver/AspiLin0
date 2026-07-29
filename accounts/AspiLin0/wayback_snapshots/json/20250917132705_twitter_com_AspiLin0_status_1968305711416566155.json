@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968174024003080338",
+    "created_at": "2025-09-17T13:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968305711416566155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968305711416566155",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968174024003080338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1968174021062922240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bb2CWbkAAckve.jpg",
+        "width": 1277
+      },
+      {
+        "height": 829,
+        "media_key": "3_1968174021146759168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bb2Cqa0AAYJHc.jpg",
+        "width": 1191
+      },
+      {
+        "height": 521,
+        "media_key": "3_1968174020987437056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bb2CEbwAACVbE.jpg",
+        "width": 1094
+      },
+      {
+        "height": 788,
+        "media_key": "3_1968174021599739904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bb2EWawAAQZiT.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968174024003080338",
+        "created_at": "2025-09-17T13:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968305711416566155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968305711416566155",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968174024003080338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968174021062922240",
+            "3_1968174021146759168",
+            "3_1968174020987437056",
+            "3_1968174021599739904"
+          ]
+        },
+        "author_id": "1089936552694693889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968174024003080338",
+        "created_at": "2025-09-17T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968174024003080338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kinn2w8ALq",
+              "end": 62,
+              "expanded_url": "https://x.com/KaguraKurage/status/1968174024003080338/photo/1",
+              "media_key": "3_1968174021062922240",
+              "start": 39,
+              "url": "https://t.co/Kinn2w8ALq"
+            },
+            {
+              "display_url": "pic.x.com/Kinn2w8ALq",
+              "end": 62,
+              "expanded_url": "https://x.com/KaguraKurage/status/1968174024003080338/photo/1",
+              "media_key": "3_1968174021146759168",
+              "start": 39,
+              "url": "https://t.co/Kinn2w8ALq"
+            },
+            {
+              "display_url": "pic.x.com/Kinn2w8ALq",
+              "end": 62,
+              "expanded_url": "https://x.com/KaguraKurage/status/1968174024003080338/photo/1",
+              "media_key": "3_1968174020987437056",
+              "start": 39,
+              "url": "https://t.co/Kinn2w8ALq"
+            },
+            {
+              "display_url": "pic.x.com/Kinn2w8ALq",
+              "end": 62,
+              "expanded_url": "https://x.com/KaguraKurage/status/1968174024003080338/photo/1",
+              "media_key": "3_1968174021599739904",
+              "start": 39,
+              "url": "https://t.co/Kinn2w8ALq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968174024003080338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^ω^也是从一开始住的救济房到住上别墅啦\n还有如出一辙的cv_(:з」∠)_ https://t.co/Kinn2w8ALq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 488,
+          "like_count": 12916,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3242
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "neko🐱: @Neko_65536",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽 くらげ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942960814832709632/VpWc7f3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 151,
+          "like_count": 2629,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 669
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      }
+    ]
+  }
+}

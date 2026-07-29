@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918232444333113804",
+    "created_at": "2025-05-02T09:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T10:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918237386326327734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842105698509017088",
+          "start": 0,
+          "username": "Cyb3rn3rdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918237386326327734",
+    "in_reply_to_user_id": "1842105698509017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918236217545818530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb3rn3rdV 第一眼看到decision-making以为是神经经济学（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_1918236190609993729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7xpvCbcAEK5EP.png",
+        "width": 1784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918232444333113804",
+        "created_at": "2025-05-02T09:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T10:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918237386326327734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842105698509017088",
+              "start": 0,
+              "username": "Cyb3rn3rdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918237386326327734",
+        "in_reply_to_user_id": "1842105698509017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918236217545818530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb3rn3rdV 第一眼看到decision-making以为是神经经济学（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918236190609993729"
+          ]
+        },
+        "author_id": "1842105698509017088",
+        "conversation_id": "1918232444333113804",
+        "created_at": "2025-05-02T09:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T10:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918236217545818530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0wl2O0kAs",
+              "end": 40,
+              "expanded_url": "https://x.com/Cyb3rn3rdV/status/1918236217545818530/photo/1",
+              "media_key": "3_1918236190609993729",
+              "start": 17,
+              "url": "https://t.co/d0wl2O0kAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918236217545818530",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918232444333113804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T 帮我把作业写了 https://t.co/d0wl2O0kAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 337,
+          "like_count": 4926,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:34:16.000Z",
+        "description": "14yrs old Canadian-Chinese, now lives in Australia\n\nOtherAccounts @KINGSLA85042146 (for private posts)\n@ViiyElvin (Former Account)\n\nMy Only Master: @xckim392538",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "KINGSLA85042146"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "ViiyElvin"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "xckim392538"
+              }
+            ]
+          }
+        },
+        "id": "1842105698509017088",
+        "location": "Melbourne, Victoria",
+        "name": "Cybernerd(V)",
+        "pinned_tweet_id": "1912755840249122931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911642870387236864/0jxN01Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 796,
+          "like_count": 22212,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3067
+        },
+        "username": "Cyb3rn3rdV",
+        "verified": false
+      }
+    ]
+  }
+}

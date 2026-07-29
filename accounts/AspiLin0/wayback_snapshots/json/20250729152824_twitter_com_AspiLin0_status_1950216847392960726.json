@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950216847392960726",
+    "created_at": "2025-07-29T15:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T16:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950216847392960726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1862331198628143104",
+          "start": 3,
+          "username": "moyuxiedanhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950216847392960726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950067708055245287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moyuxiedanhuang: 一条避雷水门的帖子\n有一个姐妹最近去水门做了srs，据本人评价是外形肿胀难看还坏死了，虽然说坏死是手术风险之一，但水门连坏死都不管。所以说在这种人生大事上真的不能贪图小便宜🙏有条件的还是推荐国内的大医院或者外国大的机构"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950216847392960726",
+        "created_at": "2025-07-29T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950216847392960726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1862331198628143104",
+              "start": 3,
+              "username": "moyuxiedanhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950216847392960726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950067708055245287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moyuxiedanhuang: 一条避雷水门的帖子\n有一个姐妹最近去水门做了srs，据本人评价是外形肿胀难看还坏死了，虽然说坏死是手术风险之一，但水门连坏死都不管。所以说在这种人生大事上真的不能贪图小便宜🙏有条件的还是推荐国内的大医院或者外国大的机构"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862331198628143104",
+        "conversation_id": "1950067708055245287",
+        "created_at": "2025-07-29T05:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950067708055245287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950067708055245287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4081,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一条避雷水门的帖子\n有一个姐妹最近去水门做了srs，据本人评价是外形肿胀难看还坏死了，虽然说坏死是手术风险之一，但水门连坏死都不管。所以说在这种人生大事上真的不能贪图小便宜🙏有条件的还是推荐国内的大医院或者外国大的机构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 447,
+          "like_count": 9852,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T03:02:38.000Z",
+        "description": "06年MTF/刷新地区广西南宁柳州/infp/hrt25.4.30",
+        "id": "1862331198628143104",
+        "location": "你家",
+        "name": "摸鱼の屑蛋黄",
+        "pinned_tweet_id": "1938306647975465402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940904902404067329/kTPpv68h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 266,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "moyuxiedanhuang",
+        "verified": false
+      }
+    ]
+  }
+}

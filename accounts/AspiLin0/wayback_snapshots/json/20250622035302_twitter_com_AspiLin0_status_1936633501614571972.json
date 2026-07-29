@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936436390386098685",
+    "created_at": "2025-06-22T03:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T04:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936633501614571972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930205831276179457",
+          "start": 0,
+          "username": "rain_Y_Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936633501614571972",
+    "in_reply_to_user_id": "1930205831276179457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936453139680628819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain_Y_Rose 因为期末考后还有一次周测两次学考模拟考一次学考一次结营考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936436390386098685",
+        "created_at": "2025-06-22T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936633501614571972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930205831276179457",
+              "start": 0,
+              "username": "rain_Y_Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936633501614571972",
+        "in_reply_to_user_id": "1930205831276179457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936453139680628819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_Y_Rose 因为期末考后还有一次周测两次学考模拟考一次学考一次结营考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930205831276179457",
+        "conversation_id": "1936436390386098685",
+        "created_at": "2025-06-21T15:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936453139680628819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936453139680628819",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936436390386098685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 这么早😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 433,
+          "like_count": 8971,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T10:11:56.000Z",
+        "description": "@yeyvv520  的另一个号\n     2008.3.9无证含糖🏳️‍⚧️🍥hrt2025.4.5\n       天残党，没出柜（计划26年高考结束出柜\n         一个被所有人讨厌的人   超级笨比  \n       情绪不稳定  割手不od  尽量不发血图\n      会发碎碎念，少量负能量，分享生活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "yeyvv520"
+              }
+            ]
+          }
+        },
+        "id": "1930205831276179457",
+        "name": "雨薇🍥",
+        "pinned_tweet_id": "1930223214225187299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930206047119257608/NI4LsS4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 128,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "rain_Y_Rose",
+        "verified": false
+      }
+    ]
+  }
+}

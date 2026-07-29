@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952745206136307713"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952744331510702240",
+    "created_at": "2025-08-05T14:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T15:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952745210649444426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zjb9AEtjdN",
+          "end": 42,
+          "expanded_url": "https://x.com/AspiLin0/status/1952745210649444426/photo/1",
+          "media_key": "3_1952745206136307713",
+          "start": 19,
+          "url": "https://t.co/Zjb9AEtjdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952745210649444426",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952744331510702240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 安安 https://t.co/Zjb9AEtjdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1950,
+        "media_key": "3_1952745206136307713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmLazyaAAEJJMr.jpg",
+        "width": 1300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952744325588361217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmKnjfaoAEUBCg.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952745206136307713"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952744331510702240",
+        "created_at": "2025-08-05T14:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952745210649444426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zjb9AEtjdN",
+              "end": 42,
+              "expanded_url": "https://x.com/AspiLin0/status/1952745210649444426/photo/1",
+              "media_key": "3_1952745206136307713",
+              "start": 19,
+              "url": "https://t.co/Zjb9AEtjdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952745210649444426",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952744331510702240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 安安 https://t.co/Zjb9AEtjdN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952744325588361217"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "1952744331510702240",
+        "created_at": "2025-08-05T14:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952744331510702240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aI3k288h1a",
+              "end": 30,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/1952744331510702240/photo/1",
+              "media_key": "3_1952744325588361217",
+              "start": 7,
+              "url": "https://t.co/aI3k288h1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952744331510702240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安安米娜桑 https://t.co/aI3k288h1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 463,
+          "like_count": 11323,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 2828
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911369014296612864/trNoKSbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 877,
+          "like_count": 22201,
+          "listed_count": 6,
+          "media_count": 801,
+          "tweet_count": 10292
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023690514944623037",
+    "created_at": "2026-02-17T10:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023706277415670141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023706277415670141",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023690514944623037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 以狂犬病来说比较困难，因为确实有一定的客观指标\n但是心理疾病则极大可能是这样（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2023690498528169984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWXyVQa0AAYlA7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023690514944623037",
+        "created_at": "2026-02-17T10:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023706277415670141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023706277415670141",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023690514944623037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 以狂犬病来说比较困难，因为确实有一定的客观指标\n但是心理疾病则极大可能是这样（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023690498528169984"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "conversation_id": "2023690514944623037",
+        "created_at": "2026-02-17T09:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023690514944623037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTw0ivtB8p",
+              "end": 30,
+              "expanded_url": "https://x.com/qqqqqf_/status/2023690514944623037/photo/1",
+              "media_key": "3_2023690498528169984",
+              "start": 7,
+              "url": "https://t.co/sTw0ivtB8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023690514944623037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反安慰剂效应 https://t.co/sTw0ivtB8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 595,
+          "like_count": 16412,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4001
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "#搞开发的\n#欢迎找我交朋友和找我一起开发\n#很闲\n大号: @qqqqqf5",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "搞开发的"
+              },
+              {
+                "end": 21,
+                "start": 6,
+                "tag": "欢迎找我交朋友和找我一起开发"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "很闲"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "qqqqqf5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Github Private Repo",
+        "name": "🍥凤清",
+        "pinned_tweet_id": "2023704417720229993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 108,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": false
+      }
+    ]
+  }
+}

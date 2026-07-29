@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1914695838896676970",
+    "created_at": "2025-04-22T15:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T16:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914697962988638540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "FoxRay3567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914697962988638540",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914695838896676970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRay3567 在浙江上学同学一个两个都有家产可以继承的😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1914695838896676970",
+        "created_at": "2025-04-22T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914697962988638540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "FoxRay3567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914697962988638540",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914695838896676970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRay3567 在浙江上学同学一个两个都有家产可以继承的😇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "1914695838896676970",
+        "created_at": "2025-04-22T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914695838896676970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914695838896676970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上了大学之后我才发现原来我高中周围都是有钱人？现在去美国上学的人不少啊，还有在上海的，或者在杭州的，居然去江苏的少之又少？我也不知道为什么江苏对浙江人的吸引力这么低。反正他们这些人的有钱程度真的是超乎了我的想象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片要吃阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 326,
+          "like_count": 4214,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "春风一吹想起谁？",
+        "id": "1677369315388174336",
+        "location": "你的心中",
+        "name": "鱼蛋蛋大王🍋",
+        "pinned_tweet_id": "1894633145410134210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896531157615034368/JrigziVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 177,
+          "like_count": 6077,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 2198
+        },
+        "username": "FoxRay3567",
+        "verified": false
+      }
+    ]
+  }
+}

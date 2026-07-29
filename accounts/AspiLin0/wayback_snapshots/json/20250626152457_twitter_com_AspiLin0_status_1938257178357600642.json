@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1938257178357600642",
+    "created_at": "2025-06-26T15:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938257178357600642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938257178357600642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "似乎容易侵扰到别人\n毕竟自己有时候也无法理解的东西\n在别人眼中大概是失去因果联系的\n或是无理取闹，或是顾影自怜\n但不抒发却每每有所郁闷\n大抵之后会换些其他方式书写吧\n不知道有没有记得之前幻想阿片各种死法的（\n那个估计可以继续连载了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1938257178357600642",
+        "created_at": "2025-06-26T15:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938257178357600642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938257178357600642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎容易侵扰到别人\n毕竟自己有时候也无法理解的东西\n在别人眼中大概是失去因果联系的\n或是无理取闹，或是顾影自怜\n但不抒发却每每有所郁闷\n大抵之后会换些其他方式书写吧\n不知道有没有记得之前幻想阿片各种死法的（\n那个估计可以继续连载了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 441,
+          "like_count": 9312,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

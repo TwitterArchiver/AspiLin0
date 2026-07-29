@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1912920758042730773",
+    "created_at": "2025-04-19T06:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T07:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913476907666149750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1423418368934105088",
+          "start": 0,
+          "username": "Gly_Sweet"
+        },
+        {
+          "end": 25,
+          "id": "1813191847264854019",
+          "start": 11,
+          "username": "hhngki7292924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913476907666149750",
+    "in_reply_to_user_id": "1423418368934105088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913257442638700820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gly_Sweet @hhngki7292924 第一是心理医生和精神科医生完全是两个概念\n第二是精神科医生也可以在综合医院和诊所工作(这种接待的基本是失眠抑郁症这些的)而不一定要去精神病院工作?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1912920758042730773",
+        "created_at": "2025-04-19T06:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T07:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913476907666149750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1423418368934105088",
+              "start": 0,
+              "username": "Gly_Sweet"
+            },
+            {
+              "end": 25,
+              "id": "1813191847264854019",
+              "start": 11,
+              "username": "hhngki7292924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913476907666149750",
+        "in_reply_to_user_id": "1423418368934105088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913257442638700820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gly_Sweet @hhngki7292924 第一是心理医生和精神科医生完全是两个概念\n第二是精神科医生也可以在综合医院和诊所工作(这种接待的基本是失眠抑郁症这些的)而不一定要去精神病院工作?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423418368934105088",
+        "conversation_id": "1912920758042730773",
+        "created_at": "2025-04-18T15:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913257442638700820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813191847264854019",
+              "start": 0,
+              "username": "hhngki7292924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913257442638700820",
+        "in_reply_to_user_id": "1813191847264854019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912920758042730773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhngki7292924 你的好意我领了，但是作为在精神病院的实习过的人劝你不要这样，因为你大概率会碰到的不是抑郁症跨性别，而是大喊大叫的精分和不说话的精分，精神病院很压抑的，真的和监狱一样。而且我们很多人都的问题根源在于社会环境而非自身，这时候通过心理治疗救助不一定有用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 308,
+          "like_count": 3861,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T22:59:36.000Z",
+        "description": "胡桃厨，爱合唱\n@gly_sweet@sfba.social",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfba.social/@gly_sweet",
+                "end": 23,
+                "expanded_url": "https://sfba.social/@gly_sweet",
+                "start": 0,
+                "url": "https://t.co/YEwRpIqiNl"
+              }
+            ]
+          }
+        },
+        "id": "1423418368934105088",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "紫依雨忆🏳️‍⚧️",
+        "pinned_tweet_id": "1546728755850199041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436122371635625989/Ax4iy2Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 120,
+          "like_count": 7482,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 7147
+        },
+        "url": "https://t.co/YEwRpIqiNl",
+        "username": "Gly_Sweet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "里推@hhk1546562",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "hhk1546562"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf7jUs"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1893247835769803221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907850789537853443/Aoqp7FCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 514,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/eTZfSf7jUs",
+        "username": "hhngki7292924",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1978794164398723365",
+    "created_at": "2025-10-16T12:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T13:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978794164398723365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829679457411477504",
+          "start": 3,
+          "username": "miaowuqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978794164398723365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978623864834752871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaowuqvq: 世界很大，总会有人超你，不要以为自己很了不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1978794164398723365",
+        "created_at": "2025-10-16T12:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978794164398723365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829679457411477504",
+              "start": 3,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978794164398723365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978623864834752871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaowuqvq: 世界很大，总会有人超你，不要以为自己很了不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "conversation_id": "1978623864834752871",
+        "created_at": "2025-10-16T00:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T01:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978623864834752871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978623864834752871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界很大，总会有人超你，不要以为自己很了不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 509,
+          "like_count": 13304,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 3389
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "密斯卡托尼克大学语言社会科教授  民俗调查学者 幻想乡驻外界贤者 猫猫国摄政王 猎巫运动的漏网之鱼 混沌恶KP  奈亚拉斯提普祭祀 白酒妖精 反支分子 旧日支配者 替身使者 百合狂魔 热爱动漫小说 精日 深度妹控 修习战车道  诺尔丁骑士 塞尔德兰大公 骑砍领主加拿大现役JK 酒豪萝莉 永远18岁的平板少女绮梦天禄是也",
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️💵🏳️‍🌈🎌🗾☸️⚜️™️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829679742372438016/x5uIrXka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1998,
+          "like_count": 4410,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 8126
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

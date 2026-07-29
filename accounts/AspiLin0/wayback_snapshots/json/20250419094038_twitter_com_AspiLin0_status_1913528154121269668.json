@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913486243389677691",
+    "created_at": "2025-04-19T09:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913528154121269668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        },
+        {
+          "end": 28,
+          "id": "1842105698509017088",
+          "start": 17,
+          "username": "Cyb3rn3rdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913528154121269668",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913525496937415046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko @Cyb3rn3rdV 拔拔我的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913486243389677691",
+        "created_at": "2025-04-19T09:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913528154121269668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            },
+            {
+              "end": 28,
+              "id": "1842105698509017088",
+              "start": 17,
+              "username": "Cyb3rn3rdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913528154121269668",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913525496937415046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko @Cyb3rn3rdV 拔拔我的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "1913486243389677691",
+        "created_at": "2025-04-19T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913525496937415046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842105698509017088",
+              "start": 0,
+              "username": "Cyb3rn3rdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913525496937415046",
+        "in_reply_to_user_id": "1842105698509017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913486243389677691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb3rn3rdV 挺有意思的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 310,
+          "like_count": 3902,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹@_AkitaYura💓IloveTsukasa 电波系、跨性别🏳️‍⚧️、二次元、非人类；可可爱爱，装跨顺男，树的天使，三氯福司，腦的電波，od咨询，hrt咨询，特别宝宝@tube1925\n|she/they|mtf|无性别主义|女权主义|hrt2025.1.28|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "_AkitaYura"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "tube1925"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/ZsWbODh9SQ"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "🎀杉綠福司♓",
+        "pinned_tweet_id": "1910309703848255874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907707757370949632/L4CzkdPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 621,
+          "like_count": 26136,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 5317
+        },
+        "url": "https://t.co/ZsWbODh9SQ",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:34:16.000Z",
+        "description": "14yrs old Canadian-Chinese, now lives in Australia\n\nOtherAccounts @KINGSLA85042146 (for private posts)\n@ViiyElvin (Former Account)\n\nMy Only Master: @xckim392538",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "KINGSLA85042146"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "ViiyElvin"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "xckim392538"
+              }
+            ]
+          }
+        },
+        "id": "1842105698509017088",
+        "location": "Melbourne, Victoria",
+        "name": "Cybernerd(V)",
+        "pinned_tweet_id": "1912755840249122931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911642870387236864/0jxN01Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 578,
+          "like_count": 17211,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1932
+        },
+        "username": "Cyb3rn3rdV",
+        "verified": false
+      }
+    ]
+  }
+}

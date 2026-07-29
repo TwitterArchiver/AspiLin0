@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1999381036497797503",
+    "created_at": "2025-12-12T08:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999397054255407496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "TecsInspirecy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999397054255407496",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999381036497797503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TecsInspirecy 从存在主义的角度看，多少个的孤独的人在一起，还是同等的孤独"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999381036497797503].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999381036497797503",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999381036497797503"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1999381036497797503",
+        "created_at": "2025-12-12T08:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999397054255407496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "TecsInspirecy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999397054255407496",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999381036497797503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TecsInspirecy 从存在主义的角度看，多少个的孤独的人在一起，还是同等的孤独"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 520,
+          "like_count": 13688,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 3525
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "搁浅的鱼 | @cynun:https://t.co/HkIt3gVUAU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "cynun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 37,
+                "expanded_url": "http://matrix.org",
+                "start": 14,
+                "url": "https://t.co/HkIt3gVUAU"
+              }
+            ]
+          }
+        },
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "unuλↃ -|- Cynun",
+        "pinned_tweet_id": "1955135493756383690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 954,
+          "like_count": 27746,
+          "listed_count": 6,
+          "media_count": 689,
+          "tweet_count": 7540
+        },
+        "username": "TecsInspirecy",
+        "verified": false
+      }
+    ]
+  }
+}

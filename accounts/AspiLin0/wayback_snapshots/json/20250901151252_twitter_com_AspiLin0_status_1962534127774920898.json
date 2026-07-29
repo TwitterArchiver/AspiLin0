@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1962534127774920898",
+    "created_at": "2025-09-01T15:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962534127774920898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/0y62",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/0y62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962534127774920898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962486520839110760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 免费送一批庚酸雌二醇(EEN)\n这是第一次举办，为了帮助无力买糖的孩子w\n只需要将收件信息发给我，会以到付快件的形式发送\n甚至...并不困难的推友也可以免费获取...快点赞转发评论吧\n水素实验室❤️为爱捐赠 https://t.co/0y62…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_1962486373614747649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzwm9YfaAAEzNT9.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1962534127774920898",
+        "created_at": "2025-09-01T15:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962534127774920898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/0y62",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/0y62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962534127774920898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962486520839110760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 免费送一批庚酸雌二醇(EEN)\n这是第一次举办，为了帮助无力买糖的孩子w\n只需要将收件信息发给我，会以到付快件的形式发送\n甚至...并不困难的推友也可以免费获取...快点赞转发评论吧\n水素实验室❤️为爱捐赠 https://t.co/0y62…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962486373614747649"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1962486520839110760",
+        "created_at": "2025-09-01T12:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962486520839110760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y62xmvhiI",
+              "end": 127,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1962486520839110760/photo/1",
+              "media_key": "3_1962486373614747649",
+              "start": 104,
+              "url": "https://t.co/0y62xmvhiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962486520839110760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 671,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "免费送一批庚酸雌二醇(EEN)\n这是第一次举办，为了帮助无力买糖的孩子w\n只需要将收件信息发给我，会以到付快件的形式发送\n甚至...并不困难的推友也可以免费获取...快点赞转发评论吧\n水素实验室❤️为爱捐赠 https://t.co/0y62xmvhiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 479,
+          "like_count": 12546,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 3110
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・我喜欢动漫和计算机・想和所有人成为朋友・仍在学习日语・ACGN+・才15岁x ・すべてを癒す万能薬になりたい・服务器、交换机、 补佳乐！",
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 86,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 59
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

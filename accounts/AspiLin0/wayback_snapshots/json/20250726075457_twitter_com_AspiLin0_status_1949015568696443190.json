@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1949012751579578744",
+    "created_at": "2025-07-26T07:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T08:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949015568696443190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620467638991454208",
+          "start": 0,
+          "username": "someofCocaCola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949015568696443190",
+    "in_reply_to_user_id": "1620467638991454208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949012751579578744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@someofCocaCola 德国浪漫派的最后一位骑士"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949012737964867585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxIwkUbgAERPph.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1949012751579578744",
+        "created_at": "2025-07-26T07:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T08:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949015568696443190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620467638991454208",
+              "start": 0,
+              "username": "someofCocaCola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949015568696443190",
+        "in_reply_to_user_id": "1620467638991454208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949012751579578744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@someofCocaCola 德国浪漫派的最后一位骑士"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949012737964867585"
+          ]
+        },
+        "author_id": "1620467638991454208",
+        "conversation_id": "1949012751579578744",
+        "created_at": "2025-07-26T07:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T08:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949012751579578744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQ85iMJM5N",
+              "end": 92,
+              "expanded_url": "https://x.com/someofCocaCola/status/1949012751579578744/photo/1",
+              "media_key": "3_1949012737964867585",
+              "start": 69,
+              "url": "https://t.co/XQ85iMJM5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949012751579578744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《克林索尔的最后夏天》 黑塞写道：\n世界越来越美。我独自一人，却很自在。我别无所求，只想被阳光晒透。我渴望成熟。准备好死去，准备好重生。 https://t.co/XQ85iMJM5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 444,
+          "like_count": 9696,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:03:04.000Z",
+        "description": "在命运的长河中，只剩顺流而下。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/someofcocacola",
+                "end": 23,
+                "expanded_url": "https://ngl.link/someofcocacola",
+                "start": 0,
+                "url": "https://t.co/IMMmAf16ao"
+              }
+            ]
+          }
+        },
+        "id": "1620467638991454208",
+        "location": "长河",
+        "name": "香草冰可乐",
+        "pinned_tweet_id": "1927778145345691757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932686534513455104/Ay1OOtW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 610,
+          "like_count": 62732,
+          "listed_count": 5,
+          "media_count": 918,
+          "tweet_count": 12164
+        },
+        "url": "https://t.co/IMMmAf16ao",
+        "username": "someofCocaCola",
+        "verified": false
+      }
+    ]
+  }
+}

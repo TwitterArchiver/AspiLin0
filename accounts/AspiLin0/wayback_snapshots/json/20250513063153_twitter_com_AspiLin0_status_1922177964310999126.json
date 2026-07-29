@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1922167445726388588",
+    "created_at": "2025-05-13T06:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T07:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922177964310999126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        },
+        {
+          "end": 30,
+          "id": "1867639848569372672",
+          "start": 17,
+          "username": "overdose_day"
+        },
+        {
+          "end": 44,
+          "id": "1798724969695977472",
+          "start": 31,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922177964310999126",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922176702190342243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko @overdose_day @overdosewiki 口腔癌警告⚠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1922167445726388588",
+        "created_at": "2025-05-13T06:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T07:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922177964310999126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            },
+            {
+              "end": 30,
+              "id": "1867639848569372672",
+              "start": 17,
+              "username": "overdose_day"
+            },
+            {
+              "end": 44,
+              "id": "1798724969695977472",
+              "start": 31,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922177964310999126",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922176702190342243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko @overdose_day @overdosewiki 口腔癌警告⚠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "1922167445726388588",
+        "created_at": "2025-05-13T06:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T07:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922176702190342243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            },
+            {
+              "end": 27,
+              "id": "1798724969695977472",
+              "start": 14,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922176702190342243",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922171780715655219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day @overdosewiki 不如搞点槟榔吃哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 366,
+          "like_count": 6032,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1294
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹@_AkitaYura💓IloveTsukasa 电波系二次元；叫我小綠可可爱爱树的天使特别宝宝@tube1925🦋，对象🍊\n|she/they|mtf|hrt2025.1.28|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "_AkitaYura"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "tube1925"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koshian_green",
+                "end": 23,
+                "expanded_url": "http://ngl.link/koshian_green",
+                "start": 0,
+                "url": "https://t.co/ELFVWyur34"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "🎀🍥衫田🦋緑子♓🍩",
+        "pinned_tweet_id": "1910309703848255874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914843174469873664/if6tRK_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 669,
+          "like_count": 30463,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 6407
+        },
+        "url": "https://t.co/ELFVWyur34",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n官网:https://t.co/bwfCFLxN8g\n个人galgame站:https://t.co/iRTTcRxOR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 50,
+                "expanded_url": "https://overdose.day",
+                "start": 27,
+                "url": "https://t.co/bwfCFLxN8g"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 85,
+                "expanded_url": "https://lsd.kim/",
+                "start": 62,
+                "url": "https://t.co/iRTTcRxOR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 1013,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "方生方死 方死方生",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1912323001305165928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 11,
+          "like_count": 356,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

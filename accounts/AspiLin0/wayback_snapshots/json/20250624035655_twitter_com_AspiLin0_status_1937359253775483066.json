@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937117332645847261",
+    "created_at": "2025-06-24T03:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T04:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937359253775483066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671765957134663680",
+          "start": 0,
+          "username": "Maid_Sarafina"
+        },
+        {
+          "end": 22,
+          "id": "1467175651954200577",
+          "start": 15,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937359253775483066",
+    "in_reply_to_user_id": "1671765957134663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937357328334094631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maid_Sarafina @kjkluk 以后会考虑吧（\n我先把微几和统计学完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937117332645847261",
+        "created_at": "2025-06-24T03:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937359253775483066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671765957134663680",
+              "start": 0,
+              "username": "Maid_Sarafina"
+            },
+            {
+              "end": 22,
+              "id": "1467175651954200577",
+              "start": 15,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937359253775483066",
+        "in_reply_to_user_id": "1671765957134663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937357328334094631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maid_Sarafina @kjkluk 以后会考虑吧（\n我先把微几和统计学完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671765957134663680",
+        "conversation_id": "1937117332645847261",
+        "created_at": "2025-06-24T03:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937357328334094631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 17,
+              "id": "1467175651954200577",
+              "start": 10,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937357328334094631",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937355752542470248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @kjkluk 第一张图的表面上看是计算机，其实翻开读就会发现全是披着计算机外皮的数学。无非就是计算机三大课：高等数学基础、线性代数和离散数学🫠\n几乎没有涉及到实际，或者说顶多会用C代码或伪代码来解释范例，大部分都是理论知识"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 436,
+          "like_count": 9069,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T06:24:12.000Z",
+        "description": "中文(简体/正體/粤语)/EN/日本語 | \n企图画插画的现任码农 | ←TypeScript、Java、NodeJS、Dart及Swift\n前UI、平面设计|\nLGBT友好 |\n英式女仆制服控",
+        "id": "1671765957134663680",
+        "name": "美夜🐇𝓢𝓪𝓻𝓪𝓯𝓲𝓷𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895903470927876096/atyqFN4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 190,
+          "like_count": 6987,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3714
+        },
+        "username": "Maid_Sarafina",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3U8dO"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1932904144186360228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 3022,
+          "like_count": 276089,
+          "listed_count": 15,
+          "media_count": 882,
+          "tweet_count": 12612
+        },
+        "url": "https://t.co/i3MKU3U8dO",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

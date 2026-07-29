@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2039362444720751052",
+    "created_at": "2026-04-01T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039362444720751052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1801382796436639745",
+          "start": 3,
+          "username": "_Sennya0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039362444720751052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039092594194657336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Sennya0717: 所以说，最好避免犯病的方式终究还是只能远离推特吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2039362444720751052",
+        "created_at": "2026-04-01T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039362444720751052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1801382796436639745",
+              "start": 3,
+              "username": "_Sennya0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039362444720751052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039092594194657336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Sennya0717: 所以说，最好避免犯病的方式终究还是只能远离推特吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "2039092594194657336",
+        "created_at": "2026-03-31T21:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039092594194657336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039092594194657336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以说，最好避免犯病的方式终究还是只能远离推特吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 675,
+          "like_count": 18920,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 4469
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 持证含糖 2025.02.11\n║中度抑郁 / 双相二型 / 焦虑症 / ADHD / BPD / 阿斯伯格 / CPTSD\n║音游人 / 渴望温暖 / 努力变得健全\n║网页是更详细的自介（施工中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SennyaOwO",
+                "end": 23,
+                "expanded_url": "https://lit.link/SennyaOwO",
+                "start": 0,
+                "url": "https://t.co/3kWAHiQr3p"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜在睡觉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004473589333213184/JvXCzyUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 1665,
+          "like_count": 9546,
+          "listed_count": 5,
+          "media_count": 310,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/3kWAHiQr3p",
+        "username": "_Sennya0717",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2048345809939513344"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2048423277664850422",
+    "created_at": "2026-04-26T15:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048423277664850422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1443439089710092288",
+          "start": 3,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048423277664850422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048345811013304777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaYiGongHeQiu: 突击检查🏳️‍⚧️：\n感觉MtF群体中学理科的占比比较多🤔妳是理科生还是文科生？🫵❔"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 5759,
+        "end_datetime": "2026-04-30T10:16:52.000Z",
+        "id": "2048345809939513344",
+        "options": [
+          {
+            "label": "理科（理学、工学、医学、农学等）",
+            "position": 1,
+            "votes": 4
+          },
+          {
+            "label": "文科（文学、商学、管理学、法学等）",
+            "position": 2,
+            "votes": 3
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2048345809939513344"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2048423277664850422",
+        "created_at": "2026-04-26T15:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048423277664850422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1443439089710092288",
+              "start": 3,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048423277664850422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048345811013304777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaYiGongHeQiu: 突击检查🏳️‍⚧️：\n感觉MtF群体中学理科的占比比较多🤔妳是理科生还是文科生？🫵❔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2048345809939513344"
+          ]
+        },
+        "author_id": "1443439089710092288",
+        "conversation_id": "2048345811013304777",
+        "created_at": "2026-04-26T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048345811013304777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048345811013304777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 996,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突击检查🏳️‍⚧️：\n感觉MtF群体中学理科的占比比较多🤔妳是理科生还是文科生？🫵❔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 727,
+          "like_count": 20162,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 4738
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "サブ垢@XiaYGHQiu ｜持证含糖MtF｜college student in accountancy｜linguaphile (zh, en, eo, etc.)｜同类回fo｜欢迎和我聊天喵🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾球🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024404971329056768/rYyGwh02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 507,
+          "like_count": 21047,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 3312
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

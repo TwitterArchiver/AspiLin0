@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015603137722437632"
+      ],
+      "media_source_tweet_id": [
+        "2015603144680775868"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2016009496859213931",
+    "created_at": "2026-01-27T04:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016009496859213931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1477993896370388994",
+          "start": 3,
+          "username": "Yura_Izumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yuQMPBsrnQ",
+          "end": 41,
+          "expanded_url": "https://x.com/Yura_Izumi/status/2015603144680775868/photo/1",
+          "media_key": "3_2015603137722437632",
+          "start": 18,
+          "url": "https://t.co/yuQMPBsrnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016009496859213931",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 544
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015603144680775868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yura_Izumi: 💙 https://t.co/yuQMPBsrnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "はてな！\nこれこのあいだのフライヤーでかいたやつ！\nじつはちょう自信作！\n\nめちゃかわいくかけた気がするからほめて",
+        "height": 2048,
+        "media_key": "3_2015603137722437632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jcX-gb0AAtHMX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015603137722437632"
+          ],
+          "media_source_tweet_id": [
+            "2015603144680775868"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2016009496859213931",
+        "created_at": "2026-01-27T04:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016009496859213931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1477993896370388994",
+              "start": 3,
+              "username": "Yura_Izumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuQMPBsrnQ",
+              "end": 41,
+              "expanded_url": "https://x.com/Yura_Izumi/status/2015603144680775868/photo/1",
+              "media_key": "3_2015603137722437632",
+              "start": 18,
+              "url": "https://t.co/yuQMPBsrnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016009496859213931",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 544
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015603144680775868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yura_Izumi: 💙 https://t.co/yuQMPBsrnQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015603137722437632"
+          ]
+        },
+        "author_id": "1477993896370388994",
+        "conversation_id": "2015603144680775868",
+        "created_at": "2026-01-26T01:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015603144680775868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuQMPBsrnQ",
+              "end": 25,
+              "expanded_url": "https://x.com/Yura_Izumi/status/2015603144680775868/photo/1",
+              "media_key": "3_2015603137722437632",
+              "start": 2,
+              "url": "https://t.co/yuQMPBsrnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015603144680775868",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 59734,
+          "like_count": 6069,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "💙 https://t.co/yuQMPBsrnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 545,
+          "like_count": 14964,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 3784
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T13:23:09.000Z",
+        "description": "ジト目ばっかり描いてます。あとカービィだいすきです。じぶんから話するの苦手です。なにかあったらDMください。▼https://t.co/qWnMCdq6WZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desert0world.wixsite.com/yuraart",
+                "end": 78,
+                "expanded_url": "https://desert0world.wixsite.com/yuraart",
+                "start": 55,
+                "url": "https://t.co/qWnMCdq6WZ"
+              }
+            ]
+          }
+        },
+        "id": "1477993896370388994",
+        "name": "和泉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912728393558429696/90uKa_qw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14132,
+          "following_count": 153,
+          "like_count": 13578,
+          "listed_count": 92,
+          "media_count": 112,
+          "tweet_count": 7166
+        },
+        "username": "Yura_Izumi",
+        "verified": false
+      }
+    ]
+  }
+}

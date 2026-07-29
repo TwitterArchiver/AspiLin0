@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2022282549364670721",
+    "created_at": "2026-02-13T14:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022324342970106308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846264453463236608",
+          "start": 0,
+          "username": "Caroyalink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022324342970106308",
+    "in_reply_to_user_id": "1846264453463236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022323640126382443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caroyalink 好哦谢谢你&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2022282549364670721",
+        "created_at": "2026-02-13T14:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022324342970106308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846264453463236608",
+              "start": 0,
+              "username": "Caroyalink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022324342970106308",
+        "in_reply_to_user_id": "1846264453463236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022323640126382443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caroyalink 好哦谢谢你&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846264453463236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022282549364670721",
+        "created_at": "2026-02-13T14:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022323640126382443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022323640126382443",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022282549364670721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 路上注意安全\n\n祝你度过一个愉快的春节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 574,
+          "like_count": 15755,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 3910
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T18:58:52.000Z",
+        "description": "𝐼 𝐻𝑂𝑃𝐸 𝑌𝑂𝑈 𝐹𝐼𝑁𝐷 𝑆𝑂𝑀𝐸 𝑃𝐸𝐴𝐶𝐸 𝑂𝐹 𝑀𝐼𝑁𝐼𝐷 𝐼𝑁 𝑇𝐻𝐼𝑆 𝐿𝐼𝐹𝐸𝑇𝐼𝑀𝐸\n想告诉你明天是新的一天，感受这种喜悦，一生一次就好。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tnews365",
+                "end": 23,
+                "expanded_url": "https://t.me/tnews365",
+                "start": 0,
+                "url": "https://t.co/4u1lFEsSz4"
+              }
+            ]
+          }
+        },
+        "id": "1846264453463236608",
+        "location": "为什么还是都没改变？",
+        "name": "给木桃",
+        "pinned_tweet_id": "2021187524413030772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006392677164601344/eVIz8V5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 782,
+          "like_count": 1037,
+          "listed_count": 8,
+          "media_count": 175,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/4u1lFEsSz4",
+        "username": "Caroyalink",
+        "verified": true
+      }
+    ]
+  }
+}

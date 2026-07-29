@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2023920221698863256",
+    "created_at": "2026-02-18T00:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023920221698863256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798691696001355776",
+          "start": 3,
+          "username": "ZaoTon618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023920221698863256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023712487619854347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaoTon618: 药品知识科普~抗雄篇~色（下）\n色普龙在hrt推荐剂量下单药治疗时，不能实现睾酮完全抑制，所以千万不要只吃抗雄，必须搭配雌共用！色普龙的推荐剂量为12.5mg/1~3天，可购买50mg色并切成四份分别服用，该药无明显味道，如果你发现有苦味那很可能买…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2023712484792954881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWryGebcAEL4gz.jpg",
+        "width": 640
+      },
+      {
+        "height": 294,
+        "media_key": "3_2023712484935561216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWryHAbcAAB1HV.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2023920221698863256",
+        "created_at": "2026-02-18T00:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023920221698863256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798691696001355776",
+              "start": 3,
+              "username": "ZaoTon618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023920221698863256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023712487619854347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaoTon618: 药品知识科普~抗雄篇~色（下）\n色普龙在hrt推荐剂量下单药治疗时，不能实现睾酮完全抑制，所以千万不要只吃抗雄，必须搭配雌共用！色普龙的推荐剂量为12.5mg/1~3天，可购买50mg色并切成四份分别服用，该药无明显味道，如果你发现有苦味那很可能买…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023712484792954881",
+            "3_2023712484935561216"
+          ]
+        },
+        "author_id": "1798691696001355776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2023712487619854347",
+        "created_at": "2026-02-17T10:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023712487619854347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISesPYEzUB",
+              "end": 173,
+              "expanded_url": "https://x.com/ZaoTon618/status/2023712487619854347/photo/1",
+              "media_key": "3_2023712484792954881",
+              "start": 150,
+              "url": "https://t.co/ISesPYEzUB"
+            },
+            {
+              "display_url": "pic.x.com/ISesPYEzUB",
+              "end": 173,
+              "expanded_url": "https://x.com/ZaoTon618/status/2023712487619854347/photo/1",
+              "media_key": "3_2023712484935561216",
+              "start": 150,
+              "url": "https://t.co/ISesPYEzUB"
+            },
+            {
+              "display_url": "x.com/ZaoTon618/stat…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/ZaoTon618/status/2023710426064920728",
+              "start": 174,
+              "url": "https://t.co/ZePLE4jp5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023712487619854347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2923,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023710426064920728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药品知识科普~抗雄篇~色（下）\n色普龙在hrt推荐剂量下单药治疗时，不能实现睾酮完全抑制，所以千万不要只吃抗雄，必须搭配雌共用！色普龙的推荐剂量为12.5mg/1~3天，可购买50mg色并切成四份分别服用，该药无明显味道，如果你发现有苦味那很可能买到了假药，以及色是有国产包装的，如下图为新色与国色 https://t.co/ISesPYEzUB https://t.co/ZePLE4jp5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 597,
+          "like_count": 16504,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4021
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T12:21:58.000Z",
+        "description": "HRT2023.11.24 MtF🍥/已炸柜/家长不管党/不抽烟不喝酒/不od不割手/应该没有精神疾病/一般不会发负能量内容/可互fo有关注基本必回(前提我确定你是人)/欢迎找我咨询MtF用药方案及相关知识，有跨性别意愿的也可以找我做心理疏导🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "https://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/rKC6bXjeLt"
+              }
+            ]
+          }
+        },
+        "id": "1798691696001355776",
+        "location": "创国",
+        "name": "枣桐酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015014041513845212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004470062452035588/PVjS6TLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 737,
+          "like_count": 25774,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/rKC6bXjeLt",
+        "username": "ZaoTon618",
+        "verified": false
+      }
+    ]
+  }
+}

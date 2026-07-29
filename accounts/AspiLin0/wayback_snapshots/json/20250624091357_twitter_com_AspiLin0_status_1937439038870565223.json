@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937437425510547629",
+    "created_at": "2025-06-24T09:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T10:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937439038870565223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758876738652942336",
+          "start": 0,
+          "username": "B48B20A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937439038870565223",
+    "in_reply_to_user_id": "1758876738652942336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937437425510547629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B48B20A 🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937437373471891456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMpBrRboAAwcYJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937437373077585920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMpBpzbAAASHiz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937437425510547629",
+        "created_at": "2025-06-24T09:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937439038870565223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758876738652942336",
+              "start": 0,
+              "username": "B48B20A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937439038870565223",
+        "in_reply_to_user_id": "1758876738652942336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937437425510547629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B48B20A 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937437373471891456",
+            "3_1937437373077585920"
+          ]
+        },
+        "author_id": "1758876738652942336",
+        "conversation_id": "1937437425510547629",
+        "created_at": "2025-06-24T09:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937437425510547629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iD7W2ZbmQ1",
+              "end": 42,
+              "expanded_url": "https://x.com/B48B20A/status/1937437425510547629/photo/1",
+              "media_key": "3_1937437373471891456",
+              "start": 19,
+              "url": "https://t.co/iD7W2ZbmQ1"
+            },
+            {
+              "display_url": "pic.x.com/iD7W2ZbmQ1",
+              "end": 42,
+              "expanded_url": "https://x.com/B48B20A/status/1937437425510547629/photo/1",
+              "media_key": "3_1937437373077585920",
+              "start": 19,
+              "url": "https://t.co/iD7W2ZbmQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937437425510547629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的数学卧槽尼玛\n晚安了我回家o晚安 https://t.co/iD7W2ZbmQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 438,
+          "like_count": 9134,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T15:31:21.000Z",
+        "description": "🏳️‍⚧️🇨🇳Born2010.06.23 HRT20205.03.02",
+        "id": "1758876738652942336",
+        "location": "首都医科大学附属北京安贞医院",
+        "name": "Felicia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930781238744559616/zXREHuBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 726,
+          "like_count": 32266,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 826
+        },
+        "username": "B48B20A",
+        "verified": false
+      }
+    ]
+  }
+}

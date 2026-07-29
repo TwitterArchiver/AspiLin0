@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2029936025389396132",
+    "created_at": "2026-03-06T15:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029936025389396132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "阿司匹林片也是阿片’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1qGvv…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1qGvvkLewLwGB",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 梦之屿茶话会：自言自语大概是（",
+          "unwound_url": "https://twitter.com/i/spaces/1qGvvkLewLwGB/peek",
+          "url": "https://t.co/0ApaqkWnK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029936025389396132",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0ApaqkWnK1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2029936025389396132",
+        "created_at": "2026-03-06T15:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029936025389396132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "阿司匹林片也是阿片’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qGvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qGvvkLewLwGB",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 梦之屿茶话会：自言自语大概是（",
+              "unwound_url": "https://twitter.com/i/spaces/1qGvvkLewLwGB/peek",
+              "url": "https://t.co/0ApaqkWnK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029936025389396132",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0ApaqkWnK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 617,
+          "like_count": 17547,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4201
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

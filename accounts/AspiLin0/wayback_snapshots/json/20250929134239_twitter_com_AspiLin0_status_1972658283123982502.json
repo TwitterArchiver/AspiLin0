@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1972500591172808953",
+    "created_at": "2025-09-29T13:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972658283123982502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972658283123982502",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972500591172808953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 不管从哪个语义上来看都不构成杀害（可能作者想说伤害？）\n至于是否能拯救还是要看之后的行动，有些人自杀是为了关注，有的人是痛苦到活不下去了，不管是哪类人都需要自杀干预，也需要自杀后干预，二者都做好了才叫拯救\n总体上是一个trivial且有点偏极端的问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_1972500585112096768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-61NbbUAAdeC5.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1972500591172808953",
+        "created_at": "2025-09-29T13:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972658283123982502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972658283123982502",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972500591172808953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 不管从哪个语义上来看都不构成杀害（可能作者想说伤害？）\n至于是否能拯救还是要看之后的行动，有些人自杀是为了关注，有的人是痛苦到活不下去了，不管是哪类人都需要自杀干预，也需要自杀后干预，二者都做好了才叫拯救\n总体上是一个trivial且有点偏极端的问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972500585112096768"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "1972500591172808953",
+        "created_at": "2025-09-29T03:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972500591172808953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRzuJ9ieqQ",
+              "end": 31,
+              "expanded_url": "https://x.com/qqqqqf5/status/1972500591172808953/photo/1",
+              "media_key": "3_1972500585112096768",
+              "start": 8,
+              "url": "https://t.co/DRzuJ9ieqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972500591172808953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6562,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "值得深思的问题 https://t.co/DRzuJ9ieqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 498,
+          "like_count": 13015,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 3302
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "Null         \n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1971808327517810876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 1830,
+          "like_count": 5877,
+          "listed_count": 7,
+          "media_count": 532,
+          "tweet_count": 1735
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

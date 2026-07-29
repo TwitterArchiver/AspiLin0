@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033563803825418241"
+      ],
+      "media_source_tweet_id": [
+        "2033563808472646024"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033926214902288739",
+    "created_at": "2026-03-17T15:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033926214902288739"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "足立レイ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629152789598449664",
+          "start": 3,
+          "username": "SHiHiKi__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxpXG0xmv2",
+          "end": 44,
+          "expanded_url": "https://x.com/SHiHiKi__/status/2033563808472646024/photo/1",
+          "media_key": "3_2033563803825418241",
+          "start": 21,
+          "url": "https://t.co/fxpXG0xmv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033926214902288739",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 388
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033563808472646024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHiHiKi__: #足立レイ https://t.co/fxpXG0xmv2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2033563803825418241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDirgVsbMAExcBm.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033563803825418241"
+          ],
+          "media_source_tweet_id": [
+            "2033563808472646024"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033926214902288739",
+        "created_at": "2026-03-17T15:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033926214902288739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "足立レイ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1629152789598449664",
+              "start": 3,
+              "username": "SHiHiKi__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxpXG0xmv2",
+              "end": 44,
+              "expanded_url": "https://x.com/SHiHiKi__/status/2033563808472646024/photo/1",
+              "media_key": "3_2033563803825418241",
+              "start": 21,
+              "url": "https://t.co/fxpXG0xmv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033926214902288739",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 388
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033563808472646024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHiHiKi__: #足立レイ https://t.co/fxpXG0xmv2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033563803825418241"
+          ]
+        },
+        "author_id": "1629152789598449664",
+        "conversation_id": "2033563808472646024",
+        "created_at": "2026-03-16T15:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033563808472646024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "足立レイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxpXG0xmv2",
+              "end": 29,
+              "expanded_url": "https://x.com/SHiHiKi__/status/2033563808472646024/photo/1",
+              "media_key": "3_2033563803825418241",
+              "start": 6,
+              "url": "https://t.co/fxpXG0xmv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033563808472646024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 30890,
+          "like_count": 3332,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 388
+        },
+        "reply_settings": "everyone",
+        "text": "#足立レイ https://t.co/fxpXG0xmv2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 638,
+          "like_count": 18075,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 4301
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T16:14:39.000Z",
+        "description": "インターネットお絵描きクン\nskeb(https://t.co/HeYNvgTiaF)\nwavebox(https://t.co/fw1wQssiMt)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@SHiHiKi",
+                "end": 42,
+                "expanded_url": "https://skeb.jp/@SHiHiKi",
+                "start": 19,
+                "url": "https://t.co/HeYNvgTiaF"
+              },
+              {
+                "display_url": "wavebox.me/wave/8anlr85n3…",
+                "end": 75,
+                "expanded_url": "https://wavebox.me/wave/8anlr85n3v0e0owa/",
+                "start": 52,
+                "url": "https://t.co/fw1wQssiMt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shihiki",
+                "end": 23,
+                "expanded_url": "https://lit.link/shihiki",
+                "start": 0,
+                "url": "https://t.co/w49o6tBpxJ"
+              }
+            ]
+          }
+        },
+        "id": "1629152789598449664",
+        "location": "各種リンクはlitlink",
+        "name": "しひき",
+        "pinned_tweet_id": "2017194003318571121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006533433670119424/co96jDVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4807,
+          "following_count": 93,
+          "like_count": 45,
+          "listed_count": 16,
+          "media_count": 231,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/w49o6tBpxJ",
+        "username": "SHiHiKi__",
+        "verified": false
+      }
+    ]
+  }
+}

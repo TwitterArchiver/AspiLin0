@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074085883956133888"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2074085901706428874",
+    "created_at": "2026-07-06T10:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074085901706428874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7R9RW4oe2o",
+          "end": 34,
+          "expanded_url": "https://x.com/AspiLin0/status/2074085901706428874/photo/1",
+          "media_key": "3_2074085883956133888",
+          "start": 11,
+          "url": "https://t.co/7R9RW4oe2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074085901706428874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "旅行结束\n回家睡大觉 https://t.co/7R9RW4oe2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2074085883956133888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiiH1rbgAAcDB1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074085883956133888"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2074085901706428874",
+        "created_at": "2026-07-06T10:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074085901706428874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7R9RW4oe2o",
+              "end": 34,
+              "expanded_url": "https://x.com/AspiLin0/status/2074085901706428874/photo/1",
+              "media_key": "3_2074085883956133888",
+              "start": 11,
+              "url": "https://t.co/7R9RW4oe2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074085901706428874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旅行结束\n回家睡大觉 https://t.co/7R9RW4oe2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 773,
+          "like_count": 21757,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 5132
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

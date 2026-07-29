@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950764353495728188",
+    "created_at": "2025-07-31T05:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T06:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950787111969558530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        },
+        {
+          "end": 17,
+          "id": "1811057149805834241",
+          "start": 8,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950787111969558530",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950786904083054759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ @Tarimarl 那还天天熬（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950764353495728188",
+        "created_at": "2025-07-31T05:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950787111969558530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            },
+            {
+              "end": 17,
+              "id": "1811057149805834241",
+              "start": 8,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950787111969558530",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950786904083054759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ @Tarimarl 那还天天熬（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "1950764353495728188",
+        "created_at": "2025-07-31T05:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950786904083054759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950786904083054759",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950764353495728188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl 我也喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 448,
+          "like_count": 10074,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "cn鸢安（0_an）/已毕业初三牲/maimai/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美&官匹)/友跨/成分正常的都会回\nfo/好朋友@Quitewaterqwq | @Allknowbody2/最可爱的妹妹@JadezKayoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "JadezKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an（互fo）",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950074867635666944/v2lfK78G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1030,
+          "like_count": 26415,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 7870
+        },
+        "username": "ElP15_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "我需要很多钱，也需要很多爱 | 可以叫我小T | 性别是沃尔玛塑料袋 | 互fo会先查成分",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟",
+        "name": "Tarimar",
+        "pinned_tweet_id": "1950150968143671410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949484166711771136/ud5gOPeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 484,
+          "like_count": 6717,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1732
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

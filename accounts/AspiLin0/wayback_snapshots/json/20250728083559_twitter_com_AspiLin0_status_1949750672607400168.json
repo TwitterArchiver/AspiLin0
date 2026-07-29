@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1949750672607400168",
+    "created_at": "2025-07-28T08:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T09:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949750672607400168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhou1919456789…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/zhou1919456789/status/1949711729627414753",
+          "start": 57,
+          "url": "https://t.co/Bgfb0gMZBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949750672607400168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949711729627414753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事实上我们做过的每一件事都被这个世界如实的“记录”下来了\n因此我们的生命在广义上是无限延续的，我称其为第三类永生 https://t.co/Bgfb0gMZBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_1949711727169556480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7EfGBa0AAvtfy.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1949750672607400168",
+        "created_at": "2025-07-28T08:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T09:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949750672607400168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhou1919456789…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/zhou1919456789/status/1949711729627414753",
+              "start": 57,
+              "url": "https://t.co/Bgfb0gMZBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949750672607400168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949711729627414753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上我们做过的每一件事都被这个世界如实的“记录”下来了\n因此我们的生命在广义上是无限延续的，我称其为第三类永生 https://t.co/Bgfb0gMZBe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949711727169556480"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1949711729627414753",
+        "created_at": "2025-07-28T06:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949711729627414753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaTOEoJH3h",
+              "end": 28,
+              "expanded_url": "https://x.com/zhou1919456789/status/1949711729627414753/photo/1",
+              "media_key": "3_1949711727169556480",
+              "start": 5,
+              "url": "https://t.co/JaTOEoJH3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949711729627414753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13887,
+          "like_count": 154,
+          "quote_count": 7,
+          "reply_count": 90,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不可怕吗 https://t.co/JaTOEoJH3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 444,
+          "like_count": 9774,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2450
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "不需要太理会我\n\n我的认知水平尚在极度幼稚的阶段，所以总拿自己那些史来吹牛。\n\n正常人类，当作去动物园看猴子🐒就好。\n\n/高中生/可互fo",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1945008058809376956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 935,
+          "like_count": 2499,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 967
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

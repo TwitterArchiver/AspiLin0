@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2037842653296099636",
+    "created_at": "2026-03-28T15:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037915304765055052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037915304765055052",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037842653296099636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 因为这个东西本身就是外界贴的标签\n所以会从外界的视角来看待这个事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2037842653296099636",
+        "created_at": "2026-03-28T15:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037915304765055052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037915304765055052",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037842653296099636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 因为这个东西本身就是外界贴的标签\n所以会从外界的视角来看待这个事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700512333100126208",
+        "conversation_id": "2037842653296099636",
+        "created_at": "2026-03-28T10:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037842653296099636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037842653296099636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 376,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MtX这个词就很刻意的在标明指派性别。我可能更愿意换成 滚木tX。或者滚木t滚木也可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 666,
+          "like_count": 18755,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 4428
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "I ____ the world and everything in it｜🟨⬜️🟪⬛️ 🚩🏴Ⓐ☂️🏳️‍⚧️ enby (it||she) ｜@In_faPasDeFutur ALL=(ALL)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "In_faPasDeFutur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.pronouns.page/@5Pr1ng6ridge",
+                "end": 23,
+                "expanded_url": "https://zh.pronouns.page/@5Pr1ng6ridge",
+                "start": 0,
+                "url": "https://t.co/NGZweungSm"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge❔🐱🍥☂️🏴",
+        "pinned_tweet_id": "1962891589501726893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037752173073981440/-UM7ouVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 781,
+          "like_count": 14980,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/NGZweungSm",
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1908811082590028091",
+    "created_at": "2025-04-06T14:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T15:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908895853416227277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851919588508016640",
+          "start": 0,
+          "username": "rainppr2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908895853416227277",
+    "in_reply_to_user_id": "1851919588508016640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908811082590028091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainppr2008 加油吧，选必一和遗传确实难😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1908811082590028091",
+        "created_at": "2025-04-06T14:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908895853416227277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851919588508016640",
+              "start": 0,
+              "username": "rainppr2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908895853416227277",
+        "in_reply_to_user_id": "1851919588508016640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908811082590028091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainppr2008 加油吧，选必一和遗传确实难😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851919588508016640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1908811082590028091",
+        "created_at": "2025-04-06T09:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908811082590028091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908811082590028091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数学马上开始学立体几何🥲\n物理电场我还一点不会😨\n化学学完选必二就要开始学选必一😱\n生物遗传测试连续不及格🤯\n呜呜呜🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些某名奇妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 288,
+          "like_count": 3543,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T09:30:22.000Z",
+        "description": "佐倉杏子 | 友🏳️‍⚧️🏳️‍🌈 | 想变可爱 想做女生 awa | she / her / 妹妹 | 山东 2027 高考考生 | AFOed 算法竞赛 OIer | 喜欢贴贴抱抱 | 看起来比较正常的回 fo 喵 | 记性不好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rainppr.github.io",
+                "end": 23,
+                "expanded_url": "http://rainppr.github.io",
+                "start": 0,
+                "url": "https://t.co/wthn7eXgMq"
+              }
+            ]
+          }
+        },
+        "id": "1851919588508016640",
+        "location": "Qingdao, China",
+        "name": "RainPPR🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903688129925844992/zWYRRprm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 115,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/wthn7eXgMq",
+        "username": "rainppr2008",
+        "verified": false
+      }
+    ]
+  }
+}

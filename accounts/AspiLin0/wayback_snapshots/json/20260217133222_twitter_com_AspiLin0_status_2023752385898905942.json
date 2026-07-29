@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023691437058244925",
+    "created_at": "2026-02-17T13:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023752385898905942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1523552276119711745",
+          "start": 0,
+          "username": "DeorctheOrigin"
+        },
+        {
+          "end": 25,
+          "id": "1858763452732633090",
+          "start": 16,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023752385898905942",
+    "in_reply_to_user_id": "1523552276119711745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023750270833008836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeorctheOrigin @DeepKlee 诚然✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023691437058244925",
+        "created_at": "2026-02-17T13:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023752385898905942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            },
+            {
+              "end": 25,
+              "id": "1858763452732633090",
+              "start": 16,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023752385898905942",
+        "in_reply_to_user_id": "1523552276119711745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023750270833008836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin @DeepKlee 诚然✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523552276119711745",
+        "conversation_id": "2023691437058244925",
+        "created_at": "2026-02-17T13:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023750270833008836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 19,
+              "id": "1858763452732633090",
+              "start": 10,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023750270833008836",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023701282897215872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @DeepKlee 没关系，信念即工具，我们可以让宗教根据我们的需要在我们之内或在我们之外hhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 596,
+          "like_count": 16442,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4005
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. You are safe with me🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 320,
+          "like_count": 63648,
+          "listed_count": 2,
+          "media_count": 634,
+          "tweet_count": 18751
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | Apostle of C/C++ | Fallen Nasdaq Cultist | Amor Fati, Amor Semper | Powered by DeepKlee",
+        "id": "1858763452732633090",
+        "location": "Akihabara, Tokyo ",
+        "name": "Klee Kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004431940766810112/08aBUUOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 229,
+          "like_count": 8917,
+          "listed_count": 19,
+          "media_count": 227,
+          "tweet_count": 5388
+        },
+        "username": "DeepKlee",
+        "verified": true
+      }
+    ]
+  }
+}

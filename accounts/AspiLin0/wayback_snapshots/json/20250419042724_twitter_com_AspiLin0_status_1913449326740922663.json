@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913382398596898912",
+    "created_at": "2025-04-19T04:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T05:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913449326740922663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598169492928225281",
+          "start": 0,
+          "username": "suzuna_shiina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913449326740922663",
+    "in_reply_to_user_id": "1598169492928225281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913382398596898912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzuna_shiina 这就是纯纯弗洛伊德留下来的糟粕\n双相是天才病则是基于一定统计事实上得出的错误结论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913382398596898912",
+        "created_at": "2025-04-19T04:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T05:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913449326740922663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598169492928225281",
+              "start": 0,
+              "username": "suzuna_shiina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913449326740922663",
+        "in_reply_to_user_id": "1598169492928225281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913382398596898912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzuna_shiina 这就是纯纯弗洛伊德留下来的糟粕\n双相是天才病则是基于一定统计事实上得出的错误结论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598169492928225281",
+        "conversation_id": "1913382398596898912",
+        "created_at": "2025-04-19T00:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T01:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913382398596898912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyi_e_/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xiaoyi_e_/status/1912766011352429004",
+              "start": 27,
+              "url": "https://t.co/Qcg0fyKYhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913382398596898912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912766011352429004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种引导研究分析究竟和“双相是天才病”有多大的区别？ https://t.co/Qcg0fyKYhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 305,
+          "like_count": 3826,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T04:18:14.000Z",
+        "description": "医生，我天天幻想着有一根肉棒顶我，还是从鼻孔顶到大脑里的那种。",
+        "id": "1598169492928225281",
+        "location": "Kumamoto-ken, Japan",
+        "name": "椎名鈴奈（降临派）",
+        "pinned_tweet_id": "1836680910227542342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632064361778008064/FhNO7H1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1767,
+          "like_count": 26038,
+          "listed_count": 8,
+          "media_count": 536,
+          "tweet_count": 6432
+        },
+        "username": "suzuna_shiina",
+        "verified": false
+      }
+    ]
+  }
+}

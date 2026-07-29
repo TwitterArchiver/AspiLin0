@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1902976521339576633",
+    "created_at": "2025-03-21T06:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T07:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902976521339576633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AspiLin0/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/AspiLin0/status/1902753752530169894",
+          "start": 9,
+          "url": "https://t.co/WSRT3uk4CY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902976521339576633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902753752530169894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nmd还不如不看 https://t.co/WSRT3uk4CY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1902976521339576633",
+        "created_at": "2025-03-21T06:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T07:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902976521339576633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AspiLin0/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/AspiLin0/status/1902753752530169894",
+              "start": 9,
+              "url": "https://t.co/WSRT3uk4CY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902976521339576633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902753752530169894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nmd还不如不看 https://t.co/WSRT3uk4CY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1902753752530169894",
+        "created_at": "2025-03-20T16:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902753752530169894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902753752530169894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天（昨天？）没有时间品鉴avemujica了，明天再说^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 233,
+          "like_count": 2265,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1946473777761857823",
+    "created_at": "2025-07-19T10:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T11:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946521194368487494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyvv520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946521194368487494",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946473777761857823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyvv520 找提供心理咨询的人（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1946473777761857823",
+        "created_at": "2025-07-19T10:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T11:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946521194368487494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyvv520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946521194368487494",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946473777761857823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyvv520 找提供心理咨询的人（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694012668359634944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1946473777761857823",
+        "created_at": "2025-07-19T07:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946473777761857823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeyvv520/statu…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/yeyvv520/status/1946424711023559027",
+              "start": 105,
+              "url": "https://t.co/36E1ksqaP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946473777761857823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946424711023559027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前他的状况比较稳定，推号回来了，明天约他一起去看电影，今明两天内大概率不会自杀\n想问一下对于心理问题严重（情绪波动很大）的人，而且他家里不同意带他去医院，怎么才能稍微稳定一下他的状态，怎么减少自杀意愿的反复 https://t.co/36E1ksqaP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1942462775785296312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 445,
+          "like_count": 9621,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2373
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "不线下  会互关同类\n药药🍥🏳️‍⚧️  hrt🍬2025.3.15  出柜，家长反对吃糖  \n精神不稳定 割手 不od \n会偶尔发负能量，慎关注\n努力攒钱ing\n2008.3.9北京\n减肥ing",
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "pinned_tweet_id": "1932347145019130124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1024,
+          "like_count": 1023,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 765
+        },
+        "username": "yeyvv520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917825523688112128"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1917825525785190757",
+    "created_at": "2025-05-01T06:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917825525785190757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWeJVipEye",
+          "end": 29,
+          "expanded_url": "https://x.com/AspiLin0/status/1917825525785190757/photo/1",
+          "media_key": "3_1917825523688112128",
+          "start": 6,
+          "url": "https://t.co/yWeJVipEye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917825525785190757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于放假了 https://t.co/yWeJVipEye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 106,
+        "media_key": "3_1917825523688112128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp18JxibgAAgC_1.jpg",
+        "width": 100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917825523688112128"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1917825525785190757",
+        "created_at": "2025-05-01T06:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917825525785190757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWeJVipEye",
+              "end": 29,
+              "expanded_url": "https://x.com/AspiLin0/status/1917825525785190757/photo/1",
+              "media_key": "3_1917825523688112128",
+              "start": 6,
+              "url": "https://t.co/yWeJVipEye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917825525785190757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于放假了 https://t.co/yWeJVipEye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 334,
+          "like_count": 4608,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

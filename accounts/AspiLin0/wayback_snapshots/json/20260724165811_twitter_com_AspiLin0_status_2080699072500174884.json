@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2080666785582629107",
+    "created_at": "2026-07-24T16:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080699072500174884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080699072500174884",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080666785582629107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 或许和这些名词的定义太复杂和模糊有关（？\n有些人可能不懂望文生义就贴了个标签也有可能呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2080666785582629107",
+        "created_at": "2026-07-24T16:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080699072500174884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080699072500174884",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080666785582629107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 或许和这些名词的定义太复杂和模糊有关（？\n有些人可能不懂望文生义就贴了个标签也有可能呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2080666785582629107",
+        "created_at": "2026-07-24T14:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080666785582629107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080666785582629107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 970,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得跨女把自己称作男娘或者打上这个tag有点……\n太不尊重自己了吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛🍥",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 770,
+          "like_count": 22025,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 5208
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜les｜区｜出厂日期11.05.12｜🍥26.04.30｜无证含糖｜不键政不OD｜休学ing｜182cm😭 BMI 27+😭\nサブ垢：@Irosas_sub\n无墙内联系方式\n同类会尽力回fo除非白号会观察喵\n匿名提问喵https://t.co/gIYkKuCa8q\n给我私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 136,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 113,
+                "url": "https://t.co/gIYkKuCa8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078116422644109710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 283,
+          "like_count": 847,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/4Ea9D5x42k",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2040810890275308014",
+    "created_at": "2026-04-06T03:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041002728563019843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041002728563019843",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040830631492689986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FusiKayoko 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2040810890275308014",
+        "created_at": "2026-04-06T03:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041002728563019843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041002728563019843",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040830631492689986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "2040810890275308014",
+        "created_at": "2026-04-05T16:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040830631492689986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040830631492689986",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040810890275308014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 考试顺利哦～抱抱阿片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 685,
+          "like_count": 19279,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 4540
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "你好，我是芙泗\n严重焦虑/药物过量/友好lgbt+  把我当成一个赛博生物就好|目前休学中|瓦批\n我舔舐手腕上的血，感受着鲜活的生命\n我伸手无法摘下天上的药片，便取出抽屉里的星星",
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗official🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015766161791827968/0AitDIrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 297,
+          "like_count": 12093,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 5256
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

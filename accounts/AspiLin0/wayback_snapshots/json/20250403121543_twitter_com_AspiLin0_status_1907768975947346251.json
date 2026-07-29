@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1907767681736200333",
+    "created_at": "2025-04-03T12:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T13:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907768975947346251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851919588508016640",
+          "start": 0,
+          "username": "rainppr2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907768975947346251",
+    "in_reply_to_user_id": "1851919588508016640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907767681736200333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainppr2008 想活就开心的活，想死就痛痛快快地死\n不过自杀这个选择还是要严肃地审视呢，毕竟是无法改变的决定，要自杀前和大家聊聊是更稳妥的选择？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1907767681736200333",
+        "created_at": "2025-04-03T12:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T13:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907768975947346251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851919588508016640",
+              "start": 0,
+              "username": "rainppr2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907768975947346251",
+        "in_reply_to_user_id": "1851919588508016640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907767681736200333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainppr2008 想活就开心的活，想死就痛痛快快地死\n不过自杀这个选择还是要严肃地审视呢，毕竟是无法改变的决定，要自杀前和大家聊聊是更稳妥的选择？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851919588508016640",
+        "conversation_id": "1907767681736200333",
+        "created_at": "2025-04-03T12:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T13:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907767681736200333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907767681736200333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我是一个脾气很倔强的人，如果我有一天也要自杀，我希望大家不要阻挡我，感觉现在，有一天能够紫砂也成为了我活下去的一个动力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "每次邂逅都是事先约定，每次死亡都是自尽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1906003520081555510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 274,
+          "like_count": 3075,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T09:30:22.000Z",
+        "description": "佐倉杏子 | 友🏳️‍⚧️🏳️‍🌈 | 想变可爱 想做女生 awa | she / her / 妹妹 | 山东 2027 高考考生 | AFOed 算法竞赛 OIer | 喜欢贴贴抱抱 | 支持回 fo 喵 | 记性不好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rainppr.github.io",
+                "end": 23,
+                "expanded_url": "http://rainppr.github.io",
+                "start": 0,
+                "url": "https://t.co/wthn7eXgMq"
+              }
+            ]
+          }
+        },
+        "id": "1851919588508016640",
+        "location": "Qingdao, China",
+        "name": "RainPPR🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903688129925844992/zWYRRprm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 114,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/wthn7eXgMq",
+        "username": "rainppr2008",
+        "verified": false
+      }
+    ]
+  }
+}

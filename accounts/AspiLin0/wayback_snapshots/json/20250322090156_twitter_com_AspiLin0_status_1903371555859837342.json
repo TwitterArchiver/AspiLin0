@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903370825660527071",
+    "created_at": "2025-03-22T09:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T10:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903371555859837342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1860560373264580611",
+          "start": 0,
+          "username": "suai1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903371555859837342",
+    "in_reply_to_user_id": "1860560373264580611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903370825660527071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suai1991 ✓，我都不敢打舞萌（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903370825660527071",
+        "created_at": "2025-03-22T09:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903371555859837342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860560373264580611",
+              "start": 0,
+              "username": "suai1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903371555859837342",
+        "in_reply_to_user_id": "1860560373264580611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903370825660527071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suai1991 ✓，我都不敢打舞萌（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860560373264580611",
+        "conversation_id": "1903370825660527071",
+        "created_at": "2025-03-22T08:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903370825660527071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903370825660527071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉音游比电吉他难多了😭👊，打了一个下午舞萌脸都丢光了😭，谁能出个教程啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 248,
+          "like_count": 2531,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:45:48.000Z",
+        "description": "苦逼高二生，不想登校😭，电吉他！梦想是在日本开琴行😋，还要有一把自己的telecaster",
+        "id": "1860560373264580611",
+        "name": "所以音乐放弃了我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894725901038108672/37c74YPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1925,
+          "like_count": 19497,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 648
+        },
+        "username": "suai1991",
+        "verified": false
+      }
+    ]
+  }
+}

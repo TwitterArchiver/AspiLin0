@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1962859436122485215",
+    "created_at": "2025-09-03T05:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T06:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963110791001018850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477943682808664068",
+          "start": 0,
+          "username": "dreamdissolved"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963110791001018850",
+    "in_reply_to_user_id": "1477943682808664068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963109806455095528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamdissolved 性腺性别说的就是哪个激素占主导吧，表现为第二性征\nmale to female，生物学上male要有Y染色体才叫male吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1962859436122485215",
+        "created_at": "2025-09-03T05:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963110791001018850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477943682808664068",
+              "start": 0,
+              "username": "dreamdissolved"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963110791001018850",
+        "in_reply_to_user_id": "1477943682808664068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963109806455095528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamdissolved 性腺性别说的就是哪个激素占主导吧，表现为第二性征\nmale to female，生物学上male要有Y染色体才叫male吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477943682808664068",
+        "conversation_id": "1962859436122485215",
+        "created_at": "2025-09-03T05:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963109806455095528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963109806455095528",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962859436122485215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 染色体xy也不代表就出生指派性别为男，xx也不代表出生时指派为女，因此不一定构成mtf的m。没有天生卵巢的情况下，依然无法自行分泌足量雌激素或生产卵子。hrt可以使激素状况为女性，但性腺不变（或没有）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 481,
+          "like_count": 12647,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 3144
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T10:03:36.000Z",
+        "description": "🏳️‍⚧️ They/He|@HumanoidNO19|君は無邪気な夜の希望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "HumanoidNO19"
+              }
+            ]
+          }
+        },
+        "id": "1477943682808664068",
+        "name": "Kagam1🐙🦉",
+        "pinned_tweet_id": "1948444545664123194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954471562205343744/GJFrrXKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 2559,
+          "like_count": 36315,
+          "listed_count": 6,
+          "media_count": 538,
+          "tweet_count": 5965
+        },
+        "username": "dreamdissolved",
+        "verified": false
+      }
+    ]
+  }
+}

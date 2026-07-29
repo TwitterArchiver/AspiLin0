@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1922611317526978719",
+    "created_at": "2025-05-14T15:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922669311753121898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691385929968062464",
+          "start": 0,
+          "username": "zhou367197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922669311753121898",
+    "in_reply_to_user_id": "1691385929968062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922668068100063423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou367197 没处方怎么买🤔\n看看全文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_1922668064820305920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6waxCaIAA6GXJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1922611317526978719",
+        "created_at": "2025-05-14T15:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922669311753121898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou367197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922669311753121898",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922668068100063423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou367197 没处方怎么买🤔\n看看全文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922668064820305920"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1922611317526978719",
+        "created_at": "2025-05-14T14:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922668068100063423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaARKfetqH",
+              "end": 43,
+              "expanded_url": "https://x.com/zhou367197/status/1922668068100063423/photo/1",
+              "media_key": "3_1922668064820305920",
+              "start": 20,
+              "url": "https://t.co/SaARKfetqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922668068100063423",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922667374966083995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 关键就在她没有处方 https://t.co/SaARKfetqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 369,
+          "like_count": 6116,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "高二学生/欢迎互fo/知乎搬运工/身体机能比肩五岁小女孩/游戏「蔚蓝档案」，phigros ，八月社，枕社/是ISFJ-T/是蓝厨/有时会犯中二病/请多多指教哦",
+        "id": "1691385929968062464",
+        "location": "Shanghai Minhang",
+        "name": "我超是小周",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919638544978726912/LbCmJcwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 463,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 324
+        },
+        "username": "zhou367197",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057821816845201408"
+      ],
+      "media_source_tweet_id": [
+        "2057821828723429573"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2058173191563133177",
+    "created_at": "2026-05-23T13:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058173191563133177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2019343391042244608",
+          "start": 3,
+          "username": "AnimalLove_22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b8wykE2f6d",
+          "end": 42,
+          "expanded_url": "https://x.com/AnimalLove_22/status/2057821828723429573/photo/1",
+          "media_key": "3_2057821816845201408",
+          "start": 19,
+          "url": "https://t.co/b8wykE2f6d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058173191563133177",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057821828723429573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnimalLove_22: https://t.co/b8wykE2f6d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2057821816845201408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7aCiQbcAAz3dE.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057821816845201408"
+          ],
+          "media_source_tweet_id": [
+            "2057821828723429573"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2058173191563133177",
+        "created_at": "2026-05-23T13:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058173191563133177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2019343391042244608",
+              "start": 3,
+              "username": "AnimalLove_22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8wykE2f6d",
+              "end": 42,
+              "expanded_url": "https://x.com/AnimalLove_22/status/2057821828723429573/photo/1",
+              "media_key": "3_2057821816845201408",
+              "start": 19,
+              "url": "https://t.co/b8wykE2f6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058173191563133177",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057821828723429573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnimalLove_22: https://t.co/b8wykE2f6d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057821816845201408"
+          ]
+        },
+        "author_id": "2019343391042244608",
+        "conversation_id": "2057821828723429573",
+        "created_at": "2026-05-22T13:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057821828723429573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8wykE2f6d",
+              "end": 23,
+              "expanded_url": "https://x.com/AnimalLove_22/status/2057821828723429573/photo/1",
+              "media_key": "3_2057821816845201408",
+              "start": 0,
+              "url": "https://t.co/b8wykE2f6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057821828723429573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 16490,
+          "like_count": 1321,
+          "quote_count": 30,
+          "reply_count": 5,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b8wykE2f6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 4901
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T09:33:04.000Z",
+        "description": "DISCOVERY 🪩 ANIMAL NATURE",
+        "id": "2019343391042244608",
+        "name": "NATURE ✨ WILDLIFE",
+        "pinned_tweet_id": "2057821828723429573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020494991102242816/IrPRC-fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7290,
+          "following_count": 6601,
+          "like_count": 3542,
+          "listed_count": 9,
+          "media_count": 3938,
+          "tweet_count": 6457
+        },
+        "username": "AnimalLove_22",
+        "verified": true
+      }
+    ]
+  }
+}

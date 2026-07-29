@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066029907013181440"
+      ],
+      "media_source_tweet_id": [
+        "2066029913426260439"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2066445788235128859",
+    "created_at": "2026-06-15T09:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066445788235128859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1654534022448713728",
+          "start": 3,
+          "username": "jueduizhengyi_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VJSpVa7yBn",
+          "end": 44,
+          "expanded_url": "https://x.com/jueduizhengyi_A/status/2066029913426260439/photo/1",
+          "media_key": "3_2066029907013181440",
+          "start": 21,
+          "url": "https://t.co/VJSpVa7yBn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066445788235128859",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066029913426260439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jueduizhengyi_A: https://t.co/VJSpVa7yBn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2066029907013181440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwDQQ7aoAAyYy6.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066029907013181440"
+          ],
+          "media_source_tweet_id": [
+            "2066029913426260439"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2066445788235128859",
+        "created_at": "2026-06-15T09:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066445788235128859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1654534022448713728",
+              "start": 3,
+              "username": "jueduizhengyi_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJSpVa7yBn",
+              "end": 44,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2066029913426260439/photo/1",
+              "media_key": "3_2066029907013181440",
+              "start": 21,
+              "url": "https://t.co/VJSpVa7yBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066445788235128859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066029913426260439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jueduizhengyi_A: https://t.co/VJSpVa7yBn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066029907013181440"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "2066029913426260439",
+        "created_at": "2026-06-14T05:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066029913426260439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJSpVa7yBn",
+              "end": 23,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2066029913426260439/photo/1",
+              "media_key": "3_2066029907013181440",
+              "start": 0,
+              "url": "https://t.co/VJSpVa7yBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066029913426260439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 528,
+          "impression_count": 171433,
+          "like_count": 3821,
+          "quote_count": 30,
+          "reply_count": 176,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VJSpVa7yBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 763,
+          "like_count": 21278,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 5017
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都",
+        "id": "1654534022448713728",
+        "location": "京都",
+        "name": "Suga.",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054129512401813504/FvqgyFhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 303,
+          "like_count": 61826,
+          "listed_count": 2,
+          "media_count": 1184,
+          "tweet_count": 8965
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

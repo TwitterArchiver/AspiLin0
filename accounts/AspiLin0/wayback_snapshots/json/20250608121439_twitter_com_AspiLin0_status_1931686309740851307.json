@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931671372289438090",
+    "created_at": "2025-06-08T12:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T13:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931686309740851307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_LAnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931686309740851307",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931671372289438090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_LAnd 性和爱激活的脑区不同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931671372289438090",
+        "created_at": "2025-06-08T12:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T13:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931686309740851307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_LAnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931686309740851307",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931671372289438090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_LAnd 性和爱激活的脑区不同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "conversation_id": "1931671372289438090",
+        "created_at": "2025-06-08T11:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T12:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931671372289438090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alice41110/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/alice41110/status/1931031907770200212",
+              "start": 40,
+              "url": "https://t.co/oSLzdiNgWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931671372289438090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1114,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931031907770200212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是通过性，而不是对谁心动来判断性取向和爱的吗？我一直觉得性只占爱的很小一部分 https://t.co/oSLzdiNgWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 417,
+          "like_count": 8109,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/粉红别关注我/女朋友@ayashikinoco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "ayashikinoco"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922171885707485184/cia_yxjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61801,
+          "following_count": 796,
+          "like_count": 83319,
+          "listed_count": 152,
+          "media_count": 2924,
+          "tweet_count": 27475
+        },
+        "username": "N0rthern_LAnd",
+        "verified": true
+      }
+    ]
+  }
+}

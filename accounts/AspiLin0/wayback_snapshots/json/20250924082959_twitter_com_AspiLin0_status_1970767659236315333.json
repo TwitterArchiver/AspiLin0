@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1970767659236315333",
+    "created_at": "2025-09-24T08:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970767659236315333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hsn8086/status/1970082564699492578",
+          "start": 36,
+          "url": "https://t.co/I7Uhijindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970767659236315333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970082564699492578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理论上来说只要皮质有一半就能保持智力正常\n没有皮质也能活，参见无脑畸形 https://t.co/I7Uhijindx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1970082553462915072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cjpPlaAAALGCH.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1970767659236315333",
+        "created_at": "2025-09-24T08:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970767659236315333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/hsn8086/status/1970082564699492578",
+              "start": 36,
+              "url": "https://t.co/I7Uhijindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970767659236315333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970082564699492578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论上来说只要皮质有一半就能保持智力正常\n没有皮质也能活，参见无脑畸形 https://t.co/I7Uhijindx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970082553462915072"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1970082564699492578",
+        "created_at": "2025-09-22T11:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970082564699492578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9f2E2PBsd",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1970082564699492578/photo/1",
+              "media_key": "3_1970082553462915072",
+              "start": 0,
+              "url": "https://t.co/D9f2E2PBsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970082564699492578",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 653281,
+          "like_count": 2686,
+          "quote_count": 12,
+          "reply_count": 85,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D9f2E2PBsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 497,
+          "like_count": 13031,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 3293
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96963,
+          "following_count": 989,
+          "like_count": 44359,
+          "listed_count": 219,
+          "media_count": 15944,
+          "tweet_count": 23374
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

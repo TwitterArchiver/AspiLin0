@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2013450528190263713",
+    "created_at": "2026-01-21T13:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013974320440311853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013974320440311853",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013450528190263713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 感觉并非有问题\n一是ai容易加强患者偏执\n二是ai无法提供现实支持\n三是出现问题没有担责方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 597,
+        "media_key": "3_2013450439954481153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E2geZXQAEEhQp.png",
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2013450528190263713",
+        "created_at": "2026-01-21T13:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013974320440311853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013974320440311853",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013450528190263713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 感觉并非有问题\n一是ai容易加强患者偏执\n二是ai无法提供现实支持\n三是出现问题没有担责方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013450439954481153"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2013450528190263713",
+        "created_at": "2026-01-20T03:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013450528190263713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpoIo3EQ8N",
+              "end": 51,
+              "expanded_url": "https://x.com/amecandy_x/status/2013450528190263713/photo/1",
+              "media_key": "3_2013450439954481153",
+              "start": 28,
+              "url": "https://t.co/YpoIo3EQ8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013450528190263713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 71495,
+          "like_count": 495,
+          "quote_count": 11,
+          "reply_count": 49,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "今日看到的最恶心新闻\n怎么不说一次心理咨询多贵呢我请问 https://t.co/YpoIo3EQ8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 532,
+          "like_count": 14654,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3730
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack💻/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2012540204280905884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5133,
+          "following_count": 1767,
+          "like_count": 23482,
+          "listed_count": 15,
+          "media_count": 994,
+          "tweet_count": 8072
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

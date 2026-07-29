@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2049660103348174941",
+    "created_at": "2026-04-30T16:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049891849587089900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049891849587089900",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049660103348174941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 揉揉\n吃了多久了呢\nssri的起效周期比较长"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049660096087728128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHa_3GaIAAoK4l.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2049660103348174941",
+        "created_at": "2026-04-30T16:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049891849587089900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049891849587089900",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049660103348174941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 揉揉\n吃了多久了呢\nssri的起效周期比较长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049660096087728128"
+          ]
+        },
+        "author_id": "1940456482744795138",
+        "conversation_id": "2049660103348174941",
+        "created_at": "2026-04-30T01:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049660103348174941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBLdtcNw15",
+              "end": 43,
+              "expanded_url": "https://x.com/ICEbingkuai95/status/2049660103348174941/photo/1",
+              "media_key": "3_2049660096087728128",
+              "start": 20,
+              "url": "https://t.co/tBLdtcNw15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049660103348174941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有啥用啊喵\n该死不是还是想\n纯傻逼药😭 https://t.co/tBLdtcNw15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 731,
+          "like_count": 20287,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 4781
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦虑 重抑郁 不od💊/无炸柜记录\n🍥🏳️‍⚧️🏳️‍🌈 2010.9月生产的 mtf证明准备中（家长党🥺）\n中文/english/繁體 ok/学习日语中 N2为目标\n音游痴/maimai/中二节奏/phigros/arc/世界计划\n本频道不定时更新🥰\n谢谢喜欢",
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物（有点4了喵🥺）",
+        "pinned_tweet_id": "2049570638378188843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030733768403931136/hBBYJZXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 437,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 406
+        },
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

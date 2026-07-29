@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1993353456313336172",
+    "created_at": "2025-11-26T06:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T07:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993569022445863345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826611872118046720",
+          "start": 0,
+          "username": "Ijichi_Kotomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993569022445863345",
+    "in_reply_to_user_id": "1826611872118046720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993563875388866997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ijichi_Kotomi 我觉得也说的是计算机，但是不会›‹\n不过对于物理来说只要五六年的专业训练就可以看到边界了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1993353456313336172",
+        "created_at": "2025-11-26T06:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993569022445863345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993569022445863345",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993563875388866997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi 我觉得也说的是计算机，但是不会›‹\n不过对于物理来说只要五六年的专业训练就可以看到边界了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826611872118046720",
+        "conversation_id": "1993353456313336172",
+        "created_at": "2025-11-26T06:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993563875388866997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993563875388866997",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993559717118083200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 然而我感觉人类研发的有点太远了，现在的研发很多都是改进，很少有颠覆/创新，尤其计算机发展的更加快，不过确实学习速度也相应变快了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 513,
+          "like_count": 13507,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 3475
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "University Student/18/China @HKUniversity 25’/HAI interest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk Bilingual: En/Zh alt:@kotomi_tyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "kotomi_tyan"
+              }
+            ]
+          }
+        },
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893880882429108224/IKz-uKQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 655,
+          "like_count": 13357,
+          "listed_count": 4,
+          "media_count": 327,
+          "tweet_count": 4280
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      }
+    ]
+  }
+}

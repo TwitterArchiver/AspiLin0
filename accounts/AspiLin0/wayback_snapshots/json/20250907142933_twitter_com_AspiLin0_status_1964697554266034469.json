@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1964697554266034469",
+    "created_at": "2025-09-07T14:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T15:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964697554266034469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964697554266034469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没有精神病我全是矫情我真的很讨厌自己基本上出于我的人格问题我不知道怎么改变这样又自私又自大又自卑我不知道我自残想自杀也完全是出于自己我不知道要不要把自己分裂开我觉得这是合理的但我觉得这是不好的可能会有坏事发生但是总之虽然自己发出的都会归结于自己但我的自己是坏的所以我的也都是坏的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1964697554266034469",
+        "created_at": "2025-09-07T14:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964697554266034469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964697554266034469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有精神病我全是矫情我真的很讨厌自己基本上出于我的人格问题我不知道怎么改变这样又自私又自大又自卑我不知道我自残想自杀也完全是出于自己我不知道要不要把自己分裂开我觉得这是合理的但我觉得这是不好的可能会有坏事发生但是总之虽然自己发出的都会归结于自己但我的自己是坏的所以我的也都是坏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 485,
+          "like_count": 12787,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3193
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

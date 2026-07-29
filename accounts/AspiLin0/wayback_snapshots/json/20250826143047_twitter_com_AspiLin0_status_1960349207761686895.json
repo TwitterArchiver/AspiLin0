@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1960147158205907364",
+    "created_at": "2025-08-26T14:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T15:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960349207761686895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271278454537744384",
+          "start": 0,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960349207761686895",
+    "in_reply_to_user_id": "1271278454537744384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960147158205907364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbit_Pussy 带有功利性的信教那最好是不信🤔\n如果一定要选的话，基督教是一个不会太错的选择"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1960147158205907364",
+        "created_at": "2025-08-26T14:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960349207761686895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960349207761686895",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960147158205907364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy 带有功利性的信教那最好是不信🤔\n如果一定要选的话，基督教是一个不会太错的选择"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271278454537744384",
+        "conversation_id": "1960147158205907364",
+        "created_at": "2025-08-26T01:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T02:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960147158205907364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960147158205907364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7080,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘信基督好一点还是信佛教好一点？道教邪修是不是更好一点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 478,
+          "like_count": 12422,
+          "listed_count": 4,
+          "media_count": 256,
+          "tweet_count": 3079
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "超大只兔子｜182cm｜木桶饭🏳️‍⚧️｜🚪门槛68/128口令红包｜同类免费｜逃生舱@ttt235711｜我的女仆@I_Xinnnnn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ttt235711"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "I_Xinnnnn"
+              }
+            ]
+          }
+        },
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛",
+        "pinned_tweet_id": "1942156708715085994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942435233652953088/fEOYSMWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 2183,
+          "like_count": 26872,
+          "listed_count": 7,
+          "media_count": 917,
+          "tweet_count": 6736
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

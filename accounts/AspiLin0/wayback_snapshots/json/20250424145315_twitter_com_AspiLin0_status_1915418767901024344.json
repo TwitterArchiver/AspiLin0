@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1915279186157298117",
+    "created_at": "2025-04-24T14:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T15:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915418767901024344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239352911596941312",
+          "start": 0,
+          "username": "asahisuki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915418767901024344",
+    "in_reply_to_user_id": "1239352911596941312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915279186157298117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahisuki0 一方面自慰完精气神不是很好所以做事可能容易失败之类的\n然后这样的事发生多了就产生习惯性联想了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1915279186157298117",
+        "created_at": "2025-04-24T14:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T15:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915418767901024344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239352911596941312",
+              "start": 0,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915418767901024344",
+        "in_reply_to_user_id": "1239352911596941312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915279186157298117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahisuki0 一方面自慰完精气神不是很好所以做事可能容易失败之类的\n然后这样的事发生多了就产生习惯性联想了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239352911596941312",
+        "conversation_id": "1915279186157298117",
+        "created_at": "2025-04-24T05:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915279186157298117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915279186157298117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么每次自慰完就会发生很多倒霉事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片要吃阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 327,
+          "like_count": 4275,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "矛盾与无奈\n挚爱@koishikome36067\n好亲友 @Flowers8964 @hikawarinaOvO\n妈妈 @Phrenologist258\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900\n姐姐@Haoleibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "koishikome36067"
+              },
+              {
+                "end": 41,
+                "start": 29,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "hikawarinaOvO"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Phrenologist258"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "milktea_ch51900"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Haoleibot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1913651346957566317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914183818866733056/iNKnogd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1087,
+          "like_count": 215299,
+          "listed_count": 7,
+          "media_count": 304,
+          "tweet_count": 15767
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      }
+    ]
+  }
+}

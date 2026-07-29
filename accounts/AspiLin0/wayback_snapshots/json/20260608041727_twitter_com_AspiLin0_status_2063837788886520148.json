@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2063837788886520148",
+    "created_at": "2026-06-08T04:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063837788886520148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3889037112",
+          "start": 3,
+          "username": "ntfuko"
+        },
+        {
+          "end": 21,
+          "id": "1360161759257104384",
+          "start": 12,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063837788886520148",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063784447338766778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ntfuko: @AspiLin0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2063837788886520148",
+        "created_at": "2026-06-08T04:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063837788886520148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3889037112",
+              "start": 3,
+              "username": "ntfuko"
+            },
+            {
+              "end": 21,
+              "id": "1360161759257104384",
+              "start": 12,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063837788886520148",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063784447338766778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ntfuko: @AspiLin0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "conversation_id": "2063784447338766778",
+        "created_at": "2026-06-08T00:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063784447338766778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/waa_waa_wa/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/waa_waa_wa/status/2045388657583083766",
+              "start": 10,
+              "url": "https://t.co/dFP4QCN5Pg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063784447338766778",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045388657583083766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 https://t.co/dFP4QCN5Pg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 756,
+          "like_count": 20980,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 4956
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "I wanna be an android's dream of electric sheep.",
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 345,
+          "like_count": 4447,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 922
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

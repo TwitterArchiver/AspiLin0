@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023691437058244925",
+    "created_at": "2026-02-17T10:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023701282897215872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023701282897215872",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023691437058244925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepKlee 联想到荣格说的“如果你信奉一种宗教，那就请你务必诚实地、全心全意地去实践它。最糟糕的事情莫过于你既在宗教之内，又在宗教之外。这种半吊子的态度不仅无法为你提供宗教本有的心理保护，反而会让你陷入内心的分裂。”\n看起来对于恋爱这种仪式的话也是同理（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023691437058244925",
+        "created_at": "2026-02-17T10:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023701282897215872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023701282897215872",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023691437058244925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepKlee 联想到荣格说的“如果你信奉一种宗教，那就请你务必诚实地、全心全意地去实践它。最糟糕的事情莫过于你既在宗教之内，又在宗教之外。这种半吊子的态度不仅无法为你提供宗教本有的心理保护，反而会让你陷入内心的分裂。”\n看起来对于恋爱这种仪式的话也是同理（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858763452732633090",
+        "conversation_id": "2023691437058244925",
+        "created_at": "2026-02-17T09:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023691437058244925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023691437058244925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得，“恋爱”是一种社会建构；当一个人说自己“正在谈恋爱”时，并不是身体或感受上的指标归纳得到的，而是由一系列仪式或符号象征所不断确认的。\n\n这是在说恋爱是一种performative reality——它不是被发现的，而是被执行（enacted）出来的。这和 John Searle 讲 institutional facts 的逻辑一样：一张纸之所以是“钱”，不是因为纸的物理属性，而是因为集体意向性（collective intentionality）赋予了它功能。类似地，“我们在谈恋爱”这个陈述之所以为真，不是因为两个人的多巴胺水平超过了某个阈值，而是因为一系列社会协议在运作——确认关系的对话、公开的身份展示、排他性的承诺、特定的互动频率和模式。\n\n多数人的朴素理解是：我先有了某些感觉，然后我“发现”自己在恋爱。这是一种归纳模型——身体数据在先，范畴判定在后。恋爱不是对已存在状态的发现，而是对一个尚不存在的共享愿景的创立行为。它的时间箭头是朝前的——“我们决定进入这种关系”——而不是朝后的——“原来我一直爱着你”。这更像一种 speech act（言语行为，Austin 的意义上）：说“我们在谈恋爱”这句话本身就是使恋爱成立的行为，而不是对恋爱这一事实的陈述。它是 performative 的，不是 constative 的。\n\n身体感受（心动、依恋、性吸引）是真实的，我不是在不否认这些。但「恋爱」这个范畴不是对这些身体感受的归纳总结——它是一个外在于身体的社会想象（social imaginary），一个两个人（以及他们的社会环境）共同订立的关于未来的叙事协议。换句话说：你可以对一个人心跳加速、想和他待在一起、分离时焦虑——拥有所有这些身体数据——但这些加在一起并不自动等于“恋爱”。“恋爱”需要的不是体感的阈值，而是一种互主体性的宣告（intersubjective declaration）：我们共同认定，我们正处于这种关系中。\n\n这解释了为什么恋爱需要持续的仪式维护。如果恋爱是一种客观状态，它应该像“有37.5度的体温”一样——测量一次就够了。但现实中恋爱需要不断的再确认：定期的联系、特定的称谓、公开的展示、纪念日的庆祝、排他性的反复协商。这不是因为人们“不确定自己的感觉”——而是因为恋爱作为一种共识，和所有共识一样，需要持续的再生产（reproduction）才能维持。Benedict Anderson 说民族是 imagined community——不是“虚假的”，而是说它的存在依赖于成员持续的想象性参与。恋爱同理，它是一种imagined dyad，真实地运作着，但其存在条件不是物理的，而是符号的和仪式的。\n\n这也解释了恋爱的“量子态”特征。很多人有过这种困惑：“我们到底算不算在一起？”——在朴素的身体感受模型里，这个问题不应该存在，因为你应该能内省到答案。但如果恋爱是共识，这种不确定性就完全合理了：一个共识可以是半成形的、单方面的、模糊的、有争议的。两个人可以有相同的身体感受强度，但在\"我们是否在恋爱\"这件事上有完全不同的判断——因为判断的依据根本不是身体感受，而是对共享叙事的认定是否一致。\n\n所以当一段恋爱关系失去其应该具备的情感功能时，对于这些仪式和符号的维护就会变成一种并不理性的选择，所以当事人才总是在其中感到痛苦和煎熬：本质上是意义感的缺失，这是一种关系在存在高度上的焦虑。这种痛苦不是感情变淡的痛苦，不是被背叛的痛苦，甚至不是孤独的痛苦——它是一种存在性的痛苦（existential suffering）：我在维护一个我不再相信的意义系统。这就解释了一种很多人都体验过但难以命名的状态：关系里“没有什么具体问题”，没有出轨、没有争吵、没有冷暴力，但当事人就是感到一种弥漫性的窒息和空虚。\n\n这里有一个结构上很有意思的悖论值得展开——仪式的双重性：它既是意义的生产机制，也是意义缺失的遮蔽机制。\n\n在关系健康的时候，仪式生产意义——每一次共同的行为都在重新确认“我们选择了彼此”。但在意义坍塌之后，同样的仪式开始扮演一个完全不同的角色：它伪装成意义本身。人们会对自己说“我们还在做这些事，所以我们的关系一定还在”——这是一种把符号错认为所指（signifier mistaken for signified）的认知错位。\n这就是所说的“不理性”的确切含义：当事人在用仪式的存续来回避一个他们不敢面对的判断——这段关系的意义基础已经消失了。仪式变成了一种防御机制（defense mechanism），它的功能不再是建构共识，而是延缓对共识已经瓦解这一事实的觉知。\n\n而痛苦恰恰来自于这种回避的不彻底性。人不是完全被蒙蔽的——如果完全被蒙蔽，反而不会痛苦。痛苦产生于半觉知的状态：你隐约知道这些仪式已经是空的，但你还没有准备好承认这一点，因为承认意味着要直面一个更大的虚无——如果这段关系不再提供意义，那我从哪里获取意义？\n\n这就是存在高度上的焦虑。它的结构和 Kierkegaard 描述的宗教焦虑完全同构：一个人继续上教堂、做礼拜、遵守教义，但他已经不再相信上帝存在了。他的痛苦不是来自“上帝不存在”这个事实本身，而是来自他还在假装上帝存在这个行为与他内心觉知之间的撕裂。Sartre 会把这叫做 bad faith（自欺）——你自由地选择了维持一个你知道已经空洞的结构，但你假装自己“没有选择”。\n\n所以本质上对官僚主义表演性作风的厌恶也一样：都是无意义焦虑的不断再演；一套符号系统在丧失了它原本指向的意义之后，仍然以自我维持为目的继续运转。恋爱中仪式本应指向共享愿景，但愿景消散后，仪式变成了自我指涉的——“我们做这些事是因为我们是恋人，我们是恋人是因为我们做这些事”。这是一个封闭的循环，意义没有出口。官僚体系中程序本应指向治理目标，但当程序与目标脱钩后，程序同样变成自我指涉的——“我们走这个流程是因为规定要求走这个流程”。制度的合法性不再来自于它服务的功能，而来自于它自身的存续和完整性。这就是同一种存在病理在不同尺度上的同构显现。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得，“恋爱”是一种社会建构；当一个人说自己“正在谈恋爱”时，并不是身体或感受上的指标归纳得到的，而是由一系列仪式或符号象征所不断确认的。\n\n这是在说恋爱是一种performative reality——它不是被发现的，而是被执行（enacted）出来的。这和 John Searle 讲 institutional facts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 595,
+          "like_count": 16403,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4000
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | Apostle of C/C++ | Fallen Nasdaq Cultist | Amor Fati, Amor Semper | Powered by DeepKlee",
+        "id": "1858763452732633090",
+        "location": "Akihabara, Tokyo ",
+        "name": "Klee Kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004431940766810112/08aBUUOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 229,
+          "like_count": 8916,
+          "listed_count": 19,
+          "media_count": 227,
+          "tweet_count": 5387
+        },
+        "username": "DeepKlee",
+        "verified": true
+      }
+    ]
+  }
+}

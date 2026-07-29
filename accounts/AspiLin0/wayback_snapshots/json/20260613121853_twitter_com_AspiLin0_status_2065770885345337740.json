@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065373723528736768"
+      ],
+      "media_source_tweet_id": [
+        "2065373731896369523"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2065770885345337740",
+    "created_at": "2026-06-13T12:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065770885345337740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035516584299724800",
+          "start": 3,
+          "username": "guu7064"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vr0SMscHB",
+          "end": 48,
+          "expanded_url": "https://x.com/guu7064/status/2065373731896369523/photo/1",
+          "media_key": "3_2065373723528736768",
+          "start": 25,
+          "url": "https://t.co/2vr0SMscHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065770885345337740",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065373731896369523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guu7064: 너므아랑스러워서기절함 https://t.co/2vr0SMscHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065373723528736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmudW9bMAAuNeo.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065373723528736768"
+          ],
+          "media_source_tweet_id": [
+            "2065373731896369523"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2065770885345337740",
+        "created_at": "2026-06-13T12:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065770885345337740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035516584299724800",
+              "start": 3,
+              "username": "guu7064"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vr0SMscHB",
+              "end": 48,
+              "expanded_url": "https://x.com/guu7064/status/2065373731896369523/photo/1",
+              "media_key": "3_2065373723528736768",
+              "start": 25,
+              "url": "https://t.co/2vr0SMscHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065770885345337740",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065373731896369523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guu7064: 너므아랑스러워서기절함 https://t.co/2vr0SMscHB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065373723528736768"
+          ]
+        },
+        "author_id": "2035516584299724800",
+        "conversation_id": "2065373731896369523",
+        "created_at": "2026-06-12T10:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065373731896369523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vr0SMscHB",
+              "end": 35,
+              "expanded_url": "https://x.com/guu7064/status/2065373731896369523/photo/1",
+              "media_key": "3_2065373723528736768",
+              "start": 12,
+              "url": "https://t.co/2vr0SMscHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065373731896369523",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 17765,
+          "like_count": 2190,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "너므아랑스러워서기절함 https://t.co/2vr0SMscHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 762,
+          "like_count": 21210,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 5010
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T00:39:16.000Z",
+        "description": "(미소녀 GL)\n그림그리고씹덕질하는계정\n프롬캡콤🎮바이오하자드,레오낫,소종여시메지시뮬레이션레인",
+        "id": "2035516584299724800",
+        "location": "성인여성",
+        "name": "AZA",
+        "pinned_tweet_id": "2065240008613834979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064389124644323328/TkeBBryQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 43,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1058
+        },
+        "username": "guu7064",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1930473618330497256",
+    "created_at": "2025-06-05T03:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T04:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930473618330497256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuo_zi27516/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/shuo_zi27516/status/1930449990780104895",
+          "start": 75,
+          "url": "https://t.co/AOJh4kCzhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930473618330497256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930449990780104895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用蔬菜浸汁培养乳酸菌，在不严格灭菌情况下在第六天左右提取上清液，涂布分离出硝酸盐还原菌\n之后只要加入含硝酸盐的物质进行发酵就能完成亚硝酸盐的生物合成 https://t.co/AOJh4kCzhK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1930473618330497256",
+        "created_at": "2025-06-05T03:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930473618330497256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuo_zi27516/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/shuo_zi27516/status/1930449990780104895",
+              "start": 75,
+              "url": "https://t.co/AOJh4kCzhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930473618330497256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930449990780104895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用蔬菜浸汁培养乳酸菌，在不严格灭菌情况下在第六天左右提取上清液，涂布分离出硝酸盐还原菌\n之后只要加入含硝酸盐的物质进行发酵就能完成亚硝酸盐的生物合成 https://t.co/AOJh4kCzhK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863821756932472832",
+        "conversation_id": "1930449990780104895",
+        "created_at": "2025-06-05T02:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930449990780104895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930449990780104895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里可以搞到亚硝酸钠的。。。。。\n我不知道。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 402,
+          "like_count": 7393,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "死亡",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1917663561666752739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 413,
+          "like_count": 78,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

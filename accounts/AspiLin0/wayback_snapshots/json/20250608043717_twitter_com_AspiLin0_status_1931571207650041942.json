@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931328401861910528"
+      ],
+      "media_source_tweet_id": [
+        "1931569877728243763"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931571207650041942",
+    "created_at": "2025-06-08T04:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T05:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931571207650041942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1159703781421883392",
+          "start": 3,
+          "username": "Deyoyoyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0miOCLKeeO",
+          "end": 37,
+          "expanded_url": "https://x.com/Deyoyoyo/status/1931569877728243763/photo/1",
+          "media_key": "3_1931328401861910528",
+          "start": 14,
+          "url": "https://t.co/0miOCLKeeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931571207650041942",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931569877728243763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Deyoyoyo: https://t.co/0miOCLKeeO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1931328401861910528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs108umaIAAQPHj.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931328401861910528"
+          ],
+          "media_source_tweet_id": [
+            "1931569877728243763"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931571207650041942",
+        "created_at": "2025-06-08T04:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931571207650041942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1159703781421883392",
+              "start": 3,
+              "username": "Deyoyoyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0miOCLKeeO",
+              "end": 37,
+              "expanded_url": "https://x.com/Deyoyoyo/status/1931569877728243763/photo/1",
+              "media_key": "3_1931328401861910528",
+              "start": 14,
+              "url": "https://t.co/0miOCLKeeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931571207650041942",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931569877728243763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Deyoyoyo: https://t.co/0miOCLKeeO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931328401861910528"
+          ]
+        },
+        "author_id": "1159703781421883392",
+        "conversation_id": "1931569877728243763",
+        "created_at": "2025-06-08T04:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931569877728243763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0miOCLKeeO",
+              "end": 23,
+              "expanded_url": "https://x.com/Deyoyoyo/status/1931569877728243763/photo/1",
+              "media_key": "3_1931328401861910528",
+              "start": 0,
+              "url": "https://t.co/0miOCLKeeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931569877728243763",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 194,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0miOCLKeeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 415,
+          "like_count": 7955,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-09T05:51:42.000Z",
+        "description": "サブ▶@ginbob_chan メンバーシップ▶https://t.co/ApFsqW9E8b　　youtube▶https://t.co/tdx5JNs0Lr ご依頼等はDMまで AI➕retouch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "ginbob_chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "membership.chichi-pui.com/users/Deyoyoyo…",
+                "end": 47,
+                "expanded_url": "https://membership.chichi-pui.com/users/Deyoyoyo/membership/",
+                "start": 24,
+                "url": "https://t.co/ApFsqW9E8b"
+              },
+              {
+                "display_url": "youtube.com/@deyoyoyonoyo",
+                "end": 80,
+                "expanded_url": "https://www.youtube.com/@deyoyoyonoyo",
+                "start": 57,
+                "url": "https://t.co/tdx5JNs0Lr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maplesyrupai.com",
+                "end": 23,
+                "expanded_url": "https://maplesyrupai.com/",
+                "start": 0,
+                "url": "https://t.co/6JLcq1vNKM"
+              }
+            ]
+          }
+        },
+        "id": "1159703781421883392",
+        "location": "AI and retouch",
+        "name": "でょ",
+        "pinned_tweet_id": "1846023196190867583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750911872084344832/UCuN4QpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102329,
+          "following_count": 340,
+          "like_count": 22768,
+          "listed_count": 638,
+          "media_count": 6335,
+          "tweet_count": 17623
+        },
+        "url": "https://t.co/6JLcq1vNKM",
+        "username": "Deyoyoyo",
+        "verified": true
+      }
+    ]
+  }
+}

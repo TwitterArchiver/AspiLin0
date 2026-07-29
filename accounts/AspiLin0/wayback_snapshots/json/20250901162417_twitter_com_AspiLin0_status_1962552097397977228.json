@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1962550341674930371",
+    "created_at": "2025-09-01T16:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T17:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962552097397977228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962552097397977228",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962550341674930371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko 早熟的可怕😨\n膜拜一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 127,
+        "media_key": "3_1962550030608527360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzxg2tRacAAoDkU.png",
+        "width": 399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1962550341674930371",
+        "created_at": "2025-09-01T16:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962552097397977228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962552097397977228",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962550341674930371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko 早熟的可怕😨\n膜拜一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962550030608527360"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962550341674930371",
+        "created_at": "2025-09-01T16:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962550341674930371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnVusN37uq",
+              "end": 85,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1962550341674930371/photo/1",
+              "media_key": "3_1962550030608527360",
+              "start": 62,
+              "url": "https://t.co/JnVusN37uq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962550341674930371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人这波行情破产了...\n我知道各位很绝望，但不妨想想...\n我，当时的币圈天才，沦落到给学校电脑装灰鸽子远控挖矿的地步 https://t.co/JnVusN37uq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 479,
+          "like_count": 12553,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 3112
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・我喜欢动漫和计算机・想和所有人成为朋友・仍在学习日语・ACGN+・才15岁x ・すべてを癒す万能薬になりたい・服务器、交换机、 补佳乐！",
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 89,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 64
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

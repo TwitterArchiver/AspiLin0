@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913975785440031153",
+    "created_at": "2025-04-20T15:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T16:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913977600898105380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "1ka16103257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913977600898105380",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913975785440031153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ka16103257 抱抱你\n只能说慢慢忍受孤独吧😢😢\n寻到真正的朋友真的是小概率事件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913975785440031153",
+        "created_at": "2025-04-20T15:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913977600898105380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "1ka16103257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913977600898105380",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913975785440031153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ka16103257 抱抱你\n只能说慢慢忍受孤独吧😢😢\n寻到真正的朋友真的是小概率事件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "1913975785440031153",
+        "created_at": "2025-04-20T15:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913975785440031153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913975785440031153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好难受\n干什么都是自己一个人\n感觉没有一个真正能在一起玩的人\n没有人在乎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 324,
+          "like_count": 4157,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "初三牲/maimai/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美5efaceit官匹)/友跨",
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "1ka_",
+        "pinned_tweet_id": "1890785997740184055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913874121332772864/Dqwo7w4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 670,
+          "like_count": 10548,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 4092
+        },
+        "username": "1ka16103257",
+        "verified": false
+      }
+    ]
+  }
+}

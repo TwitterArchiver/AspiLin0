@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1917777285752709506",
+    "created_at": "2025-05-01T03:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T04:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917777285752709506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huahuojiang_/s…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/huahuojiang_/status/1917596572608782483",
+          "start": 140,
+          "url": "https://t.co/s8ejj31ugL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917777285752709506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917596572608782483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用狐狸话说就是语义网络是怎么建成的\n首先大脑中先天存在一些编码“特征”的神经元，感觉器官接受信息时就会激活这些神经元，从而形成一套集体编码机制以区分这些物品。至于之后与语音和语义的捆绑就是将音素编码的特征与这些特异性的区分建立起赫布突触就行了\n至于抽象语义则涉及对部分特征的综合 https://t.co/s8ejj31ugL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1917777285752709506",
+        "created_at": "2025-05-01T03:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T04:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917777285752709506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/1917596572608782483",
+              "start": 140,
+              "url": "https://t.co/s8ejj31ugL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917777285752709506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917596572608782483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用狐狸话说就是语义网络是怎么建成的\n首先大脑中先天存在一些编码“特征”的神经元，感觉器官接受信息时就会激活这些神经元，从而形成一套集体编码机制以区分这些物品。至于之后与语音和语义的捆绑就是将音素编码的特征与这些特异性的区分建立起赫布突触就行了\n至于抽象语义则涉及对部分特征的综合 https://t.co/s8ejj31ugL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "1917596572608782483",
+        "created_at": "2025-04-30T15:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T16:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917596572608782483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917596572608782483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 910,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有点好奇你们是怎么理解“什么”的，教你们认识“什么”的人是用什么来描述“什么”？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 334,
+          "like_count": 4578,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1874363360755831286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5565,
+          "following_count": 3518,
+          "like_count": 77793,
+          "listed_count": 11,
+          "media_count": 3625,
+          "tweet_count": 65709
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

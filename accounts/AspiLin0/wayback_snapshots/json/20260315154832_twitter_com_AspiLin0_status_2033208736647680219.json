@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033207316766687615",
+    "created_at": "2026-03-15T15:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033208736647680219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585942498253238273",
+          "start": 0,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033208736647680219",
+    "in_reply_to_user_id": "1585942498253238273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033207316766687615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceEslight 有偏执的风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033207316766687615",
+        "created_at": "2026-03-15T15:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033208736647680219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585942498253238273",
+              "start": 0,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033208736647680219",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033207316766687615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight 有偏执的风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2033207316766687615",
+        "created_at": "2026-03-15T15:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033207316766687615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033207316766687615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在现实只有AI对我说好话，在网络只对AI完全信任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 631,
+          "like_count": 17982,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 4279
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，明天是什么颜色呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "无人可以替代",
+        "name": "疯子酱&爱丽丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 88,
+          "like_count": 37042,
+          "listed_count": 4,
+          "media_count": 621,
+          "tweet_count": 13680
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

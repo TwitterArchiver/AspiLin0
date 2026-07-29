@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951302113340039169"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1951302121875448152",
+    "created_at": "2025-08-01T15:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951302121875448152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mEK4gaFhTt",
+          "end": 139,
+          "expanded_url": "https://x.com/AspiLin0/status/1951302121875448152/photo/1",
+          "media_key": "3_1951302113340039169",
+          "start": 116,
+          "url": "https://t.co/mEK4gaFhTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951302121875448152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又幻想了，幻想自己和班里那些游手好闲的同学一样有千万家产。直接报考浙江大学爱丁堡大学联合办学生物医学（脑科学）方向，读四年后双学位直接赴英留学。研究失败还能去当当神经外科医生\n😭😭😭然而现实根本付不起学费，甚至不知道能不能活到毕业 https://t.co/mEK4gaFhTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_1951302113340039169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRq7wMaIAEyuL_.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951302113340039169"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1951302121875448152",
+        "created_at": "2025-08-01T15:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951302121875448152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEK4gaFhTt",
+              "end": 139,
+              "expanded_url": "https://x.com/AspiLin0/status/1951302121875448152/photo/1",
+              "media_key": "3_1951302113340039169",
+              "start": 116,
+              "url": "https://t.co/mEK4gaFhTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951302121875448152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又幻想了，幻想自己和班里那些游手好闲的同学一样有千万家产。直接报考浙江大学爱丁堡大学联合办学生物医学（脑科学）方向，读四年后双学位直接赴英留学。研究失败还能去当当神经外科医生\n😭😭😭然而现实根本付不起学费，甚至不知道能不能活到毕业 https://t.co/mEK4gaFhTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 452,
+          "like_count": 10411,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 2637
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

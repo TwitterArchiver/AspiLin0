@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033573982327443501",
+    "created_at": "2026-03-16T15:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033573982327443501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tina_coin001/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Tina_coin001/status/2033430839519031418",
+          "start": 3,
+          "url": "https://t.co/iY7JOqMV3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033573982327443501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033430839519031418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "0人 https://t.co/iY7JOqMV3V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033573982327443501",
+        "created_at": "2026-03-16T15:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033573982327443501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tina_coin001/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Tina_coin001/status/2033430839519031418",
+              "start": 3,
+              "url": "https://t.co/iY7JOqMV3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033573982327443501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033430839519031418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0人 https://t.co/iY7JOqMV3V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260125652",
+        "conversation_id": "2033430839519031418",
+        "created_at": "2026-03-16T06:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033430839519031418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033430839519031418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13531,
+          "like_count": 45,
+          "quote_count": 8,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问个很现实的问题\n如果哪天你突然消失72小时，谁会在第一时间发现，还会拼了命找你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 637,
+          "like_count": 18049,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 4298
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-03T07:22:19.000Z",
+        "description": "无关政治 || 爱家爱国 || 爱交朋友 || 币圈老韭菜 || 汉族龙传人",
+        "id": "260125652",
+        "name": "橙子🍊Tina",
+        "pinned_tweet_id": "2032820468479062301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018891428156608513/YfaquKG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4370,
+          "following_count": 2696,
+          "like_count": 10399,
+          "listed_count": 9,
+          "media_count": 564,
+          "tweet_count": 9095
+        },
+        "username": "Tina_coin001",
+        "verified": true
+      }
+    ]
+  }
+}

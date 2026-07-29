@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941856877668892672"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1941856882710524337",
+    "created_at": "2025-07-06T13:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941856882710524337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/awLgq0nkQU",
+          "end": 93,
+          "expanded_url": "https://x.com/AspiLin0/status/1941856882710524337/photo/1",
+          "media_key": "3_1941856877668892672",
+          "start": 70,
+          "url": "https://t.co/awLgq0nkQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941856882710524337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好消息:下次返校就是高三组老师带阿片了\n坏消息：浙江某最好高中在我们这垃圾学校挖了四，五个老师，阿片原定的化学老师和语文老师都消失了😇😇😇 https://t.co/awLgq0nkQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_1941856877668892672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLcirYagAAksAV.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941856877668892672"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1941856882710524337",
+        "created_at": "2025-07-06T13:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941856882710524337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awLgq0nkQU",
+              "end": 93,
+              "expanded_url": "https://x.com/AspiLin0/status/1941856882710524337/photo/1",
+              "media_key": "3_1941856877668892672",
+              "start": 70,
+              "url": "https://t.co/awLgq0nkQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941856882710524337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息:下次返校就是高三组老师带阿片了\n坏消息：浙江某最好高中在我们这垃圾学校挖了四，五个老师，阿片原定的化学老师和语文老师都消失了😇😇😇 https://t.co/awLgq0nkQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 446,
+          "like_count": 9399,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 2325
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

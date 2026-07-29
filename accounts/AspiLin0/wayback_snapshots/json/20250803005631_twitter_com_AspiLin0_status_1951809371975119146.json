@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1951714894874915132",
+    "created_at": "2025-08-03T00:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T01:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951809371975119146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804154448215969795",
+          "start": 0,
+          "username": "bushi_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951809371975119146",
+    "in_reply_to_user_id": "1804154448215969795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951714894874915132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi_8964 不好说\n社会契约本身就是放弃了一定自由形成的\n就是说你的每次正当行使权利，都践踏于他人的自由之上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1951714894874915132",
+        "created_at": "2025-08-03T00:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T01:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951809371975119146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804154448215969795",
+              "start": 0,
+              "username": "bushi_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951809371975119146",
+        "in_reply_to_user_id": "1804154448215969795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951714894874915132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi_8964 不好说\n社会契约本身就是放弃了一定自由形成的\n就是说你的每次正当行使权利，都践踏于他人的自由之上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804154448215969795",
+        "conversation_id": "1951714894874915132",
+        "created_at": "2025-08-02T18:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951714894874915132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951714894874915132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不要因为你的正当行使权利而造成他人不利的后果”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 457,
+          "like_count": 10741,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 2700
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜mtf/x｜最爱的@Benji_Dune｜姐姐 @Moningmeng｜好朋友@mizuki_bot ｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Benji_Dune"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵",
+        "pinned_tweet_id": "1941798200882680157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942494297535692801/PQlihxX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1070,
+          "like_count": 6675,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995901815477424128"
+      ],
+      "media_source_tweet_id": [
+        "1995901816974844241"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1999761802557817282",
+    "created_at": "2025-12-13T08:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999761802557817282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j74Pnd9ean",
+          "end": 52,
+          "expanded_url": "https://x.com/Ephraim_deca/status/1995901816974844241/photo/1",
+          "media_key": "3_1995901815477424128",
+          "start": 29,
+          "url": "https://t.co/j74Pnd9ean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999761802557817282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995901816974844241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: 多么有力的一句祈祷。 https://t.co/j74Pnd9ean"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_1995901815477424128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LeIF4W0AAylF2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995901815477424128"
+          ],
+          "media_source_tweet_id": [
+            "1995901816974844241"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1999761802557817282",
+        "created_at": "2025-12-13T08:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999761802557817282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j74Pnd9ean",
+              "end": 52,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1995901816974844241/photo/1",
+              "media_key": "3_1995901815477424128",
+              "start": 29,
+              "url": "https://t.co/j74Pnd9ean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999761802557817282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995901816974844241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: 多么有力的一句祈祷。 https://t.co/j74Pnd9ean"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995901815477424128"
+          ]
+        },
+        "author_id": "1587696726022017027",
+        "conversation_id": "1995901816974844241",
+        "created_at": "2025-12-02T17:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995901816974844241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j74Pnd9ean",
+              "end": 34,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1995901816974844241/photo/1",
+              "media_key": "3_1995901815477424128",
+              "start": 11,
+              "url": "https://t.co/j74Pnd9ean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995901816974844241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1542,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "多么有力的一句祈祷。 https://t.co/j74Pnd9ean"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 524,
+          "like_count": 13860,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 3556
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n常忆天主救赎之奇爱、常思圣母敬供之隆情、常如三王来朝之盛礼🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 114,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 91,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 142,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 119,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.github.io",
+                "end": 23,
+                "expanded_url": "http://clemensdsh.github.io",
+                "start": 0,
+                "url": "https://t.co/5hQ1rQqSqz"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1995901816974844241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 3959,
+          "like_count": 70844,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/5hQ1rQqSqz",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

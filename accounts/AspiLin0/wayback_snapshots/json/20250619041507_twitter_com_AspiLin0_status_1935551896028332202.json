@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1935183163455611138",
+    "created_at": "2025-06-19T04:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T05:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935551896028332202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840055457756610560",
+          "start": 0,
+          "username": "hood8964"
+        },
+        {
+          "end": 18,
+          "id": "1741660022046638080",
+          "start": 10,
+          "username": "BaI4006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935551896028332202",
+    "in_reply_to_user_id": "1840055457756610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935188338685726824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hood8964 @BaI4006 历史书上记载的是男性\n当然如果他真的成仙了那之后的性别可能比较难确定（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1935183163455611138",
+        "created_at": "2025-06-19T04:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T05:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935551896028332202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            },
+            {
+              "end": 18,
+              "id": "1741660022046638080",
+              "start": 10,
+              "username": "BaI4006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935551896028332202",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935188338685726824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 @BaI4006 历史书上记载的是男性\n当然如果他真的成仙了那之后的性别可能比较难确定（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "1935183163455611138",
+        "created_at": "2025-06-18T04:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T05:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935188338685726824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741660022046638080",
+              "start": 0,
+              "username": "BaI4006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935188338685726824",
+        "in_reply_to_user_id": "1741660022046638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1343,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935185866898760007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaI4006 “老子”能是女的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 431,
+          "like_count": 8886,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2007
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "@SLhttpssri26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "SLhttpssri26"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "name": "46亿年的紅移与紅移驭者",
+        "pinned_tweet_id": "1917169464879046853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934893071184855040/FkLJ-0Kf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 1632,
+          "like_count": 67195,
+          "listed_count": 5,
+          "media_count": 805,
+          "tweet_count": 15315
+        },
+        "username": "hood8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T03:18:14.000Z",
+        "description": "叔本华、海明威、魔幻小说",
+        "id": "1741660022046638080",
+        "location": "古关忧的古书馆3号书架后的小沙发",
+        "name": "Ba1",
+        "pinned_tweet_id": "1892134839324721578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919082179306655744/EQi1pdTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 199,
+          "like_count": 18698,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 4469
+        },
+        "username": "BaI4006",
+        "verified": false
+      }
+    ]
+  }
+}

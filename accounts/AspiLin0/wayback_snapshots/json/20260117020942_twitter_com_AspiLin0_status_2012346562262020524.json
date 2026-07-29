@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2012282388135690372",
+    "created_at": "2026-01-17T02:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012346562262020524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012346562262020524",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012282388135690372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 以整体论的观点看归因是具有随意性的，无论将问题归因于谁都是不失合理性的。\n作为个体来说，归因本身并没有任何意义，更好的做法或许是想办法不让类似的事情在未来发生。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2012282211219947524",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0QAnOaQAQJ-BM.png",
+        "width": 871
+      },
+      {
+        "height": 276,
+        "media_key": "3_2012282267054522370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0QD3OaQAIaejz.png",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2012282388135690372",
+        "created_at": "2026-01-17T02:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012346562262020524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012346562262020524",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012282388135690372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 以整体论的观点看归因是具有随意性的，无论将问题归因于谁都是不失合理性的。\n作为个体来说，归因本身并没有任何意义，更好的做法或许是想办法不让类似的事情在未来发生。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012282211219947524",
+            "3_2012282267054522370"
+          ]
+        },
+        "author_id": "3889037112",
+        "conversation_id": "2012282388135690372",
+        "created_at": "2026-01-16T21:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012282388135690372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj8gkIjZEO",
+              "end": 73,
+              "expanded_url": "https://x.com/ntfuko/status/2012282388135690372/photo/1",
+              "media_key": "3_2012282211219947524",
+              "start": 50,
+              "url": "https://t.co/Pj8gkIjZEO"
+            },
+            {
+              "display_url": "pic.x.com/Pj8gkIjZEO",
+              "end": 73,
+              "expanded_url": "https://x.com/ntfuko/status/2012282388135690372/photo/1",
+              "media_key": "3_2012282267054522370",
+              "start": 50,
+              "url": "https://t.co/Pj8gkIjZEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012282388135690372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都能變出讓我想起過去的事情很難受的內容，到底是我有問題還是ai有問題還是我遇到的人有問題。。。 https://t.co/Pj8gkIjZEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 528,
+          "like_count": 14498,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3710
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了\n還希望保持聯絡的推友請fo我、\nまた見つけてくれてありがとう。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "pinned_tweet_id": "2007498195707015530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 139,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 169
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

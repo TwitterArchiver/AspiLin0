@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2010684740349943870",
+    "created_at": "2026-01-12T12:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010684740349943870"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010684740349943870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也不想采取极端措施但是真的已经到崩溃的边缘了.....我真的很痛苦我想救救自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2010684740349943870",
+        "created_at": "2026-01-12T12:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010684740349943870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010684740349943870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不想采取极端措施但是真的已经到崩溃的边缘了.....我真的很痛苦我想救救自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 526,
+          "like_count": 14299,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3661
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

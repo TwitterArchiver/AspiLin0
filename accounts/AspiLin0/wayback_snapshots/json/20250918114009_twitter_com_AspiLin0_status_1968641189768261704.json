@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968641189768261704",
+    "created_at": "2025-09-18T11:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T12:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968641189768261704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HydrogenNeko/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/HydrogenNeko/status/1968636959800095045",
+          "start": 15,
+          "url": "https://t.co/8ZsT5b4Jr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968641189768261704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968636959800095045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浙大图灵班是不是全都是xyn https://t.co/8ZsT5b4Jr5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968641189768261704",
+        "created_at": "2025-09-18T11:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T12:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968641189768261704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1968636959800095045",
+              "start": 15,
+              "url": "https://t.co/8ZsT5b4Jr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968641189768261704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968636959800095045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浙大图灵班是不是全都是xyn https://t.co/8ZsT5b4Jr5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962156064734138368",
+        "conversation_id": "1968636959800095045",
+        "created_at": "2025-09-18T11:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T12:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968636959800095045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/1964537000914276734",
+              "start": 108,
+              "url": "https://t.co/Yj2O5nqTcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968636959800095045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964537000914276734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨越边界——向图灵致敬\n\n图灵于1953年被英国警方强制注射雌激素，并于一年后自杀身亡，为了纪念他在计算机科学的贡献，表达自己的敬佩与追随，现代的许多程序员也会服用雌激素，并且很有可能在服用雌激素一年或者数年后自杀 https://t.co/Yj2O5nqTcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 488,
+          "like_count": 12975,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3262
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "葉加瀬 水素仍在人間・MTX奇異搞笑小朋友🍥・業餘調查記者、偵探・私人實驗室「水素實驗室」創始人(建設ing…)🧬・有效利他主義者・余命1年 ・「すべてを癒す万能薬になりたい」・Wife @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "☯️🧬水素實驗室 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 233,
+          "like_count": 950,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 489
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

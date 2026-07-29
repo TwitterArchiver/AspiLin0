@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934631123856048206",
+    "created_at": "2025-06-16T15:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934631123856048206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horizon_tem/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/horizon_tem/status/1934549170796597461",
+          "start": 34,
+          "url": "https://t.co/HCsC7pNbhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934631123856048206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934549170796597461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们已经失去了我们之前的无限时间，又何必因失去之后的时间感到忧伤呢 https://t.co/HCsC7pNbhP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_1934549161392967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtjmNm1bkAAnXIb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934631123856048206",
+        "created_at": "2025-06-16T15:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934631123856048206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1934549170796597461",
+              "start": 34,
+              "url": "https://t.co/HCsC7pNbhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934631123856048206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934549170796597461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们已经失去了我们之前的无限时间，又何必因失去之后的时间感到忧伤呢 https://t.co/HCsC7pNbhP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934549161392967680"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1934549170796597461",
+        "created_at": "2025-06-16T09:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934549170796597461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qac5h5jxTr",
+              "end": 53,
+              "expanded_url": "https://x.com/horizon_tem/status/1934549170796597461/photo/1",
+              "media_key": "3_1934549161392967680",
+              "start": 30,
+              "url": "https://t.co/qac5h5jxTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934549170796597461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1949,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你可以在这个帖子下面发表你对于\n死亡\n认真的，严肃的观点。 https://t.co/qac5h5jxTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 432,
+          "like_count": 8777,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1934549170796597461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3318,
+          "following_count": 1920,
+          "like_count": 22959,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 9042
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

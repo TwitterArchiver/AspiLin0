@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2015696633942675615",
+    "created_at": "2026-01-26T08:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015707271775621237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        },
+        {
+          "end": 23,
+          "id": "1898849785559580672",
+          "start": 8,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015707271775621237",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015703260489973978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko @Sakura_RinSaki 如果追求变聪明的话确实有人在研究雌激素受体的选择激活剂。\n单用雌二醇的话在短期内有一定增强记忆力的效果，长期则更多是改善和维持认知，如预防老年痴呆。因此用于改善认知能力起到的效果不大而且会引发一系列问题（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2015696633942675615",
+        "created_at": "2026-01-26T08:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015707271775621237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            },
+            {
+              "end": 23,
+              "id": "1898849785559580672",
+              "start": 8,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015707271775621237",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015703260489973978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko @Sakura_RinSaki 如果追求变聪明的话确实有人在研究雌激素受体的选择激活剂。\n单用雌二醇的话在短期内有一定增强记忆力的效果，长期则更多是改善和维持认知，如预防老年痴呆。因此用于改善认知能力起到的效果不大而且会引发一系列问题（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "conversation_id": "2015696633942675615",
+        "created_at": "2026-01-26T08:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015703260489973978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015703260489973978",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015696633942675615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 原來吃雌二醇可以變聰明，難怪推特網友都在吃，我也來一點。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 538,
+          "like_count": 14881,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3770
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了\n還希望保持聯絡的推友請fo我、\nまた見つけてくれてありがとう。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 178,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 277
+        },
+        "username": "ntfuko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 64,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 686
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

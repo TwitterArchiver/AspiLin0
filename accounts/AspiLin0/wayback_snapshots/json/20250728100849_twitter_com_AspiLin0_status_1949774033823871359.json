@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1949774033823871359",
+    "created_at": "2025-07-28T10:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949774033823871359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882716182915973120",
+          "start": 3,
+          "username": "loafieloafy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949774033823871359",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949770318983434433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loafieloafy: ⟡⠀⠀⠀⠀  ⠀⠀⠀⠀⣸     ⟡\n⠙⠷⡄⠀⠀⠀⠑⣠⣾⣿⣧⠀⣠⠶⠋\n⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣦⣁   ⟡\n⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆ ⢀⡴⢖⣛⡓⠶\n⠀⠀⠈⠉⢸⣿⣿⣿⣿⣿⣿⣿⠛⠁ ⢀⡏⣴⢋⡭⣍⢳⡄\n⟡⠀  ⠀⠀⣿⣿⡿⠿⣿⣿⣿⡇       ⠈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_1949770304731148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw75wwca8AA1NSr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1949774033823871359",
+        "created_at": "2025-07-28T10:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949774033823871359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882716182915973120",
+              "start": 3,
+              "username": "loafieloafy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949774033823871359",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949770318983434433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loafieloafy: ⟡⠀⠀⠀⠀  ⠀⠀⠀⠀⣸     ⟡\n⠙⠷⡄⠀⠀⠀⠑⣠⣾⣿⣧⠀⣠⠶⠋\n⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣦⣁   ⟡\n⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆ ⢀⡴⢖⣛⡓⠶\n⠀⠀⠈⠉⢸⣿⣿⣿⣿⣿⣿⣿⠛⠁ ⢀⡏⣴⢋⡭⣍⢳⡄\n⟡⠀  ⠀⠀⣿⣿⡿⠿⣿⣿⣿⡇       ⠈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949770304731148288"
+          ]
+        },
+        "author_id": "1882716182915973120",
+        "conversation_id": "1949770318983434433",
+        "created_at": "2025-07-28T09:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949770318983434433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p23riUvIEp",
+              "end": 182,
+              "expanded_url": "https://x.com/loafieloafy/status/1949770318983434433/photo/1",
+              "media_key": "3_1949770304731148288",
+              "start": 159,
+              "url": "https://t.co/p23riUvIEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949770318983434433",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "⟡⠀⠀⠀⠀  ⠀⠀⠀⠀⣸     ⟡\n⠙⠷⡄⠀⠀⠀⠑⣠⣾⣿⣧⠀⣠⠶⠋\n⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣦⣁   ⟡\n⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆ ⢀⡴⢖⣛⡓⠶\n⠀⠀⠈⠉⢸⣿⣿⣿⣿⣿⣿⣿⠛⠁ ⢀⡏⣴⢋⡭⣍⢳⡄\n⟡⠀  ⠀⠀⣿⣿⡿⠿⣿⣿⣿⡇       ⠈⣧⠹⣌⣃⡼⢠⡇\n⠀⠀⡴⠃⠀⠀⠀⟡⠀  ⠙⠿⠃  ⠳     ⠈⠳⠦⠭⠶⠋ https://t.co/p23riUvIEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 444,
+          "like_count": 9778,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T09:05:00.000Z",
+        "description": "ㅤ̄ ㅤ̘d͕ͭr̶̢a͂͟w̴͜i̮̓n̪͜g̦͜ i̠ͅsͦ͂ a̧͎s̬͜ h̡̑a͊̃r͑̄d͔̟ a͑̚s͆͢ b̂́e̖̙ị͊n͙͕gͥͫ a̷͎ľ̪i̭ͩv̢ͫe̦͈ㅤ̉ ㅤ̋",
+        "id": "1882716182915973120",
+        "location": "the 89th constellation",
+        "name": "loaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949204933561253888/FT6tv29F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "loafieloafy",
+        "verified": false
+      }
+    ]
+  }
+}

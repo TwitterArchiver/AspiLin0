@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2022904010907488657",
+    "created_at": "2026-02-15T10:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022974562170810777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "CamanoDiana_404"
+        },
+        {
+          "end": 26,
+          "id": "1554424317483655175",
+          "start": 17,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022974562170810777",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022905655129170316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamanoDiana_404 @yuu00401 语言要有意义就必然会有模糊性\n逻辑语言与数学语言不能直接与世界相关（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2022904010907488657",
+        "created_at": "2026-02-15T10:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022974562170810777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana_404"
+            },
+            {
+              "end": 26,
+              "id": "1554424317483655175",
+              "start": 17,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022974562170810777",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022905655129170316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana_404 @yuu00401 语言要有意义就必然会有模糊性\n逻辑语言与数学语言不能直接与世界相关（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "2022904010907488657",
+        "created_at": "2026-02-15T05:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022905655129170316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022905655129170316",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022904010907488657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 Emmmm，如果说的是逻辑语言，数学语言，编程语言倒还好，自然语言往往充满歧义和模糊性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 582,
+          "like_count": 16055,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 3952
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "Status: 404 Not Found.",
+        "id": "1470943033365438470",
+        "location": "IP: Bayingolin",
+        "name": "然子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 848,
+          "like_count": 26590,
+          "listed_count": 12,
+          "media_count": 1445,
+          "tweet_count": 19064
+        },
+        "username": "CamanoDiana_404",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 758,
+          "like_count": 71744,
+          "listed_count": 6,
+          "media_count": 2261,
+          "tweet_count": 33719
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

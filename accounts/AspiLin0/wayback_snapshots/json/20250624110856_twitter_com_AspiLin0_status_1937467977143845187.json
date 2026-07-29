@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937466594676080891",
+    "created_at": "2025-06-24T11:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T12:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937467977143845187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saoweve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937467977143845187",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937466594676080891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saoweve 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11099,
+        "height": 540,
+        "media_key": "13_1937466407035551744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937466407035551744/img/IoLKW2wni_HOpoIf.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937466407035551744/vid/avc1/442x270/5YMmtxF_INZBs40U.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937466407035551744/vid/avc1/588x360/emTVlDTvP13g8g1E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937466407035551744/vid/avc1/884x540/3i3Rbjw33LSJXHQ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937466407035551744/pl/ecOplXAbkEz2HfwW.m3u8"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937466594676080891",
+        "created_at": "2025-06-24T11:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937467977143845187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saoweve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937467977143845187",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937466594676080891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saoweve 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937466407035551744"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "1937466594676080891",
+        "created_at": "2025-06-24T11:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937466594676080891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjkIwNLG2B",
+              "end": 40,
+              "expanded_url": "https://x.com/saoweve/status/1937466594676080891/video/1",
+              "media_key": "13_1937466407035551744",
+              "start": 17,
+              "url": "https://t.co/CjkIwNLG2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937466594676080891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然脑洞大开，想给阿弃剪个视频 https://t.co/CjkIwNLG2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 438,
+          "like_count": 9150,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "出错了，但是我们做对了",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1934236575246045618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 368,
+          "like_count": 23779,
+          "listed_count": 12,
+          "media_count": 1491,
+          "tweet_count": 13039
+        },
+        "username": "saoweve",
+        "verified": true
+      }
+    ]
+  }
+}

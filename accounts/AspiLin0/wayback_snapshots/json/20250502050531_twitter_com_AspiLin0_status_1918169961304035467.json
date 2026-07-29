@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918138227820757475",
+    "created_at": "2025-05-02T05:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918169961304035467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903416195820433408",
+          "start": 0,
+          "username": "LonelyLLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918169961304035467",
+    "in_reply_to_user_id": "1903416195820433408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918168331082977446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LonelyLLove 递推公式初等≠通项公式初等\n就是说虽然每个n+1项都是容易得出的，但通项很难得出甚至无法有初等表示（）\n比如斐波那契数列的递推公式简单但其通项要用特征根配凑，这个数列比斐波那契麻烦了不止一个等级"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918138227820757475",
+        "created_at": "2025-05-02T05:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918169961304035467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903416195820433408",
+              "start": 0,
+              "username": "LonelyLLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918169961304035467",
+        "in_reply_to_user_id": "1903416195820433408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918168331082977446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LonelyLLove 递推公式初等≠通项公式初等\n就是说虽然每个n+1项都是容易得出的，但通项很难得出甚至无法有初等表示（）\n比如斐波那契数列的递推公式简单但其通项要用特征根配凑，这个数列比斐波那契麻烦了不止一个等级"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903416195820433408",
+        "conversation_id": "1918138227820757475",
+        "created_at": "2025-05-02T04:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T05:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918168331082977446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918168331082977446",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918167820392906934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我不懂 an不是有公式吗😭~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 336,
+          "like_count": 4861,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:00:05.000Z",
+        "description": "15岁高一 含🍥 是跨 玻璃心 喜欢哭 长相丑陋 大号被注销 这是唯一账号 '愿埋葬在地底 也不愿他人看到'",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LonelyLoveL",
+                "end": 23,
+                "expanded_url": "http://t.me/LonelyLoveL",
+                "start": 0,
+                "url": "https://t.co/ApXlgR2kNv"
+              }
+            ]
+          }
+        },
+        "id": "1903416195820433408",
+        "name": "🌸草花草花🍥",
+        "pinned_tweet_id": "1916044007408558303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916172100077031426/q08i2cIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 179,
+          "like_count": 1099,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/ApXlgR2kNv",
+        "username": "LonelyLLove",
+        "verified": false
+      }
+    ]
+  }
+}

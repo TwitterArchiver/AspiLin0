@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1927313889588400187",
+    "created_at": "2025-05-27T10:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T11:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927315886622335312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340253206417272832",
+          "start": 0,
+          "username": "Shina_Kaede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927315886622335312",
+    "in_reply_to_user_id": "1340253206417272832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927313889588400187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shina_Kaede 好像是\n基本上催眠流程都包括放松-惊吓环节\n就是卸下防御后攻击（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1927313889588400187",
+        "created_at": "2025-05-27T10:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T11:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927315886622335312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340253206417272832",
+              "start": 0,
+              "username": "Shina_Kaede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927315886622335312",
+        "in_reply_to_user_id": "1340253206417272832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927313889588400187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shina_Kaede 好像是\n基本上催眠流程都包括放松-惊吓环节\n就是卸下防御后攻击（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340253206417272832",
+        "conversation_id": "1927313889588400187",
+        "created_at": "2025-05-27T10:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T11:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927313889588400187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927313889588400187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了hmi的催眠教程，其中提到了催眠和被暗示状态本身可能就是一种被大量外在信息和未知恐惧短时间侵入造成的原始防御机制也就是思考和行为被冻结，进入可控的惊恐与失控感带来的焦虑中，从而进入一种思维和心智退行的状态，保护性的被触发战或逃的机制从而达到被暗示容易被影响，想了想，这不是ddos吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 386,
+          "like_count": 6951,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/21♍️♎️/理系人文/認知神経心理学/心理言語学/臨床医学/中文/EN/日本語/元声優/通訳者/音ゲー/雀魂/FF14鸟区🎮/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/芳香疗法/紫陽花/白狐/オオルリ/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪",
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 3566,
+          "like_count": 16382,
+          "listed_count": 9,
+          "media_count": 564,
+          "tweet_count": 6520
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

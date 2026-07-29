@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918672021145391324",
+    "created_at": "2025-05-04T02:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T03:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918853499267559810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918853499267559810",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918672021145391324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinneMTF 因为很少有人把性别焦虑看成一种病🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_1918672005039337472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqB-BeTbMAA9dbz.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918672021145391324",
+        "created_at": "2025-05-04T02:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T03:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918853499267559810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918853499267559810",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918672021145391324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 因为很少有人把性别焦虑看成一种病🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918672005039337472"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "1918672021145391324",
+        "created_at": "2025-05-03T14:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T15:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918672021145391324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MykGEyCHPE",
+              "end": 96,
+              "expanded_url": "https://x.com/RinneMTF/status/1918672021145391324/photo/1",
+              "media_key": "3_1918672005039337472",
+              "start": 73,
+              "url": "https://t.co/MykGEyCHPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918672021145391324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "按照目前很多研究表明，自闭症，多动症和性别焦虑三者之间存在共病因素，只要沾上其中一个，再沾上另外两个的概率就会远高于普通人（很不幸这仨我都有😭)\n\n尽管这三者成因具有高度相似性，但每当有人正常科普跨性别相关内容的时候，经常会有人怀疑指责这样做会让更多人成为跨性别者之类的。但与此同时，科普宣传自闭症，多动症的博主和帖子也有不少，却几乎没有人指责他们的科普宣传导致更多人患上自闭症和多动症之类的。\n\n这是为什么呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "按照目前很多研究表明，自闭症，多动症和性别焦虑三者之间存在共病因素，只要沾上其中一个，再沾上另外两个的概率就会远高于普通人（很不幸这仨我都有😭) https://t.co/MykGEyCHPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 352,
+          "like_count": 5492,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD, ASD /恐跨深柜觉醒党/家长党/生物系毕业/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1195,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 509
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

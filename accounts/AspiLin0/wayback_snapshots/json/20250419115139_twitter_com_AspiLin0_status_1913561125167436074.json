@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913561125167436074",
+    "created_at": "2025-04-19T11:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T12:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913561125167436074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanbojack/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yanbojack/status/1913124816653033505",
+          "start": 25,
+          "url": "https://t.co/xNBKL4jsW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913561125167436074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913124816653033505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是乐清人大概不会知道这个职位的含金量有多高() https://t.co/xNBKL4jsW1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913561125167436074",
+        "created_at": "2025-04-19T11:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913561125167436074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanbojack/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yanbojack/status/1913124816653033505",
+              "start": 25,
+              "url": "https://t.co/xNBKL4jsW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913561125167436074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913124816653033505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是乐清人大概不会知道这个职位的含金量有多高() https://t.co/xNBKL4jsW1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "368205513",
+        "conversation_id": "1913124816653033505",
+        "created_at": "2025-04-18T06:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T07:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913124816653033505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913124816653033505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 255556,
+          "like_count": 899,
+          "quote_count": 5,
+          "reply_count": 87,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "如果你曾拿到全国中学生物理竞赛浙江赛区一等奖，高考以759分成为温州市理科高考第一名，并取得浙江省理科成绩第二名的佳绩，被清华大学的金融与经济专业录取。\n那么你将成为一名国家税务总局乐清市税务局一级行政执法员。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 315,
+          "like_count": 3960,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-05T07:55:43.000Z",
+        "description": "美港A股基金经理&宏观研究员，做宏观策略，量化。香港新加坡证券、前国内top10公募基金。爆料、合作发私信https://t.co/BU9z85f3Xb （郑重声明：本账号发布的所有内容严禁在中国互联网转播，所有内容均不构成投资建议）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yanbojack",
+                "end": 76,
+                "expanded_url": "http://t.me/yanbojack",
+                "start": 53,
+                "url": "https://t.co/BU9z85f3Xb"
+              }
+            ]
+          }
+        },
+        "id": "368205513",
+        "location": "Singapore",
+        "name": "杰克船长宏观策略（公众号）",
+        "pinned_tweet_id": "1911639959855063233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566441302287593473/-PWs9wxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115754,
+          "following_count": 98,
+          "like_count": 719,
+          "listed_count": 1068,
+          "media_count": 10197,
+          "tweet_count": 16489
+        },
+        "username": "yanbojack",
+        "verified": true
+      }
+    ]
+  }
+}

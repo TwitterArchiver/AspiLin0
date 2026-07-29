@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913088768158142842",
+    "created_at": "2025-04-18T05:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T06:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913105202594676855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425416862276464642",
+          "start": 0,
+          "username": "MisakaMisakaxfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913105202594676855",
+    "in_reply_to_user_id": "1425416862276464642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913088768158142842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaMisakaxfu 注册邮件找到账号，然后官网找回密码？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1913088761384321024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoyoF64awAANTaz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913088768158142842",
+        "created_at": "2025-04-18T05:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T06:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913105202594676855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425416862276464642",
+              "start": 0,
+              "username": "MisakaMisakaxfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913105202594676855",
+        "in_reply_to_user_id": "1425416862276464642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913088768158142842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaMisakaxfu 注册邮件找到账号，然后官网找回密码？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913088761384321024"
+          ]
+        },
+        "author_id": "1425416862276464642",
+        "conversation_id": "1913088768158142842",
+        "created_at": "2025-04-18T04:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913088768158142842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMiJtqOmZz",
+              "end": 36,
+              "expanded_url": "https://x.com/MisakaMisakaxfu/status/1913088768158142842/photo/1",
+              "media_key": "3_1913088761384321024",
+              "start": 13,
+              "url": "https://t.co/LMiJtqOmZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913088768158142842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好，我的账号密码是什么 https://t.co/LMiJtqOmZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 291,
+          "like_count": 3659,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T11:20:53.000Z",
+        "description": "中国人｜00后｜是学生｜INFP-T｜爱好二次元，航模，摄影，数码｜喜欢打音游，雷批，邦邦人（ガルパ），拉拉人｜🏳️‍⚧️🏳️‍🌈友好｜不建政｜｜里:@misakamisa10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "misakamisa10032"
+              }
+            ]
+          }
+        },
+        "id": "1425416862276464642",
+        "location": "都市学院",
+        "name": "Misaka10526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904179123070832640/-9bTcW9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 627,
+          "like_count": 6474,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 1748
+        },
+        "username": "MisakaMisakaxfu",
+        "verified": false
+      }
+    ]
+  }
+}

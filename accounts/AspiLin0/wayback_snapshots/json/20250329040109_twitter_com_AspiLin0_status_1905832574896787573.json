@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1905832574896787573",
+    "created_at": "2025-03-29T04:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T05:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905832574896787573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chanxiulumanzh…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/chanxiulumanzhi/status/1905832174911410506",
+          "start": 9,
+          "url": "https://t.co/slrhdhb4Nu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905832574896787573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905832174911410506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想看萌萌的小女孩 https://t.co/slrhdhb4Nu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1905832574896787573",
+        "created_at": "2025-03-29T04:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905832574896787573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chanxiulumanzh…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/chanxiulumanzhi/status/1905832174911410506",
+              "start": 9,
+              "url": "https://t.co/slrhdhb4Nu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905832574896787573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905832174911410506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想看萌萌的小女孩 https://t.co/slrhdhb4Nu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225358261467197440",
+        "conversation_id": "1905832174911410506",
+        "created_at": "2025-03-29T03:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T04:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905832174911410506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905832174911410506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看萌萌的小女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 265,
+          "like_count": 2978,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "圈名泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我) \n\n“谁にも爱されず闇の中朽ちるだけ それは楽园?”",
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "爱，死亡与猫猫娘",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850947849573523456/Pxh9sKtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 211,
+          "like_count": 1510,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1839
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

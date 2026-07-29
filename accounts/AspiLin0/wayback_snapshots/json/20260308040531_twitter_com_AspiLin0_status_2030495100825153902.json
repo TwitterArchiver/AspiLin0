@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030312731086340096",
+        "3_2030312792067338240"
+      ],
+      "media_source_tweet_id": [
+        "2030312852297540003",
+        "2030312852297540003"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2030495100825153902",
+    "created_at": "2026-03-08T04:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030495100825153902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1798017061131874304",
+          "start": 3,
+          "username": "cupric_oxide_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lzsM6efthj",
+          "end": 56,
+          "expanded_url": "https://x.com/cupric_oxide_/status/2030312852297540003/photo/1",
+          "media_key": "3_2030312731086340096",
+          "start": 33,
+          "url": "https://t.co/lzsM6efthj"
+        },
+        {
+          "display_url": "pic.x.com/lzsM6efthj",
+          "end": 56,
+          "expanded_url": "https://x.com/cupric_oxide_/status/2030312852297540003/photo/1",
+          "media_key": "3_2030312792067338240",
+          "start": 33,
+          "url": "https://t.co/lzsM6efthj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030495100825153902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030312852297540003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupric_oxide_: 生日来要友情赞助不过分吧（ https://t.co/lzsM6efthj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2030312731086340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0eq_9awAAlRNN.jpg",
+        "width": 1763
+      },
+      {
+        "height": 1094,
+        "media_key": "3_2030312792067338240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0eujIa8AArGAu.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030312731086340096",
+            "3_2030312792067338240"
+          ],
+          "media_source_tweet_id": [
+            "2030312852297540003",
+            "2030312852297540003"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2030495100825153902",
+        "created_at": "2026-03-08T04:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030495100825153902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1798017061131874304",
+              "start": 3,
+              "username": "cupric_oxide_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzsM6efthj",
+              "end": 56,
+              "expanded_url": "https://x.com/cupric_oxide_/status/2030312852297540003/photo/1",
+              "media_key": "3_2030312731086340096",
+              "start": 33,
+              "url": "https://t.co/lzsM6efthj"
+            },
+            {
+              "display_url": "pic.x.com/lzsM6efthj",
+              "end": 56,
+              "expanded_url": "https://x.com/cupric_oxide_/status/2030312852297540003/photo/1",
+              "media_key": "3_2030312792067338240",
+              "start": 33,
+              "url": "https://t.co/lzsM6efthj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030495100825153902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030312852297540003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupric_oxide_: 生日来要友情赞助不过分吧（ https://t.co/lzsM6efthj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030312731086340096",
+            "3_2030312792067338240"
+          ]
+        },
+        "author_id": "1798017061131874304",
+        "conversation_id": "2030312852297540003",
+        "created_at": "2026-03-07T16:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030312852297540003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzsM6efthj",
+              "end": 37,
+              "expanded_url": "https://x.com/cupric_oxide_/status/2030312852297540003/photo/1",
+              "media_key": "3_2030312731086340096",
+              "start": 14,
+              "url": "https://t.co/lzsM6efthj"
+            },
+            {
+              "display_url": "pic.x.com/lzsM6efthj",
+              "end": 37,
+              "expanded_url": "https://x.com/cupric_oxide_/status/2030312852297540003/photo/1",
+              "media_key": "3_2030312792067338240",
+              "start": 14,
+              "url": "https://t.co/lzsM6efthj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030312852297540003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日来要友情赞助不过分吧（ https://t.co/lzsM6efthj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 622,
+          "like_count": 17676,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 4224
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "wept injection developer\nKarlen client staff\nhrisito+ moderator\nhe/him/she/her\n\nDon’ t fvck with ur PUA any more",
+        "id": "1798017061131874304",
+        "location": "马来西亚 霹雳 怡保",
+        "name": "氧化铜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029859899728089089/TqMWnJS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 1324,
+          "like_count": 26839,
+          "listed_count": 6,
+          "media_count": 908,
+          "tweet_count": 5469
+        },
+        "username": "cupric_oxide_",
+        "verified": false
+      }
+    ]
+  }
+}

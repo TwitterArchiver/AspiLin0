@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2038873504012190165",
+    "created_at": "2026-03-31T16:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039016072490406297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1263504138307899392",
+          "start": 0,
+          "username": "im_magneto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039016072490406297",
+    "in_reply_to_user_id": "1263504138307899392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038873504012190165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_magneto 霍金说的，21世纪是复杂性的时代，秒了））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2038873504012190165",
+        "created_at": "2026-03-31T16:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039016072490406297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1263504138307899392",
+              "start": 0,
+              "username": "im_magneto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039016072490406297",
+        "in_reply_to_user_id": "1263504138307899392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038873504012190165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_magneto 霍金说的，21世纪是复杂性的时代，秒了））"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038873501470531584"
+          ]
+        },
+        "author_id": "1263504138307899392",
+        "conversation_id": "2038873504012190165",
+        "created_at": "2026-03-31T06:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038873504012190165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038873504012190165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1975,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生物课本上那句由施一公提出的 “21世纪被称为生物学或生命科学的世纪” 至今刻在我脑海里，进入二十一世纪后各种各样的顽疾都逐一攻克 AD、AIDS 都出现了对应的治疗、延缓方法。\n\n可LLM的发展，似乎变成了计算机科学的世纪，人们盼望着赛博世界的到来。\n\n推友们觉得这到底是一个怎样的世纪呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 671,
+          "like_count": 18872,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 4457
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T16:17:25.000Z",
+        "description": "20岁 ENFJ(溫良的利他主義者)/\nTAG 可爱 & Furry & 小男孩🥰/\nAKA 小图灵(Turing)，熱愛計算機學科、生物學科/\nAddr 三亞||西安||成都/\n歡迎光臨我的Blog https://t.co/xLebzdwYc1 / \n如果我们不熟（互动很少）我是不会给泥联系方式or里推的 /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 124,
+                "expanded_url": "https://fmcf.cc",
+                "start": 101,
+                "url": "https://t.co/xLebzdwYc1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 23,
+                "expanded_url": "https://fmcf.cc",
+                "start": 0,
+                "url": "https://t.co/xLebzdwYc1"
+              }
+            ]
+          }
+        },
+        "id": "1263504138307899392",
+        "location": "Sanya, PRC ",
+        "name": "全麦面包🍞",
+        "pinned_tweet_id": "2013274396925075619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583759739749441537/Q5PVXn-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 688,
+          "like_count": 12722,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 5344
+        },
+        "url": "https://t.co/xLebzdwYc1",
+        "username": "im_magneto",
+        "verified": true
+      }
+    ]
+  }
+}

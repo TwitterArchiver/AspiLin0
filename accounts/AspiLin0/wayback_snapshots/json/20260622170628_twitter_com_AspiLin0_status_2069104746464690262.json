@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2069104746464690262",
+    "created_at": "2026-06-22T17:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069104746464690262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1739599759697133568",
+          "start": 3,
+          "username": "crediblefin"
+        },
+        {
+          "end": 26,
+          "id": "1872166239667138560",
+          "start": 17,
+          "username": "kanavtwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069104746464690262",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068966198394392975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crediblefin: @kanavtwt everyone asking who is json but nobody asking how is json 😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2069104746464690262",
+        "created_at": "2026-06-22T17:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069104746464690262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1739599759697133568",
+              "start": 3,
+              "username": "crediblefin"
+            },
+            {
+              "end": 26,
+              "id": "1872166239667138560",
+              "start": 17,
+              "username": "kanavtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069104746464690262",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068966198394392975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crediblefin: @kanavtwt everyone asking who is json but nobody asking how is json 😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739599759697133568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2068383439263563855",
+        "created_at": "2026-06-22T07:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068966198394392975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872166239667138560",
+              "start": 0,
+              "username": "kanavtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068966198394392975",
+        "in_reply_to_user_id": "1872166239667138560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 80452,
+          "like_count": 1370,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068383439263563855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanavtwt everyone asking who is json but nobody asking how is json 😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 766,
+          "like_count": 21458,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5058
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:51:36.000Z",
+        "description": "T+0 settlement on global collection and payouts.\n\nBacked by @colosseum\n\nLive stats: https://t.co/SVSFlMc8NE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "colosseum"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dune.com/credible/stats",
+                "end": 107,
+                "expanded_url": "https://dune.com/credible/stats",
+                "start": 84,
+                "url": "https://t.co/SVSFlMc8NE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "credible.finance",
+                "end": 23,
+                "expanded_url": "https://credible.finance",
+                "start": 0,
+                "url": "https://t.co/L1L4S4jNeH"
+              }
+            ]
+          }
+        },
+        "id": "1739599759697133568",
+        "location": "Solana Beach, CA",
+        "name": "Credible",
+        "pinned_tweet_id": "2061819530649932264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064417882898067456/YhSGBgSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101590,
+          "following_count": 655,
+          "like_count": 7671,
+          "listed_count": 43,
+          "media_count": 565,
+          "tweet_count": 5128
+        },
+        "url": "https://t.co/L1L4S4jNeH",
+        "username": "crediblefin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T06:23:23.000Z",
+        "description": "22, engineer. prev backend dev @ startups x3 ▪︎ https://t.co/H8w00CAlyS → relaxing bird sim ▪︎ https://t.co/cxPbm5wvet → free & secure pdf tools in your browser. DMs open",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "birds.cafe",
+                "end": 71,
+                "expanded_url": "https://birds.cafe",
+                "start": 48,
+                "url": "https://t.co/H8w00CAlyS"
+              },
+              {
+                "display_url": "pdf0.dev",
+                "end": 118,
+                "expanded_url": "https://pdf0.dev",
+                "start": 95,
+                "url": "https://t.co/cxPbm5wvet"
+              }
+            ]
+          }
+        },
+        "id": "1872166239667138560",
+        "location": "Ryzen 9 9950X3D",
+        "name": "kanav",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998781087938654217/ykXMecgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18845,
+          "following_count": 589,
+          "like_count": 43986,
+          "listed_count": 75,
+          "media_count": 2354,
+          "tweet_count": 10616
+        },
+        "url": "",
+        "username": "kanavtwt",
+        "verified": true
+      }
+    ]
+  }
+}

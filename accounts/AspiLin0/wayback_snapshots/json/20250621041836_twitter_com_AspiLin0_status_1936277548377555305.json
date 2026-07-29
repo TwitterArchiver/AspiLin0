@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936277548377555305",
+    "created_at": "2025-06-21T04:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T05:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936277548377555305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuyufufu_/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yuyufufu_/status/1935993584689488077",
+          "start": 6,
+          "url": "https://t.co/gq6ePm4CB7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936277548377555305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935993584689488077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呆呆的（） https://t.co/gq6ePm4CB7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_1935993579861667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4H508XcAAVaAB.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936277548377555305",
+        "created_at": "2025-06-21T04:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936277548377555305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuyufufu_/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yuyufufu_/status/1935993584689488077",
+              "start": 6,
+              "url": "https://t.co/gq6ePm4CB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936277548377555305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935993584689488077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呆呆的（） https://t.co/gq6ePm4CB7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935993579861667840"
+          ]
+        },
+        "author_id": "1503315998467756037",
+        "conversation_id": "1935993584689488077",
+        "created_at": "2025-06-20T09:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T10:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935993584689488077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53ghZoS7fr",
+              "end": 27,
+              "expanded_url": "https://x.com/yuyufufu_/status/1935993584689488077/photo/1",
+              "media_key": "3_1935993579861667840",
+              "start": 4,
+              "url": "https://t.co/53ghZoS7fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935993584689488077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1691,
+          "impression_count": 299943,
+          "like_count": 24272,
+          "quote_count": 40,
+          "reply_count": 2,
+          "retweet_count": 3248
+        },
+        "reply_settings": "everyone",
+        "text": "熱異常 https://t.co/53ghZoS7fr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 433,
+          "like_count": 8965,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T10:24:21.000Z",
+        "description": "来月頭まで息してないです  創作と初音ミク描きます  ☁FA▶\n #かなしき人絵\n サブ▶ @yuyufufu_2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "かなしき人絵"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yuyufufu_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yuyufufu_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yuyufufu_?igsh=cnB4MzUxZnY2NDJ2",
+                "start": 0,
+                "url": "https://t.co/sHNS9M3FlE"
+              }
+            ]
+          }
+        },
+        "id": "1503315998467756037",
+        "location": "無断転載・無断使用（LoRA、i2i等含め）はご遠慮ください",
+        "name": "かなしい人",
+        "pinned_tweet_id": "1932364293418410495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775827790518202368/etowBXPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34056,
+          "following_count": 265,
+          "like_count": 12792,
+          "listed_count": 256,
+          "media_count": 772,
+          "tweet_count": 4892
+        },
+        "url": "https://t.co/sHNS9M3FlE",
+        "username": "yuyufufu_",
+        "verified": false
+      }
+    ]
+  }
+}

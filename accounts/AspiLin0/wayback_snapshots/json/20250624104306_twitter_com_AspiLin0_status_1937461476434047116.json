@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937443107433537536"
+      ],
+      "media_source_tweet_id": [
+        "1937443146176266741"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937461476434047116",
+    "created_at": "2025-06-24T10:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937461476434047116"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "狐ちゃん",
+          "probability": 0.6052,
+          "start": 42,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1147105819772669952",
+          "start": 3,
+          "username": "tuyu_ha28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hvdsGbCkIy",
+          "end": 70,
+          "expanded_url": "https://x.com/tuyu_ha28/status/1937443146176266741/photo/1",
+          "media_key": "3_1937443107433537536",
+          "start": 47,
+          "url": "https://t.co/hvdsGbCkIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937461476434047116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 362
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937443146176266741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuyu_ha28: プレゼントしてもらったレインコートが嬉しくてたまらない狐ちゃん https://t.co/hvdsGbCkIy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1937443107433537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMuPb8a4AAKeQ6.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937443107433537536"
+          ],
+          "media_source_tweet_id": [
+            "1937443146176266741"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937461476434047116",
+        "created_at": "2025-06-24T10:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937461476434047116"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "狐ちゃん",
+              "probability": 0.6052,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1147105819772669952",
+              "start": 3,
+              "username": "tuyu_ha28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvdsGbCkIy",
+              "end": 70,
+              "expanded_url": "https://x.com/tuyu_ha28/status/1937443146176266741/photo/1",
+              "media_key": "3_1937443107433537536",
+              "start": 47,
+              "url": "https://t.co/hvdsGbCkIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937461476434047116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 362
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937443146176266741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuyu_ha28: プレゼントしてもらったレインコートが嬉しくてたまらない狐ちゃん https://t.co/hvdsGbCkIy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937443107433537536"
+          ]
+        },
+        "author_id": "1147105819772669952",
+        "conversation_id": "1937443146176266741",
+        "created_at": "2025-06-24T09:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937443146176266741"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "狐ちゃん",
+              "probability": 0.579,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvdsGbCkIy",
+              "end": 55,
+              "expanded_url": "https://x.com/tuyu_ha28/status/1937443146176266741/photo/1",
+              "media_key": "3_1937443107433537536",
+              "start": 32,
+              "url": "https://t.co/hvdsGbCkIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937443146176266741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 29856,
+          "like_count": 1906,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 362
+        },
+        "reply_settings": "everyone",
+        "text": "プレゼントしてもらったレインコートが嬉しくてたまらない狐ちゃん https://t.co/hvdsGbCkIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 438,
+          "like_count": 9145,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-05T11:31:54.000Z",
+        "description": "絵を描いてます ◆サブ@tuyuha_sd◆skeb https://t.co/mdlIzeIUpS◆SDskeb https://t.co/SuiEhIGrC2◆FANBOX https://t.co/bWc2Z77fFl◆Fantia https://t.co/mMN03ywyjY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "tuyuha_sd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tuyu_ha28",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@tuyu_ha28",
+                "start": 27,
+                "url": "https://t.co/mdlIzeIUpS"
+              },
+              {
+                "display_url": "skeb.jp/@tuyuha_sd",
+                "end": 81,
+                "expanded_url": "https://skeb.jp/@tuyuha_sd",
+                "start": 58,
+                "url": "https://t.co/SuiEhIGrC2"
+              },
+              {
+                "display_url": "tuyuha.fanbox.cc",
+                "end": 112,
+                "expanded_url": "https://tuyuha.fanbox.cc",
+                "start": 89,
+                "url": "https://t.co/bWc2Z77fFl"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/525454",
+                "end": 143,
+                "expanded_url": "https://fantia.jp/fanclubs/525454",
+                "start": 120,
+                "url": "https://t.co/mMN03ywyjY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/29694453",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/29694453",
+                "start": 0,
+                "url": "https://t.co/HMgObTZqCN"
+              }
+            ]
+          }
+        },
+        "id": "1147105819772669952",
+        "location": "転載・自作発言・無断使用・AI学習禁止です",
+        "name": "ツユハ🐈",
+        "pinned_tweet_id": "1937443146176266741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840220567506694144/csC4Abdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85582,
+          "following_count": 881,
+          "like_count": 25428,
+          "listed_count": 674,
+          "media_count": 341,
+          "tweet_count": 24496
+        },
+        "url": "https://t.co/HMgObTZqCN",
+        "username": "tuyu_ha28",
+        "verified": true
+      }
+    ]
+  }
+}

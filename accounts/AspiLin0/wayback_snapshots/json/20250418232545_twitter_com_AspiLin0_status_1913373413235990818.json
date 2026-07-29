@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913220104441217476",
+    "created_at": "2025-04-18T23:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T00:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913373413235990818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561748191774752768",
+          "start": 0,
+          "username": "lww19119085"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "nature.com/articles/s4159…",
+          "end": 38,
+          "expanded_url": "https://www.nature.com/articles/s41593-023-01304-9",
+          "start": 15,
+          "status": 200,
+          "unwound_url": "https://www.nature.com/articles/s41593-023-01304-9?error=cookies_not_supported&code=7f3f0e93-7402-4b47-bcfe-bad3b0df9ac9",
+          "url": "https://t.co/G00ASn6rMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913373413235990818",
+    "in_reply_to_user_id": "1561748191774752768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913272399023452371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lww19119085 例如https://t.co/G00ASn6rMu\n另外您是精神病学专业的吗？\n一般来说神经科学教材中好像都会把这两种技术称为读心术来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913220104441217476",
+        "created_at": "2025-04-18T23:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T00:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913373413235990818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561748191774752768",
+              "start": 0,
+              "username": "lww19119085"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "nature.com/articles/s4159…",
+              "end": 38,
+              "expanded_url": "https://www.nature.com/articles/s41593-023-01304-9",
+              "start": 15,
+              "status": 200,
+              "unwound_url": "https://www.nature.com/articles/s41593-023-01304-9?error=cookies_not_supported&code=7f3f0e93-7402-4b47-bcfe-bad3b0df9ac9",
+              "url": "https://t.co/G00ASn6rMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913373413235990818",
+        "in_reply_to_user_id": "1561748191774752768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913272399023452371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lww19119085 例如https://t.co/G00ASn6rMu\n另外您是精神病学专业的吗？\n一般来说神经科学教材中好像都会把这两种技术称为读心术来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561748191774752768",
+        "conversation_id": "1913220104441217476",
+        "created_at": "2025-04-18T16:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913272399023452371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 21,
+              "id": "1684788633797287936",
+              "start": 10,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913272399023452371",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913220519115059288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @Muoujiang_ 可以展开细说一下吗，我做过基于fmri和pet数据集判读阿兹海默症的实验，不过这些数据能够读心我还没见过诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 301,
+          "like_count": 3770,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:12:53.000Z",
+        "description": "大概是友跨顺男\n政治立场不明朗，什么都可以说\n点赞不代表支持观点",
+        "id": "1561748191774752768",
+        "location": "雅利洛42号",
+        "name": "lww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661884739538628608/21HCBAbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 1186,
+          "like_count": 18629,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 215
+        },
+        "username": "lww19119085",
+        "verified": false
+      }
+    ]
+  }
+}

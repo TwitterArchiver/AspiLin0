@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1994624394711503337",
+    "created_at": "2025-11-29T05:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994645830620647690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841098665001435141",
+          "start": 0,
+          "username": "yinsuecci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994645830620647690",
+    "in_reply_to_user_id": "1841098665001435141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994634388823577009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinsuecci 😨不是在初二初三的时候自主招生政策就改了吗，为什么还会押宝...\n只能祝你调整好心态，高考取得好成绩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1994624394711503337",
+        "created_at": "2025-11-29T05:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994645830620647690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841098665001435141",
+              "start": 0,
+              "username": "yinsuecci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994645830620647690",
+        "in_reply_to_user_id": "1841098665001435141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994634388823577009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinsuecci 😨不是在初二初三的时候自主招生政策就改了吗，为什么还会押宝...\n只能祝你调整好心态，高考取得好成绩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "1994624394711503337",
+        "created_at": "2025-11-29T05:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994634388823577009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994634388823577009",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994634141984591890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 非吧，我是押宝型的了，高中三年全砸进去，最近才开始学文化课"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 518,
+          "like_count": 13685,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 3512
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "思念無言，柔情滿庭院\n只想做个蠢蠢的萝莉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mathblog.udclass.top",
+                "end": 23,
+                "expanded_url": "http://www.mathblog.udclass.top/",
+                "start": 0,
+                "url": "https://t.co/2IdjFbFe0b"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "1962081693487264131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 198,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/2IdjFbFe0b",
+        "username": "yinsuecci",
+        "verified": false
+      }
+    ]
+  }
+}

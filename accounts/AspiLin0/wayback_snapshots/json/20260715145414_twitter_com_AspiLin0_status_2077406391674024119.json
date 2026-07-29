@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2077406391674024119",
+    "created_at": "2026-07-15T14:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077406391674024119"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "洛的读书笔记"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077406391674024119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#洛的读书笔记\n\"我们可以拒绝它或崇拜它,但是不能讨论它\" ---- 博尔赫斯\n对这句话是本能地觉得不对劲,\"不能讨论\"是对自由意志的违背,同时\"不能讨论\"自然也是一种\"讨论\",构成了一个简单的悖论.\n所以改成\"讨论是没有意义的\"大概更为恰当."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2077406391674024119",
+        "created_at": "2026-07-15T14:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077406391674024119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "洛的读书笔记"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077406391674024119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#洛的读书笔记\n\"我们可以拒绝它或崇拜它,但是不能讨论它\" ---- 博尔赫斯\n对这句话是本能地觉得不对劲,\"不能讨论\"是对自由意志的违背,同时\"不能讨论\"自然也是一种\"讨论\",构成了一个简单的悖论.\n所以改成\"讨论是没有意义的\"大概更为恰当."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 770,
+          "like_count": 21864,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 5159
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

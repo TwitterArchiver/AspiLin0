@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1901848970214949294",
+    "created_at": "2025-03-18T04:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T05:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901848970214949294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901848970214949294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“每一次邂逅都是事先约定，每一次死亡都是自尽”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1901848970214949294",
+        "created_at": "2025-03-18T04:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T05:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901848970214949294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901848970214949294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“每一次邂逅都是事先约定，每一次死亡都是自尽”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin0",
+                "start": 0,
+                "url": "https://t.co/3MNLmpd4MB"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 231,
+          "like_count": 2146,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/3MNLmpd4MB",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

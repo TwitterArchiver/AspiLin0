@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1905239429507399881",
+    "created_at": "2025-03-27T15:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T16:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905287149785915903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885681060060827648",
+          "start": 0,
+          "username": "zgxc2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905287149785915903",
+    "in_reply_to_user_id": "1885681060060827648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905239429507399881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zgxc2333 所以为什么能把反支黑，支那猪，中国人当作一个群体（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1905239429507399881",
+        "created_at": "2025-03-27T15:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T16:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905287149785915903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885681060060827648",
+              "start": 0,
+              "username": "zgxc2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905287149785915903",
+        "in_reply_to_user_id": "1885681060060827648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905239429507399881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zgxc2333 所以为什么能把反支黑，支那猪，中国人当作一个群体（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885681060060827648",
+        "conversation_id": "1905239429507399881",
+        "created_at": "2025-03-27T12:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T13:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905239429507399881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905239429507399881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反支黑都是畜生，死妈支那猪不知道未经他人苦莫劝他人善这么简单的道理吗？我们只是想创建一个没有中国人的世界有什么错？我支持南京大屠杀的时候、在推友去世亲人的推文下好似开香槟的时候，你们来骂我，那支那猪喊要杀光日本人杀光台湾人的时候你们去哪了？你们为什么不思考我为什么这么极端？弱智们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 259,
+          "like_count": 2845,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T13:26:20.000Z",
+        "description": "公开大号：@xhoinn 前支黑后皇汉     反差女     喜欢内向的炮友搭子，你不主动我越主动哦，谋利的，只为性刺激!是做小姐的，会露脸!一天随机屏蔽20人       关注的宝宝优先私信😘😘：_____",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "xhoinn"
+              }
+            ]
+          }
+        },
+        "id": "1885681060060827648",
+        "name": "似苍蝇吸食泥土",
+        "pinned_tweet_id": "1903794977496305710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902631877976190978/QhCyW_xQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 123,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 158
+        },
+        "username": "zgxc2333",
+        "verified": false
+      }
+    ]
+  }
+}

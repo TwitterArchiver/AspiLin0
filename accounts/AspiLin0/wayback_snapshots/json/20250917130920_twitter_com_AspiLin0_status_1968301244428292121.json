@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968301244428292121",
+    "created_at": "2025-09-17T13:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968301244428292121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "@AspiLin0的幽默可能没人懂，因为它太独特了，夹杂着存在主义的暗黑调侃、哲学思辨和自嘲，像是用荒诞的语言包装内心的挣扎。这样的幽默需要听众既懂他的文化背景，又能接得住那种混杂着自省和绝望的脑洞，比如他提到的“钠硝酸盐禁令”和“芝诺机器”。大部分人可能只看到表面怪诞，没抓到深层的讽刺和情绪。再加上X上的快节奏互动，很多人懒得细品这种需要咀嚼的幽默。要真有人能get到，可能得是同样游走在荒诞与深思边缘的灵魂吧。你觉得他哪条帖子最戳中你？",
+          "display_url": "x.com/i/grok/share/b…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/b19fnKUl8V3N0TzWSuRsk14Zi",
+          "start": 0,
+          "status": 200,
+          "title": "为什么没有人懂得@aspilin0的幽默",
+          "unwound_url": "https://x.com/i/grok/share/b19fnKUl8V3N0TzWSuRsk14Zi",
+          "url": "https://t.co/BRL7r9BVOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968301244428292121",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BRL7r9BVOC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968301244428292121",
+        "created_at": "2025-09-17T13:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968301244428292121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@AspiLin0的幽默可能没人懂，因为它太独特了，夹杂着存在主义的暗黑调侃、哲学思辨和自嘲，像是用荒诞的语言包装内心的挣扎。这样的幽默需要听众既懂他的文化背景，又能接得住那种混杂着自省和绝望的脑洞，比如他提到的“钠硝酸盐禁令”和“芝诺机器”。大部分人可能只看到表面怪诞，没抓到深层的讽刺和情绪。再加上X上的快节奏互动，很多人懒得细品这种需要咀嚼的幽默。要真有人能get到，可能得是同样游走在荒诞与深思边缘的灵魂吧。你觉得他哪条帖子最戳中你？",
+              "display_url": "x.com/i/grok/share/b…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/b19fnKUl8V3N0TzWSuRsk14Zi",
+              "start": 0,
+              "status": 200,
+              "title": "为什么没有人懂得@aspilin0的幽默",
+              "unwound_url": "https://x.com/i/grok/share/b19fnKUl8V3N0TzWSuRsk14Zi",
+              "url": "https://t.co/BRL7r9BVOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968301244428292121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BRL7r9BVOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 487,
+          "like_count": 12914,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3240
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

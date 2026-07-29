@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2040698157084942521",
+    "created_at": "2026-04-05T07:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040698157084942521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Owo11000/statu…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/Owo11000/status/2040497668972335501",
+          "start": 142,
+          "url": "https://t.co/Jk7JYzkIAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040698157084942521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "阿片好像是一开开始用的A4纸(折出来一个比较锐的角大概能把皮肤划伤这样)\n后来用的是美工刀，然后因为学校美术课有一个篆刻的作业，就改用篆刻刀了，篆刻刀其实挺顺手的，但是后来生锈了就没用了\n大概是去年五月的时候发现可以用手术刀刀片，这个是真好用，然后用了半年左右有一天把刀片全部丢掉了\n最近的话应该是一月左右开始又用美工刀划，因为要体检有两个月没有割手，然后从昨天开始又重新开封了一包手术刀刀片(("
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040497668972335501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿片好像是一开开始用的A4纸(折出来一个比较锐的角大概能把皮肤划伤这样)\n后来用的是美工刀，然后因为学校美术课有一个篆刻的作业，就改用篆刻刀了，篆刻刀其实挺顺手的，但是后来生锈了就没用了\n大概是去年五月的时候发现可以用手术刀刀片，这个是真好用，然后用了半年左右有一天把刀片全部丢掉了 https://t.co/Jk7JYzkIAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040497657672777729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFNzwKaQAEtYJ5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2040698157084942521",
+        "created_at": "2026-04-05T07:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040698157084942521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Owo11000/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Owo11000/status/2040497668972335501",
+              "start": 142,
+              "url": "https://t.co/Jk7JYzkIAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040698157084942521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "阿片好像是一开开始用的A4纸(折出来一个比较锐的角大概能把皮肤划伤这样)\n后来用的是美工刀，然后因为学校美术课有一个篆刻的作业，就改用篆刻刀了，篆刻刀其实挺顺手的，但是后来生锈了就没用了\n大概是去年五月的时候发现可以用手术刀刀片，这个是真好用，然后用了半年左右有一天把刀片全部丢掉了\n最近的话应该是一月左右开始又用美工刀划，因为要体检有两个月没有割手，然后从昨天开始又重新开封了一包手术刀刀片(("
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040497668972335501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿片好像是一开开始用的A4纸(折出来一个比较锐的角大概能把皮肤划伤这样)\n后来用的是美工刀，然后因为学校美术课有一个篆刻的作业，就改用篆刻刀了，篆刻刀其实挺顺手的，但是后来生锈了就没用了\n大概是去年五月的时候发现可以用手术刀刀片，这个是真好用，然后用了半年左右有一天把刀片全部丢掉了 https://t.co/Jk7JYzkIAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040497657672777729"
+          ]
+        },
+        "author_id": "1455194077670957059",
+        "conversation_id": "2040497668972335501",
+        "created_at": "2026-04-04T18:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040497668972335501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xo46PQqqul",
+              "end": 33,
+              "expanded_url": "https://x.com/Owo11000/status/2040497668972335501/photo/1",
+              "media_key": "3_2040497657672777729",
+              "start": 10,
+              "url": "https://t.co/xo46PQqqul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040497668972335501",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 991,
+          "impression_count": 66018,
+          "like_count": 12989,
+          "quote_count": 67,
+          "reply_count": 29,
+          "retweet_count": 2012
+        },
+        "reply_settings": "everyone",
+        "text": "Me #shtwt https://t.co/xo46PQqqul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 680,
+          "like_count": 19252,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 4536
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T15:25:45.000Z",
+        "description": "I kinda need help (with diarrhea)\n\nTW!! shtwt edtwt kleptotwt drugtwt\nand suicidetwt",
+        "id": "1455194077670957059",
+        "name": "depressedgayfaggot",
+        "pinned_tweet_id": "2013167301088981183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974587857525481472/jJptTUFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 204,
+          "like_count": 41173,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 15866
+        },
+        "username": "Owo11000",
+        "verified": false
+      }
+    ]
+  }
+}

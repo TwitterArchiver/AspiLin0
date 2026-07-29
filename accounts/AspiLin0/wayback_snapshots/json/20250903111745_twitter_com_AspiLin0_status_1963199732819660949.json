@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1963199732819660949",
+    "created_at": "2025-09-03T11:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963199732819660949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/siuuuuneo/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/siuuuuneo/status/1963189927686160451",
+          "start": 3,
+          "url": "https://t.co/cYN3Mf1vVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963199732819660949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963189927686160451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求助 https://t.co/cYN3Mf1vVx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1963199732819660949",
+        "created_at": "2025-09-03T11:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963199732819660949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siuuuuneo/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/siuuuuneo/status/1963189927686160451",
+              "start": 3,
+              "url": "https://t.co/cYN3Mf1vVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963199732819660949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963189927686160451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求助 https://t.co/cYN3Mf1vVx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713050867786526720",
+        "conversation_id": "1963189927686160451",
+        "created_at": "2025-09-03T10:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963189927686160451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963189927686160451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我妈妈把我精神药品全部没收了，说是伤害大脑，其实我这严重的双向没有药那基本上就直接似吧，我在学校没药吃了我会死在学校的吧。。有两颗羟考酮可以跳下去吗呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 484,
+          "like_count": 12682,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 3151
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "如果你饿了，你可以吃小黄鱼）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/siuuuuneo",
+                "end": 23,
+                "expanded_url": "http://t.me/siuuuuneo",
+                "start": 0,
+                "url": "https://t.co/iJ4mHEWlX9"
+              }
+            ]
+          }
+        },
+        "id": "1713050867786526720",
+        "location": "重庆",
+        "name": "小黄鱼a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932776639890665475/HbxB7SRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1039,
+          "like_count": 7747,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/iJ4mHEWlX9",
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

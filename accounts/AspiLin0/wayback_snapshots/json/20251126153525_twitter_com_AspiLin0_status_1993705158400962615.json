@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993704006171213824"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1993705158400962615",
+    "created_at": "2025-11-26T15:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993705158400962615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/if9JNxWK7o",
+          "end": 133,
+          "expanded_url": "https://x.com/AspiLin0/status/1993705158400962615/photo/1",
+          "media_key": "3_1993704006171213824",
+          "start": 110,
+          "url": "https://t.co/if9JNxWK7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993705158400962615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次被人b好像是\n大概是对面问怎么获得爱\n我的回答是黑塞的“爱不是施舍是征服”\n意思是爱不是等待或是什么天赐良机，而是通过改善自己的行为才能真正吸引到别人获得爱\n刚准备解释呢就变成灰色了\n甚至有80个认识的关注者🤔🤔 https://t.co/if9JNxWK7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 225,
+        "media_key": "3_1993704006171213824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sPOwMbwAAFrWb.jpg",
+        "width": 399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993704006171213824"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1993705158400962615",
+        "created_at": "2025-11-26T15:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993705158400962615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/if9JNxWK7o",
+              "end": 133,
+              "expanded_url": "https://x.com/AspiLin0/status/1993705158400962615/photo/1",
+              "media_key": "3_1993704006171213824",
+              "start": 110,
+              "url": "https://t.co/if9JNxWK7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993705158400962615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次被人b好像是\n大概是对面问怎么获得爱\n我的回答是黑塞的“爱不是施舍是征服”\n意思是爱不是等待或是什么天赐良机，而是通过改善自己的行为才能真正吸引到别人获得爱\n刚准备解释呢就变成灰色了\n甚至有80个认识的关注者🤔🤔 https://t.co/if9JNxWK7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 515,
+          "like_count": 13543,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3488
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

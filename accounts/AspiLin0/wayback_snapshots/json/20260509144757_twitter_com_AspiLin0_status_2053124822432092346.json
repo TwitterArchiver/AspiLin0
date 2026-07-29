@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052786145193541632"
+      ],
+      "media_source_tweet_id": [
+        "2052786149475967030"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2053124822432092346",
+    "created_at": "2026-05-09T14:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053124822432092346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047679401400373248",
+          "start": 3,
+          "username": "Hysteriadie0331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7aXf7OgyIj",
+          "end": 44,
+          "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+          "media_key": "3_2052786145193541632",
+          "start": 21,
+          "url": "https://t.co/7aXf7OgyIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053124822432092346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786149475967030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hysteriadie0331: https://t.co/7aXf7OgyIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_2052786145193541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz2H3gawAAFcdL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786145193541632"
+          ],
+          "media_source_tweet_id": [
+            "2052786149475967030"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2053124822432092346",
+        "created_at": "2026-05-09T14:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053124822432092346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047679401400373248",
+              "start": 3,
+              "username": "Hysteriadie0331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aXf7OgyIj",
+              "end": 44,
+              "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+              "media_key": "3_2052786145193541632",
+              "start": 21,
+              "url": "https://t.co/7aXf7OgyIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053124822432092346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786149475967030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hysteriadie0331: https://t.co/7aXf7OgyIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786145193541632"
+          ]
+        },
+        "author_id": "2047679401400373248",
+        "conversation_id": "2052786149475967030",
+        "created_at": "2026-05-08T16:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786149475967030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aXf7OgyIj",
+              "end": 23,
+              "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+              "media_key": "3_2052786145193541632",
+              "start": 0,
+              "url": "https://t.co/7aXf7OgyIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786149475967030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 8209,
+          "like_count": 302,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7aXf7OgyIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 744,
+          "like_count": 20709,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 4877
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "小空宇｜\n生日:2009.10.28｜mtf｜中度GD🏳️‍⚧️｜重启hrt:2026.05.01🍥｜有易性症病历｜家长反对党｜天残党｜INFP-T｜逆来顺受｜BPD｜同类fo｜请和咱交朋友嘛~｜疑似精神病患者（有病历）｜咱不喜欢屏蔽\n人，被屏蔽会特别难过...｜一只小透明\n‖‖聊天群:1101059788‖‖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hysteriadie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hysteriadie",
+                "start": 0,
+                "url": "https://t.co/TRsizLBvcB"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet and Paradise",
+        "name": "一只破碎的小天使/绒布球/猫娘🍥",
+        "pinned_tweet_id": "2051728462940197328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052785257402011649/UuKob9Eu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 329,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/TRsizLBvcB",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

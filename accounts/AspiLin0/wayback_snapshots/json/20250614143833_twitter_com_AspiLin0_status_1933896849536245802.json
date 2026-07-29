@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1933807512022929807",
+    "created_at": "2025-06-14T14:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T15:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933896849536245802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590892760462413824",
+          "start": 0,
+          "username": "partono8964"
+        },
+        {
+          "end": 25,
+          "id": "1788485889225834496",
+          "start": 13,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933896849536245802",
+    "in_reply_to_user_id": "1590892760462413824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933824249615274430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partono8964 @horizon_tem 理解了\n但我是觉得它讲的垃圾不能等同于它没有讲（）\n当然你认为这不是真正的教授逻辑学其实和我的想法不矛盾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933824242526965760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZS5xnb0AAq-R9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1933807512022929807",
+        "created_at": "2025-06-14T14:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933896849536245802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590892760462413824",
+              "start": 0,
+              "username": "partono8964"
+            },
+            {
+              "end": 25,
+              "id": "1788485889225834496",
+              "start": 13,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933896849536245802",
+        "in_reply_to_user_id": "1590892760462413824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933824249615274430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partono8964 @horizon_tem 理解了\n但我是觉得它讲的垃圾不能等同于它没有讲（）\n当然你认为这不是真正的教授逻辑学其实和我的想法不矛盾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933824242526965760"
+          ]
+        },
+        "author_id": "1590892760462413824",
+        "conversation_id": "1933807512022929807",
+        "created_at": "2025-06-14T09:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T10:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933824249615274430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 22,
+              "id": "1788485889225834496",
+              "start": 10,
+              "username": "horizon_tem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMBdF2rFfo",
+              "end": 185,
+              "expanded_url": "https://x.com/partono8964/status/1933824249615274430/photo/1",
+              "media_key": "3_1933824242526965760",
+              "start": 162,
+              "url": "https://t.co/EMBdF2rFfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933824249615274430",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933812076704858555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @horizon_tem 如果說你看不出來這裡的問題你可以找其它國家的基礎教材進行比對\n中國課本的毛病就是講很虛的東西，具體並不講明白，直接甩出概念沒有啟蒙和引導的過程\n哲學也是一樣的，你可能會說歷史裡面有西方哲學的東西或者政治必修裡面有辯證法有唯物/心論中國有教哲學\n但是哲學他應當單獨分類不是這種教 https://t.co/EMBdF2rFfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 427,
+          "like_count": 8708,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T02:23:38.000Z",
+        "description": "歡迎光臨樂土商店～",
+        "id": "1590892760462413824",
+        "location": "Singapore",
+        "name": "parto-eac（nya～）",
+        "pinned_tweet_id": "1808373735608697098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844902693569167363/YroJVyQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 761,
+          "like_count": 143295,
+          "listed_count": 3,
+          "media_count": 1507,
+          "tweet_count": 17552
+        },
+        "username": "partono8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "“那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。” 哲学导师 @KunaAkem1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "KunaAkem1"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1933627389604663739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 1908,
+          "like_count": 22331,
+          "listed_count": 5,
+          "media_count": 396,
+          "tweet_count": 8815
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

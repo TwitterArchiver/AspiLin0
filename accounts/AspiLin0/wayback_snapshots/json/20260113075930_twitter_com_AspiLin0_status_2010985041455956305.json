@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2010985041455956305",
+    "created_at": "2026-01-13T07:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T08:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010985041455956305"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010985041455956305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想到仪式治疗法，为某一种特定行为赋予超经验的意义，在重复这一进程中使身心得到安定。似乎是用于治疗存在主义焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2010985041455956305",
+        "created_at": "2026-01-13T07:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010985041455956305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010985041455956305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到仪式治疗法，为某一种特定行为赋予超经验的意义，在重复这一进程中使身心得到安定。似乎是用于治疗存在主义焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 527,
+          "like_count": 14309,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3667
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1928299781937381787",
+    "created_at": "2025-05-30T04:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T05:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928303096393789487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620590639200059397",
+          "start": 0,
+          "username": "QwQMikuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928303096393789487",
+    "in_reply_to_user_id": "1620590639200059397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928301676420813187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQMikuF 我可以吗😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1928299781937381787",
+        "created_at": "2025-05-30T04:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928303096393789487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620590639200059397",
+              "start": 0,
+              "username": "QwQMikuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928303096393789487",
+        "in_reply_to_user_id": "1620590639200059397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928301676420813187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQMikuF 我可以吗😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620590639200059397",
+        "conversation_id": "1928299781937381787",
+        "created_at": "2025-05-30T04:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928301676420813187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "Asaak1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928301676420813187",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928299781937381787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asaak1111 来我怀里哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 393,
+          "like_count": 7075,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:11:41.000Z",
+        "description": "普通中国高中牲/音游/可以叫我葱葱！😼",
+        "id": "1620590639200059397",
+        "location": "People's Republic of China",
+        "name": "Y葱Y✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880621684585291776/nd7GKbWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 321,
+          "like_count": 2314,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1591
+        },
+        "username": "QwQMikuF",
+        "verified": false
+      }
+    ]
+  }
+}

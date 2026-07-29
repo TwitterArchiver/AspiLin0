@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1938096580713951598",
+    "created_at": "2025-06-26T14:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938248963423146199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924965014831824896",
+          "start": 0,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938248963423146199",
+    "in_reply_to_user_id": "1924965014831824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938096580713951598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuwen_Tang1019 这人上次卧轨被救回来了（\n精神确实不稳定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_1938096567749382145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWAj1UbEAEqRTb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1938096580713951598",
+        "created_at": "2025-06-26T14:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938248963423146199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938248963423146199",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938096580713951598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 这人上次卧轨被救回来了（\n精神确实不稳定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938096567749382145"
+          ]
+        },
+        "author_id": "1924965014831824896",
+        "conversation_id": "1938096580713951598",
+        "created_at": "2025-06-26T04:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938096580713951598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/anol1W1pmw",
+              "end": 202,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1938096580713951598/photo/1",
+              "media_key": "3_1938096567749382145",
+              "start": 179,
+              "url": "https://t.co/anol1W1pmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938096580713951598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7051,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我操?????????????????????????????????????????????????????????????????????\n别！去！自！杀！啊！\n我看语气还以为是乐子人加上昨晚精神不好还有我本来就最丑所以才骂的........\n就两句啊！！！！\n不至于啊!!!!!!!!!!!!!!!!!\n你！电！话！多！少！\n看到的帮忙转发一下\n卧槽 https://t.co/anol1W1pmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 439,
+          "like_count": 9308,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF\n老公还是老婆我不知道:@zhishi_cook\n墨尔本\n道德价值观如钢板\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "zhishi_cook"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 79,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 56,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "坐在知式的屁股下面鸡巴立着",
+        "name": "NoMTF | 唐毓文",
+        "pinned_tweet_id": "1937806493786820846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 251,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

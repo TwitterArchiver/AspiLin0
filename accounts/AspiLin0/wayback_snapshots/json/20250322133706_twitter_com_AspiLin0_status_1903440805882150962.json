@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903440805882150962",
+    "created_at": "2025-03-22T13:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T14:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903440805882150962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cloudwu/status…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/cloudwu/status/1903390145145143441",
+          "start": 107,
+          "url": "https://t.co/LiGtzte2lU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903440805882150962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903390145145143441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "引入一个大概是叔本华的观点：\n如果你假定意志是确实存在的，那么其演化的特征必然要求一个“结局”存在，那么所有意志的目的都应该是那个结局\n如果你认为意志不过是粒子运动的假象，那简单了，死了和活着没有区别，命题不成立 https://t.co/LiGtzte2lU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903440805882150962",
+        "created_at": "2025-03-22T13:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903440805882150962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cloudwu/status…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/cloudwu/status/1903390145145143441",
+              "start": 107,
+              "url": "https://t.co/LiGtzte2lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903440805882150962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903390145145143441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "引入一个大概是叔本华的观点：\n如果你假定意志是确实存在的，那么其演化的特征必然要求一个“结局”存在，那么所有意志的目的都应该是那个结局\n如果你认为意志不过是粒子运动的假象，那简单了，死了和活着没有区别，命题不成立 https://t.co/LiGtzte2lU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "21308096",
+        "conversation_id": "1903390145145143441",
+        "created_at": "2025-03-22T10:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T11:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903390145145143441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903390145145143441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9436,
+          "like_count": 38,
+          "quote_count": 8,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "云豆问了个问题：既然人都是要死的，为什么都要活着？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 252,
+          "like_count": 2591,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-19T15:35:03.000Z",
+        "description": "Freelancer, Blogger, Gamer, Father of 2 kids, Rock climber. Chinese gaming industry from 2000, Indie game dev now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.codingnow.com",
+                "end": 23,
+                "expanded_url": "http://blog.codingnow.com",
+                "start": 0,
+                "url": "https://t.co/oGMgBSTSLo"
+              }
+            ]
+          }
+        },
+        "id": "21308096",
+        "location": "广州",
+        "name": "云风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385692491/me2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48929,
+          "following_count": 73,
+          "like_count": 448,
+          "listed_count": 545,
+          "media_count": 530,
+          "tweet_count": 8348
+        },
+        "url": "https://t.co/oGMgBSTSLo",
+        "username": "cloudwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1964313254529814606",
+    "created_at": "2025-09-06T13:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T14:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964323108342681713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863256225137524736",
+          "start": 0,
+          "username": "niwanglaixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964323108342681713",
+    "in_reply_to_user_id": "1863256225137524736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964321452485988526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niwanglaixi 程度的递增是这个悖论的构成而非解决方式（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1964313254529814606",
+        "created_at": "2025-09-06T13:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964323108342681713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863256225137524736",
+              "start": 0,
+              "username": "niwanglaixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964323108342681713",
+        "in_reply_to_user_id": "1863256225137524736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964321452485988526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niwanglaixi 程度的递增是这个悖论的构成而非解决方式（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863256225137524736",
+        "conversation_id": "1964313254529814606",
+        "created_at": "2025-09-06T13:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964321452485988526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964321452485988526",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964313254529814606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 忽略了程度的递增，量变到质变什么的（疑似）不过割手什么的，如果不是不做就会很痛苦的话，最好是ダメ哟，摸摸啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 485,
+          "like_count": 12768,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3178
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T16:18:59.000Z",
+        "description": "English and日本語と汉语/语言学习/只喜欢喜欢的事/乌托邦/碎碎念/不是一个好人/但是fo我吧/",
+        "id": "1863256225137524736",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "溺子",
+        "pinned_tweet_id": "1946775138726236502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960289749148860416/zL1ITeUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 55,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 819
+        },
+        "username": "niwanglaixi",
+        "verified": false
+      }
+    ]
+  }
+}

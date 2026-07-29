@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015356590313091072"
+      ],
+      "media_source_tweet_id": [
+        "2015356598030598253"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2015784035440906734",
+    "created_at": "2026-01-26T13:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015784035440906734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1147105819772669952",
+          "start": 3,
+          "username": "tuyu_ha28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KTd7QCmTiR",
+          "end": 41,
+          "expanded_url": "https://x.com/tuyu_ha28/status/2015356598030598253/photo/1",
+          "media_key": "3_2015356590313091072",
+          "start": 18,
+          "url": "https://t.co/KTd7QCmTiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015784035440906734",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 958
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015356598030598253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuyu_ha28: 🌀🌀 https://t.co/KTd7QCmTiR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1341,
+        "media_key": "3_2015356590313091072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_f8JB1asAAUfIX.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015356590313091072"
+          ],
+          "media_source_tweet_id": [
+            "2015356598030598253"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2015784035440906734",
+        "created_at": "2026-01-26T13:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015784035440906734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1147105819772669952",
+              "start": 3,
+              "username": "tuyu_ha28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTd7QCmTiR",
+              "end": 41,
+              "expanded_url": "https://x.com/tuyu_ha28/status/2015356598030598253/photo/1",
+              "media_key": "3_2015356590313091072",
+              "start": 18,
+              "url": "https://t.co/KTd7QCmTiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015784035440906734",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 958
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015356598030598253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuyu_ha28: 🌀🌀 https://t.co/KTd7QCmTiR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015356590313091072"
+          ]
+        },
+        "author_id": "1147105819772669952",
+        "conversation_id": "2015356598030598253",
+        "created_at": "2026-01-25T09:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015356598030598253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTd7QCmTiR",
+              "end": 26,
+              "expanded_url": "https://x.com/tuyu_ha28/status/2015356598030598253/photo/1",
+              "media_key": "3_2015356590313091072",
+              "start": 3,
+              "url": "https://t.co/KTd7QCmTiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015356598030598253",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 923,
+          "impression_count": 97834,
+          "like_count": 8719,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 958
+        },
+        "reply_settings": "everyone",
+        "text": "🌀🌀 https://t.co/KTd7QCmTiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 545,
+          "like_count": 14922,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3776
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-05T11:31:54.000Z",
+        "description": "絵を描いてます ◆サブ@tuyuha_sd◆skeb https://t.co/mdlIzeIUpS◆SDskeb https://t.co/SuiEhIGrC2◆FANBOX https://t.co/bWc2Z77fFl◆Fantia https://t.co/mMN03ywyjY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "tuyuha_sd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tuyu_ha28",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@tuyu_ha28",
+                "start": 27,
+                "url": "https://t.co/mdlIzeIUpS"
+              },
+              {
+                "display_url": "skeb.jp/@tuyuha_sd",
+                "end": 81,
+                "expanded_url": "https://skeb.jp/@tuyuha_sd",
+                "start": 58,
+                "url": "https://t.co/SuiEhIGrC2"
+              },
+              {
+                "display_url": "tuyuha.fanbox.cc",
+                "end": 112,
+                "expanded_url": "https://tuyuha.fanbox.cc",
+                "start": 89,
+                "url": "https://t.co/bWc2Z77fFl"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/525454",
+                "end": 143,
+                "expanded_url": "https://fantia.jp/fanclubs/525454",
+                "start": 120,
+                "url": "https://t.co/mMN03ywyjY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/29694453",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/29694453",
+                "start": 0,
+                "url": "https://t.co/HMgObTZqCN"
+              }
+            ]
+          }
+        },
+        "id": "1147105819772669952",
+        "location": "転載・自作発言・無断使用・AI学習禁止です",
+        "name": "ツユハ🐈",
+        "pinned_tweet_id": "2011732646553063582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938616167804891136/JJzvN4Q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89285,
+          "following_count": 870,
+          "like_count": 25592,
+          "listed_count": 677,
+          "media_count": 372,
+          "tweet_count": 25215
+        },
+        "url": "https://t.co/HMgObTZqCN",
+        "username": "tuyu_ha28",
+        "verified": true
+      }
+    ]
+  }
+}

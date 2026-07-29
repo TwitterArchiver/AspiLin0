@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004565481894920287",
+    "created_at": "2025-12-26T14:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004565481894920287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786055418684264448",
+          "start": 3,
+          "username": "SIRliquid_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Ring.✦’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1ynJO…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/spaces/1ynJOMwVojZKR",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2004561072947384320/xkmoZf9h?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2004561072947384320/xkmoZf9h?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Happening now: 来聊聊天叭www",
+          "unwound_url": "https://twitter.com/i/spaces/1ynJOMwVojZKR/peek",
+          "url": "https://t.co/PQnr1DYjie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004565481894920287",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004561030559695251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SIRliquid_: https://t.co/PQnr1DYjie"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004565481894920287",
+        "created_at": "2025-12-26T14:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004565481894920287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786055418684264448",
+              "start": 3,
+              "username": "SIRliquid_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Ring.✦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ynJO…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/spaces/1ynJOMwVojZKR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2004561072947384320/xkmoZf9h?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004561072947384320/xkmoZf9h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Happening now: 来聊聊天叭www",
+              "unwound_url": "https://twitter.com/i/spaces/1ynJOMwVojZKR/peek",
+              "url": "https://t.co/PQnr1DYjie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004565481894920287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004561030559695251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SIRliquid_: https://t.co/PQnr1DYjie"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786055418684264448",
+        "conversation_id": "2004561030559695251",
+        "created_at": "2025-12-26T14:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004561030559695251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ring.✦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ynJO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ynJOMwVojZKR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2004561072947384320/xkmoZf9h?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004561072947384320/xkmoZf9h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 来聊聊天叭www",
+              "unwound_url": "https://twitter.com/i/spaces/1ynJOMwVojZKR/peek",
+              "url": "https://t.co/PQnr1DYjie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004561030559695251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PQnr1DYjie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 524,
+          "like_count": 13894,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3570
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁 笨蛋高中生× || 喜欢音乐🎶 || 喜欢有礼貌的人😘 || 电子信息与嵌入式相关爱好者/初学者💻 || 泛性恋 || 友跨 || 不含糖 || 我好无聊来找我玩 || (待补充)\n(Fan Account) || 详细说明见置顶推👇",
+        "id": "1786055418684264448",
+        "location": "日本 東京 特雷森學園",
+        "name": "Ring.✦",
+        "pinned_tweet_id": "1987928237532459394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 363,
+          "like_count": 3116,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 1924
+        },
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

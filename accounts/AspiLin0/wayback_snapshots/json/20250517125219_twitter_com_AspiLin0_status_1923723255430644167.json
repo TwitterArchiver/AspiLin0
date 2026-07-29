@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923723249877233664",
+        "3_1923723251366162432"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1923723255430644167",
+    "created_at": "2025-05-17T12:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T13:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923723255430644167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QLtb2b0AK",
+          "end": 90,
+          "expanded_url": "https://x.com/AspiLin0/status/1923723255430644167/photo/1",
+          "media_key": "3_1923723249877233664",
+          "start": 67,
+          "url": "https://t.co/4QLtb2b0AK"
+        },
+        {
+          "display_url": "pic.x.com/4QLtb2b0AK",
+          "end": 90,
+          "expanded_url": "https://x.com/AspiLin0/status/1923723255430644167/photo/1",
+          "media_key": "3_1923723251366162432",
+          "start": 67,
+          "url": "https://t.co/4QLtb2b0AK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923723255430644167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿片的暂用新头像和原图（\n主要觉得tuyuha老师的狐狸疑似有点太阳光了和人设不是特别符号\n等阿片找到一只看起来阴暗点的狐狸就换上） https://t.co/4QLtb2b0AK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1183,
+        "media_key": "3_1923723249877233664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJwGnsXsAAx6jP.jpg",
+        "width": 1182
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923723251366162432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJwGtPW8AASEMG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923723249877233664",
+            "3_1923723251366162432"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923723255430644167",
+        "created_at": "2025-05-17T12:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923723255430644167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QLtb2b0AK",
+              "end": 90,
+              "expanded_url": "https://x.com/AspiLin0/status/1923723255430644167/photo/1",
+              "media_key": "3_1923723249877233664",
+              "start": 67,
+              "url": "https://t.co/4QLtb2b0AK"
+            },
+            {
+              "display_url": "pic.x.com/4QLtb2b0AK",
+              "end": 90,
+              "expanded_url": "https://x.com/AspiLin0/status/1923723255430644167/photo/1",
+              "media_key": "3_1923723251366162432",
+              "start": 67,
+              "url": "https://t.co/4QLtb2b0AK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923723255430644167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片的暂用新头像和原图（\n主要觉得tuyuha老师的狐狸疑似有点太阳光了和人设不是特别符号\n等阿片找到一只看起来阴暗点的狐狸就换上） https://t.co/4QLtb2b0AK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923619606213623809/_Y2aCUCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 379,
+          "like_count": 6493,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

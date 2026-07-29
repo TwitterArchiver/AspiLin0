@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1948368953514103134",
+    "created_at": "2025-07-26T03:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T04:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948944141490291127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620590639200059397",
+          "start": 0,
+          "username": "QwQMikuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948944141490291127",
+    "in_reply_to_user_id": "1620590639200059397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948940723606393067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQMikuF 唉，我也不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1948368953514103134",
+        "created_at": "2025-07-26T03:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T04:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948944141490291127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620590639200059397",
+              "start": 0,
+              "username": "QwQMikuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948944141490291127",
+        "in_reply_to_user_id": "1620590639200059397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948940723606393067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQMikuF 唉，我也不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620590639200059397",
+        "conversation_id": "1948368953514103134",
+        "created_at": "2025-07-26T02:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T03:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948940723606393067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948940723606393067",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948763771188679094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 444,
+          "like_count": 9687,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:11:41.000Z",
+        "description": "普通中国高中牲/音游/可以叫我葱葱！😼",
+        "id": "1620590639200059397",
+        "location": "People's Republic of China",
+        "name": "Y葱Y✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880621684585291776/nd7GKbWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 321,
+          "like_count": 2457,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1760
+        },
+        "username": "QwQMikuF",
+        "verified": false
+      }
+    ]
+  }
+}

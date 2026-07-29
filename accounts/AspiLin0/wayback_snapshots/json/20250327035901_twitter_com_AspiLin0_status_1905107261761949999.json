@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1905107261761949999",
+    "created_at": "2025-03-27T03:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T04:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905107261761949999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZaixaiBuPang/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ZaixaiBuPang/status/1904443366143557870",
+          "start": 12,
+          "url": "https://t.co/x9ZnCc7zb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905107261761949999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904443366143557870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两万本神经科学导论🤔🤔 https://t.co/x9ZnCc7zb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 390,
+        "media_key": "3_1904443362964619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm3xJgBbQAAPR6_.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1905107261761949999",
+        "created_at": "2025-03-27T03:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T04:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905107261761949999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZaixaiBuPang/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ZaixaiBuPang/status/1904443366143557870",
+              "start": 12,
+              "url": "https://t.co/x9ZnCc7zb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905107261761949999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904443366143557870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两万本神经科学导论🤔🤔 https://t.co/x9ZnCc7zb9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904443362964619264"
+          ]
+        },
+        "author_id": "1879526590188859392",
+        "conversation_id": "1904443366143557870",
+        "created_at": "2025-03-25T08:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904443366143557870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnsOusngR7",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaixaiBuPang/status/1904443366143557870/photo/1",
+              "media_key": "3_1904443362964619264",
+              "start": 0,
+              "url": "https://t.co/bnsOusngR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904443366143557870",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27765,
+          "like_count": 213,
+          "quote_count": 18,
+          "reply_count": 209,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bnsOusngR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 259,
+          "like_count": 2804,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T13:51:14.000Z",
+        "description": "喜欢看的番：\n中二病也要谈恋爱、葬送的芙莉莲、别当欧尼酱了、孤独摇滚、Re零、五等分的花嫁、少女的终未旅行...\n-\n在玩的游戏：\n明日方舟、传说之下、OSU\n-\n以下是一些我觉得不好的行为:\n煽动民族情绪、过激键政、随便开黄腔",
+        "id": "1879526590188859392",
+        "location": "中国大陆",
+        "name": "柠檬哈密瓜味曲奇",
+        "pinned_tweet_id": "1904402783736094848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884233170809454593/r9mravF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 202,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 455
+        },
+        "username": "ZaixaiBuPang",
+        "verified": false
+      }
+    ]
+  }
+}

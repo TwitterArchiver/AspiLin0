@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2029974123338985730",
+    "created_at": "2026-03-06T17:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029974123338985730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1359382729645649924",
+          "start": 3,
+          "username": "aspi1in0"
+        },
+        {
+          "end": 28,
+          "id": "1916543476231208960",
+          "start": 14,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029974123338985730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029973897756725320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aspi1in0: @fayoubaike001 诶诶，那是不是删掉抑郁症这个名词就可以治愈百分百的人了&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2029974123338985730",
+        "created_at": "2026-03-06T17:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029974123338985730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1359382729645649924",
+              "start": 3,
+              "username": "aspi1in0"
+            },
+            {
+              "end": 28,
+              "id": "1916543476231208960",
+              "start": 14,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029974123338985730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029973897756725320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aspi1in0: @fayoubaike001 诶诶，那是不是删掉抑郁症这个名词就可以治愈百分百的人了&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359382729645649924",
+        "conversation_id": "2029896400474099747",
+        "created_at": "2026-03-06T17:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029973897756725320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029973897756725320",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029896400474099747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 诶诶，那是不是删掉抑郁症这个名词就可以治愈百分百的人了&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 620,
+          "like_count": 17581,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4210
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-10T06:04:47.000Z",
+        "description": "大概是一只狐狸/半吊子哲学家/喜欢散步，做梦，边散步边做梦/最大的幸福，是相信有人爱我们",
+        "id": "1359382729645649924",
+        "location": "妄想之海",
+        "name": "绫洛洛🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029968959316148224/RIj_bZhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 42,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "aspi1in0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/qEaBUvqWax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/qEaBUvqWax"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "发现女友是地雷女后含泪吞下右美当场升天",
+        "pinned_tweet_id": "2029204482140323890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 287,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 284
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

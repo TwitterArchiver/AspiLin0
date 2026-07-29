@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023517965602484577",
+    "created_at": "2026-02-17T01:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T02:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023569990289682557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779556990500630528",
+          "start": 0,
+          "username": "Anatdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023569990289682557",
+    "in_reply_to_user_id": "1779556990500630528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023517965602484577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anatdx 哈人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023517965602484577",
+        "created_at": "2026-02-17T01:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023569990289682557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779556990500630528",
+              "start": 0,
+              "username": "Anatdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023569990289682557",
+        "in_reply_to_user_id": "1779556990500630528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023517965602484577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anatdx 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779556990500630528",
+        "conversation_id": "2023517965602484577",
+        "created_at": "2026-02-16T22:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023517965602484577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023517965602484577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠碳酸锂原来是早晚吃的，我一直都是一块炫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 594,
+          "like_count": 16324,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 3990
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-14T17:07:16.000Z",
+        "description": "わがはいは具合が悪い。大声を出されるとわがはいの具合がもっと悪くなる。だから一──【出て行け】。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anatdx.moe",
+                "end": 23,
+                "expanded_url": "https://anatdx.moe",
+                "start": 0,
+                "url": "https://t.co/yxDx8wHLQi"
+              }
+            ]
+          }
+        },
+        "id": "1779556990500630528",
+        "location": "絶海の孤島",
+        "name": "Anan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020383339073662982/-xeXvSm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 594,
+          "like_count": 22931,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/yxDx8wHLQi",
+        "username": "Anatdx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004557498347606103",
+    "created_at": "2025-12-26T14:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004557498347606103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994654689846312960",
+          "start": 3,
+          "username": "youzifantuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004557498347606103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004438482476007610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youzifantuan: 我真的很烦前一秒还在热聊 下一秒就消失的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004557498347606103",
+        "created_at": "2025-12-26T14:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004557498347606103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994654689846312960",
+              "start": 3,
+              "username": "youzifantuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004557498347606103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004438482476007610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youzifantuan: 我真的很烦前一秒还在热聊 下一秒就消失的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994654689846312960",
+        "conversation_id": "2004438482476007610",
+        "created_at": "2025-12-26T06:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004438482476007610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004438482476007610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10792,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很烦前一秒还在热聊 下一秒就消失的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 524,
+          "like_count": 13892,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3569
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T06:29:00.000Z",
+        "description": "发言只代表自己与其他人无关！｜年龄三岁｜都是小孩子不懂事乱发的",
+        "id": "1994654689846312960",
+        "name": "斯然",
+        "pinned_tweet_id": "1994682239712727485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994655022274285570/dq-NHiKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 28,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 288
+        },
+        "username": "youzifantuan",
+        "verified": false
+      }
+    ]
+  }
+}

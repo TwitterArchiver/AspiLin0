@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2009505369912135984",
+    "created_at": "2026-01-09T05:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009505369912135984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AspiLin0/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/AspiLin0/status/2009494077495247106",
+          "start": 8,
+          "url": "https://t.co/TX6shJ8j2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009505369912135984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009494077495247106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想回家躺着了（ https://t.co/TX6shJ8j2n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2009505369912135984",
+        "created_at": "2026-01-09T05:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009505369912135984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AspiLin0/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/AspiLin0/status/2009494077495247106",
+              "start": 8,
+              "url": "https://t.co/TX6shJ8j2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009505369912135984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009494077495247106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想回家躺着了（ https://t.co/TX6shJ8j2n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2009494077495247106",
+        "created_at": "2026-01-09T05:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009494077495247106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009494077495247106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午练习一个人逛商场（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 523,
+          "like_count": 14162,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3627
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

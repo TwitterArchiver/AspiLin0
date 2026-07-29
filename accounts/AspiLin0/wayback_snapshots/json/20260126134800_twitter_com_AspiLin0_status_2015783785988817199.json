@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2015783785988817199",
+    "created_at": "2026-01-26T13:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015783785988817199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837908701140996097",
+          "start": 3,
+          "username": "tomieinlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015783785988817199",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015589682525155478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomieinlove: Math majors always have something to prove."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2015783785988817199",
+        "created_at": "2026-01-26T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015783785988817199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837908701140996097",
+              "start": 3,
+              "username": "tomieinlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015783785988817199",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015589682525155478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomieinlove: Math majors always have something to prove."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837908701140996097",
+        "conversation_id": "2015589682525155478",
+        "created_at": "2026-01-26T00:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T01:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015589682525155478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015589682525155478",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 20092,
+          "like_count": 899,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "Math majors always have something to prove."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 545,
+          "like_count": 14920,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3775
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T17:36:10.000Z",
+        "description": "If I were the moon, I know where I would fall down.",
+        "id": "1837908701140996097",
+        "name": "tomie",
+        "pinned_tweet_id": "1842394921464119691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889961445896679425/BywSxXCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7421,
+          "following_count": 1202,
+          "like_count": 67033,
+          "listed_count": 51,
+          "media_count": 1309,
+          "tweet_count": 9083
+        },
+        "username": "tomieinlove",
+        "verified": true
+      }
+    ]
+  }
+}

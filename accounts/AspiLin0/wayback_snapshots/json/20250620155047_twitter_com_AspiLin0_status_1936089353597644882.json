@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936089353597644882",
+    "created_at": "2025-06-20T15:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T16:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936089353597644882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhu6hua/status…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/zhu6hua/status/1936060732019560951",
+          "start": 98,
+          "url": "https://t.co/jTh2LTQeDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936089353597644882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936060732019560951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能有点极端了\n但反映的现象让人感到很悲哀\n我从来不相信任何一个认真考虑过自杀这个话题的人会选择吃亚硝酸盐，甚至要告诉所有人自己要自杀了\n我看到只是一个个痛苦的灵魂在求救，但却没有找到正确的方式 https://t.co/jTh2LTQeDd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936089353597644882",
+        "created_at": "2025-06-20T15:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T16:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936089353597644882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhu6hua/status…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/zhu6hua/status/1936060732019560951",
+              "start": 98,
+              "url": "https://t.co/jTh2LTQeDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936089353597644882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936060732019560951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能有点极端了\n但反映的现象让人感到很悲哀\n我从来不相信任何一个认真考虑过自杀这个话题的人会选择吃亚硝酸盐，甚至要告诉所有人自己要自杀了\n我看到只是一个个痛苦的灵魂在求救，但却没有找到正确的方式 https://t.co/jTh2LTQeDd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "1935734520353022435",
+        "created_at": "2025-06-20T13:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936060732019560951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936060732019560951",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935734520353022435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 跨畜能把手机放下就能避免99%的跟风紫砂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 432,
+          "like_count": 8939,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "要坂下一切害人虫，全六花！",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642262855462912/SNlo-KZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 1063,
+          "like_count": 10065,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 6357
+        },
+        "username": "zhu6hua",
+        "verified": false
+      }
+    ]
+  }
+}

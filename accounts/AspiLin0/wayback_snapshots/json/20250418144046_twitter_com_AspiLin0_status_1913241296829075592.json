@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1913241263794769920"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913241296829075592",
+    "created_at": "2025-04-18T14:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T15:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913241296829075592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SS45Zbo8mB",
+          "end": 63,
+          "expanded_url": "https://x.com/AspiLin0/status/1913241296829075592/photo/1",
+          "media_key": "16_1913241263794769920",
+          "start": 40,
+          "url": "https://t.co/SS45Zbo8mB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913241296829075592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌夏天\n自残差点被家长发现了\n被抓到了肯定要被拉去看精神科了（结合上次经历） https://t.co/SS45Zbo8mB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "16_1913241263794769920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Go0yyuobUAAcoYJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Go0yyuobUAAcoYJ.mp4"
+          }
+        ],
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1913241263794769920"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913241296829075592",
+        "created_at": "2025-04-18T14:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913241296829075592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SS45Zbo8mB",
+              "end": 63,
+              "expanded_url": "https://x.com/AspiLin0/status/1913241296829075592/photo/1",
+              "media_key": "16_1913241263794769920",
+              "start": 40,
+              "url": "https://t.co/SS45Zbo8mB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913241296829075592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌夏天\n自残差点被家长发现了\n被抓到了肯定要被拉去看精神科了（结合上次经历） https://t.co/SS45Zbo8mB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 299,
+          "like_count": 3753,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

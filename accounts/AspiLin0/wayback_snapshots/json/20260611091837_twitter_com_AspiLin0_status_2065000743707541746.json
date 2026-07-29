@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2064865722447348131",
+    "created_at": "2026-06-11T09:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065000743707541746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607721272330588164",
+          "start": 0,
+          "username": "JIYUE12321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065000743707541746",
+    "in_reply_to_user_id": "1607721272330588164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064988032277864830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIYUE12321 高考完直接六小时马拉松笔试(("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2064865722447348131",
+        "created_at": "2026-06-11T09:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065000743707541746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607721272330588164",
+              "start": 0,
+              "username": "JIYUE12321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065000743707541746",
+        "in_reply_to_user_id": "1607721272330588164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064988032277864830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIYUE12321 高考完直接六小时马拉松笔试(("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607721272330588164",
+        "conversation_id": "2064865722447348131",
+        "created_at": "2026-06-11T08:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064988032277864830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064988032277864830",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064865722447348131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 诶？现在三一考试这么紧凑吗，感觉阿片好辛苦（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 758,
+          "like_count": 21083,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 4983
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-27T12:53:24.000Z",
+        "description": "“关注了你”的意思是「你很有趣~」",
+        "id": "1607721272330588164",
+        "location": "网线",
+        "name": "霁月喵",
+        "pinned_tweet_id": "1920550175946469786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061841412812062720/lhIZsw5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 253,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 392
+        },
+        "username": "JIYUE12321",
+        "verified": false
+      }
+    ]
+  }
+}

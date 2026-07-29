@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1917823638860095639",
+    "created_at": "2025-05-01T06:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917830348903440673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1591591219590623234",
+          "start": 0,
+          "username": "Koucha194"
+        },
+        {
+          "end": 25,
+          "id": "1798017061131874304",
+          "start": 11,
+          "username": "cupric_oxide_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917830348903440673",
+    "in_reply_to_user_id": "1591591219590623234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917829847788970237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koucha194 @cupric_oxide_ 🌿，正常人真的会用的上磁轴吗(?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917829836355297280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2AEzeaYAAFL2T.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1917823638860095639",
+        "created_at": "2025-05-01T06:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917830348903440673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1591591219590623234",
+              "start": 0,
+              "username": "Koucha194"
+            },
+            {
+              "end": 25,
+              "id": "1798017061131874304",
+              "start": 11,
+              "username": "cupric_oxide_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917830348903440673",
+        "in_reply_to_user_id": "1591591219590623234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917829847788970237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koucha194 @cupric_oxide_ 🌿，正常人真的会用的上磁轴吗(?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917829836355297280"
+          ]
+        },
+        "author_id": "1591591219590623234",
+        "conversation_id": "1917823638860095639",
+        "created_at": "2025-05-01T06:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917829847788970237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798017061131874304",
+              "start": 0,
+              "username": "cupric_oxide_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5URjkc9fyE",
+              "end": 43,
+              "expanded_url": "https://x.com/Koucha194/status/1917829847788970237/photo/1",
+              "media_key": "3_1917829836355297280",
+              "start": 20,
+              "url": "https://t.co/5URjkc9fyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917829847788970237",
+        "in_reply_to_user_id": "1798017061131874304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917823638860095639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupric_oxide_ 这个如何 https://t.co/5URjkc9fyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 334,
+          "like_count": 4615,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T00:38:56.000Z",
+        "description": "17岁高二小孩/GalGame/ADOFAI/Arcaea/pjsk/喜欢ななひら/不键政/不善于交流\n⁠\n\n⁠\n⁠\n⁠\n⁠\n⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n⁠⁠\n不会单取，⁠⁠⁠被单取应该是误触的原因，请私信我\n不在意被单取，请随意对待",
+        "id": "1591591219590623234",
+        "name": "红茶",
+        "pinned_tweet_id": "1884852311295721652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876652738177888256/RlNtTkWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 760,
+          "like_count": 7459,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 2780
+        },
+        "username": "Koucha194",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "穹璃：@Qiongli_Baka\n此方： @ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Qiongli_Baka"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cupric_oxide",
+                "end": 23,
+                "expanded_url": "http://t.me/Cupric_oxide",
+                "start": 0,
+                "url": "https://t.co/HwmInSlC9M"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1911043718855213290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1181,
+          "like_count": 23785,
+          "listed_count": 5,
+          "media_count": 531,
+          "tweet_count": 4137
+        },
+        "url": "https://t.co/HwmInSlC9M",
+        "username": "cupric_oxide_",
+        "verified": false
+      }
+    ]
+  }
+}

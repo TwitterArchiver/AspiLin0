@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903395086068564153",
+    "created_at": "2025-03-22T10:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T11:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903395086068564153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rin7914/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/rin7914/status/1903041415040676229",
+          "start": 6,
+          "url": "https://t.co/4F98OvCxe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903395086068564153",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903041415040676229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "cool！ https://t.co/4F98OvCxe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_1903041203253493760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmj15EDbQAApq1L.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903395086068564153",
+        "created_at": "2025-03-22T10:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T11:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903395086068564153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rin7914/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/rin7914/status/1903041415040676229",
+              "start": 6,
+              "url": "https://t.co/4F98OvCxe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903395086068564153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903041415040676229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cool！ https://t.co/4F98OvCxe0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903041203253493760"
+          ]
+        },
+        "author_id": "2224247101",
+        "conversation_id": "1903041415040676229",
+        "created_at": "2025-03-21T11:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903041415040676229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSlv5WK2WA",
+              "end": 28,
+              "expanded_url": "https://x.com/rin7914/status/1903041415040676229/photo/1",
+              "media_key": "3_1903041203253493760",
+              "start": 5,
+              "url": "https://t.co/fSlv5WK2WA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903041415040676229",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4376,
+          "impression_count": 646936,
+          "like_count": 46483,
+          "quote_count": 33,
+          "reply_count": 140,
+          "retweet_count": 7662
+        },
+        "reply_settings": "everyone",
+        "text": "⚡️☃️ https://t.co/fSlv5WK2WA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 254,
+          "like_count": 2558,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-01T04:55:25.000Z",
+        "description": "イラストレーター ソシャゲ、ラノベ、ホロライブ雪花ラミィ デザイン、CookieSwirlC デザインなど\n◆FANBOX→https://t.co/9VE4hb3WOV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rin7914.fanbox.cc",
+                "end": 85,
+                "expanded_url": "http://rin7914.fanbox.cc",
+                "start": 62,
+                "url": "https://t.co/9VE4hb3WOV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4754550",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4754550",
+                "start": 0,
+                "url": "https://t.co/pyrqdkuHqm"
+              }
+            ]
+          }
+        },
+        "id": "2224247101",
+        "location": "✉️rin7914@gmail.com",
+        "name": "リン☆ユウ",
+        "pinned_tweet_id": "1874355888750019027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465689935797964803/k4k4-4oT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735466,
+          "following_count": 1075,
+          "like_count": 9136,
+          "listed_count": 6441,
+          "media_count": 388,
+          "tweet_count": 30695
+        },
+        "url": "https://t.co/pyrqdkuHqm",
+        "username": "rin7914",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937845554027135134",
+    "created_at": "2025-06-25T15:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T16:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937888710391189676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937888710391189676",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937845554027135134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 耶稣都拯救不了全人类呢\n作了,无违于心，就是好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937845554027135134",
+        "created_at": "2025-06-25T15:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937888710391189676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937888710391189676",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937845554027135134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 耶稣都拯救不了全人类呢\n作了,无违于心，就是好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "1937845554027135134",
+        "created_at": "2025-06-25T12:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937845554027135134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937845554027135134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 708,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小C逝世，令我有一点点绝望。\n我的初衷是让人天天开心\n但是，遗憾的是，依旧无法挽救一些人\n我就想...我的行为，到底有没有用呢？..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 438,
+          "like_count": 9283,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "OPPO粉的推特账号,发些日常,不会安慰人(｡í _ ì｡)丨偶尔会emo,请忽略,我也有情绪(；ω；)丨如果哪天突然消失了,就是VPN炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我OPPO粉,OPPOFANS,OPPO酱,粉猫猫,小粉,饭饭丨成分就是天天开心(*๓´╰╯`๓)♡丨INFP丨颜文字万岁(／ω＼)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans114514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans114514",
+                "start": 0,
+                "url": "https://t.co/6FDHG6L8yJ"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919468696441126914/zkV9ze6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 802,
+          "like_count": 4403,
+          "listed_count": 5,
+          "media_count": 187,
+          "tweet_count": 5294
+        },
+        "url": "https://t.co/6FDHG6L8yJ",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

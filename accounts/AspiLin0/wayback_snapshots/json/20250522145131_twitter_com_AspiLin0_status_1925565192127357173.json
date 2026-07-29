@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1925563933500604662",
+    "created_at": "2025-05-22T14:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T15:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925565192127357173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901896270",
+          "start": 0,
+          "username": "Ruizei_Ayan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925565192127357173",
+    "in_reply_to_user_id": "901896270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925563933500604662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruizei_Ayan 😢揉揉泉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1925563933500604662",
+        "created_at": "2025-05-22T14:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925565192127357173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901896270",
+              "start": 0,
+              "username": "Ruizei_Ayan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925565192127357173",
+        "in_reply_to_user_id": "901896270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925563933500604662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruizei_Ayan 😢揉揉泉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901896270",
+        "conversation_id": "1925563933500604662",
+        "created_at": "2025-05-22T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925563933500604662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925563933500604662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉找大猫照片时看到了一些不想看到的东西……心乱\n不知道现在该爱什么，迷茫。记忆有断层，看着自己以前的照片，陌生而熟悉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 380,
+          "like_count": 6817,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-24T14:11:55.000Z",
+        "description": "冷泉狐🦊 | 04 | mtx🏳‍⚧ | 友跨 | 重度社恐 | INFP-T | 对象位诚聘中 | 不鉴证 | 日常or发病推 | 重抑中焦 | 认知重建中 | 前路无坎坷 归来有星光✨",
+        "id": "901896270",
+        "location": "杭州",
+        "name": "凌波冷泉（🦊言乱语版）",
+        "pinned_tweet_id": "1919224971869516106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909505261695647747/6teDihf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 176,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1245
+        },
+        "username": "Ruizei_Ayan",
+        "verified": false
+      }
+    ]
+  }
+}

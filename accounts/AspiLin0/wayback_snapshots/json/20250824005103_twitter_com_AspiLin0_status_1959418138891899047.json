@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1959416277749080374",
+    "created_at": "2025-08-24T00:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T01:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959418138891899047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "JDE_Alva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959418138891899047",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959416277749080374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDE_Alva 就是等同了\n只是一般人在情感上不能接受心脏还在跳动的尸体已经真正离开我们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1959416277749080374",
+        "created_at": "2025-08-24T00:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T01:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959418138891899047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "JDE_Alva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959418138891899047",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959416277749080374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDE_Alva 就是等同了\n只是一般人在情感上不能接受心脏还在跳动的尸体已经真正离开我们了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1959416276310446080"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1959416277749080374",
+        "created_at": "2025-08-24T00:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T01:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959416277749080374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959416277749080374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个问题\n脑死亡 应否被视为等同于 临床死亡 ？\n\n只要心跳等生命体征仍在\n即便依赖器械\n就不能认定为死亡\n应以传统的临床死亡为准\n\n但又说回来 人是基于意识而生存的\n植物人和脑死亡不同\n至少植物人有醒来的可能\n而脑死亡\n可以说是不可逆的整体生命终结\n不应把器械维持的心跳等同于生命的延续\n我不明白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 479,
+          "like_count": 12401,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 3067
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Coach for JDE｜MtX🏳️‍⚧️｜Inherited from @ryq59｜Powered by @Lx_Lacie｜Banner from @SaiKin_XiJun｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 46,
+                "username": "ryq59"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "Lx_Lacie"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "SaiKin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1959416277749080374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 1985,
+          "like_count": 17517,
+          "listed_count": 7,
+          "media_count": 389,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      }
+    ]
+  }
+}

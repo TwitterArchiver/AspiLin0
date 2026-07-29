@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937351150979735973",
+    "created_at": "2025-06-24T03:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T04:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937357393438138679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518613067050807296",
+          "start": 0,
+          "username": "Zerstoorer23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937357393438138679",
+    "in_reply_to_user_id": "1518613067050807296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937351150979735973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23 这很酷诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937351150979735973",
+        "created_at": "2025-06-24T03:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937357393438138679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518613067050807296",
+              "start": 0,
+              "username": "Zerstoorer23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937357393438138679",
+        "in_reply_to_user_id": "1518613067050807296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937351150979735973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23 这很酷诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518613067050807296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1937351150979735973",
+        "created_at": "2025-06-24T03:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937351150979735973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937351150979735973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前有朋友看我玩荒野大镖客2的时候，我操控约翰·马斯顿骑马走在路上，迎面走来一位路人，他说：“你为什么不把他杀了啊？”\n\n看来他以为自己还处于GTA的世界中，而我已经玩过了大结局，我本想跟他解释这游戏不能滥杀无辜，内心也有千言万语想要表达，但最终还是只对他说了一句：“试着做些好事吧”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 436,
+          "like_count": 9057,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T15:29:14.000Z",
+        "description": "中国人🇨🇳/高中生🏫/16yo/高二📚\n\n中文🇨🇳/EN🇬🇧\n\nACGN爱好者 似乎也没什么特别的，建议不要关注\n次人格（内阁）@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          }
+        },
+        "id": "1518613067050807296",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23⚓️",
+        "pinned_tweet_id": "1860680705518494086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936804607268638720/dhYGVFz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 1843,
+          "like_count": 75469,
+          "listed_count": 6,
+          "media_count": 5172,
+          "tweet_count": 15573
+        },
+        "username": "Zerstoorer23",
+        "verified": false
+      }
+    ]
+  }
+}

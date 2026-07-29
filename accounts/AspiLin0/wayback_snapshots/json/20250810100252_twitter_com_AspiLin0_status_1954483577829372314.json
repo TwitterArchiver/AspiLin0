@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954360366982713344"
+      ],
+      "media_source_tweet_id": [
+        "1954360369499222515"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1954483577829372314",
+    "created_at": "2025-08-10T10:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T11:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954483577829372314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1722654138620604416",
+          "start": 3,
+          "username": "FoxGazerTales"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/geAYrJyNkl",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxGazerTales/status/1954360369499222515/photo/1",
+          "media_key": "3_1954360366982713344",
+          "start": 38,
+          "url": "https://t.co/geAYrJyNkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954483577829372314",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954360369499222515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxGazerTales: Self cleaning mode https://t.co/geAYrJyNkl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_1954360366982713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx9IZi0bUAATyyk.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954360366982713344"
+          ],
+          "media_source_tweet_id": [
+            "1954360369499222515"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1954483577829372314",
+        "created_at": "2025-08-10T10:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954483577829372314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1722654138620604416",
+              "start": 3,
+              "username": "FoxGazerTales"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geAYrJyNkl",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxGazerTales/status/1954360369499222515/photo/1",
+              "media_key": "3_1954360366982713344",
+              "start": 38,
+              "url": "https://t.co/geAYrJyNkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954483577829372314",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954360369499222515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxGazerTales: Self cleaning mode https://t.co/geAYrJyNkl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954360366982713344"
+          ]
+        },
+        "author_id": "1722654138620604416",
+        "conversation_id": "1954360369499222515",
+        "created_at": "2025-08-10T01:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T02:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954360369499222515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geAYrJyNkl",
+              "end": 42,
+              "expanded_url": "https://x.com/FoxGazerTales/status/1954360369499222515/photo/1",
+              "media_key": "3_1954360366982713344",
+              "start": 19,
+              "url": "https://t.co/geAYrJyNkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954360369499222515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 32007,
+          "like_count": 2498,
+          "quote_count": 29,
+          "reply_count": 1,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "Self cleaning mode https://t.co/geAYrJyNkl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 476,
+          "like_count": 12060,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 2970
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T16:35:51.000Z",
+        "description": "Unleashing Fur-real Madness One Fox At A Time! 🦊✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/foxgazertales",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/foxgazertales",
+                "start": 0,
+                "url": "https://t.co/foUJbY9IPu"
+              }
+            ]
+          }
+        },
+        "id": "1722654138620604416",
+        "location": "X",
+        "name": "千ㄖ乂 🦊",
+        "pinned_tweet_id": "1953343899327742108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722782029123911680/HkGRZ_7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 31,
+          "like_count": 2204,
+          "listed_count": 20,
+          "media_count": 1165,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/foUJbY9IPu",
+        "username": "FoxGazerTales",
+        "verified": true
+      }
+    ]
+  }
+}

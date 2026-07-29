@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963045416653750273"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1963045420071829622",
+    "created_at": "2025-09-03T01:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T02:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963045420071829622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2EFklZco9",
+          "end": 23,
+          "expanded_url": "https://x.com/AspiLin0/status/1963045420071829622/photo/1",
+          "media_key": "3_1963045416653750273",
+          "start": 0,
+          "url": "https://t.co/c2EFklZco9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963045420071829622",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/c2EFklZco9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 453,
+        "media_key": "3_1963045416653750273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4jZ-GbAAEi0ld.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963045416653750273"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1963045420071829622",
+        "created_at": "2025-09-03T01:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T02:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963045420071829622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2EFklZco9",
+              "end": 23,
+              "expanded_url": "https://x.com/AspiLin0/status/1963045420071829622/photo/1",
+              "media_key": "3_1963045416653750273",
+              "start": 0,
+              "url": "https://t.co/c2EFklZco9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963045420071829622",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c2EFklZco9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 481,
+          "like_count": 12645,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 3138
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

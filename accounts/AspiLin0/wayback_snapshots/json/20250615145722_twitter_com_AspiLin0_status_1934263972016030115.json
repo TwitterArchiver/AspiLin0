@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934161523414569175",
+    "created_at": "2025-06-15T14:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T15:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934263972016030115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768924783734104064",
+          "start": 0,
+          "username": "yuan666ccc73844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934263972016030115",
+    "in_reply_to_user_id": "1768924783734104064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934161523414569175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan666ccc73844 没有我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1934161519551590400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteFp4caMAAYi5m.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934161523414569175",
+        "created_at": "2025-06-15T14:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934263972016030115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768924783734104064",
+              "start": 0,
+              "username": "yuan666ccc73844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934263972016030115",
+        "in_reply_to_user_id": "1768924783734104064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934161523414569175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan666ccc73844 没有我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934161519551590400"
+          ]
+        },
+        "author_id": "1768924783734104064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1934161523414569175",
+        "created_at": "2025-06-15T08:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934161523414569175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Twitter",
+              "probability": 0.9687,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 57,
+              "expanded_url": "https://infinityweet.me/interaction-circle",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1932670968134090752/gTR5iYz_?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1932670968134090752/gTR5iYz_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle",
+              "url": "https://t.co/V1jhnbqZPV"
+            },
+            {
+              "display_url": "pic.x.com/ZLZbOiHapq",
+              "end": 81,
+              "expanded_url": "https://x.com/yuan666ccc73844/status/1934161523414569175/photo/1",
+              "media_key": "3_1934161519551590400",
+              "start": 58,
+              "url": "https://t.co/ZLZbOiHapq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934161523414569175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter Interaction Circle\n\n➡️ https://t.co/V1jhnbqZPV https://t.co/ZLZbOiHapq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 427,
+          "like_count": 8721,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T08:58:41.000Z",
+        "description": "https://t.co/CfwPCco7NV匿名题问箱\n16岁高中生 幻想哥布林\n🥺周一到周五不在狸\n有时会用ai生图\n星怒⭐😡@xiaoliaoyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "xiaoliaoyou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanhhh4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuanhhh4",
+                "start": 0,
+                "url": "https://t.co/CfwPCco7NV"
+              }
+            ]
+          }
+        },
+        "id": "1768924783734104064",
+        "location": "鸡窝托斯",
+        "name": "星野酱太可爱了🥰",
+        "pinned_tweet_id": "1928771668886933617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919233646936117248/S2EIjKN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 2054,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 861,
+          "tweet_count": 2589
+        },
+        "username": "yuan666ccc73844",
+        "verified": false
+      }
+    ]
+  }
+}

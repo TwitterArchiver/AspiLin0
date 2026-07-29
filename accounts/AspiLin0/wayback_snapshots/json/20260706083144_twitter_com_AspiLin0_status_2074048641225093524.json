@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074048633885118464"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2074048641225093524",
+    "created_at": "2026-07-06T08:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074048641225093524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VwkIloKMUT",
+          "end": 48,
+          "expanded_url": "https://x.com/AspiLin0/status/2074048641225093524/photo/1",
+          "media_key": "3_2074048633885118464",
+          "start": 25,
+          "url": "https://t.co/VwkIloKMUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074048641225093524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实每次刷到这种编绳第一反应都觉得是上吊用的（（ https://t.co/VwkIloKMUT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2074048633885118464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiAPmWbUAADmqd.jpg",
+        "width": 409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074048633885118464"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2074048641225093524",
+        "created_at": "2026-07-06T08:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074048641225093524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwkIloKMUT",
+              "end": 48,
+              "expanded_url": "https://x.com/AspiLin0/status/2074048641225093524/photo/1",
+              "media_key": "3_2074048633885118464",
+              "start": 25,
+              "url": "https://t.co/VwkIloKMUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074048641225093524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实每次刷到这种编绳第一反应都觉得是上吊用的（（ https://t.co/VwkIloKMUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 772,
+          "like_count": 21736,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 5128
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

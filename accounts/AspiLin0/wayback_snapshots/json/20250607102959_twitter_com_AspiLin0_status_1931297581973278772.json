@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931296725786087707",
+    "created_at": "2025-06-07T10:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931297581973278772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931297581973278772",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931296725786087707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 公交车（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931296725786087707",
+        "created_at": "2025-06-07T10:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931297581973278772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931297581973278772",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931296725786087707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 公交车（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "1931296725786087707",
+        "created_at": "2025-06-07T10:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931296725786087707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiminTW_Offica…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/KiminTW_Offical/status/1931276277815841131",
+              "start": 20,
+              "url": "https://t.co/nZtZUrXUvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931296725786087707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931276277815841131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇你們對我的印象開始于哪裡來著🤔 https://t.co/nZtZUrXUvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 414,
+          "like_count": 7817,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 1696
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "戀星粉/城市客車愛好者/友 @Alice14_88\n歡迎推給我發一些關於公共交通的資料\n里 @ND5_0179",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Alice14_88"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "ND5_0179"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集團",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍧🍟🍕🌮🍩🍡🍨",
+        "pinned_tweet_id": "1922109819504218319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908306914179768324/fjN1gKeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 4577,
+          "like_count": 27926,
+          "listed_count": 0,
+          "media_count": 2040,
+          "tweet_count": 33656
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

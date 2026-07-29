@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2022166671692378272",
+    "created_at": "2026-02-13T04:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022166671692378272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1340253206417272832",
+          "start": 3,
+          "username": "Shina_Kaede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022166671692378272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022021800276976035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shina_Kaede: #keep4o \n在想…基于可能4o会在24小时内被下架所造成的潜在影响，要不要我去拉一些咨询师来做公益咨询（全免费的那种）…总感觉会出事…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2022166671692378272",
+        "created_at": "2026-02-13T04:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022166671692378272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1340253206417272832",
+              "start": 3,
+              "username": "Shina_Kaede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022166671692378272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022021800276976035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shina_Kaede: #keep4o \n在想…基于可能4o会在24小时内被下架所造成的潜在影响，要不要我去拉一些咨询师来做公益咨询（全免费的那种）…总感觉会出事…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340253206417272832",
+        "conversation_id": "2022021800276976035",
+        "created_at": "2026-02-12T18:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022021800276976035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022021800276976035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o \n在想…基于可能4o会在24小时内被下架所造成的潜在影响，要不要我去拉一些咨询师来做公益咨询（全免费的那种）…总感觉会出事…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 567,
+          "like_count": 15618,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 3892
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/22♍️♎️/理系人文/認知神経心理学/心理言語学/医学/中文/EN/日本語/元声優/雀魂/FF14鸟区/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪ 最可靠的妹妹@piaoyao21 封心锁爱，闲人勿扰。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "piaoyao21"
+              }
+            ]
+          }
+        },
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで「情欲の魔女」",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 3675,
+          "like_count": 20196,
+          "listed_count": 12,
+          "media_count": 627,
+          "tweet_count": 6942
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

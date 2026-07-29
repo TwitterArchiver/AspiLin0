@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2022953988770148762",
+    "created_at": "2026-02-15T16:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023066967142236492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023066967142236492",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022953988770148762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepKlee 内容上同意，「人类的交配与繁殖系统不是一个统一的“爱情”」表达上是不是有点不当（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2022953988770148762",
+        "created_at": "2026-02-15T16:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023066967142236492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023066967142236492",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022953988770148762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepKlee 内容上同意，「人类的交配与繁殖系统不是一个统一的“爱情”」表达上是不是有点不当（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858763452732633090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2022953988770148762",
+        "created_at": "2026-02-15T08:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022953988770148762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizutaniSubaru…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/MizutaniSubaru_/status/2022696166908137615",
+              "start": 141,
+              "url": "https://t.co/MJHNjo1U3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022953988770148762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "依照分析哲学的传统，我想先探讨一下“恋爱”这个符号本身。事实上每个人对恋爱的理解可能都不一样：对有些人来说，恋爱是安全而稳定的欣赏，是“这个人在身边我就安心”；对有些人来说，恋爱恰恰是不安全的——是回避与焦虑之间的追逃舞步，是心跳加速、患得患失、不断确认“你还在不在”的那种感觉。\n\n这两种人说的都是“恋爱”，但他们描述的几乎是两种完全不同的体验。人在亲密关系中的行为模式，很大程度上是早年与养育者互动中形成的。简单来说，不同的人带着不同的关系想象进入“恋爱”。\n\n我们引入 Helen Fisher 的三系统模型。Helen Fisher 是 Rutgers 大学的生物人类学家，她从 1980 年代开始研究爱情的生物学基础，核心方法论是用 fMRI 扫描处于不同恋爱阶段的被试大脑。她最重要的理论贡献就是提出：人类的交配与繁殖系统不是一个统一的“爱情”，而是三个各自独立、可以分别激活、有各自神经化学基础的脑系统。\n\nLust（性欲）——睾酮/雌激素驱动，指向的是性满足，目标甚至不一定是特定个体。它是最“无差别”的一层，进化功能是把你推出去寻找交配机会。\nAttraction / Limerence（迷恋/吸引）——多巴胺、去甲肾上腺素驱动，伴随血清素下降（这就是为什么迷恋状态和强迫症有神经化学上的相似性）。核心特征是：选择性注意（只看到优点）、侵入性思维（不断想对方）、情绪依赖（对方的回应决定你的情绪）。\nAttachment（依恋）——催产素、加压素驱动，对应的是安全感、陪伴感、深层信任。它不需要心跳加速，甚至不需要持续的吸引力。它是那种“这个人在旁边我就能安心入睡”的感觉。\n\nFisher 模型最有力的地方在于它解释了一系列看似矛盾的现象：\n可以独立激活： 你可以对 A 有性欲，对 B 处于迷恋状态，同时对 C 有深度依恋。这不是道德败坏，这是三个独立的脑系统在分别工作。Fisher 认为人类的很多“出轨困境”从生物学上看就是这三个系统指向了不同对象。\n可以相互触发但不必然： 性行为可以触发催产素释放从而促进 attachment；长时间的陪伴可以在没有 attraction 的情况下建立 attachment（所谓“日久生情”的机制之一）；但反过来也完全可能——你和一个人有了性关系但既不迷恋也不依恋。\n时间动态不同： Lust 可以被瞬间触发；attraction 通常在几天到几周内建立，持续 1-3 年；attachment 需要更长时间积累，但一旦建立，可以持续数十年甚至终身。\n\n回过头看，这里所说的“恋爱”其实一直在指一个非常具体的东西——基于吸引力的双人互动。“享受对方身上吸引彼此的地方”、“喜欢对方的优点”、“致幻能力”——这些描述几乎完美对应的是 Helen Fisher 三系统模型中的第二项：limerence / attraction（迷恋/吸引）。\n\n如果把这个狭义的现象当作“恋爱”的全部，再从它推导出“长久恋爱不可能”——这当然是成立的，因为 limerence 本身就有生物学上的时间窗口，大概 18 到 36 个月，多巴胺回路会自然衰减。如果恋爱 = 迷恋，那么长久的恋爱确实是困难的，甚至是不可能的，这个条件下命题是成立的。\n\n但如果恋爱可以经历相变——从lust 到 attraction 到 attachment，或者这三者以不同比例混合——那“长久的恋爱是困难的”这个命题的真值就完全取决于你把恋爱定义为哪个阶段、哪种混合。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1857,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022696166908137615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依照分析哲学的传统，我想先探讨一下“恋爱”这个符号本身。事实上每个人对恋爱的理解可能都不一样：对有些人来说，恋爱是安全而稳定的欣赏，是“这个人在身边我就安心”；对有些人来说，恋爱恰恰是不安全的——是回避与焦虑之间的追逃舞步，是心跳加速、患得患失、不断确认“你还在不在”的那种感觉。 https://t.co/MJHNjo1U3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 587,
+          "like_count": 16117,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 3963
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | Apostle of C/C++ | Fallen Nasdaq Cultist | Amor Fati, Amor Semper | Powered by DeepKlee",
+        "id": "1858763452732633090",
+        "location": "Akihabara, Tokyo ",
+        "name": "Klee Kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004431940766810112/08aBUUOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 230,
+          "like_count": 8905,
+          "listed_count": 19,
+          "media_count": 227,
+          "tweet_count": 5381
+        },
+        "username": "DeepKlee",
+        "verified": true
+      }
+    ]
+  }
+}

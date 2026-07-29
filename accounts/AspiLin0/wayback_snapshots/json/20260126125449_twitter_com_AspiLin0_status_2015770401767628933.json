@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2015756519426671018",
+    "created_at": "2026-01-26T12:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015770401767628933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954566367946137600",
+          "start": 0,
+          "username": "Jokes12443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015770401767628933",
+    "in_reply_to_user_id": "1954566367946137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015768587106169254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jokes12443 说是这样说😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2015756519426671018",
+        "created_at": "2026-01-26T12:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015770401767628933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954566367946137600",
+              "start": 0,
+              "username": "Jokes12443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015770401767628933",
+        "in_reply_to_user_id": "1954566367946137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015768587106169254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jokes12443 说是这样说😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954566367946137600",
+        "conversation_id": "2015756519426671018",
+        "created_at": "2026-01-26T12:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015768587106169254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015768587106169254",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015756519426671018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 悖論：找得到人一起去精神科的人不必去精神科"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 538,
+          "like_count": 14905,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3773
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T15:31:58.000Z",
+        "description": "我要成為神/正在尋找大陸導遊/小帳說是/台灣",
+        "id": "1954566367946137600",
+        "name": "AnoEnjoyer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014053947783401472/ac385kUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 126
+        },
+        "username": "Jokes12443",
+        "verified": true
+      }
+    ]
+  }
+}

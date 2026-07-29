@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2069066717603787182",
+    "created_at": "2026-06-22T14:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069066717603787182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653207153044520960",
+          "start": 3,
+          "username": "AsilenA123"
+        },
+        {
+          "end": 24,
+          "id": "1048202786347790336",
+          "start": 16,
+          "username": "sskerye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069066717603787182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069018953624715336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsilenA123: @sskerye 现代的恋爱基本等于自残"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2069066717603787182",
+        "created_at": "2026-06-22T14:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069066717603787182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653207153044520960",
+              "start": 3,
+              "username": "AsilenA123"
+            },
+            {
+              "end": 24,
+              "id": "1048202786347790336",
+              "start": 16,
+              "username": "sskerye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069066717603787182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069018953624715336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsilenA123: @sskerye 现代的恋爱基本等于自残"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2068965920194883772",
+        "created_at": "2026-06-22T11:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069018953624715336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1048202786347790336",
+              "start": 0,
+              "username": "sskerye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069018953624715336",
+        "in_reply_to_user_id": "1048202786347790336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068965920194883772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sskerye 现代的恋爱基本等于自残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 766,
+          "like_count": 21456,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5057
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "今年工作|嵌入式学习中|南京|温州|爱好coding|我希望停止身份政治意识形态扩散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132✝️ ☪️☭",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 1094,
+          "like_count": 42285,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 4723
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T13:26:33.000Z",
+        "description": "INFJ、4w5。\n喜欢阅读、绘画、文学和心理学，想学习各种语言了解不同的文化。\n园艺新手，种了绿色、粉色、杏色和黑色的洋桔梗。\n上推是为了观察人类。",
+        "id": "1048202786347790336",
+        "location": "竹林深处",
+        "name": "迟余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681000830902874112/zj1LqbyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 370,
+          "like_count": 32034,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "sskerye",
+        "verified": false
+      }
+    ]
+  }
+}

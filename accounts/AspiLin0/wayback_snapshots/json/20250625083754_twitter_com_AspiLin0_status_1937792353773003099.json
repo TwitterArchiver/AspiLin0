@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937791663818338448",
+    "created_at": "2025-06-25T08:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T09:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937792353773003099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937792353773003099",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937791663818338448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 可以把搜索里的@改成原来的用户名（\n不过还是屎，连个时间排序都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937791663818338448",
+        "created_at": "2025-06-25T08:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937792353773003099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937792353773003099",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937791663818338448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 可以把搜索里的@改成原来的用户名（\n不过还是屎，连个时间排序都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1937791663818338448",
+        "created_at": "2025-06-25T08:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937791663818338448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937791663818338448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "推特这个搜索功能是真的让我哭笑不得……改了用户名以后，以前的帖子就完全搜不到了，而且不管是翻别人还是翻自己的推都翻不到最底下，还有种种恶心人的bug，比如明明内容完全吻合但是就是搜索不到内容反而给出一堆无关紧要的东西，而且有的时候搜一个词语提示无结果，而把那个词语中的一个字单拿出来搜就有了……要不是在墙外而且相对在用词上没卡那么死我估计早不玩了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特这个搜索功能是真的让我哭笑不得……改了用户名以后，以前的帖子就完全搜不到了，而且不管是翻别人还是翻自己的推都翻不到最底下，还有种种恶心人的bug，比如明明内容完全吻合但是就是搜索不到内容反而给出一堆无关紧要的东西，而且有的时候搜一个词语提示无结果，而把那个词语中的一个字单拿出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 438,
+          "like_count": 9254,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 2155
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性障碍&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性别无性恋泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树",
+        "pinned_tweet_id": "1928275531356852498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 813,
+          "like_count": 15300,
+          "listed_count": 2,
+          "media_count": 588,
+          "tweet_count": 4089
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

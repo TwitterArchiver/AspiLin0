@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2014352493887795375",
+    "created_at": "2026-01-23T05:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014577446704791933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786055418684264448",
+          "start": 0,
+          "username": "SIRliquid_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014577446704791933",
+    "in_reply_to_user_id": "1786055418684264448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014352493887795375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIRliquid_ 智力正常的人填鸭几个月都可以拥有某领域的大量知识\n但是通常应用水平和创新能力是极其底下的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2014352493887795375",
+        "created_at": "2026-01-23T05:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014577446704791933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786055418684264448",
+              "start": 0,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014577446704791933",
+        "in_reply_to_user_id": "1786055418684264448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014352493887795375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIRliquid_ 智力正常的人填鸭几个月都可以拥有某领域的大量知识\n但是通常应用水平和创新能力是极其底下的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786055418684264448",
+        "conversation_id": "2014352493887795375",
+        "created_at": "2026-01-22T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014352493887795375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BI3BXI/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/BI3BXI/status/2014291965878456408",
+              "start": 21,
+              "url": "https://t.co/FZTuQGf6AB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014352493887795375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014291965878456408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实…Ring经常为此感到无比焦虑的说（ https://t.co/FZTuQGf6AB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 534,
+          "like_count": 14711,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3738
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁 笨蛋高中生× || 喜欢音乐🎶 || 喜欢有礼貌的人😘 || 电子信息与嵌入式相关爱好者/初学者💻 || 泛性恋 || 友跨 || 不含糖 || 我好无聊来找我玩 || (待补充)\n(Fan Account) || 详细说明见置顶推👇https://t.co/FPqDjlYM5N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sirliquid_",
+                "end": 144,
+                "expanded_url": "https://ngl.link/sirliquid_",
+                "start": 121,
+                "url": "https://t.co/FPqDjlYM5N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kokomi_desu",
+                "end": 23,
+                "expanded_url": "http://t.me/Kokomi_desu",
+                "start": 0,
+                "url": "https://t.co/Yq2AmHmJY7"
+              }
+            ]
+          }
+        },
+        "id": "1786055418684264448",
+        "location": "日本 東京 特雷森學園",
+        "name": "Ring.✦",
+        "pinned_tweet_id": "2004954179501195474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 291,
+          "like_count": 5265,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/Yq2AmHmJY7",
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

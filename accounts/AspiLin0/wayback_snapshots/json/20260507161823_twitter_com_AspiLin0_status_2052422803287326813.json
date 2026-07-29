@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052422398696374272"
+      ],
+      "media_source_tweet_id": [
+        "2052422401724674335"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2052422803287326813",
+    "created_at": "2026-05-07T16:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052422803287326813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1359382729645649924",
+          "start": 3,
+          "username": "ayaluo_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H7kfLpyo5f",
+          "end": 49,
+          "expanded_url": "https://x.com/ayaluo_0/status/2052422401724674335/photo/1",
+          "media_key": "3_2052422398696374272",
+          "start": 26,
+          "url": "https://t.co/H7kfLpyo5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052422803287326813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052422401724674335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayaluo_0: 洛什么时候能变得可爱呢 https://t.co/H7kfLpyo5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052422398696374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHurTCNaQAAnvVd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052422398696374272"
+          ],
+          "media_source_tweet_id": [
+            "2052422401724674335"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2052422803287326813",
+        "created_at": "2026-05-07T16:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422803287326813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1359382729645649924",
+              "start": 3,
+              "username": "ayaluo_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7kfLpyo5f",
+              "end": 49,
+              "expanded_url": "https://x.com/ayaluo_0/status/2052422401724674335/photo/1",
+              "media_key": "3_2052422398696374272",
+              "start": 26,
+              "url": "https://t.co/H7kfLpyo5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422803287326813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052422401724674335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayaluo_0: 洛什么时候能变得可爱呢 https://t.co/H7kfLpyo5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052422398696374272"
+          ]
+        },
+        "author_id": "1359382729645649924",
+        "conversation_id": "2052422401724674335",
+        "created_at": "2026-05-07T16:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052422401724674335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7kfLpyo5f",
+              "end": 35,
+              "expanded_url": "https://x.com/ayaluo_0/status/2052422401724674335/photo/1",
+              "media_key": "3_2052422398696374272",
+              "start": 12,
+              "url": "https://t.co/H7kfLpyo5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422401724674335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "洛什么时候能变得可爱呢 https://t.co/H7kfLpyo5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 741,
+          "like_count": 20655,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 4864
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-10T06:04:47.000Z",
+        "description": "半吊子哲学家/mtf🏳️‍⚧️/中度抑郁/178cm/57kg/喜欢散步，做梦，边散步边做梦/最大的幸福，是相信有人爱我们",
+        "id": "1359382729645649924",
+        "location": "妄想之海",
+        "name": "绫洛洛🍥",
+        "pinned_tweet_id": "2030173745415922131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029968959316148224/RIj_bZhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 63,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "ayaluo_0",
+        "verified": false
+      }
+    ]
+  }
+}

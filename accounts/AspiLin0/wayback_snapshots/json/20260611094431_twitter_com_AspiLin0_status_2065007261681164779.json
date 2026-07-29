@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065007223236182016"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2065007261681164779",
+    "created_at": "2026-06-11T09:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065007261681164779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8aHziyeMNx",
+          "end": 23,
+          "expanded_url": "https://x.com/AspiLin0/status/2065007261681164779/photo/1",
+          "media_key": "3_2065007223236182016",
+          "start": 0,
+          "url": "https://t.co/8aHziyeMNx"
+        },
+        {
+          "display_url": "x.com/BeetiIsDog/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/BeetiIsDog/status/2064973586964914334",
+          "start": 24,
+          "url": "https://t.co/H8LHmpPhBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065007261681164779",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064973586964914334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/8aHziyeMNx https://t.co/H8LHmpPhBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2065007223236182016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhhIO-bwAATDnf.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1556,
+        "media_key": "3_2064973584574078976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhCiNMaYAAMNAQ.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065007223236182016"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2065007261681164779",
+        "created_at": "2026-06-11T09:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065007261681164779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aHziyeMNx",
+              "end": 23,
+              "expanded_url": "https://x.com/AspiLin0/status/2065007261681164779/photo/1",
+              "media_key": "3_2065007223236182016",
+              "start": 0,
+              "url": "https://t.co/8aHziyeMNx"
+            },
+            {
+              "display_url": "x.com/BeetiIsDog/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/BeetiIsDog/status/2064973586964914334",
+              "start": 24,
+              "url": "https://t.co/H8LHmpPhBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065007261681164779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064973586964914334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8aHziyeMNx https://t.co/H8LHmpPhBb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064973584574078976"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064973586964914334",
+        "created_at": "2026-06-11T07:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064973586964914334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnW4syKG9c",
+              "end": 32,
+              "expanded_url": "https://x.com/BeetiIsDog/status/2064973586964914334/photo/1",
+              "media_key": "3_2064973584574078976",
+              "start": 9,
+              "url": "https://t.co/cnW4syKG9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064973586964914334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来玩犬bingo https://t.co/cnW4syKG9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 758,
+          "like_count": 21096,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 4985
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷,愛全奉全 ,prema everyone. ||繪垢@DogIsBeeti|| 喜歡畫畫、天文學、神經科學、羅小黑還有藤井風 || 一些標籤: HeteroAce/afab/ESFP/ADHDer || 友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "DogIsBeeti"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "sysjf0"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "ビーチイ小犬",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 995,
+          "like_count": 43039,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 9032
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

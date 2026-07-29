@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2032117986384101683",
+    "created_at": "2026-03-12T15:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032123084564808090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753070401901752320",
+          "start": 0,
+          "username": "give_out_think"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032123084564808090",
+    "in_reply_to_user_id": "1753070401901752320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032121959405011385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@give_out_think 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2032117986384101683",
+        "created_at": "2026-03-12T15:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032123084564808090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753070401901752320",
+              "start": 0,
+              "username": "give_out_think"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032123084564808090",
+        "in_reply_to_user_id": "1753070401901752320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032121959405011385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@give_out_think 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753070401901752320",
+        "conversation_id": "2032117986384101683",
+        "created_at": "2026-03-12T15:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032121959405011385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032121959405011385",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032117986384101683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵不可以亖喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 621,
+          "like_count": 17775,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 4241
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-01T14:59:02.000Z",
+        "description": "勉強は苦手だ.  我的人生就是樂子。随机掉落碎碎念。左右脑博弈。ENFP。 双性取向。 mtf友好。更多个人信息详细请私聊了解捏\n自免脑炎患者，精神状态近期波动大，精力有限。",
+        "id": "1753070401901752320",
+        "location": "珠三角",
+        "name": "Pv _ CN_璞方",
+        "pinned_tweet_id": "1954567264470245478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753072871826653184/MY9QGCxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 581
+        },
+        "username": "give_out_think",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968227301310792138",
+    "created_at": "2025-09-17T13:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968308371184070848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "8964tou12345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968308371184070848",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968227301310792138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tou12345678 所以青春阻断剂是更合理的做法（\n不过这个要老中家长支持一般人做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968227301310792138",
+        "created_at": "2025-09-17T13:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968308371184070848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968308371184070848",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968227301310792138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tou12345678 所以青春阻断剂是更合理的做法（\n不过这个要老中家长支持一般人做不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1968227301310792138",
+        "created_at": "2025-09-17T08:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968227301310792138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyc945/status/…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/hyc945/status/1967976669719011407",
+              "start": 150,
+              "url": "https://t.co/gPeArqiWtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968227301310792138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 923,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967976669719011407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的很对，最新研究证据，很多性别不安都没必要吃药，少数人没办法可理解\n\n2024的德国研究分析了大量青少年数据，50-58%的青少年性别不安症状在5年后会慢慢消失\n另一个研究强调，儿童期的性别不安不会持续到青春期后，美国卫生与公共服务部的2025报告也提到，青少年性别不安的诊断在访期内有较高缓解率 https://t.co/gPeArqiWtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 488,
+          "like_count": 12918,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3243
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8986,
+          "following_count": 6929,
+          "like_count": 247230,
+          "listed_count": 56,
+          "media_count": 2174,
+          "tweet_count": 41295
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

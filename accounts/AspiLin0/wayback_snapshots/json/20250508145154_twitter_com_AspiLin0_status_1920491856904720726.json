@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1920491856904720726",
+    "created_at": "2025-05-08T14:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T15:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920491856904720726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LikXiaoZhai/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/LikXiaoZhai/status/1920394175570141309",
+          "start": 6,
+          "url": "https://t.co/TvvSj713nl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920491856904720726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920394175570141309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不能吧😢😢 https://t.co/TvvSj713nl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1920491856904720726",
+        "created_at": "2025-05-08T14:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920491856904720726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LikXiaoZhai/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/LikXiaoZhai/status/1920394175570141309",
+              "start": 6,
+              "url": "https://t.co/TvvSj713nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920491856904720726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920394175570141309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能吧😢😢 https://t.co/TvvSj713nl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785828605387313154",
+        "conversation_id": "1920394175570141309",
+        "created_at": "2025-05-08T08:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T09:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920394175570141309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920394175570141309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死一半不想死了但不想去医院洗胃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1913194579031167028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 357,
+          "like_count": 5723,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T00:28:22.000Z",
+        "description": "11年🏳️‍⚧️ 含糖 互fo",
+        "id": "1785828605387313154",
+        "name": "XZh",
+        "pinned_tweet_id": "1904478993103098236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919695620996210688/tyRgoP9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 850,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 145
+        },
+        "username": "LikXiaoZhai",
+        "verified": false
+      }
+    ]
+  }
+}

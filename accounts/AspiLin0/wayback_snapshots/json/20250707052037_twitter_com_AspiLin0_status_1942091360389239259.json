@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942091347478921216"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942090407485243559",
+    "created_at": "2025-07-07T05:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T06:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942091360389239259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785683748006264833",
+          "start": 0,
+          "username": "ChenXu233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S1GBQw7WIu",
+          "end": 50,
+          "expanded_url": "https://x.com/AspiLin0/status/1942091360389239259/photo/1",
+          "media_key": "3_1942091347478921216",
+          "start": 27,
+          "url": "https://t.co/S1GBQw7WIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942091360389239259",
+    "in_reply_to_user_id": "1785683748006264833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942090407485243559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenXu233 😋😋😋😋😋\n让店员直接给你个? https://t.co/S1GBQw7WIu"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942090407485243559].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942090407485243559",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942090407485243559"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942091347478921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOxynfXQAAWy2R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942091347478921216"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942090407485243559",
+        "created_at": "2025-07-07T05:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942091360389239259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785683748006264833",
+              "start": 0,
+              "username": "ChenXu233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1GBQw7WIu",
+              "end": 50,
+              "expanded_url": "https://x.com/AspiLin0/status/1942091360389239259/photo/1",
+              "media_key": "3_1942091347478921216",
+              "start": 27,
+              "url": "https://t.co/S1GBQw7WIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942091360389239259",
+        "in_reply_to_user_id": "1785683748006264833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942090407485243559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenXu233 😋😋😋😋😋\n让店员直接给你个? https://t.co/S1GBQw7WIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 446,
+          "like_count": 9442,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:52:46.000Z",
+        "description": "半死的人罢了",
+        "id": "1785683748006264833",
+        "location": "浙北化工职业技术学院",
+        "name": "沐浴晨煦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 276,
+          "like_count": 8947,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1539
+        },
+        "username": "ChenXu233",
+        "verified": false
+      }
+    ]
+  }
+}

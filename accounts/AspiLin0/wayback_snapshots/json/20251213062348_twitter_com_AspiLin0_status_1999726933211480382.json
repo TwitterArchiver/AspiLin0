@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1999726933211480382",
+    "created_at": "2025-12-13T06:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T07:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999726933211480382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/didengshengwu/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/didengshengwu/status/1999604661712748956",
+          "start": 33,
+          "url": "https://t.co/7FSb4pQQsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999726933211480382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999604661712748956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种回答是错误的，因为它隐含了没有快乐的人生就不值得生活了的意思 https://t.co/7FSb4pQQsx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1999604654301483008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AF1rbbkAA0JqD.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1999726933211480382",
+        "created_at": "2025-12-13T06:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999726933211480382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/didengshengwu/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/didengshengwu/status/1999604661712748956",
+              "start": 33,
+              "url": "https://t.co/7FSb4pQQsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999726933211480382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999604661712748956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种回答是错误的，因为它隐含了没有快乐的人生就不值得生活了的意思 https://t.co/7FSb4pQQsx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999604654301483008"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "1999604661712748956",
+        "created_at": "2025-12-12T22:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999604661712748956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyrFJKBGQU",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/1999604661712748956/photo/1",
+              "media_key": "3_1999604654301483008",
+              "start": 0,
+              "url": "https://t.co/wyrFJKBGQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999604661712748956",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 24120,
+          "like_count": 530,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wyrFJKBGQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 524,
+          "like_count": 13834,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 3553
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "我人虽然不怎么高级，但是底线还可以的！喜欢分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185202,
+          "following_count": 1250,
+          "like_count": 3167,
+          "listed_count": 701,
+          "media_count": 3206,
+          "tweet_count": 6074
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

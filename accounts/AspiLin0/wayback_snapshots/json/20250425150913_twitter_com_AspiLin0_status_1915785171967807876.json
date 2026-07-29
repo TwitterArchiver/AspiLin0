@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1915782985628147864",
+    "created_at": "2025-04-25T15:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T16:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915785171967807876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671473168253599745",
+          "start": 0,
+          "username": "qiuxincheng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915785171967807876",
+    "in_reply_to_user_id": "1671473168253599745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915782985628147864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuxincheng_ 你这是死宅那我想必是残疾人了😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915782979793948672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpY6eElbkAA3AA8.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1915782985628147864",
+        "created_at": "2025-04-25T15:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T16:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915785171967807876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671473168253599745",
+              "start": 0,
+              "username": "qiuxincheng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915785171967807876",
+        "in_reply_to_user_id": "1671473168253599745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915782985628147864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuxincheng_ 你这是死宅那我想必是残疾人了😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915782979793948672"
+          ]
+        },
+        "author_id": "1671473168253599745",
+        "conversation_id": "1915782985628147864",
+        "created_at": "2025-04-25T15:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T16:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915782985628147864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGI6ZCSuWV",
+              "end": 39,
+              "expanded_url": "https://x.com/qiuxincheng_/status/1915782985628147864/photo/1",
+              "media_key": "3_1915782979793948672",
+              "start": 16,
+              "url": "https://t.co/RGI6ZCSuWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915782985628147864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死宅看完《强风吹拂》也想跑跑😭 https://t.co/RGI6ZCSuWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片要吃阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 329,
+          "like_count": 4344,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T11:01:02.000Z",
+        "description": "一瞬的契机，就能迅速改变所有。",
+        "id": "1671473168253599745",
+        "name": "你且入梦きゅうせい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671481145710776321/wdq8SSV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 104
+        },
+        "username": "qiuxincheng_",
+        "verified": true
+      }
+    ]
+  }
+}

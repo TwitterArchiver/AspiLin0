@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913524419772768413",
+    "created_at": "2025-04-19T09:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913525922436882609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239352911596941312",
+          "start": 0,
+          "username": "asahisuki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913525922436882609",
+    "in_reply_to_user_id": "1239352911596941312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913525270302380432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahisuki0 那是不是得去医院看看🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913525270302380432].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913525270302380432",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913525270302380432"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913524419772768413",
+        "created_at": "2025-04-19T09:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913525922436882609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239352911596941312",
+              "start": 0,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913525922436882609",
+        "in_reply_to_user_id": "1239352911596941312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913525270302380432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahisuki0 那是不是得去医院看看🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 310,
+          "like_count": 3896,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "矛盾与无奈\n挚爱@koishikome36067\n好亲友 @Flowers8964 @hikawarinaOvO\n妈妈 @Phrenologist258\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900\n姐姐@Haoleibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "koishikome36067"
+              },
+              {
+                "end": 41,
+                "start": 29,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "hikawarinaOvO"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Phrenologist258"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "milktea_ch51900"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Haoleibot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1888924995021316551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907653317075021825/66Cosukj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1083,
+          "like_count": 214213,
+          "listed_count": 7,
+          "media_count": 301,
+          "tweet_count": 15670
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      }
+    ]
+  }
+}

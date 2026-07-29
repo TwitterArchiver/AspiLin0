@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015994267488120833"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2015994373297865140",
+    "created_at": "2026-01-27T03:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015994373297865140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DveQl7cIEo",
+          "end": 51,
+          "expanded_url": "https://x.com/AspiLin0/status/2015994373297865140/photo/1",
+          "media_key": "3_2015994267488120833",
+          "start": 28,
+          "url": "https://t.co/DveQl7cIEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015994373297865140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "食物中毒了好像是\n感觉早上要把这辈子吃的东西都吐出来了 https://t.co/DveQl7cIEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2015994267488120833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pAGubacAEuKAa.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015994267488120833"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2015994373297865140",
+        "created_at": "2026-01-27T03:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015994373297865140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DveQl7cIEo",
+              "end": 51,
+              "expanded_url": "https://x.com/AspiLin0/status/2015994373297865140/photo/1",
+              "media_key": "3_2015994267488120833",
+              "start": 28,
+              "url": "https://t.co/DveQl7cIEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015994373297865140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "食物中毒了好像是\n感觉早上要把这辈子吃的东西都吐出来了 https://t.co/DveQl7cIEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 545,
+          "like_count": 14943,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 3780
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

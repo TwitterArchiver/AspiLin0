@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1935710053027528859",
+    "created_at": "2025-06-20T15:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T16:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936082335784648842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1260504138154156033",
+          "start": 0,
+          "username": "Arti_grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936082335784648842",
+    "in_reply_to_user_id": "1260504138154156033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936081071533441062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arti_grok 欸？银牌不至于吧，我认识的省队GM都学的差不多了（\n觉得自己学不好也能做个爱好，而且也不一定要研究...\n加油啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1935710053027528859",
+        "created_at": "2025-06-20T15:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T16:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936082335784648842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1260504138154156033",
+              "start": 0,
+              "username": "Arti_grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936082335784648842",
+        "in_reply_to_user_id": "1260504138154156033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936081071533441062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arti_grok 欸？银牌不至于吧，我认识的省队GM都学的差不多了（\n觉得自己学不好也能做个爱好，而且也不一定要研究...\n加油啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260504138154156033",
+        "conversation_id": "1935710053027528859",
+        "created_at": "2025-06-20T15:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T16:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936081071533441062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936081071533441062",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936079011777855523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 但是更高的就学不好啦xwx\n而且做研究可能也摸不着头脑\n那样也很痛苦的\n毕竟我早就认清了自己是个笨蛋的事实_(:з」∠)_\n之前和室友交流发现他们学理科的好多银牌进来都学的很痛苦\n我学的话估计没两个月就能出家了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 432,
+          "like_count": 8934,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T09:36:49.000Z",
+        "description": "目标是2026打到bs国区rk100 | 🥺🥺🥺 | 鸣门卷 | 吃吃喝喝 | 睡大觉 |❤️@Neko_65536",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1260504138154156033",
+        "location": "solIII",
+        "name": "AAA GPS炸弹全图可飞（不炸死不要钱）",
+        "pinned_tweet_id": "1928476152538010072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929524182410567680/AzBbrTY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 473,
+          "like_count": 4518,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1439
+        },
+        "username": "Arti_grok",
+        "verified": false
+      }
+    ]
+  }
+}

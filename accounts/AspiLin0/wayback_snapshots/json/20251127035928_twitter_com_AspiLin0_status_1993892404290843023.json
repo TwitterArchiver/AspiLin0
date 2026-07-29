@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1993892404290843023",
+    "created_at": "2025-11-27T03:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993892404290843023"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "X",
+          "probability": 0.5847,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882716182915973120",
+          "start": 3,
+          "username": "loafieloafy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993892404290843023",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993663666894541113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loafieloafy: i never knew how to gain traction on X so i stopped focusing on popularity... instead, i enjoy healing myself through draw…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1969,
+        "media_key": "3_1993663636573941760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rqg7uacAAGzPz.jpg",
+        "width": 1510
+      },
+      {
+        "height": 1817,
+        "media_key": "3_1993663636561367040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rqg7rakAAABuM.jpg",
+        "width": 1531
+      },
+      {
+        "height": 1336,
+        "media_key": "3_1993663636607565824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rqg72bgAAjaag.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1993892404290843023",
+        "created_at": "2025-11-27T03:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993892404290843023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "X",
+              "probability": 0.5847,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882716182915973120",
+              "start": 3,
+              "username": "loafieloafy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993892404290843023",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993663666894541113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loafieloafy: i never knew how to gain traction on X so i stopped focusing on popularity... instead, i enjoy healing myself through draw…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993663636573941760",
+            "3_1993663636561367040",
+            "3_1993663636607565824"
+          ]
+        },
+        "author_id": "1882716182915973120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1993663666894541113",
+        "created_at": "2025-11-26T12:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993663666894541113"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "X",
+              "probability": 0.492,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 212,
+              "start": 203,
+              "tag": "artshare"
+            },
+            {
+              "end": 220,
+              "start": 213,
+              "tag": "arttwt"
+            },
+            {
+              "end": 230,
+              "start": 221,
+              "tag": "artmoots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtaDPOKAB5",
+              "end": 254,
+              "expanded_url": "https://x.com/loafieloafy/status/1993663666894541113/photo/1",
+              "media_key": "3_1993663636573941760",
+              "start": 231,
+              "url": "https://t.co/LtaDPOKAB5"
+            },
+            {
+              "display_url": "pic.x.com/LtaDPOKAB5",
+              "end": 254,
+              "expanded_url": "https://x.com/loafieloafy/status/1993663666894541113/photo/1",
+              "media_key": "3_1993663636561367040",
+              "start": 231,
+              "url": "https://t.co/LtaDPOKAB5"
+            },
+            {
+              "display_url": "pic.x.com/LtaDPOKAB5",
+              "end": 254,
+              "expanded_url": "https://x.com/loafieloafy/status/1993663666894541113/photo/1",
+              "media_key": "3_1993663636607565824",
+              "start": 231,
+              "url": "https://t.co/LtaDPOKAB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993663666894541113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "i never knew how to gain traction on X so i stopped focusing on popularity... instead, i enjoy healing myself through drawing. if you see my art through these hashtags, it means we were meant to meet.🤍💕\n#artshare #arttwt #artmoots https://t.co/LtaDPOKAB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 516,
+          "like_count": 13542,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3489
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T09:05:00.000Z",
+        "description": "artist, Eng/中文/Русский",
+        "id": "1882716182915973120",
+        "location": "6°66.666'? ,666°.66.666'? ",
+        "name": "𝙡𝙤𝙖𝙛",
+        "pinned_tweet_id": "1993663666894541113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991809096019054592/zhyyZJt-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 52,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "loafieloafy",
+        "verified": false
+      }
+    ]
+  }
+}

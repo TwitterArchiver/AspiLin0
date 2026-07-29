@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2011710417895383048",
+    "created_at": "2026-01-15T08:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T09:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011710417895383048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/didengshengwu/…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/didengshengwu/status/2011650602682761293",
+          "start": 81,
+          "url": "https://t.co/8UbveetqTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011710417895383048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011650602682761293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "项飙对这个现象的概括我很喜欢，“现在”失去了意义，只是指向未来的过渡工具。\n但是人的生理机制决定了人是活在当下的动物，这种心理与身体的错位极容易引发精神上的失衡 https://t.co/8UbveetqTQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2011650587583229952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rRjR0asAAvwrT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2011710417895383048",
+        "created_at": "2026-01-15T08:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T09:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011710417895383048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/didengshengwu/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/didengshengwu/status/2011650602682761293",
+              "start": 81,
+              "url": "https://t.co/8UbveetqTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011710417895383048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011650602682761293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "项飙对这个现象的概括我很喜欢，“现在”失去了意义，只是指向未来的过渡工具。\n但是人的生理机制决定了人是活在当下的动物，这种心理与身体的错位极容易引发精神上的失衡 https://t.co/8UbveetqTQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011650587583229952"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2011650602682761293",
+        "created_at": "2026-01-15T04:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T05:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011650602682761293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTVW0E50CM",
+              "end": 40,
+              "expanded_url": "https://x.com/didengshengwu/status/2011650602682761293/photo/1",
+              "media_key": "3_2011650587583229952",
+              "start": 17,
+              "url": "https://t.co/oTVW0E50CM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011650602682761293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 16716,
+          "like_count": 308,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "你以为的过渡，往往就是你的一生。 https://t.co/oTVW0E50CM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 526,
+          "like_count": 14402,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3689
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187349,
+          "following_count": 1290,
+          "like_count": 3257,
+          "listed_count": 727,
+          "media_count": 3377,
+          "tweet_count": 6321
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

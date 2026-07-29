@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903251234125144371",
+    "created_at": "2025-03-22T01:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T02:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903251234125144371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__Nailis__/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/__Nailis__/status/1903223345547735330",
+          "start": 3,
+          "url": "https://t.co/wwM1ZXtT94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903251234125144371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903223345547735330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好飒 https://t.co/wwM1ZXtT94"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1902725195196227584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmfWe-TbYAAERtf.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903251234125144371",
+        "created_at": "2025-03-22T01:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T02:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903251234125144371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__Nailis__/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/__Nailis__/status/1903223345547735330",
+              "start": 3,
+              "url": "https://t.co/wwM1ZXtT94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903251234125144371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903223345547735330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好飒 https://t.co/wwM1ZXtT94"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902725195196227584"
+          ]
+        },
+        "author_id": "1634578050653507585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903223345547735330",
+        "created_at": "2025-03-21T23:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T00:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903223345547735330"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "ジャローダ",
+              "probability": 0.3185,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 14,
+              "normalized_text": "寧々",
+              "probability": 0.6102,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iu0oclawBY",
+              "end": 39,
+              "expanded_url": "https://x.com/__Nailis__/status/1903223345547735330/photo/1",
+              "media_key": "3_1902725195196227584",
+              "start": 16,
+              "url": "https://t.co/Iu0oclawBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903223345547735330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3980,
+          "like_count": 472,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "お題箱&gt;ジャローダと寧々 https://t.co/Iu0oclawBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 239,
+          "like_count": 2421,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T15:32:36.000Z",
+        "description": "プロセカイラスト投稿してます。\nニーゴ推し\nイラストは全てAI生成です。\npixiv:https://t.co/LzFbbFlKDx\nお題箱:https://t.co/1aF1L7zkdE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87610448",
+                "end": 66,
+                "expanded_url": "http://pixiv.net/users/87610448",
+                "start": 43,
+                "url": "https://t.co/LzFbbFlKDx"
+              },
+              {
+                "display_url": "odaibako.net/u/__Nailis__",
+                "end": 94,
+                "expanded_url": "http://odaibako.net/u/__Nailis__",
+                "start": 71,
+                "url": "https://t.co/1aF1L7zkdE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nailis3206/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nailis3206/",
+                "start": 0,
+                "url": "https://t.co/uCN1a6BewU"
+              }
+            ]
+          }
+        },
+        "id": "1634578050653507585",
+        "location": "ComfyUI,Krita",
+        "name": "Nailis",
+        "pinned_tweet_id": "1800404761268904005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762479072628903936/nlYbqZS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48984,
+          "following_count": 28,
+          "like_count": 3641,
+          "listed_count": 183,
+          "media_count": 2915,
+          "tweet_count": 4218
+        },
+        "url": "https://t.co/uCN1a6BewU",
+        "username": "__Nailis__",
+        "verified": true
+      }
+    ]
+  }
+}

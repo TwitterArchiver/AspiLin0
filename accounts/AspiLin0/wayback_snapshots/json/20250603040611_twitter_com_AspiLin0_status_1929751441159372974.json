@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1929576750096203831",
+    "created_at": "2025-06-03T04:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T05:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929751441159372974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846705278521430017",
+          "start": 0,
+          "username": "yumiralove"
+        },
+        {
+          "end": 22,
+          "id": "1921509990776672256",
+          "start": 12,
+          "username": "LeQing123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929751441159372974",
+    "in_reply_to_user_id": "1846705278521430017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929746331880640945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumiralove @LeQing123 我也爱吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1929576750096203831",
+        "created_at": "2025-06-03T04:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929751441159372974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846705278521430017",
+              "start": 0,
+              "username": "yumiralove"
+            },
+            {
+              "end": 22,
+              "id": "1921509990776672256",
+              "start": 12,
+              "username": "LeQing123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929751441159372974",
+        "in_reply_to_user_id": "1846705278521430017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929746331880640945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumiralove @LeQing123 我也爱吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846705278521430017",
+        "conversation_id": "1929576750096203831",
+        "created_at": "2025-06-03T03:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929746331880640945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921509990776672256",
+              "start": 0,
+              "username": "LeQing123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929746331880640945",
+        "in_reply_to_user_id": "1921509990776672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929576750096203831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeQing123 干煸辣椒，在江西我经常吃，好吃爱吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 399,
+          "like_count": 7294,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:10:34.000Z",
+        "description": "INFP-T 、Les&泛、花藝師、仿真花設計師、貓貓教第八百八十八代傳人",
+        "id": "1846705278521430017",
+        "location": "距离你1km内",
+        "name": "Yumira",
+        "pinned_tweet_id": "1927962768222867544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929706272619900928/-G-dvyYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 189,
+          "like_count": 2709,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 2115
+        },
+        "username": "yumiralove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T10:17:47.000Z",
+        "description": "是个笨蛋",
+        "id": "1921509990776672256",
+        "name": "🍥樂晴四代目🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921528433554919424/9ffvH7rM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 27,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 101
+        },
+        "username": "LeQing123",
+        "verified": false
+      }
+    ]
+  }
+}

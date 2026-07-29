@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1907963189691891852",
+    "created_at": "2025-04-04T01:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T02:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907963189691891852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whitydragon_/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/whitydragon_/status/1907664322261905718",
+          "start": 3,
+          "url": "https://t.co/SHBZuFSmW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907963189691891852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907664322261905718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/SHBZuFSmW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 706,
+        "media_key": "3_1907664279798689795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlijiQaMAMBDWw.png",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1907963189691891852",
+        "created_at": "2025-04-04T01:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T02:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907963189691891852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whitydragon_/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/whitydragon_/status/1907664322261905718",
+              "start": 3,
+              "url": "https://t.co/SHBZuFSmW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907963189691891852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907664322261905718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/SHBZuFSmW9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907664279798689795"
+          ]
+        },
+        "author_id": "2148672589",
+        "conversation_id": "1907664322261905718",
+        "created_at": "2025-04-03T05:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907664322261905718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGIQSKx5tB",
+              "end": 23,
+              "expanded_url": "https://x.com/whitydragon_/status/1907664322261905718/photo/1",
+              "media_key": "3_1907664279798689795",
+              "start": 0,
+              "url": "https://t.co/kGIQSKx5tB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907664322261905718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2548,
+          "impression_count": 279928,
+          "like_count": 29906,
+          "quote_count": 15,
+          "reply_count": 20,
+          "retweet_count": 4528
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kGIQSKx5tB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "每次邂逅都是事先约定，每次死亡都是自尽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1906003520081555510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 277,
+          "like_count": 3147,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-22T09:21:41.000Z",
+        "description": "ºωº   \n\nwhitydragonkim@gmail.com\n\nPlease LEAVE THE SOURCE LINK AND DO NOT CUT THE SIGN WHEN YOU REPOST",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitydragonkim.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://whitydragonkim.myportfolio.com/",
+                "start": 0,
+                "url": "https://t.co/Wh5JzJEYSP"
+              }
+            ]
+          }
+        },
+        "id": "2148672589",
+        "name": "Whitydragon",
+        "pinned_tweet_id": "1906732056257896734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907069961023229952/J6SxgFqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55709,
+          "following_count": 589,
+          "like_count": 71388,
+          "listed_count": 233,
+          "media_count": 2461,
+          "tweet_count": 5882
+        },
+        "url": "https://t.co/Wh5JzJEYSP",
+        "username": "whitydragon_",
+        "verified": false
+      }
+    ]
+  }
+}

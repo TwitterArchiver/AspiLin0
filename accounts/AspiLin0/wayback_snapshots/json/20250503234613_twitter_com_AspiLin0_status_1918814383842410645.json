@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918543024587768099",
+    "created_at": "2025-05-03T23:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T00:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918814383842410645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918814383842410645",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918543024587768099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 谁家好人对神经科学感兴趣读神经科学原理啊\n一是1700页初学者基本是没有动力读下去，初学者更不可能做到正确的选章节读\n二是这本书确实过于专业，有些地方过分的详细了\n我的评价是不如读探索脑，真要读这本起码要把探索脑和那本认知看完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918543024587768099",
+        "created_at": "2025-05-03T23:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T00:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918814383842410645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918814383842410645",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918543024587768099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 谁家好人对神经科学感兴趣读神经科学原理啊\n一是1700页初学者基本是没有动力读下去，初学者更不可能做到正确的选章节读\n二是这本书确实过于专业，有些地方过分的详细了\n我的评价是不如读探索脑，真要读这本起码要把探索脑和那本认知看完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1918543024587768099",
+        "created_at": "2025-05-03T05:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918543024587768099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Read online or download for free from Z-Library the Book: STAHL精神药理学精要：神经科学基础与临床应用：第3版, Author: （英）斯塔尔著, Publisher: 北京大学医学出版社, Language: Chinese, Format: PDF, Filesize: 244.11 MB",
+              "display_url": "z-library.sk/book/5505589/3…",
+              "end": 99,
+              "expanded_url": "https://z-library.sk/book/5505589/33acac/stahl%E7%B2%BE%E7%A5%9E%E8%8D%AF%E7%90%86%E5%AD%A6%E7%B2%BE%E8%A6%81%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%8E%E4%B8%B4%E5%BA%8A%E5%BA%94%E7%94%A8%E7%AC%AC3%E7%89%88.html",
+              "start": 76,
+              "status": 200,
+              "title": "STAHL精神药理学精要：神经科学基础与临床应用：第3版 | （英）斯塔尔著 | download on Z-Library",
+              "unwound_url": "https://z-library.sk/book/5505589/33acac/stahl%E7%B2%BE%E7%A5%9E%E8%8D%AF%E7%90%86%E5%AD%A6%E7%B2%BE%E8%A6%81%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%8E%E4%B8%B4%E5%BA%8A%E5%BA%94%E7%94%A8%E7%AC%AC3%E7%89%88.html",
+              "url": "https://t.co/E7ff5vtQUN"
+            },
+            {
+              "description": "神经科学原理. Contribute to OpenHUTB/neuro development by creating an account on GitHub.",
+              "display_url": "github.com/OpenHUTB/neuro",
+              "end": 154,
+              "expanded_url": "https://github.com/OpenHUTB/neuro",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1918543028710715392/HLXmvSF3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1918543028710715392/HLXmvSF3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "GitHub - OpenHUTB/neuro: 神经科学原理",
+              "unwound_url": "https://github.com/OpenHUTB/neuro",
+              "url": "https://t.co/v1cUk0fWon"
+            },
+            {
+              "description": "PubMed® comprises more than 38 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites.",
+              "display_url": "pubmed.ncbi.nlm.nih.gov",
+              "end": 189,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1917949215352786944/qGOQtFLT?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1917949215352786944/qGOQtFLT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 166,
+              "status": 200,
+              "title": "PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/",
+              "url": "https://t.co/vN0JEQlY7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918543024587768099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 999,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大家对精神药理学及神经科学感兴趣的话，给大家推荐一点资料。\n\n精神药理学教材首推《Stahl精神药理学精要：神经科学基础与临床应用》\nz-lib链接：\nhttps://t.co/E7ff5vtQUN\n\n神经科学领域的圣经《神经科学原理》\nGithub开源项目:\nhttps://t.co/v1cUk0fWon\n\nPubMed论文：\nhttps://t.co/vN0JEQlY7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 351,
+          "like_count": 5455,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI-KIWI",
+        "pinned_tweet_id": "1918543024587768099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916873290012151808/CQ-vT0Z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 48,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 534
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

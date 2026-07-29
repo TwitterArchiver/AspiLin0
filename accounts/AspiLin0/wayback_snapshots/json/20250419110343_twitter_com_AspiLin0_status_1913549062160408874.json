@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913509683350114413",
+    "created_at": "2025-04-19T11:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T12:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913549062160408874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "712064456377892864",
+          "start": 0,
+          "username": "Bub_Dieter869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913549062160408874",
+    "in_reply_to_user_id": "712064456377892864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913509683350114413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bub_Dieter869 本质没区别程度有区别吧\n(而且无病呻吟一般不是指没痛苦吗)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913509683350114413",
+        "created_at": "2025-04-19T11:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913549062160408874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "712064456377892864",
+              "start": 0,
+              "username": "Bub_Dieter869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913549062160408874",
+        "in_reply_to_user_id": "712064456377892864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913509683350114413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bub_Dieter869 本质没区别程度有区别吧\n(而且无病呻吟一般不是指没痛苦吗)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "712064456377892864",
+        "conversation_id": "1913509683350114413",
+        "created_at": "2025-04-19T08:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913509683350114413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913509683350114413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 251,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我绝对不认同“痛苦是没有区别”的这一句话。要不然无病呻吟这个词出来干嘛？而且物质的作用在这里被忽视了，你只能在这里看到唯我论。\n难道一个天天在网上无病呻吟的富人，和一个苏丹平民的痛苦相等？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 311,
+          "like_count": 3942,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-21T23:52:50.000Z",
+        "description": "放課後に，\n在放学后，\nみんなで食べたマカロン，\n大家聚在一起吃的马卡龙，\nストロベリー味もおいしいけど，\n虽然草莓味的也很好吃就是了，\nほんとはねピスタチオが好き，\n但其实呢我喜欢的是开心果，\nでもね、いいの。\n不过呢、没所谓。\n一緒でいい……，\n一样的就好……。",
+        "id": "712064456377892864",
+        "location": "🇪🇪东百",
+        "name": "齐伊森哈内",
+        "pinned_tweet_id": "1904712917011832966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913399864194387968/q9Y8bUal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 729,
+          "like_count": 54011,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 11406
+        },
+        "username": "Bub_Dieter869",
+        "verified": false
+      }
+    ]
+  }
+}

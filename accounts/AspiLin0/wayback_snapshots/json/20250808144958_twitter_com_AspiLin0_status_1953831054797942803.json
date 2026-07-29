@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1953829530273296744",
+    "created_at": "2025-08-08T14:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T15:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953831054797942803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1948316478832549888",
+          "start": 0,
+          "username": "Estrellat0724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953831054797942803",
+    "in_reply_to_user_id": "1948316478832549888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953829530273296744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estrellat0724 请问共产主义社会不存在的是哪种性别区别\n1.社会性别\n2.性腺性别\n3.染色体性别\n4.生殖器性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1953829530273296744",
+        "created_at": "2025-08-08T14:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953831054797942803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948316478832549888",
+              "start": 0,
+              "username": "Estrellat0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953831054797942803",
+        "in_reply_to_user_id": "1948316478832549888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953829530273296744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estrellat0724 请问共产主义社会不存在的是哪种性别区别\n1.社会性别\n2.性腺性别\n3.染色体性别\n4.生殖器性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948316478832549888",
+        "conversation_id": "1953829530273296744",
+        "created_at": "2025-08-08T14:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953829530273296744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964tou1234567…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/8964tou12345678/status/1953827094124974535",
+              "start": 140,
+              "url": "https://t.co/8IRT00l8py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953829530273296744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953827094124974535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别是性别，生理差异是生理差异，生理差异不是任何社会中都会产生性别的区分，在共产主义社会不存在性别的区别，只有器官本身的区别，你还是不想区分生理器官本身和性别的区别，即使是你在对话中用了不同名词来区分这两个概念，但你为了你的世界观统一还是拒绝承认这个事实，这就是意识形态起作用了 https://t.co/8IRT00l8py"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin🦊",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 470,
+          "like_count": 11837,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 2923
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:37:13.000Z",
+        "description": "马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜INTP-A｜非二元性别规范⚧｜一切权力归苏维埃🗳️｜民主计划经济📈｜无产阶级专政⚒️｜平权主义✊｜民族平等🫱🏼‍🫲🏿｜知识公有化🏴‍☠️",
+        "id": "1948316478832549888",
+        "name": "☭辉夜🚩🇵🇸🇺🇦🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949498128794898432/pNLDMW12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 599,
+          "like_count": 340,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 476
+        },
+        "username": "Estrellat0724",
+        "verified": false
+      }
+    ]
+  }
+}

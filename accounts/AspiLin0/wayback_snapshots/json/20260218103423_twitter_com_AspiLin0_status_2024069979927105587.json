@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023882385293799871",
+    "created_at": "2026-02-18T10:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024069979927105587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyvv520"
+        },
+        {
+          "end": 22,
+          "id": "2011073315763601416",
+          "start": 10,
+          "username": "kilock_1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024069979927105587",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024069469740671436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyvv520 @kilock_1208 你都割手了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023882385293799871",
+        "created_at": "2026-02-18T10:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024069979927105587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyvv520"
+            },
+            {
+              "end": 22,
+              "id": "2011073315763601416",
+              "start": 10,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024069979927105587",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024069469740671436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyvv520 @kilock_1208 你都割手了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694012668359634944",
+        "conversation_id": "2023882385293799871",
+        "created_at": "2026-02-18T10:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024069469740671436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 22,
+              "id": "2011073315763601416",
+              "start": 10,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024069469740671436",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024006357230219496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @kilock_1208 事后会痛的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 598,
+          "like_count": 16646,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 4042
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "不线下  会互关同类\nhrt2025.3.15  出柜，家长反对吃糖   已经断糖了 \n精神很稳定 不割手不od \n会偶尔发负能量，慎关注\n努力攒钱ing\n2008.3.9北京\n减肥ing\n💞@Felicia1337",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Felicia1337"
+              }
+            ]
+          }
+        },
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "pinned_tweet_id": "1932347145019130124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1396,
+          "like_count": 2633,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1191
+        },
+        "username": "yeyvv520",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 半调子开发者 | intp | 最喜欢的人 @qqqqqf5 大号登不上了wwwww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "qqqqqf5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2023139129526223253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 467,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1942148652878925988",
+    "created_at": "2025-07-07T14:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942225500463906944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1871475391682297856",
+          "start": 0,
+          "username": "Cyniton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942225500463906944",
+    "in_reply_to_user_id": "1871475391682297856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942148652878925988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyniton 如果它在你看到它的时候存在，单数不看时不存在，那它是量子(quantum）的\n（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1942148652878925988",
+        "created_at": "2025-07-07T14:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942225500463906944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1871475391682297856",
+              "start": 0,
+              "username": "Cyniton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942225500463906944",
+        "in_reply_to_user_id": "1871475391682297856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942148652878925988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyniton 如果它在你看到它的时候存在，单数不看时不存在，那它是量子(quantum）的\n（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871475391682297856",
+        "conversation_id": "1942148652878925988",
+        "created_at": "2025-07-07T09:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942148652878925988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942148652878925988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 112,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“如果它存在，并且你看得到它，那它是真实（real）的。\n如果它存在，但是你看不到它，那它是透明（transparent）的。\n如果它不存在，但是你看得到它，那它是虚拟（virtual）的。\n如果它不存在，并且你看不到它，\n        ——那你大概是不小心把它擦掉了。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 445,
+          "like_count": 9519,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:38:38.000Z",
+        "description": "Cyniton | 让有序的信息自由流动 | @Cynun75",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "Cynun75"
+              }
+            ]
+          }
+        },
+        "id": "1871475391682297856",
+        "name": "Cyniton",
+        "pinned_tweet_id": "1923598911027151221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871477134910496769/W6ehSsCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 98,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 103
+        },
+        "username": "Cyniton",
+        "verified": false
+      }
+    ]
+  }
+}

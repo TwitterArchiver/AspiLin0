@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1942436511066296513",
+    "created_at": "2025-07-08T04:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942436511066296513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cleanDust_Chen…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/cleanDust_Chen/status/1942180294834131372",
+          "start": 23,
+          "url": "https://t.co/6cSQle1BZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942436511066296513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942180294834131372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有神经科学依据的\n编码过程优先激活频繁的词语 https://t.co/6cSQle1BZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 337,
+        "media_key": "3_1942180292225060864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQCr4fW0AAl6gd.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1942436511066296513",
+        "created_at": "2025-07-08T04:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942436511066296513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cleanDust_Chen…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/cleanDust_Chen/status/1942180294834131372",
+              "start": 23,
+              "url": "https://t.co/6cSQle1BZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942436511066296513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942180294834131372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有神经科学依据的\n编码过程优先激活频繁的词语 https://t.co/6cSQle1BZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942180292225060864"
+          ]
+        },
+        "author_id": "1833919115360436229",
+        "conversation_id": "1942180294834131372",
+        "created_at": "2025-07-07T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942180294834131372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tDTUUrveY",
+              "end": 33,
+              "expanded_url": "https://x.com/cleanDust_Chen/status/1942180294834131372/photo/1",
+              "media_key": "3_1942180292225060864",
+              "start": 10,
+              "url": "https://t.co/3tDTUUrveY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942180294834131372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8127,
+          "like_count": 103,
+          "quote_count": 5,
+          "reply_count": 66,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你第一眼看到了什么 https://t.co/3tDTUUrveY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 446,
+          "like_count": 9593,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 2364
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T17:22:55.000Z",
+        "description": "✨今天也很棒！~✧*    \n🌸大部分时间情绪稳定的咩咩树洞.:*♡    \n🤖情绪价值贩卖机器人ノ✿    \n🔔想用梗图meme治疗肌肤饥渴    \n🎮怪猎世界沉迷       //欢迎扩列//欢迎贴贴//偶尔涩涩//请私聊窝~💖梦梦老婆：@xinmengQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "xinmengQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleandust_chen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleandust_chen",
+                "start": 0,
+                "url": "https://t.co/zJyn77Q8sg"
+              }
+            ]
+          }
+        },
+        "id": "1833919115360436229",
+        "location": "月辰前线据点，新大陆",
+        "name": "入机咩咩子",
+        "pinned_tweet_id": "1934843248654340122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935536451942248448/0l65iOBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 285,
+          "like_count": 1938,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/zJyn77Q8sg",
+        "username": "cleanDust_Chen",
+        "verified": false
+      }
+    ]
+  }
+}

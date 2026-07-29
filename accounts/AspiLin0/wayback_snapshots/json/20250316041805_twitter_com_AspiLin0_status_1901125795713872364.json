@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1900923918158098791",
+    "created_at": "2025-03-16T04:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T05:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901125795713872364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620590639200059397",
+          "start": 0,
+          "username": "QwQMikuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901125795713872364",
+    "in_reply_to_user_id": "1620590639200059397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901121500989845558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQMikuF （）虽然但是，注射给药本来就是所以给药方式中最危险的一种，我查询了一般药物注射途径所占的不良反应比例，与这个比例大致相当。另一方面一般来说一种药物能得到审批通过，并能在市场有一定地位，说明其大概有一定药用价值。所以个人认为这种事故的发生主要是医生用药的问题，希望你能理解😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_1901121498091581440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmIj7hCbcAA8vyu.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1900923918158098791",
+        "created_at": "2025-03-16T04:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T05:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901125795713872364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620590639200059397",
+              "start": 0,
+              "username": "QwQMikuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901125795713872364",
+        "in_reply_to_user_id": "1620590639200059397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901121500989845558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQMikuF （）虽然但是，注射给药本来就是所以给药方式中最危险的一种，我查询了一般药物注射途径所占的不良反应比例，与这个比例大致相当。另一方面一般来说一种药物能得到审批通过，并能在市场有一定地位，说明其大概有一定药用价值。所以个人认为这种事故的发生主要是医生用药的问题，希望你能理解😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901121498091581440"
+          ]
+        },
+        "author_id": "1620590639200059397",
+        "conversation_id": "1900923918158098791",
+        "created_at": "2025-03-16T04:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T05:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901121500989845558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpgwbFjgNU",
+              "end": 45,
+              "expanded_url": "https://x.com/QwQMikuF/status/1901121500989845558/photo/1",
+              "media_key": "3_1901121498091581440",
+              "start": 22,
+              "url": "https://t.co/NpgwbFjgNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901121500989845558",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901118549516845133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我觉得它本身就有问题😑 https://t.co/NpgwbFjgNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin0",
+                "start": 0,
+                "url": "https://t.co/3MNLmpd4MB"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 228,
+          "like_count": 2111,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/3MNLmpd4MB",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:11:41.000Z",
+        "description": "普通中国高中牲",
+        "id": "1620590639200059397",
+        "location": "People's Republic of China",
+        "name": "Y葱Y✞",
+        "pinned_tweet_id": "1863976575043252338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880621684585291776/nd7GKbWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 217,
+          "like_count": 997,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 881
+        },
+        "username": "QwQMikuF",
+        "verified": false
+      }
+    ]
+  }
+}

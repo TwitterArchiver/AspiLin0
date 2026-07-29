@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039239574531231744"
+      ],
+      "media_source_tweet_id": [
+        "2039239577094009116"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2039357958912643577",
+    "created_at": "2026-04-01T15:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039357958912643577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952348762493550592",
+          "start": 3,
+          "username": "111x717"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wob6X5zPSP",
+          "end": 47,
+          "expanded_url": "https://x.com/111x717/status/2039239577094009116/photo/1",
+          "media_key": "3_2039239574531231744",
+          "start": 24,
+          "url": "https://t.co/wob6X5zPSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039357958912643577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039239577094009116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @111x717: どーもついすやです。 https://t.co/wob6X5zPSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_2039239574531231744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzVlrPaUAAwiv_.jpg",
+        "width": 2027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039239574531231744"
+          ],
+          "media_source_tweet_id": [
+            "2039239577094009116"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2039357958912643577",
+        "created_at": "2026-04-01T15:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039357958912643577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952348762493550592",
+              "start": 3,
+              "username": "111x717"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wob6X5zPSP",
+              "end": 47,
+              "expanded_url": "https://x.com/111x717/status/2039239577094009116/photo/1",
+              "media_key": "3_2039239574531231744",
+              "start": 24,
+              "url": "https://t.co/wob6X5zPSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039357958912643577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039239577094009116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @111x717: どーもついすやです。 https://t.co/wob6X5zPSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039239574531231744"
+          ]
+        },
+        "author_id": "1952348762493550592",
+        "conversation_id": "2039239577094009116",
+        "created_at": "2026-04-01T07:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039239577094009116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wob6X5zPSP",
+              "end": 34,
+              "expanded_url": "https://x.com/111x717/status/2039239577094009116/photo/1",
+              "media_key": "3_2039239574531231744",
+              "start": 11,
+              "url": "https://t.co/wob6X5zPSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039239577094009116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 6902,
+          "like_count": 780,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "どーもついすやです。 https://t.co/wob6X5zPSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 675,
+          "like_count": 18905,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 4465
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T12:40:10.000Z",
+        "description": "好きなものを描く。\n♡⇢(@Nijuugoseiki) ໒꒱ ‧₊˚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "Nijuugoseiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/awawabukubuku",
+                "end": 23,
+                "expanded_url": "https://lit.link/awawabukubuku",
+                "start": 0,
+                "url": "https://t.co/UhpGN0PMk1"
+              }
+            ]
+          }
+        },
+        "id": "1952348762493550592",
+        "location": "Do not repost,AI使用、無断転載加工 ×",
+        "name": "ついすや",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033558666532818944/3khC_dzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4640,
+          "following_count": 125,
+          "like_count": 564,
+          "listed_count": 17,
+          "media_count": 29,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/UhpGN0PMk1",
+        "username": "111x717",
+        "verified": false
+      }
+    ]
+  }
+}

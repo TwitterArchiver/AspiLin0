@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036301470430273536"
+      ],
+      "media_source_tweet_id": [
+        "2036301506950107322"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2036475790225973507",
+    "created_at": "2026-03-24T16:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036475790225973507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "131848369",
+          "start": 3,
+          "username": "hagure_g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gJ10zyyXf",
+          "end": 45,
+          "expanded_url": "https://x.com/hagure_g/status/2036301506950107322/photo/1",
+          "media_key": "3_2036301470430273536",
+          "start": 22,
+          "url": "https://t.co/2gJ10zyyXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036475790225973507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036301506950107322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hagure_g: 足立レイﾁｬﾝ https://t.co/2gJ10zyyXf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036475790225973507].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036475790225973507",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036475790225973507"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2461,
+        "media_key": "3_2036301470430273536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJlZgiaIAAW7Xv.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036301470430273536"
+          ]
+        },
+        "author_id": "131848369",
+        "conversation_id": "2036301506950107322",
+        "created_at": "2026-03-24T04:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036301506950107322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gJ10zyyXf",
+              "end": 31,
+              "expanded_url": "https://x.com/hagure_g/status/2036301506950107322/photo/1",
+              "media_key": "3_2036301470430273536",
+              "start": 8,
+              "url": "https://t.co/2gJ10zyyXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036301506950107322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 24469,
+          "like_count": 1962,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "足立レイﾁｬﾝ https://t.co/2gJ10zyyXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 662,
+          "like_count": 18534,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 4387
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-11T14:34:43.000Z",
+        "description": "味方を背中から刺すタイプの魚 　　 東方二次創作とオリジナルを描きます　　絵の投稿先:https://t.co/TBSOd2eZQS\n& https://t.co/jlMfj1fqXb　URLまとめ:https://t.co/T2dwVunwju",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/hagure_g",
+                "end": 66,
+                "expanded_url": "http://pixiv.me/hagure_g",
+                "start": 43,
+                "url": "https://t.co/TBSOd2eZQS"
+              },
+              {
+                "display_url": "hagureg.fanbox.cc",
+                "end": 92,
+                "expanded_url": "http://hagureg.fanbox.cc",
+                "start": 69,
+                "url": "https://t.co/jlMfj1fqXb"
+              },
+              {
+                "display_url": "lit.link/hagureg",
+                "end": 123,
+                "expanded_url": "https://lit.link/hagureg",
+                "start": 100,
+                "url": "https://t.co/T2dwVunwju"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hagure_g",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hagure_g",
+                "start": 0,
+                "url": "https://t.co/NOt7oMny6Y"
+              }
+            ]
+          }
+        },
+        "id": "131848369",
+        "name": "はぐれけだま【3】",
+        "pinned_tweet_id": "2007731151071567878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000114348116/e397d9cf61c85c4478fa5227535d2d92_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74319,
+          "following_count": 2243,
+          "like_count": 120743,
+          "listed_count": 716,
+          "media_count": 649,
+          "tweet_count": 65798
+        },
+        "url": "https://t.co/NOt7oMny6Y",
+        "username": "hagure_g",
+        "verified": true
+      }
+    ]
+  }
+}

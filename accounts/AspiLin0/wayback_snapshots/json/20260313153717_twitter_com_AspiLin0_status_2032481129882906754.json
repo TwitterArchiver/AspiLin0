@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2032438596029079709",
+    "created_at": "2026-03-13T15:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032481129882906754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942493462810525696",
+          "start": 0,
+          "username": "LengJinOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032481129882906754",
+    "in_reply_to_user_id": "1942493462810525696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032438596029079709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengJinOfficial 严谨地说，没给语境不一定成立\n但是可以默认是正确的这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2032438596029079709",
+        "created_at": "2026-03-13T15:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032481129882906754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942493462810525696",
+              "start": 0,
+              "username": "LengJinOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032481129882906754",
+        "in_reply_to_user_id": "1942493462810525696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032438596029079709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengJinOfficial 严谨地说，没给语境不一定成立\n但是可以默认是正确的这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2032438594724614144"
+          ]
+        },
+        "author_id": "1942493462810525696",
+        "conversation_id": "2032438596029079709",
+        "created_at": "2026-03-13T12:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032438596029079709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032438596029079709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 277,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你是否赞同1+1=2\n如否请论证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 626,
+          "like_count": 17852,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 4256
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "中推选举进行时｜第五届中推模拟选举委员会主席",
+        "id": "1942493462810525696",
+        "location": "Tokyo-to, Japan",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2031763093978763472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029219644649996288/tjHOcSWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1573,
+          "like_count": 13613,
+          "listed_count": 0,
+          "media_count": 1012,
+          "tweet_count": 4473
+        },
+        "username": "LengJinOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

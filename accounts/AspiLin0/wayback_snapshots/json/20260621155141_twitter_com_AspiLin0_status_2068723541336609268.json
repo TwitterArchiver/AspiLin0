@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068723529311535104"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2068723541336609268",
+    "created_at": "2026-06-21T15:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068723541336609268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 140,
+          "start": 135,
+          "tag": "随便写写"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a73kTzaClc",
+          "end": 164,
+          "expanded_url": "https://x.com/AspiLin0/status/2068723541336609268/photo/1",
+          "media_key": "3_2068723529311535104",
+          "start": 141,
+          "url": "https://t.co/a73kTzaClc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068723541336609268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逻辑感觉就是在很努力的去拟合现实世界，但现实世界的稳定性从来不能依赖于逻辑存在。\n所以休谟问题本质上是无解的，但我们又知道它是有解的，引入一个直觉上成立的假设实际上方便很多，也比较符合奥卡姆原则。\n但是吧在严肃讨论时又不得不记住这个假设依旧是假设，它具有很强的任意性。\n#随便写写 https://t.co/a73kTzaClc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2068723529311535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWVFt8bQAAguUA.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068723529311535104"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2068723541336609268",
+        "created_at": "2026-06-21T15:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068723541336609268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "随便写写"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a73kTzaClc",
+              "end": 164,
+              "expanded_url": "https://x.com/AspiLin0/status/2068723541336609268/photo/1",
+              "media_key": "3_2068723529311535104",
+              "start": 141,
+              "url": "https://t.co/a73kTzaClc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068723541336609268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逻辑感觉就是在很努力的去拟合现实世界，但现实世界的稳定性从来不能依赖于逻辑存在。\n所以休谟问题本质上是无解的，但我们又知道它是有解的，引入一个直觉上成立的假设实际上方便很多，也比较符合奥卡姆原则。\n但是吧在严肃讨论时又不得不记住这个假设依旧是假设，它具有很强的任意性。\n#随便写写 https://t.co/a73kTzaClc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 768,
+          "like_count": 21435,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5052
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967871882902093824"
+      ],
+      "media_source_tweet_id": [
+        "1967871885179584996"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1968568221566419355",
+    "created_at": "2025-09-18T06:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968568221566419355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "298402391",
+          "start": 3,
+          "username": "shoutarotttt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mg99gI9NdA",
+          "end": 41,
+          "expanded_url": "https://x.com/shoutarotttt/status/1967871885179584996/photo/1",
+          "media_key": "3_1967871882902093824",
+          "start": 18,
+          "url": "https://t.co/mg99gI9NdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968568221566419355",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 493
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967871885179584996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shoutarotttt: https://t.co/mg99gI9NdA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_1967871882902093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09JDR_bwAAwjGG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967871882902093824"
+          ],
+          "media_source_tweet_id": [
+            "1967871885179584996"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1968568221566419355",
+        "created_at": "2025-09-18T06:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968568221566419355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "298402391",
+              "start": 3,
+              "username": "shoutarotttt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg99gI9NdA",
+              "end": 41,
+              "expanded_url": "https://x.com/shoutarotttt/status/1967871885179584996/photo/1",
+              "media_key": "3_1967871882902093824",
+              "start": 18,
+              "url": "https://t.co/mg99gI9NdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968568221566419355",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967871885179584996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shoutarotttt: https://t.co/mg99gI9NdA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967871882902093824"
+          ]
+        },
+        "author_id": "298402391",
+        "conversation_id": "1967871885179584996",
+        "created_at": "2025-09-16T08:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967871885179584996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg99gI9NdA",
+              "end": 23,
+              "expanded_url": "https://x.com/shoutarotttt/status/1967871885179584996/photo/1",
+              "media_key": "3_1967871882902093824",
+              "start": 0,
+              "url": "https://t.co/mg99gI9NdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967871885179584996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 47541,
+          "like_count": 4111,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mg99gI9NdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 488,
+          "like_count": 12956,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3257
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-14T07:50:14.000Z",
+        "description": "イラストレーター。\nホシクイLINEスタンプ販売中→ https://t.co/boac0wevi2\n グッズ →https://t.co/4aw2c2n21I\n✉→shoutarotttt@yahoo.co.jp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "store.line.me/stickershop/au…",
+                "end": 50,
+                "expanded_url": "https://store.line.me/stickershop/author/5359",
+                "start": 27,
+                "url": "https://t.co/boac0wevi2"
+              },
+              {
+                "display_url": "suzuri.jp/shoutarotttt",
+                "end": 80,
+                "expanded_url": "http://suzuri.jp/shoutarotttt",
+                "start": 57,
+                "url": "https://t.co/4aw2c2n21I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=3384440",
+                "start": 0,
+                "url": "https://t.co/lalPWxlZg8"
+              }
+            ]
+          }
+        },
+        "id": "298402391",
+        "location": "無断使用/AI学習等禁止",
+        "name": "翔太郎@ホシクイ",
+        "pinned_tweet_id": "1964172586511732976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1320844129144696832/JE-oHvSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24834,
+          "following_count": 1111,
+          "like_count": 37210,
+          "listed_count": 413,
+          "media_count": 5966,
+          "tweet_count": 59496
+        },
+        "url": "https://t.co/lalPWxlZg8",
+        "username": "shoutarotttt",
+        "verified": false
+      }
+    ]
+  }
+}

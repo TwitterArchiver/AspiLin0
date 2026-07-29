@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004102493333336306",
+    "created_at": "2025-12-26T05:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T06:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004428974924136614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1995189483713818624",
+          "start": 0,
+          "username": "XiaoXiao_xyz27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004428974924136614",
+    "in_reply_to_user_id": "1995189483713818624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004102493333336306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoXiao_xyz27 不好说\n能把文字排列得很有逻辑性也是很有魅力的，参考分哲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004102493333336306",
+        "created_at": "2025-12-26T05:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004428974924136614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1995189483713818624",
+              "start": 0,
+              "username": "XiaoXiao_xyz27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004428974924136614",
+        "in_reply_to_user_id": "1995189483713818624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004102493333336306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoXiao_xyz27 不好说\n能把文字排列得很有逻辑性也是很有魅力的，参考分哲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995189483713818624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2004102493333336306",
+        "created_at": "2025-12-25T08:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004102493333336306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004102493333336306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 24870,
+          "like_count": 388,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "很羡慕你们文学水平高的人，能把自己的文字写的生动形象，我写出来为什么干巴巴的，像人机，说话还像文盲……理科你把我毁了🥲我现在说话只能像人机一样输入一堆数据，生成一个结果，真的很不会说漂亮话，说出来像复制粘贴别人的一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 523,
+          "like_count": 13851,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3563
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T17:54:19.000Z",
+        "description": "朕的树洞 /有问题可以问我 如果我知道会认真回答",
+        "id": "1995189483713818624",
+        "location": "0.3km",
+        "name": "薯条蘸雪糕",
+        "pinned_tweet_id": "1996547555329728934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995189771426295808/3NhRZ_ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 83,
+          "like_count": 3751,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1208
+        },
+        "username": "XiaoXiao_xyz27",
+        "verified": false
+      }
+    ]
+  }
+}

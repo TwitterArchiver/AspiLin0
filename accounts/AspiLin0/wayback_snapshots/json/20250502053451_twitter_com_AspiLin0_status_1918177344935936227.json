@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918169876033884530",
+    "created_at": "2025-05-02T05:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918177344935936227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918177344935936227",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918169876033884530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 这是哪门子的药物（雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918169876033884530",
+        "created_at": "2025-05-02T05:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918177344935936227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918177344935936227",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918169876033884530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 这是哪门子的药物（雾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1918169876033884530",
+        "created_at": "2025-05-02T05:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918169876033884530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "触电 痛苦指数:低/中 理论时间段:数秒内死亡 工具准备:电线 变压器 医用脱脂棉或纱布 食盐水 安眠药 电源定时器 肌肉松弛剂（非必要） 主要死亡原因：呼吸停止、心脏功能紊乱、休克 实践经验（100V AC条件下测试，仅有无服用安眠药的区别）（湿润条件） 基础数据:175cm 52kg（服用肌肉松弛剂） T+1s 强烈触电感 轻微痉挛 窒息感 T+2s 强烈的灼烧感 中...",
+              "display_url": "overdose.day/%E8%8D%AF%E7%8…",
+              "end": 164,
+              "expanded_url": "https://www.overdose.day/%E8%8D%AF%E7%89%A9%E6%8A%A5%E5%91%8A%EF%BC%88%E6%96%B0%EF%BC%89/208.html",
+              "start": 141,
+              "status": 200,
+              "title": "报告74-触电",
+              "unwound_url": "https://www.overdose.day/%E8%8D%AF%E7%89%A9%E6%8A%A5%E5%91%8A%EF%BC%88%E6%96%B0%EF%BC%89/208.html",
+              "url": "https://t.co/Ozkuzproaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918169876033884530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报告74-触电\n\n痛苦指数:低/中\n\n理论时间段:数秒内死亡\n\n工具准备:电线 变压器 医用脱脂棉或纱布\n\n食盐水 安眠药 电源定时器 肌肉松弛剂（非必要）\n\n主要死亡原因：呼吸停止、心脏功能紊乱、休克\n\n实践经验（100V AC条件下测试，仅有无服用安眠药的区别）（湿润条件）\n\nhttps://t.co/Ozkuzproaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 337,
+          "like_count": 4872,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n个人galgame站:https://t.co/iRTTcRxOR2\n官网:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsd.kim",
+                "end": 58,
+                "expanded_url": "https://lsd.kim/",
+                "start": 35,
+                "url": "https://t.co/iRTTcRxOR2"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 85,
+                "expanded_url": "https://overdose.day",
+                "start": 62,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1911617640910688727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 771,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

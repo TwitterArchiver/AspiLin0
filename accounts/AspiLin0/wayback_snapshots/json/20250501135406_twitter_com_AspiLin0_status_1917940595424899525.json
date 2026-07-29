@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1917939499964981716",
+    "created_at": "2025-05-01T13:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T14:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917940595424899525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585942498253238273",
+          "start": 0,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917940595424899525",
+    "in_reply_to_user_id": "1585942498253238273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917939499964981716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceEslight 🌿，我们高中有个人之前拿着把菜刀在寝室楼里走来走去\n我是直接躲起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1917939499964981716",
+        "created_at": "2025-05-01T13:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T14:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917940595424899525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585942498253238273",
+              "start": 0,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917940595424899525",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917939499964981716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight 🌿，我们高中有个人之前拿着把菜刀在寝室楼里走来走去\n我是直接躲起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "1917939499964981716",
+        "created_at": "2025-05-01T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917939499964981716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917939499964981716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来以前在中专宿舍被没收过美工刀，因为他们觉得万一我情绪上来，拿这个打架很危险。但其实我是拿来给自己制造红线的。\n又想起小学还是初中时，有个同学像大家炫耀自己带了把菜刀到班上玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 336,
+          "like_count": 4742,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "我想永宁或者永久的停止思考，绝对的死亡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "距离你7km",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901073314480877571/KPSFnYts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 47,
+          "like_count": 14081,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 5098
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

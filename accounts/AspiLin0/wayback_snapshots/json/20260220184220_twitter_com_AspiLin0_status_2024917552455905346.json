@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2024917552455905346",
+    "created_at": "2026-02-20T18:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T19:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024917552455905346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024917552455905346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024916016590209489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 上班很累，但我很开心，工资不高，但通过积极的劳动获取报酬我认为也是一种实现自我价值的方式，这同时也是对精神健康有益的。\n至于前段时间偶然刷到的，mtf应该靠援交赚钱的说法，以及最近跨圈的各种抽象事，完全是在误人子弟。也完全是在加深刻板印象…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2024916001612255232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnyYAAaUAAq73d.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024917552455905346",
+        "created_at": "2026-02-20T18:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024917552455905346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024917552455905346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024916016590209489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 上班很累，但我很开心，工资不高，但通过积极的劳动获取报酬我认为也是一种实现自我价值的方式，这同时也是对精神健康有益的。\n至于前段时间偶然刷到的，mtf应该靠援交赚钱的说法，以及最近跨圈的各种抽象事，完全是在误人子弟。也完全是在加深刻板印象…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024916001612255232"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024916016590209489",
+        "created_at": "2026-02-20T18:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024916016590209489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHwdlN28KV",
+              "end": 161,
+              "expanded_url": "https://x.com/yaming00742313/status/2024916016590209489/photo/1",
+              "media_key": "3_2024916001612255232",
+              "start": 138,
+              "url": "https://t.co/RHwdlN28KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024916016590209489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上班很累，但我很开心，工资不高，但通过积极的劳动获取报酬我认为也是一种实现自我价值的方式，这同时也是对精神健康有益的。\n至于前段时间偶然刷到的，mtf应该靠援交赚钱的说法，以及最近跨圈的各种抽象事，完全是在误人子弟。也完全是在加深刻板印象和对mtf的歧视甚至是对女性的歧视。\n我们要做的不是从本就贫瘠的生存环境走向更深的深渊，而是用自己的汗水将贫瘠的土地开垦成会长出鲜花的沃野，即使这需要很久……\n作为前辈，我希望自己可以成为托举后来者向上的榜样，而不是误导他们堕落的罪人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上班很累，但我很开心，工资不高，但通过积极的劳动获取报酬我认为也是一种实现自我价值的方式，这同时也是对精神健康有益的。\n至于前段时间偶然刷到的，mtf应该靠援交赚钱的说法，以及最近跨圈的各种抽象事，完全是在误人子弟。也完全是在加深刻板印象和对mtf的歧视甚至是对女性的歧视。 https://t.co/RHwdlN28KV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 618,
+          "like_count": 17263,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 4161
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12208,
+          "following_count": 1563,
+          "like_count": 7326,
+          "listed_count": 30,
+          "media_count": 365,
+          "tweet_count": 2644
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

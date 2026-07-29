@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937085574638379079",
+    "created_at": "2025-06-23T11:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T12:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937104583857443253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896923926112169984",
+          "start": 0,
+          "username": "FrostyStrings"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937104583857443253",
+    "in_reply_to_user_id": "1896923926112169984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937085574638379079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrostyStrings fMRI（\n这是磁共振成像\n能一下照出来说明已经很严重了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_1937085560943775744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHpDfeXkAAsJQi.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937085574638379079",
+        "created_at": "2025-06-23T11:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937104583857443253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896923926112169984",
+              "start": 0,
+              "username": "FrostyStrings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937104583857443253",
+        "in_reply_to_user_id": "1896923926112169984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937085574638379079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrostyStrings fMRI（\n这是磁共振成像\n能一下照出来说明已经很严重了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937085560943775744"
+          ]
+        },
+        "author_id": "1896923926112169984",
+        "conversation_id": "1937085574638379079",
+        "created_at": "2025-06-23T09:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937085574638379079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AETLxFcEI",
+              "end": 85,
+              "expanded_url": "https://x.com/FrostyStrings/status/1937085574638379079/photo/1",
+              "media_key": "3_1937085560943775744",
+              "start": 62,
+              "url": "https://t.co/5AETLxFcEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937085574638379079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天去精卫装正常小孩，但是医生开红外成像了。玉玉被发现了。\n有没有懂的帮我看看这是什么。（医生说谱图一眼焦虑波形，伴抑郁） https://t.co/5AETLxFcEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 434,
+          "like_count": 8989,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T14:01:36.000Z",
+        "description": "可以叫窝雪琴/MtF🏳️‍⚧️/无证含糖/HRT2025.06.06/ISFJ(演ENFJ十分甚至九分熟练🥺)/仍深柜中/2006.06.06/轻(中?)抑轻焦(未诊断)/可互fo🥰",
+        "id": "1896923926112169984",
+        "location": "Shanghai",
+        "name": "霜落雪琴FS🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896925547395166208/3fST8pDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 43,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 149
+        },
+        "username": "FrostyStrings",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1973692254603907093",
+    "created_at": "2025-10-02T10:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T11:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973700404975415510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835764493231751168",
+          "start": 0,
+          "username": "mirekintoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973700404975415510",
+    "in_reply_to_user_id": "1835764493231751168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973694381082452453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirekintoc 欸?\n竞赛生一般来说不是文化课进度会远超学校平均进度吗，毕竟初中都学的差不多了，为什么要同步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1973692254603907093",
+        "created_at": "2025-10-02T10:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973700404975415510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835764493231751168",
+              "start": 0,
+              "username": "mirekintoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973700404975415510",
+        "in_reply_to_user_id": "1835764493231751168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973694381082452453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirekintoc 欸?\n竞赛生一般来说不是文化课进度会远超学校平均进度吗，毕竟初中都学的差不多了，为什么要同步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835764493231751168",
+        "conversation_id": "1973692254603907093",
+        "created_at": "2025-10-02T10:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973694381082452453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973694381082452453",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973694055537320296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 信息学竞赛和文化课（技术除外）没啥关系吧……高考技术的信息技术应该没 CSP-S 初赛难\n但别的科目指望一周一节课同步学校进度吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 504,
+          "like_count": 13150,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 3349
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T19:36:00.000Z",
+        "description": "✨正在冲刺 NOIP 2025｜09 年高一 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "ninety_nine199"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "omkechan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mirekintocvoid",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mirekintocvoid",
+                "start": 0,
+                "url": "https://t.co/Gm4k8wa7mW"
+              }
+            ]
+          }
+        },
+        "id": "1835764493231751168",
+        "location": "VALEINT SHIN",
+        "name": "Mirekintoc",
+        "pinned_tweet_id": "1958160638943093236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 927,
+          "like_count": 4758,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/Gm4k8wa7mW",
+        "username": "mirekintoc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2035268108017930716",
+    "created_at": "2026-03-21T09:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T10:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035290061034696757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697913281816432640",
+          "start": 0,
+          "username": "kiligulyanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035290061034696757",
+    "in_reply_to_user_id": "1697913281816432640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035289706074648959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiligulyanov 那真是考Yau啊😨😨\n没想到其他可能性了（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2035268108017930716",
+        "created_at": "2026-03-21T09:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035290061034696757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035290061034696757",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035289706074648959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov 那真是考Yau啊😨😨\n没想到其他可能性了（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697913281816432640",
+        "conversation_id": "2035268108017930716",
+        "created_at": "2026-03-21T09:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035289706074648959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035289706074648959",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035268108017930716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 不是抽象，真我们本地家教群里的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 655,
+          "like_count": 18442,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4354
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "location": "梦境的地方",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 929,
+          "like_count": 25723,
+          "listed_count": 10,
+          "media_count": 1391,
+          "tweet_count": 9599
+        },
+        "username": "kiligulyanov",
+        "verified": false
+      }
+    ]
+  }
+}

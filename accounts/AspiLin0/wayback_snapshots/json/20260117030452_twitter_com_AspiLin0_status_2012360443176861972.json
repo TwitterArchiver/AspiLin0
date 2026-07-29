@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2012360443176861972",
+    "created_at": "2026-01-17T03:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012360443176861972"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012360443176861972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然感觉精神疾病其实是把一类心理现象塞到一类范式里，从而使主观体验在某种程度上能被语言描绘（准确与否并不重要）。\n这种范式化对患者在一定程度是有益的，一是将模糊的认知转化为能解决的问题，二是将个人的体验与全人类一同联系起来了，从而产生治愈的希望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2012360443176861972",
+        "created_at": "2026-01-17T03:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012360443176861972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012360443176861972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然感觉精神疾病其实是把一类心理现象塞到一类范式里，从而使主观体验在某种程度上能被语言描绘（准确与否并不重要）。\n这种范式化对患者在一定程度是有益的，一是将模糊的认知转化为能解决的问题，二是将个人的体验与全人类一同联系起来了，从而产生治愈的希望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 529,
+          "like_count": 14514,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3711
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

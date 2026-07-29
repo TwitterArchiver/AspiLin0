@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1903277075139891200"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1903277076796620873",
+    "created_at": "2025-03-22T02:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T03:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903277076796620873"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903277076796620873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家觉得认为诊断抑郁症的最科学有效的方法是哪一个"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 720,
+        "end_datetime": "2025-03-22T14:46:30.000Z",
+        "id": "1903277075139891200",
+        "options": [
+          {
+            "label": "心理量表",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "脑电波检查",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "神经影像学检查",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "其他（？）",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1903277075139891200"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1903277076796620873",
+        "created_at": "2025-03-22T02:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903277076796620873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903277076796620873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得认为诊断抑郁症的最科学有效的方法是哪一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 239,
+          "like_count": 2437,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

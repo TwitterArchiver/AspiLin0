@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1933537862219411912",
+    "created_at": "2025-06-13T15:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T16:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933541851325477190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880464735675813888",
+          "start": 0,
+          "username": "ShikuiL23822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933541851325477190",
+    "in_reply_to_user_id": "1880464735675813888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933537862219411912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShikuiL23822 追求的是与自己的和解\n毕竟完全理解你的人只有你自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1933537862219411912",
+        "created_at": "2025-06-13T15:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933541851325477190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880464735675813888",
+              "start": 0,
+              "username": "ShikuiL23822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933541851325477190",
+        "in_reply_to_user_id": "1880464735675813888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933537862219411912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShikuiL23822 追求的是与自己的和解\n毕竟完全理解你的人只有你自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464735675813888",
+        "conversation_id": "1933537862219411912",
+        "created_at": "2025-06-13T14:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T15:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933537862219411912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933537862219411912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我时常感到孤独\n我所追求的到底是什么\n\n包容的亲情？\n亲密的友情？\n甜蜜的爱情？\n是，又好像不是\n\n仿佛，缺了某种东西\n如同孩子丢失了玩具"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 427,
+          "like_count": 8665,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:47.000Z",
+        "description": "愿上帝拯救这只迷途羔羊🐏 ▪ 永恒的星星✨  @_AkitaYura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_AkitaYura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TTzC008",
+                "end": 23,
+                "expanded_url": "http://t.me/TTzC008",
+                "start": 0,
+                "url": "https://t.co/EjoAMBIto9"
+              }
+            ]
+          }
+        },
+        "id": "1880464735675813888",
+        "location": "天堂",
+        "name": "白羊✨冰淇淋ice🍦",
+        "pinned_tweet_id": "1925431546036855045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897872965955649537/BByH9jO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 133,
+          "like_count": 1736,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/EjoAMBIto9",
+        "username": "ShikuiL23822",
+        "verified": false
+      }
+    ]
+  }
+}

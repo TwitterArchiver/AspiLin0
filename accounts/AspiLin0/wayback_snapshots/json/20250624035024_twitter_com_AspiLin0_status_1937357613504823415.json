@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937357610342318081"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937186747928183065",
+    "created_at": "2025-06-24T03:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T04:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937357613504823415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi5202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ty0sGeNwF1",
+          "end": 36,
+          "expanded_url": "https://x.com/AspiLin0/status/1937357613504823415/photo/1",
+          "media_key": "3_1937357610342318081",
+          "start": 13,
+          "url": "https://t.co/Ty0sGeNwF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937357613504823415",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937186747928183065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi5202 () https://t.co/Ty0sGeNwF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1934,
+        "media_key": "3_1937357610342318081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLge2dagAExbKQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937357610342318081"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937186747928183065",
+        "created_at": "2025-06-24T03:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937357613504823415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi5202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ty0sGeNwF1",
+              "end": 36,
+              "expanded_url": "https://x.com/AspiLin0/status/1937357613504823415/photo/1",
+              "media_key": "3_1937357610342318081",
+              "start": 13,
+              "url": "https://t.co/Ty0sGeNwF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937357613504823415",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937186747928183065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi5202 () https://t.co/Ty0sGeNwF1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1937186747928183065",
+        "created_at": "2025-06-23T16:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T17:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937186747928183065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937186747928183065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三个神人昨天下午唱k唱累了打了两小时卡兹，不过实际情况是一个人在教我和另外一个人怎么玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 436,
+          "like_count": 9059,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2111
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "你好",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "枫糖小漓莫",
+        "pinned_tweet_id": "1886654791146987559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1264,
+          "like_count": 11512,
+          "listed_count": 4,
+          "media_count": 485,
+          "tweet_count": 4628
+        },
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

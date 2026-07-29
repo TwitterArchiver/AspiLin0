@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1900900223750193419",
+    "created_at": "2025-03-16T02:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T03:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901096494314500139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1633696677759684608",
+          "start": 0,
+          "username": "aKIPPUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901096494314500139",
+    "in_reply_to_user_id": "1633696677759684608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901091797922726372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aKIPPUz 好有风格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1900900223750193419",
+        "created_at": "2025-03-16T02:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T03:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901096494314500139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1633696677759684608",
+              "start": 0,
+              "username": "aKIPPUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901096494314500139",
+        "in_reply_to_user_id": "1633696677759684608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901091797922726372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aKIPPUz 好有风格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633696677759684608",
+        "conversation_id": "1900900223750193419",
+        "created_at": "2025-03-16T02:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T03:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901091797922726372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901091797922726372",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900900223750193419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我的怎么样www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿司匹林片，或者可以叫阿片/神经科学入门可以问我🙋/日常发神经/希望可以和大家成为朋友/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin0",
+                "start": 0,
+                "url": "https://t.co/3MNLmpd4MB"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 231,
+          "like_count": 2103,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/3MNLmpd4MB",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T05:10:23.000Z",
+        "description": "【(^▽^*五年前的滴滴答答总勾起我痛苦回忆˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )】\n•  》》》》—》———♡♡♡♡———《—《《《《  •\n无标签，只有方便认知的符号｜In 2005｜健全人です｜想变得更优雅｜あたし君を夢で殺した🩸｜JP🇯🇵+CN｜\n———你离开的记忆停留在，很久很久以前(∩_∩)———",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aKIPPUz",
+                "end": 23,
+                "expanded_url": "https://lit.link/aKIPPUz",
+                "start": 0,
+                "url": "https://t.co/3EiK0sdqxN"
+              }
+            ]
+          }
+        },
+        "id": "1633696677759684608",
+        "location": "無重力の空間の中",
+        "name": "切符",
+        "pinned_tweet_id": "1633711798535745536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900772162224750592/CfGLCBql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 55,
+          "like_count": 43470,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/3EiK0sdqxN",
+        "username": "aKIPPUz",
+        "verified": false
+      }
+    ]
+  }
+}

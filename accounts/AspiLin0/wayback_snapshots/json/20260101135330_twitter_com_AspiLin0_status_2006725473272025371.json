@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2006725473272025371",
+    "created_at": "2026-01-01T13:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006725473272025371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaomiao0830/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/miaomiao0830/status/2006289996211237027",
+          "start": 10,
+          "url": "https://t.co/MWiAsSwsho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006725473272025371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006289996211237027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "期望越大，失望越大 https://t.co/MWiAsSwsho"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2006725473272025371",
+        "created_at": "2026-01-01T13:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006725473272025371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaomiao0830/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/miaomiao0830/status/2006289996211237027",
+              "start": 10,
+              "url": "https://t.co/MWiAsSwsho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006725473272025371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006289996211237027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "期望越大，失望越大 https://t.co/MWiAsSwsho"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379995883601921",
+        "conversation_id": "2006289996211237027",
+        "created_at": "2025-12-31T09:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006289996211237027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006289996211237027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 30540,
+          "like_count": 649,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "我好讨厌落差感，更讨厌自己连再微小的变化都能察觉到，从睡醒收到十几条消息到只有寥寥无几的一两条，这种说出来觉得没必要 不说自己心里又难受的事情，像劣质筷子上的木刺扎在手指上，看不见也拔不掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 523,
+          "like_count": 14008,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3590
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:31:34.000Z",
+        "description": "账号主人是一只小猫｜纯绿🚪线上288/线下520一日女友cos委托｜坐标10r｜坐标＋咨询线下50r｜私信只回口令｜喜欢可以投喂让我更好♡｜置顶关评推广自辩",
+        "id": "1652379995883601921",
+        "name": "喵呜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004480569154158592/m18a2taO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12711,
+          "following_count": 360,
+          "like_count": 11991,
+          "listed_count": 20,
+          "media_count": 399,
+          "tweet_count": 8124
+        },
+        "username": "miaomiao0830",
+        "verified": false
+      }
+    ]
+  }
+}

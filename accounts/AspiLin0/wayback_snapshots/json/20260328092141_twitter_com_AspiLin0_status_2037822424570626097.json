@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2037822424570626097",
+    "created_at": "2026-03-28T09:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037822424570626097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713050867786526720",
+          "start": 3,
+          "username": "siuuuuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037822424570626097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037508344043454933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siuuuuneo: 现在家长想帮我送入强制封闭性病房，我未成年需要NGO的帮助\n时间真的很急，只有今天一天的时间\n如果有，请推荐给我，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2037822424570626097",
+        "created_at": "2026-03-28T09:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037822424570626097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713050867786526720",
+              "start": 3,
+              "username": "siuuuuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037822424570626097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037508344043454933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siuuuuneo: 现在家长想帮我送入强制封闭性病房，我未成年需要NGO的帮助\n时间真的很急，只有今天一天的时间\n如果有，请推荐给我，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713050867786526720",
+        "conversation_id": "2037508344043454933",
+        "created_at": "2026-03-27T12:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037508344043454933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037508344043454933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13391,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "现在家长想帮我送入强制封闭性病房，我未成年需要NGO的帮助\n时间真的很急，只有今天一天的时间\n如果有，请推荐给我，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 666,
+          "like_count": 18729,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 4422
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "饿了可以吃小黄鱼w）一辈子的@6mhzph",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "6mhzph"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/siuuuuneo",
+                "end": 23,
+                "expanded_url": "http://t.me/siuuuuneo",
+                "start": 0,
+                "url": "https://t.co/iJ4mHEWlX9"
+              }
+            ]
+          }
+        },
+        "id": "1713050867786526720",
+        "location": "重庆",
+        "name": "小黄鱼a",
+        "pinned_tweet_id": "2031437440414789980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002637813850963968/jt2chCNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 1303,
+          "like_count": 10421,
+          "listed_count": 1,
+          "media_count": 546,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/iJ4mHEWlX9",
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

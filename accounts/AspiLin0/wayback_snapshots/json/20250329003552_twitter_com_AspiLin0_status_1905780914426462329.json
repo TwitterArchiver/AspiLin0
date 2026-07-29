@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1905550514701398399",
+    "created_at": "2025-03-29T00:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T01:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905780914426462329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840055457756610560",
+          "start": 0,
+          "username": "hood8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905780914426462329",
+    "in_reply_to_user_id": "1840055457756610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905550514701398399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hood8964 因其作用，而其存在，好贝克莱的思维（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1905550514701398399",
+        "created_at": "2025-03-29T00:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905780914426462329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905780914426462329",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905550514701398399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 因其作用，而其存在，好贝克莱的思维（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "1905550514701398399",
+        "created_at": "2025-03-28T09:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T10:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905550514701398399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905550514701398399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 429,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "概念的理念性存在 我们无法证明上帝存在，却也无法证明上帝不存在，说回来，在精神层面，上帝的“概念”不是确确实实存在于我们的脑海中吗？概念的存在，而没有客观实在之物，难道便不存在了吗？所有的概念不都存在于人类意识中吗？但其于现实的作用则要视情况而定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "这里是阿片，想要做大家的止痛药/神经科学，物理，哲学的一些问题可以问我/主要是一些碎碎念/希望可以和大家成为朋友/梦之屿的大家都是很好很好的人哦/下面是提问箱，隔一段时间会看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1900913405034201551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 264,
+          "like_count": 2953,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "",
+        "id": "1840055457756610560",
+        "location": "Mexico, MO",
+        "name": "坂下壹佰叁拾捌的红移",
+        "pinned_tweet_id": "1903469115878101042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903172144369995776/Kd2-qZLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1265,
+          "like_count": 35407,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 8767
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

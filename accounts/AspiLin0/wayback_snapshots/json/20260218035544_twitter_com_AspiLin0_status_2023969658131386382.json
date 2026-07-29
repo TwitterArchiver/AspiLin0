@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023969658131386382",
+    "created_at": "2026-02-18T03:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023969658131386382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kath80607563/s…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/Kath80607563/status/2023786121193488476",
+          "start": 119,
+          "url": "https://t.co/nLWO0iK6wO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023969658131386382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "哲学不与现象对应起来便是无意义的\n所以阿片很喜欢荣格和博尔赫斯，虽然他们并不是严格意义上的哲学家（\n荣格和爱因斯坦在苏黎世当同事的时候就经常相互交流，把泡利治好了后，又和泡利有长期合作\n博尔赫斯在研究他的时间理论时，也真的去学习了相对论\n一个反例就是尼采了，因为他的永恒回归完全是对Poincare回归的错误引用，所以一直对尼采不是很感兴趣（"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023786121193488476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哲学不与现象对应起来便是无意义的\n所以阿片很喜欢荣格和博尔赫斯，虽然他们并不是严格意义上的哲学家（\n荣格和爱因斯坦在苏黎世当同事的时候就经常相互交流，把泡利治好了后，又和泡利有长期合作\n博尔赫斯在研究他的时间理论时，也真的去学习了相对论 https://t.co/nLWO0iK6wO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023969658131386382",
+        "created_at": "2026-02-18T03:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023969658131386382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kath80607563/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/Kath80607563/status/2023786121193488476",
+              "start": 119,
+              "url": "https://t.co/nLWO0iK6wO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023969658131386382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哲学不与现象对应起来便是无意义的\n所以阿片很喜欢荣格和博尔赫斯，虽然他们并不是严格意义上的哲学家（\n荣格和爱因斯坦在苏黎世当同事的时候就经常相互交流，把泡利治好了后，又和泡利有长期合作\n博尔赫斯在研究他的时间理论时，也真的去学习了相对论\n一个反例就是尼采了，因为他的永恒回归完全是对Poincare回归的错误引用，所以一直对尼采不是很感兴趣（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023786121193488476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哲学不与现象对应起来便是无意义的\n所以阿片很喜欢荣格和博尔赫斯，虽然他们并不是严格意义上的哲学家（\n荣格和爱因斯坦在苏黎世当同事的时候就经常相互交流，把泡利治好了后，又和泡利有长期合作\n博尔赫斯在研究他的时间理论时，也真的去学习了相对论 https://t.co/nLWO0iK6wO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243135084057620480",
+        "conversation_id": "2023777463915233737",
+        "created_at": "2026-02-17T15:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023786121193488476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023786121193488476",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023777463915233737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 最好的哲学家一定是学物理的，要不然连个基本的熵增原理都错误百出，还要在上面硬搭自己的哲学体系，我见得太多这种了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 597,
+          "like_count": 16525,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 4026
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-26T11:18:02.000Z",
+        "description": "人类彻底失败，躺平等死是唯一选项",
+        "id": "1243135084057620480",
+        "name": "Kath626.GPT",
+        "pinned_tweet_id": "1833836638121930986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705887644625014784/P85Znx2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 96,
+          "like_count": 23833,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 2638
+        },
+        "username": "Kath80607563",
+        "verified": false
+      }
+    ]
+  }
+}

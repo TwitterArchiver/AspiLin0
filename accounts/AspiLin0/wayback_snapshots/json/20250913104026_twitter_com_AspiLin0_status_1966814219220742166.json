@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1966734790431752323",
+    "created_at": "2025-09-13T10:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T11:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966814219220742166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966814219220742166",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966734790431752323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmu0187 🤔虽然但是划线有利于集中注意力，不至于浪费时间？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1966734790431752323",
+        "created_at": "2025-09-13T10:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966814219220742166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966814219220742166",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966734790431752323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmu0187 🤔虽然但是划线有利于集中注意力，不至于浪费时间？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "1966734790431752323",
+        "created_at": "2025-09-13T05:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966734790431752323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966734790431752323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下面这个思考过程可以充分体现我的感性和理性思维的交叉：\n平常学习时我会刻意用不同颜色表示不同方面的内容，例如重点用黄色，易错点用绿色，做题就用蓝色。从理性角度我会觉得这是在浪费时间，但是从感性角度我很喜欢这种有序感。于是理性与感性达成共识，我会利用这份正反馈激励我继续学习。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 486,
+          "like_count": 12858,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3214
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965804929576214528/qK5YFJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 289,
+          "like_count": 6819,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 3823
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

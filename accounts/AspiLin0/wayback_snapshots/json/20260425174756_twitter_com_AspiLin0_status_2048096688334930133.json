@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047868859965919232"
+      ],
+      "media_source_tweet_id": [
+        "2047868904672989601"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2048096688334930133",
+    "created_at": "2026-04-25T17:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048096688334930133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817286603787948032",
+          "start": 3,
+          "username": "21Savage714"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jclkY7rWGA",
+          "end": 40,
+          "expanded_url": "https://x.com/21Savage714/status/2047868904672989601/photo/1",
+          "media_key": "3_2047868859965919232",
+          "start": 17,
+          "url": "https://t.co/jclkY7rWGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048096688334930133",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047868904672989601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @21Savage714: https://t.co/jclkY7rWGA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2047868859965919232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt94MjaUAA7N_y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047868859965919232"
+          ],
+          "media_source_tweet_id": [
+            "2047868904672989601"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2048096688334930133",
+        "created_at": "2026-04-25T17:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048096688334930133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817286603787948032",
+              "start": 3,
+              "username": "21Savage714"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jclkY7rWGA",
+              "end": 40,
+              "expanded_url": "https://x.com/21Savage714/status/2047868904672989601/photo/1",
+              "media_key": "3_2047868859965919232",
+              "start": 17,
+              "url": "https://t.co/jclkY7rWGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048096688334930133",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047868904672989601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @21Savage714: https://t.co/jclkY7rWGA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047868859965919232"
+          ]
+        },
+        "author_id": "1817286603787948032",
+        "conversation_id": "2047868904672989601",
+        "created_at": "2026-04-25T02:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047868904672989601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jclkY7rWGA",
+              "end": 23,
+              "expanded_url": "https://x.com/21Savage714/status/2047868904672989601/photo/1",
+              "media_key": "3_2047868859965919232",
+              "start": 0,
+              "url": "https://t.co/jclkY7rWGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047868904672989601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5277,
+          "like_count": 336,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jclkY7rWGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 727,
+          "like_count": 20143,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 4732
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "09 高中生巨蟹  infp  Khalil  21Savage Haruki Murakami  情绪垃圾桶\n        \n                                                                                我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/457myJQUE7"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027428874158854144/r33COlwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 160,
+          "like_count": 8035,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/457myJQUE7",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

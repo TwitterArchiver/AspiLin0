@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918345461661917557",
+    "created_at": "2025-05-03T07:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T08:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918572504563773788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886498095846023168",
+          "start": 0,
+          "username": "hfgdgwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918572504563773788",
+    "in_reply_to_user_id": "1886498095846023168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918345461661917557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfgdgwz 有国外银行卡直接登它那个官网就行了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918345461661917557",
+        "created_at": "2025-05-03T07:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T08:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918572504563773788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886498095846023168",
+              "start": 0,
+              "username": "hfgdgwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918572504563773788",
+        "in_reply_to_user_id": "1886498095846023168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918345461661917557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfgdgwz 有国外银行卡直接登它那个官网就行了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886498095846023168",
+        "conversation_id": "1918345461661917557",
+        "created_at": "2025-05-02T16:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T17:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918345461661917557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918345461661917557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有谁知道在国内怎么给乌克兰捐钱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 345,
+          "like_count": 5287,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T19:33:02.000Z",
+        "description": "一万年太久只争朝夕",
+        "id": "1886498095846023168",
+        "location": "光之国",
+        "name": "王洪文🇨🇳🇺🇦",
+        "pinned_tweet_id": "1908224287724421367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912543434650288128/ElY7TrvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 102,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 593
+        },
+        "username": "hfgdgwz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950120114570834297",
+    "created_at": "2025-07-30T06:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950442837939802618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717039949558792192",
+          "start": 0,
+          "username": "zhnglsh433962"
+        },
+        {
+          "end": 28,
+          "id": "845662351344857089",
+          "start": 15,
+          "username": "linuxea_fake"
+        },
+        {
+          "end": 40,
+          "id": "1684788633797287936",
+          "start": 29,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950442837939802618",
+    "in_reply_to_user_id": "1717039949558792192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950442620574187903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnglsh433962 @linuxea_fake @Moningmeng 尼古丁除了娱乐还有什么用处呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950442837939802618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717039949558792192",
+              "start": 0,
+              "username": "zhnglsh433962"
+            },
+            {
+              "end": 28,
+              "id": "845662351344857089",
+              "start": 15,
+              "username": "linuxea_fake"
+            },
+            {
+              "end": 40,
+              "id": "1684788633797287936",
+              "start": 29,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950442837939802618",
+        "in_reply_to_user_id": "1717039949558792192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950442620574187903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnglsh433962 @linuxea_fake @Moningmeng 尼古丁除了娱乐还有什么用处呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717039949558792192",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T06:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950442620574187903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 23,
+              "id": "845662351344857089",
+              "start": 10,
+              "username": "linuxea_fake"
+            },
+            {
+              "end": 35,
+              "id": "1684788633797287936",
+              "start": 24,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950442620574187903",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950432865470337325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @linuxea_fake @Moningmeng 很难想象部分毒品除了麻醉还有什么合理利用的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 447,
+          "like_count": 9927,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 2521
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T04:47:01.000Z",
+        "description": "没事干会搞点抽象，如果对别人有冒犯对不起对不起对不起\n有的时候还会说怪话w",
+        "id": "1717039949558792192",
+        "location": "在你身边",
+        "name": "张狸姝",
+        "pinned_tweet_id": "1860907469637144851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787460525812813824/fJnTXZC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 167,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1315
+        },
+        "username": "zhnglsh433962",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-25T15:43:11.000Z",
+        "description": "人一般情况下不是一个个个体",
+        "id": "845662351344857089",
+        "location": "Guangdong",
+        "name": "linuxea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624355351184433153/cCREaGr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 810,
+          "like_count": 14072,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 668
+        },
+        "username": "linuxea_fake",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21777,
+          "following_count": 10881,
+          "like_count": 81661,
+          "listed_count": 77,
+          "media_count": 3971,
+          "tweet_count": 14700
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

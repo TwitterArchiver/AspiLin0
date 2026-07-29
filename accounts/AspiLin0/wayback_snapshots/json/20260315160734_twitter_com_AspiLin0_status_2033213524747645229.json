@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033213524747645229",
+    "created_at": "2026-03-15T16:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T17:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033213524747645229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033213524747645229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又好晚睡了呢\n现在对一切感到厌烦呢，对平庸的一切，对自己感到厌烦\n到底要怎么才能改变这样的处境呢\n没有勇气和人提出自己的要求，没有勇气吵架，没有勇气逃跑，没有勇气自杀\n就一直保持原状，一点一点腐烂下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033213524747645229",
+        "created_at": "2026-03-15T16:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033213524747645229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033213524747645229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又好晚睡了呢\n现在对一切感到厌烦呢，对平庸的一切，对自己感到厌烦\n到底要怎么才能改变这样的处境呢\n没有勇气和人提出自己的要求，没有勇气吵架，没有勇气逃跑，没有勇气自杀\n就一直保持原状，一点一点腐烂下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 633,
+          "like_count": 17993,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4285
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

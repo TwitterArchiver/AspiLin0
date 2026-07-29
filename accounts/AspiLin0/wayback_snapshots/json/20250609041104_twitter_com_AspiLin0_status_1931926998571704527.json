@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931925871096746001",
+    "created_at": "2025-06-09T04:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T05:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931926998571704527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931926998571704527",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931925871096746001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@qqqqqf5 建议扔了（\n虽然不知道你是出于什么心理想买\n但这种东西存在就会给自己心理暗示\n坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1931925864939446272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-UVqAa4AAGxSc.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931925871096746001",
+        "created_at": "2025-06-09T04:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931926998571704527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931926998571704527",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931925871096746001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@qqqqqf5 建议扔了（\n虽然不知道你是出于什么心理想买\n但这种东西存在就会给自己心理暗示\n坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931925864939446272"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1931925871096746001",
+        "created_at": "2025-06-09T04:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931925871096746001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKF6DaSSIl",
+              "end": 28,
+              "expanded_url": "https://x.com/qqqqqf5/status/1931925871096746001/photo/1",
+              "media_key": "3_1931925864939446272",
+              "start": 5,
+              "url": "https://t.co/kKF6DaSSIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931925871096746001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "👉🏻👈🏻 https://t.co/kKF6DaSSIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 420,
+          "like_count": 8172,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "名为清凤/091115/泛性恋/🏳️‍⚧️/ISTP-T/158CM/40KG/HRT-2025.1.3/MTF/不碰政治/双相_攻击高时请见谅/男朋友@kilock08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "kilock08"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "location": "浙江宁波",
+        "name": "qqqqqf🍥",
+        "pinned_tweet_id": "1924113711738102217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815436051437285380/AdFj8fW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1435,
+          "like_count": 3002,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 895
+        },
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

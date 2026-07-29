@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934977495138463894",
+    "created_at": "2025-06-17T15:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934990929242587384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934990929242587384",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934977495138463894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 加油\n（我还以为考完了的说，看我们学校初三天天在打球"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1934977483138547712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtprxNraQAAU88l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934977495138463894",
+        "created_at": "2025-06-17T15:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934990929242587384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934990929242587384",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934977495138463894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 加油\n（我还以为考完了的说，看我们学校初三天天在打球"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934977483138547712"
+          ]
+        },
+        "author_id": "1921426104763682816",
+        "conversation_id": "1934977495138463894",
+        "created_at": "2025-06-17T14:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934977495138463894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeiyJ7X11j",
+              "end": 76,
+              "expanded_url": "https://x.com/hiner233/status/1934977495138463894/photo/1",
+              "media_key": "3_1934977483138547712",
+              "start": 53,
+              "url": "https://t.co/oeiyJ7X11j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934977495138463894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "距离2025年浙江省初中学业水平考试正式开考还有约82个小时\n祝我一切顺利🙏\n期待在周日下午带来好消息😸 https://t.co/oeiyJ7X11j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 434,
+          "like_count": 8833,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "这里是Hiner/15y初三生/ENTP一枚/清水/来找我玩ww",
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1931194479119384998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 535,
+          "like_count": 9478,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1670
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

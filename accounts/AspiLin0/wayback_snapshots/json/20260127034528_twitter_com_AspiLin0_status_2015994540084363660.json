@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2015815961996415444",
+    "created_at": "2026-01-27T03:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015994540084363660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791898542379782144",
+          "start": 0,
+          "username": "Margarette63331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015994540084363660",
+    "in_reply_to_user_id": "1791898542379782144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015830412917182725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Margarette63331 好哦，下次看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2015815961996415444",
+        "created_at": "2026-01-27T03:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015994540084363660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791898542379782144",
+              "start": 0,
+              "username": "Margarette63331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015994540084363660",
+        "in_reply_to_user_id": "1791898542379782144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015830412917182725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Margarette63331 好哦，下次看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791898542379782144",
+        "conversation_id": "2015815961996415444",
+        "created_at": "2026-01-26T16:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015830412917182725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015830412917182725",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015815961996415444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 ！也还是有助眠的酒的！之前朋友有推荐 摩根船长 这款朗姆酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 545,
+          "like_count": 14945,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 3781
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T18:28:11.000Z",
+        "description": "我们被我们所塑造的东西塑造着。——狐狸小姐",
+        "id": "1791898542379782144",
+        "name": "某方的结语",
+        "pinned_tweet_id": "1966415821473042737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969456593596248064/wHfYrTj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 245,
+          "like_count": 2752,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1366
+        },
+        "username": "Margarette63331",
+        "verified": false
+      }
+    ]
+  }
+}

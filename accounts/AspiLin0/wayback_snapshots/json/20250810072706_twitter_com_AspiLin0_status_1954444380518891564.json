@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954444342627860480"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1954340233853673481",
+    "created_at": "2025-08-10T07:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T08:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954444380518891564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846264453463236608",
+          "start": 0,
+          "username": "ZephyrClearyume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVl46az8wM",
+          "end": 40,
+          "expanded_url": "https://x.com/AspiLin0/status/1954444380518891564/photo/1",
+          "media_key": "3_1954444342627860480",
+          "start": 17,
+          "url": "https://t.co/hVl46az8wM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954444380518891564",
+    "in_reply_to_user_id": "1846264453463236608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954340233853673481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZephyrClearyume https://t.co/hVl46az8wM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1954444342627860480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-UxkebAAAmtu7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954444342627860480"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1954340233853673481",
+        "created_at": "2025-08-10T07:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T08:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954444380518891564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846264453463236608",
+              "start": 0,
+              "username": "ZephyrClearyume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVl46az8wM",
+              "end": 40,
+              "expanded_url": "https://x.com/AspiLin0/status/1954444380518891564/photo/1",
+              "media_key": "3_1954444342627860480",
+              "start": 17,
+              "url": "https://t.co/hVl46az8wM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954444380518891564",
+        "in_reply_to_user_id": "1846264453463236608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954340233853673481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZephyrClearyume https://t.co/hVl46az8wM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846264453463236608",
+        "conversation_id": "1954340233853673481",
+        "created_at": "2025-08-10T00:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T01:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954340233853673481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954340233853673481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像走向了另一种极端，学了很多东西，也看了很多东西，反而越觉得自己很无能，所以更加不敢妄自决策。觉得自己很差劲，从未觉得自己有什么高认知，面对很多现实或者不公，只是觉得麻木，甚至开始觉得理所应当，就算做对了也会觉得只是运气好，并没有找到成功的路径"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 475,
+          "like_count": 12037,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 2965
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:58:52.000Z",
+        "description": "相信我，你不会想，也不会知道，作者的下场如何。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tnews365",
+                "end": 23,
+                "expanded_url": "https://t.me/tnews365",
+                "start": 0,
+                "url": "https://t.co/4u1lFEsSz4"
+              }
+            ]
+          }
+        },
+        "id": "1846264453463236608",
+        "location": "えすとるぐん，Углегорск",
+        "name": "拨云☁ZephyrClear",
+        "pinned_tweet_id": "1951340659224580236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946603225345327104/IiEzG2pj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 719,
+          "like_count": 423,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1821
+        },
+        "url": "https://t.co/4u1lFEsSz4",
+        "username": "ZephyrClearyume",
+        "verified": false
+      }
+    ]
+  }
+}

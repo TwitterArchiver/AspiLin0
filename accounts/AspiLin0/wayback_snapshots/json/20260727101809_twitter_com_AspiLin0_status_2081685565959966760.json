@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2081685565959966760",
+    "created_at": "2026-07-27T10:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081685565959966760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fufu1367612/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/fufu1367612/status/2081385039494074637",
+          "start": 61,
+          "url": "https://t.co/XIv0LXBc1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081685565959966760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081385039494074637",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们一般不把程序违规的实验和欺诈行为称为伟大的尝试\n也不把忽视动物实验的安全信号,并采用较差效果的免疫抑制剂称为尽全力了 https://t.co/XIv0LXBc1X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2081685565959966760",
+        "created_at": "2026-07-27T10:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081685565959966760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fufu1367612/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/fufu1367612/status/2081385039494074637",
+              "start": 61,
+              "url": "https://t.co/XIv0LXBc1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081685565959966760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081385039494074637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们一般不把程序违规的实验和欺诈行为称为伟大的尝试\n也不把忽视动物实验的安全信号,并采用较差效果的免疫抑制剂称为尽全力了 https://t.co/XIv0LXBc1X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2081385039494074637",
+        "created_at": "2026-07-26T14:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081385039494074637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081385039494074637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11000,
+          "like_count": 53,
+          "quote_count": 5,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那个基因编辑实验致患者死亡的明明是很伟大的医学尝试啊，从支持实验的家长，到制定计划并实行的科研人员，他们都已经尽全力了，难道还能只准成功，不许失败？\n为什么x上竟然一边倒的觉得他们十恶不赦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛🍥",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 770,
+          "like_count": 22131,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 5233
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 510,
+          "like_count": 8192,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3493
+        },
+        "url": "",
+        "username": "fufu1367612",
+        "verified": true
+      }
+    ]
+  }
+}

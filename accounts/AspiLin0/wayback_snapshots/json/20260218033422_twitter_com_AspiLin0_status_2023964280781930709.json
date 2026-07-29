@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023964276747345920"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2023964280781930709",
+    "created_at": "2026-02-18T03:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023964280781930709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MxefsVJ52q",
+          "end": 34,
+          "expanded_url": "https://x.com/AspiLin0/status/2023964280781930709/photo/1",
+          "media_key": "3_2023964276747345920",
+          "start": 11,
+          "url": "https://t.co/MxefsVJ52q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023964280781930709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "gemini生成的（ https://t.co/MxefsVJ52q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_2023964276747345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaQyUmbIAAU3yA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023964276747345920"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2023964280781930709",
+        "created_at": "2026-02-18T03:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023964280781930709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxefsVJ52q",
+              "end": 34,
+              "expanded_url": "https://x.com/AspiLin0/status/2023964280781930709/photo/1",
+              "media_key": "3_2023964276747345920",
+              "start": 11,
+              "url": "https://t.co/MxefsVJ52q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023964280781930709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gemini生成的（ https://t.co/MxefsVJ52q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 597,
+          "like_count": 16524,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 4023
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

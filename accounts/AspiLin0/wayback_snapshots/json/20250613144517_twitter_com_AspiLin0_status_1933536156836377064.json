@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1933536156836377064",
+    "created_at": "2025-06-13T14:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T15:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933536156836377064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuwen_Tang1019…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Yuwen_Tang1019/status/1933400476189667503",
+          "start": 36,
+          "url": "https://t.co/R0xaagqBdW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933536156836377064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933400476189667503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "答案是被互联网解构了\n事实上在我的视角中唐不是在反跨而是在“表演”反跨 https://t.co/R0xaagqBdW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933400431839096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTRcvxbMAA4lO0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1933536156836377064",
+        "created_at": "2025-06-13T14:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T15:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933536156836377064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuwen_Tang1019…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Yuwen_Tang1019/status/1933400476189667503",
+              "start": 36,
+              "url": "https://t.co/R0xaagqBdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933536156836377064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933400476189667503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "答案是被互联网解构了\n事实上在我的视角中唐不是在反跨而是在“表演”反跨 https://t.co/R0xaagqBdW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933400431839096832"
+          ]
+        },
+        "author_id": "1924965014831824896",
+        "conversation_id": "1933400476189667503",
+        "created_at": "2025-06-13T05:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T06:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933400476189667503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkhTshjcqs",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1933400476189667503/photo/1",
+              "media_key": "3_1933400431839096832",
+              "start": 48,
+              "url": "https://t.co/LkhTshjcqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933400476189667503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1489,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有种坏的不彻底的无力感\n骂又骂不动，劝又劝不回来\n看到这群人有危险还担心\n我的反跨道阻且长啊😫 https://t.co/LkhTshjcqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 427,
+          "like_count": 8657,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "我是大反跨😈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "Melbourne, Victoria",
+        "name": "不药娘网🍥🏳️‍⚧️-唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 164,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

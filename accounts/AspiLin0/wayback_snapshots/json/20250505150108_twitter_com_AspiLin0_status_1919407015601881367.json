@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919405846876020736",
+        "3_1919405863879811072"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1919407015601881367",
+    "created_at": "2025-05-05T15:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T16:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919407015601881367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSX6pZn6fb",
+          "end": 158,
+          "expanded_url": "https://x.com/AspiLin0/status/1919407015601881367/photo/1",
+          "media_key": "3_1919405846876020736",
+          "start": 135,
+          "url": "https://t.co/eSX6pZn6fb"
+        },
+        {
+          "display_url": "pic.x.com/eSX6pZn6fb",
+          "end": 158,
+          "expanded_url": "https://x.com/AspiLin0/status/1919407015601881367/photo/1",
+          "media_key": "3_1919405863879811072",
+          "start": 135,
+          "url": "https://t.co/eSX6pZn6fb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919407015601881367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1：🌿长难句起手\n看你怎么理解创造喽，意识是一个涌现现象，如果你将下面的层级进行复刻，自然会涌现出这个层级\n极端的例子就是将构成一个人的原子按原样在另一个位置摆放，不也是创造了意识？\n当然如果你想寻找的是另一种涌现方式的话，那暂时没有定论\np2：我是我，或者我是万物 https://t.co/eSX6pZn6fb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 290,
+        "media_key": "3_1919405846876020736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMZcsLaYAA-rKP.png",
+        "width": 408
+      },
+      {
+        "height": 257,
+        "media_key": "3_1919405863879811072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMZdrhboAA2E6v.png",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919405846876020736",
+            "3_1919405863879811072"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1919407015601881367",
+        "created_at": "2025-05-05T15:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919407015601881367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSX6pZn6fb",
+              "end": 158,
+              "expanded_url": "https://x.com/AspiLin0/status/1919407015601881367/photo/1",
+              "media_key": "3_1919405846876020736",
+              "start": 135,
+              "url": "https://t.co/eSX6pZn6fb"
+            },
+            {
+              "display_url": "pic.x.com/eSX6pZn6fb",
+              "end": 158,
+              "expanded_url": "https://x.com/AspiLin0/status/1919407015601881367/photo/1",
+              "media_key": "3_1919405863879811072",
+              "start": 135,
+              "url": "https://t.co/eSX6pZn6fb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919407015601881367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1：🌿长难句起手\n看你怎么理解创造喽，意识是一个涌现现象，如果你将下面的层级进行复刻，自然会涌现出这个层级\n极端的例子就是将构成一个人的原子按原样在另一个位置摆放，不也是创造了意识？\n当然如果你想寻找的是另一种涌现方式的话，那暂时没有定论\np2：我是我，或者我是万物 https://t.co/eSX6pZn6fb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1919035936283021794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 356,
+          "like_count": 5666,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

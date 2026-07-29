@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1930661299241021661",
+    "created_at": "2025-06-06T09:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T10:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930914958763839970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1820367933077651456",
+          "start": 0,
+          "username": "xunxunwangxun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930914958763839970",
+    "in_reply_to_user_id": "1820367933077651456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930913059113177114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunxunwangxun 这样的（\n孤立样本无法给出统计学结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1930661299241021661",
+        "created_at": "2025-06-06T09:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T10:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930914958763839970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1820367933077651456",
+              "start": 0,
+              "username": "xunxunwangxun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930914958763839970",
+        "in_reply_to_user_id": "1820367933077651456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930913059113177114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunxunwangxun 这样的（\n孤立样本无法给出统计学结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820367933077651456",
+        "conversation_id": "1930661299241021661",
+        "created_at": "2025-06-06T09:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T10:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930913059113177114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930913059113177114",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930877095099687234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 qwq我学校认识的用x的好像没有mtf（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 410,
+          "like_count": 7603,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T07:55:22.000Z",
+        "description": "玩国服co和三角洲只会用轮椅(热点mg42の可能ccc可恶的匹配机制（悲惨的高中牲一个a我v常年500以下存款｜欢迎其他人来互foqaq｜友跨🏳️‍⚧️ ｜生日8.15（无效信息）mg42单推人｜liberalist|boyfriend @F30102174650            如果要玩游戏可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "F30102174650"
+              }
+            ]
+          }
+        },
+        "id": "1820367933077651456",
+        "location": "核弹小镇，地图名字七个字",
+        "name": "被网络速度摧残的悲哀",
+        "pinned_tweet_id": "1886384525514833972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890416511598399488/Vo_XpM4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 502,
+          "like_count": 33774,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 1371
+        },
+        "username": "xunxunwangxun",
+        "verified": false
+      }
+    ]
+  }
+}

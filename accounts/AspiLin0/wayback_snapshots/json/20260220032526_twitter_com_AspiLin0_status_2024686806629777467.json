@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2024686806629777467",
+    "created_at": "2026-02-20T03:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024686806629777467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1806225733045690368",
+          "start": 3,
+          "username": "MizutaniSubaru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024686806629777467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024684948712763723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MizutaniSubaru_: 素未谋面的朋友，你好！👋\n\n我是水谷昴，你可以叫我水谷，也可以叫我486，可以以任何我能听懂的方式称呼我.\n\n我希望可以平等尊重所有人，哪怕立场和我完全相反，只要我能理解，无论我认同与否，我都会尽力温柔以待.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2024686806629777467",
+        "created_at": "2026-02-20T03:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024686806629777467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1806225733045690368",
+              "start": 3,
+              "username": "MizutaniSubaru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024686806629777467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024684948712763723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MizutaniSubaru_: 素未谋面的朋友，你好！👋\n\n我是水谷昴，你可以叫我水谷，也可以叫我486，可以以任何我能听懂的方式称呼我.\n\n我希望可以平等尊重所有人，哪怕立场和我完全相反，只要我能理解，无论我认同与否，我都会尽力温柔以待.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "conversation_id": "2024684948712763723",
+        "created_at": "2026-02-20T03:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024684948712763723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024684948712763723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "素未谋面的朋友，你好！👋\n\n我是水谷昴，你可以叫我水谷，也可以叫我486，可以以任何我能听懂的方式称呼我.\n\n我希望可以平等尊重所有人，哪怕立场和我完全相反，只要我能理解，无论我认同与否，我都会尽力温柔以待.\n但我的观点确实有时不免偏激，如果您很讨厌我，也请尽量不要在我大概率看得见的地方骂我.......真的会很难受.....\n\n我喜欢CS专业，虽然只学过一年半的计算机，高一被老师拉去学校机房断断续续学了一年oi...后面可能因为一些心理原因，也可能因为学校压力有些大，而我没那么勤奋，有两年空档期，到现在大一才开始慢慢康复训练.\n\n会写点python和cpp，会一些前端框架，会一点杂七杂八，目前正在探索agentic ai.\n\n我喜欢思考一些问题，为此学过一些哲学知识作为工具，因为种类有些多有些杂，且学的都比较浅，不一一做列举，自认有些价值的东西会放到亮点，喜欢哲学的您或许能看出一些思想家的影子.\n\n定义问题，沉思并给出一个可能的解答，能让自己的心态总体平和稳定，不过激也不迷茫，我把它称为幸福.\n\n我可能是一个中低浓度宅，可能间歇性对番剧发癫（\n\n我可能是一个Jpop狂热爱好者，想要去看很多live，喜欢去唱K，听的东西比较偏主流，小众成分相对居少，欢迎各位推荐喜欢的Jpop！\n\n我喜欢友好、温柔、有趣、豁达、乐于思考、探索的人.\n\n我的邮箱是mizutanisubaru@outlook.com\n熟悉了的朋友欢迎打听我的坐标，线下找我吃东西和唱K（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "素未谋面的朋友，你好！👋\n\n我是水谷昴，你可以叫我水谷，也可以叫我486，可以以任何我能听懂的方式称呼我.\n\n我希望可以平等尊重所有人，哪怕立场和我完全相反，只要我能理解，无论我认同与否，我都会尽力温柔以待."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/神经科学/生物学/物理学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 609,
+          "like_count": 16993,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 4103
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是追求内心平和稳定｜人最宝贵的是尊严和自由｜想成为一个温柔的人｜愿你被世界温柔相待.",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "pinned_tweet_id": "2024557094012350903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993557280181407745/wIWRcqL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 257,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 240
+        },
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

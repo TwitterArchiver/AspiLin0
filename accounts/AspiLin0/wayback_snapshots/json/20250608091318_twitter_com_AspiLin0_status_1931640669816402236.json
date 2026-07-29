@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931640666301628416"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931640669816402236",
+    "created_at": "2025-06-08T09:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T10:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931640669816402236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y7fC8XoUJI",
+          "end": 34,
+          "expanded_url": "https://x.com/AspiLin0/status/1931640669816402236/photo/1",
+          "media_key": "3_1931640666301628416",
+          "start": 11,
+          "url": "https://t.co/y7fC8XoUJI"
+        },
+        {
+          "display_url": "x.com/AcboxLiu/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/AcboxLiu/status/1931414503922774121",
+          "start": 35,
+          "url": "https://t.co/vc8Z2zT1VC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931640669816402236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931414503922774121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一只一只东南夷狐狸（ https://t.co/y7fC8XoUJI https://t.co/vc8Z2zT1VC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1931640666301628416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6Q86SbgAAJxMZ.jpg",
+        "width": 2268
+      },
+      {
+        "height": 2268,
+        "media_key": "3_1931414494443720704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs3DP-db0AAejTZ.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931640666301628416"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931640669816402236",
+        "created_at": "2025-06-08T09:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931640669816402236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7fC8XoUJI",
+              "end": 34,
+              "expanded_url": "https://x.com/AspiLin0/status/1931640669816402236/photo/1",
+              "media_key": "3_1931640666301628416",
+              "start": 11,
+              "url": "https://t.co/y7fC8XoUJI"
+            },
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/1931414503922774121",
+              "start": 35,
+              "url": "https://t.co/vc8Z2zT1VC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931640669816402236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931414503922774121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一只一只东南夷狐狸（ https://t.co/y7fC8XoUJI https://t.co/vc8Z2zT1VC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931414494443720704"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1931414503922774121",
+        "created_at": "2025-06-07T18:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T19:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931414503922774121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yj4JulP40Y",
+              "end": 23,
+              "expanded_url": "https://x.com/AcboxLiu/status/1931414503922774121/photo/1",
+              "media_key": "3_1931414494443720704",
+              "start": 0,
+              "url": "https://t.co/yj4JulP40Y"
+            },
+            {
+              "display_url": "x.com/_cosine_x/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/_cosine_x/status/1931410546584388056",
+              "start": 24,
+              "url": "https://t.co/q1bvdfeBzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931414503922774121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1422,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931410546584388056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/yj4JulP40Y https://t.co/q1bvdfeBzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 416,
+          "like_count": 8050,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1748
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/全职开发EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🧭@sciuxkit @bugduckteam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "bugduckteam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1925115627330839030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4718,
+          "following_count": 2984,
+          "like_count": 2307,
+          "listed_count": 16,
+          "media_count": 737,
+          "tweet_count": 3812
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

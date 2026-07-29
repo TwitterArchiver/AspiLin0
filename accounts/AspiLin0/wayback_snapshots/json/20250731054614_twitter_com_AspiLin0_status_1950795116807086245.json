@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950747385170432080",
+    "created_at": "2025-07-31T05:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T06:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950795116807086245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1575956145159622656",
+          "start": 0,
+          "username": "IctyeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950795116807086245",
+    "in_reply_to_user_id": "1575956145159622656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950747385170432080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IctyeP 并非\n寻找群体排外是人之本性\n而性别分类便是一个自然的群体，排斥另一个群体也是合理的\n所谓的平等不过是用道德约束自己的天性罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950747385170432080",
+        "created_at": "2025-07-31T05:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950795116807086245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1575956145159622656",
+              "start": 0,
+              "username": "IctyeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950795116807086245",
+        "in_reply_to_user_id": "1575956145159622656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950747385170432080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IctyeP 并非\n寻找群体排外是人之本性\n而性别分类便是一个自然的群体，排斥另一个群体也是合理的\n所谓的平等不过是用道德约束自己的天性罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575956145159622656",
+        "conversation_id": "1950747385170432080",
+        "created_at": "2025-07-31T02:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T03:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950747385170432080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950747385170432080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男女对立的矛盾完全就是人为创造出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 448,
+          "like_count": 10082,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T21:10:17.000Z",
+        "description": "Personal vturber,playing rythem games and shoot 'em up games,No politics,usually use name ictye（@IctyeP）,studio：（@IctyeOffice）E-mail： ictyedaily@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 96,
+                "username": "IctyeP"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "IctyeOffice"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/34932928429452…",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/3493292842945296",
+                "start": 0,
+                "url": "https://t.co/VKiBPCd7rr"
+              }
+            ]
+          }
+        },
+        "id": "1575956145159622656",
+        "location": "Gensokyo",
+        "name": "Kagiyama Hina（Ictye）",
+        "pinned_tweet_id": "1798748784647893259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885375492813103104/V0d9rgiY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 586,
+          "like_count": 20483,
+          "listed_count": 8,
+          "media_count": 1370,
+          "tweet_count": 11101
+        },
+        "url": "https://t.co/VKiBPCd7rr",
+        "username": "IctyeP",
+        "verified": false
+      }
+    ]
+  }
+}

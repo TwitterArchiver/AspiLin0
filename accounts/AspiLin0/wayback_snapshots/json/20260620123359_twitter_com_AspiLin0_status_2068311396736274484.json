@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068311343665676288"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2068311396736274484",
+    "created_at": "2026-06-20T12:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068311396736274484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BNy0OKpk5B",
+          "end": 37,
+          "expanded_url": "https://x.com/AspiLin0/status/2068311396736274484/photo/1",
+          "media_key": "3_2068311343665676288",
+          "start": 14,
+          "url": "https://t.co/BNy0OKpk5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068311396736274484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难道要赛博乞讨来看病了（x https://t.co/BNy0OKpk5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2068311343665676288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQeNWwagAAynBA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068311343665676288"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2068311396736274484",
+        "created_at": "2026-06-20T12:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068311396736274484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNy0OKpk5B",
+              "end": 37,
+              "expanded_url": "https://x.com/AspiLin0/status/2068311396736274484/photo/1",
+              "media_key": "3_2068311343665676288",
+              "start": 14,
+              "url": "https://t.co/BNy0OKpk5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068311396736274484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道要赛博乞讨来看病了（x https://t.co/BNy0OKpk5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「人的一生就是曲折而复杂的自杀过程」\n世界上最可爱的奇奇→@ntfuko💕\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 769,
+          "like_count": 21381,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 5039
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

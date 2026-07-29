@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1960704566124798328",
+    "created_at": "2025-08-27T14:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T15:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960705587060322653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779556990500630528",
+          "start": 0,
+          "username": "Aspirin421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960705587060322653",
+    "in_reply_to_user_id": "1779556990500630528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960704566124798328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aspirin421 摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_1960704555261550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXSZ53a4AACuuq.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1960704566124798328",
+        "created_at": "2025-08-27T14:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960705587060322653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779556990500630528",
+              "start": 0,
+              "username": "Aspirin421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960705587060322653",
+        "in_reply_to_user_id": "1779556990500630528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960704566124798328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aspirin421 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960704555261550592"
+          ]
+        },
+        "author_id": "1779556990500630528",
+        "conversation_id": "1960704566124798328",
+        "created_at": "2025-08-27T14:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960704566124798328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1DDb6Ply4",
+              "end": 27,
+              "expanded_url": "https://x.com/Aspirin421/status/1960704566124798328/photo/1",
+              "media_key": "3_1960704555261550592",
+              "start": 4,
+              "url": "https://t.co/d1DDb6Ply4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960704566124798328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头好痛 https://t.co/d1DDb6Ply4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 479,
+          "like_count": 12433,
+          "listed_count": 4,
+          "media_count": 256,
+          "tweet_count": 3082
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T17:07:16.000Z",
+        "description": "这里空空如也——暂时",
+        "id": "1779556990500630528",
+        "name": "rin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905870360706490368/Vq_r9V56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 677,
+          "like_count": 23739,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 125
+        },
+        "username": "Aspirin421",
+        "verified": false
+      }
+    ]
+  }
+}

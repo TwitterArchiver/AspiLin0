@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973325970053718016"
+      ],
+      "media_source_tweet_id": [
+        "1973326467816923299"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1973694179047076149",
+    "created_at": "2025-10-02T10:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T11:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973694179047076149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9lnDYy3Dm",
+          "end": 38,
+          "expanded_url": "https://x.com/Nakkar7/status/1973326467816923299/photo/1",
+          "media_key": "3_1973325970053718016",
+          "start": 15,
+          "url": "https://t.co/M9lnDYy3Dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973694179047076149",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 665
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973326467816923299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: 💥 https://t.co/M9lnDYy3Dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1973325970053718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Kpg78a4AA2Y1I.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973325970053718016"
+          ],
+          "media_source_tweet_id": [
+            "1973326467816923299"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1973694179047076149",
+        "created_at": "2025-10-02T10:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973694179047076149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9lnDYy3Dm",
+              "end": 38,
+              "expanded_url": "https://x.com/Nakkar7/status/1973326467816923299/photo/1",
+              "media_key": "3_1973325970053718016",
+              "start": 15,
+              "url": "https://t.co/M9lnDYy3Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973694179047076149",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973326467816923299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: 💥 https://t.co/M9lnDYy3Dm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973325970053718016"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "1973326467816923299",
+        "created_at": "2025-10-01T09:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T10:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973326467816923299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9lnDYy3Dm",
+              "end": 25,
+              "expanded_url": "https://x.com/Nakkar7/status/1973326467816923299/photo/1",
+              "media_key": "3_1973325970053718016",
+              "start": 2,
+              "url": "https://t.co/M9lnDYy3Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973326467816923299",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 104270,
+          "like_count": 7889,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 665
+        },
+        "reply_settings": "everyone",
+        "text": "💥 https://t.co/M9lnDYy3Dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 503,
+          "like_count": 13146,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 3347
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜　\n┊SHOP ➭ https://t.co/AAZW8Vxyje\n┊FANBOX ➭ https://t.co/YgsKSZVNtu\n┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 45,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 22,
+                "url": "https://t.co/AAZW8Vxyje"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 79,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 56,
+                "url": "https://t.co/YgsKSZVNtu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaaKwI"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "location": "現在ご依頼受付しておりません",
+        "name": "かなめなか　関西コミティア・M-34",
+        "pinned_tweet_id": "1969690791892390188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970698538691764225/NvaHdUTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67796,
+          "following_count": 205,
+          "like_count": 15950,
+          "listed_count": 647,
+          "media_count": 989,
+          "tweet_count": 27066
+        },
+        "url": "https://t.co/HcT4NaaKwI",
+        "username": "Nakkar7",
+        "verified": false
+      }
+    ]
+  }
+}

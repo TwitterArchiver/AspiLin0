@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1927364922398191647",
+    "created_at": "2025-05-27T14:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927364922398191647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bq88UorZLiFvyM…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/Bq88UorZLiFvyMN/status/1927000280568058301",
+          "start": 105,
+          "url": "https://t.co/ZSclqx7WqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927364922398191647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927000280568058301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当我们在观看一场赛马时，神在后面观看着我们。\n神是爱我们的，正如我们会为某一匹马的夺胜而欢呼\n但神只是见证，我们不会为了让我们心爱的马夺胜而操纵比赛，神也不会干涉世间的苦难。\n神看着，但只是看着，这是祂的慈悲 https://t.co/ZSclqx7WqG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1927364922398191647",
+        "created_at": "2025-05-27T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927364922398191647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bq88UorZLiFvyM…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Bq88UorZLiFvyMN/status/1927000280568058301",
+              "start": 105,
+              "url": "https://t.co/ZSclqx7WqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927364922398191647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927000280568058301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当我们在观看一场赛马时，神在后面观看着我们。\n神是爱我们的，正如我们会为某一匹马的夺胜而欢呼\n但神只是见证，我们不会为了让我们心爱的马夺胜而操纵比赛，神也不会干涉世间的苦难。\n神看着，但只是看着，这是祂的慈悲 https://t.co/ZSclqx7WqG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556640645447827461",
+        "conversation_id": "1927000280568058301",
+        "created_at": "2025-05-26T13:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927000280568058301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927000280568058301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2709,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「神」是甚麼？它真的爱世人嗎？那為何世界還有如此多苦難？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 386,
+          "like_count": 6972,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1927011482807554131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905495387194175488/SxgTGKrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1743,
+          "like_count": 42045,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 11091
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      }
+    ]
+  }
+}

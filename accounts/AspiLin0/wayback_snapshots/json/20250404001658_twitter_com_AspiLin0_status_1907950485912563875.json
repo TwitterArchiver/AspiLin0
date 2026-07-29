@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1907950485912563875",
+    "created_at": "2025-04-04T00:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T01:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907950485912563875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/748cm/status/1…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/748cm/status/1907649646652174508",
+          "start": 9,
+          "url": "https://t.co/MndDfkKkt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907950485912563875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907649646652174508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢这个坏笑ww https://t.co/MndDfkKkt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1907649499054657536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlVHLsa0AAqH7U.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1907950485912563875",
+        "created_at": "2025-04-04T00:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T01:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907950485912563875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/748cm/status/1…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/748cm/status/1907649646652174508",
+              "start": 9,
+              "url": "https://t.co/MndDfkKkt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907950485912563875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907649646652174508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢这个坏笑ww https://t.co/MndDfkKkt2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907649499054657536"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "1907649646652174508",
+        "created_at": "2025-04-03T04:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907649646652174508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jniMuDEci3",
+              "end": 32,
+              "expanded_url": "https://x.com/748cm/status/1907649646652174508/photo/1",
+              "media_key": "3_1907649499054657536",
+              "start": 9,
+              "url": "https://t.co/jniMuDEci3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907649646652174508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 22380,
+          "like_count": 1490,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "もくもくすもーく https://t.co/jniMuDEci3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "每次邂逅都是事先约定，每次死亡都是自尽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1906003520081555510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 276,
+          "like_count": 3141,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "Malice🎀| 鬱 x エモ / AI illustration / 仕事で人間やってます。 / ご依頼はDMで🧸🔪",
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721901431568138240/QnROGByH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101174,
+          "following_count": 206,
+          "like_count": 15555,
+          "listed_count": 516,
+          "media_count": 3199,
+          "tweet_count": 11351
+        },
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

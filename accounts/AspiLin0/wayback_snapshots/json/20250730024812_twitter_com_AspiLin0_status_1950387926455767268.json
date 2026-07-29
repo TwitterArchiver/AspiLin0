@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950120114570834297",
+    "created_at": "2025-07-30T02:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T03:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950387926455767268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639644035299299330",
+          "start": 0,
+          "username": "JingLoveSiss"
+        },
+        {
+          "end": 28,
+          "id": "1349016571033886720",
+          "start": 14,
+          "username": "LiFuguigiegie"
+        },
+        {
+          "end": 40,
+          "id": "1684788633797287936",
+          "start": 29,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950387926455767268",
+    "in_reply_to_user_id": "1639644035299299330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950385456123912208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JingLoveSiss @LiFuguigiegie @Moningmeng 基本的类推\n不然你举的清朝那时候也不叫中国啊🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T02:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T03:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950387926455767268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639644035299299330",
+              "start": 0,
+              "username": "JingLoveSiss"
+            },
+            {
+              "end": 28,
+              "id": "1349016571033886720",
+              "start": 14,
+              "username": "LiFuguigiegie"
+            },
+            {
+              "end": 40,
+              "id": "1684788633797287936",
+              "start": 29,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950387926455767268",
+        "in_reply_to_user_id": "1639644035299299330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950385456123912208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JingLoveSiss @LiFuguigiegie @Moningmeng 基本的类推\n不然你举的清朝那时候也不叫中国啊🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639644035299299330",
+        "conversation_id": "1950120114570834297",
+        "created_at": "2025-07-30T02:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T03:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950385456123912208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 24,
+              "id": "1349016571033886720",
+              "start": 10,
+              "username": "LiFuguigiegie"
+            },
+            {
+              "end": 36,
+              "id": "1684788633797287936",
+              "start": 25,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950385456123912208",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950335103500165327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @LiFuguigiegie @Moningmeng 命题是中国合法化，不看中国看哪儿？？看你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 447,
+          "like_count": 9912,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T15:03:10.000Z",
+        "description": "装模作样的傻逼媚黑母猪",
+        "id": "1639644035299299330",
+        "name": "♠️蝴蝴♠️",
+        "pinned_tweet_id": "1923579166999576621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921226457348796416/PC-ehuIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1389,
+          "like_count": 1551,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 3145
+        },
+        "username": "JingLoveSiss",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T15:33:21.000Z",
+        "description": "中国銭湯最強伝説，変態撮影のNumber one（bushi）是个摄影，比较喜欢拍cosplay和色情内容，人在澳大利亚，过年回山东，经过厦门和广东，现在正在寻找合作对象。画饼摄影(´｡･v･｡｀）  我骂的人替我挡灾",
+        "id": "1349016571033886720",
+        "location": "山东",
+        "name": "qmsgjcjsj（全球可飞）",
+        "pinned_tweet_id": "1785379837374603316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622076369940381697/v-qiMDjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4230,
+          "following_count": 2724,
+          "like_count": 14665,
+          "listed_count": 18,
+          "media_count": 512,
+          "tweet_count": 3948
+        },
+        "username": "LiFuguigiegie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21766,
+          "following_count": 10882,
+          "like_count": 81659,
+          "listed_count": 77,
+          "media_count": 3971,
+          "tweet_count": 14700
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

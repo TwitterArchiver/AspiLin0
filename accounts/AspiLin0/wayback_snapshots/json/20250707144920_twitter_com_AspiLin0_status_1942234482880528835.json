@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942063230077345792"
+      ],
+      "media_source_tweet_id": [
+        "1942063236603634070"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1942234482880528835",
+    "created_at": "2025-07-07T14:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942234482880528835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGzyJyEoCH",
+          "end": 36,
+          "expanded_url": "https://x.com/hgds520/status/1942063236603634070/photo/1",
+          "media_key": "3_1942063230077345792",
+          "start": 13,
+          "url": "https://t.co/rGzyJyEoCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942234482880528835",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942063236603634070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: https://t.co/rGzyJyEoCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_1942063230077345792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOYN-AboAAW_yR.jpg",
+        "width": 1277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942063230077345792"
+          ],
+          "media_source_tweet_id": [
+            "1942063236603634070"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1942234482880528835",
+        "created_at": "2025-07-07T14:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942234482880528835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGzyJyEoCH",
+              "end": 36,
+              "expanded_url": "https://x.com/hgds520/status/1942063236603634070/photo/1",
+              "media_key": "3_1942063230077345792",
+              "start": 13,
+              "url": "https://t.co/rGzyJyEoCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942234482880528835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942063236603634070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: https://t.co/rGzyJyEoCH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942063230077345792"
+          ]
+        },
+        "author_id": "1826321786834944000",
+        "conversation_id": "1942063236603634070",
+        "created_at": "2025-07-07T03:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942063236603634070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGzyJyEoCH",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds520/status/1942063236603634070/photo/1",
+              "media_key": "3_1942063230077345792",
+              "start": 0,
+              "url": "https://t.co/rGzyJyEoCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942063236603634070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 56677,
+          "like_count": 819,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rGzyJyEoCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 445,
+          "like_count": 9543,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "今天心情不好，也不是今天不好，也不是心情不好，是我不好",
+        "id": "1826321786834944000",
+        "location": "江浙沪",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1930606456522633247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 310,
+          "like_count": 6031,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 341
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1936274508450759007",
+    "created_at": "2025-06-21T04:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T05:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936274508450759007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuwen_Tang1019…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Yuwen_Tang1019/status/1936273122686386683",
+          "start": 15,
+          "url": "https://t.co/AblzwDX6CL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936274508450759007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936273122686386683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（\n所以说未见全貌，无以置评 https://t.co/AblzwDX6CL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936273113135689728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8GIziXsAA3_ql.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1936274508450759007",
+        "created_at": "2025-06-21T04:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936274508450759007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuwen_Tang1019…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Yuwen_Tang1019/status/1936273122686386683",
+              "start": 15,
+              "url": "https://t.co/AblzwDX6CL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936274508450759007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936273122686386683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（\n所以说未见全貌，无以置评 https://t.co/AblzwDX6CL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936273113135689728"
+          ]
+        },
+        "author_id": "1924965014831824896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936273122686386683",
+        "created_at": "2025-06-21T04:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936273122686386683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TtD1GJhKV",
+              "end": 47,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1936273122686386683/photo/1",
+              "media_key": "3_1936273113135689728",
+              "start": 24,
+              "url": "https://t.co/7TtD1GJhKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936273122686386683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这群人真是在消磨我的善良和意志\n得亏我意志坚定 https://t.co/7TtD1GJhKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 433,
+          "like_count": 8955,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF木桶饭\n墨尔本\n其实一点也不傲娇\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 58,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 35,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "Melbourne, Victoria",
+        "name": "NoMTF | 唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 196,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

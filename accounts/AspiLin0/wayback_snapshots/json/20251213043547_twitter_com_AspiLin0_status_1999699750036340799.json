@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999119452672319488"
+      ],
+      "media_source_tweet_id": [
+        "1999119510079737881"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999699750036340799",
+    "created_at": "2025-12-13T04:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999699750036340799"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "魔法少女ノ魔女裁判"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "まのさば"
+        },
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "まのさば二次創作"
+        },
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "橘シェリー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3436783870",
+          "start": 3,
+          "username": "youcantbethatTT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWhsXUcIHO",
+          "end": 81,
+          "expanded_url": "https://x.com/youcantbethatTT/status/1999119510079737881/photo/1",
+          "media_key": "3_1999119452672319488",
+          "start": 58,
+          "url": "https://t.co/hWhsXUcIHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999699750036340799",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999119510079737881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youcantbethatTT: #魔法少女ノ魔女裁判  #まのさば  #まのさば二次創作  #橘シェリー https://t.co/hWhsXUcIHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2528,
+        "media_key": "3_1999119452672319488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75MjOgbYAAOvYi.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999119452672319488"
+          ],
+          "media_source_tweet_id": [
+            "1999119510079737881"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999699750036340799",
+        "created_at": "2025-12-13T04:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999699750036340799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "まのさば"
+            },
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "まのさば二次創作"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "橘シェリー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3436783870",
+              "start": 3,
+              "username": "youcantbethatTT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWhsXUcIHO",
+              "end": 81,
+              "expanded_url": "https://x.com/youcantbethatTT/status/1999119510079737881/photo/1",
+              "media_key": "3_1999119452672319488",
+              "start": 58,
+              "url": "https://t.co/hWhsXUcIHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999699750036340799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999119510079737881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youcantbethatTT: #魔法少女ノ魔女裁判  #まのさば  #まのさば二次創作  #橘シェリー https://t.co/hWhsXUcIHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999119452672319488"
+          ]
+        },
+        "author_id": "3436783870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999119510079737881",
+        "created_at": "2025-12-11T14:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999119510079737881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "まのさば"
+            },
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "まのさば二次創作"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "橘シェリー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWhsXUcIHO",
+              "end": 60,
+              "expanded_url": "https://x.com/youcantbethatTT/status/1999119510079737881/photo/1",
+              "media_key": "3_1999119452672319488",
+              "start": 37,
+              "url": "https://t.co/hWhsXUcIHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999119510079737881",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 29806,
+          "like_count": 3216,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女ノ魔女裁判  #まのさば  #まのさば二次創作  #橘シェリー https://t.co/hWhsXUcIHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 523,
+          "like_count": 13802,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 3548
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-23T13:50:23.000Z",
+        "description": "AI+Draw+PS,https://t.co/y2sftA02j8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/86091882",
+                "end": 34,
+                "expanded_url": "https://www.pixiv.net/users/86091882",
+                "start": 11,
+                "url": "https://t.co/y2sftA02j8"
+              }
+            ]
+          }
+        },
+        "id": "3436783870",
+        "name": "Bloodhound",
+        "pinned_tweet_id": "1985188143398805966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990705654450061312/FZ2P2LDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 87,
+          "like_count": 8678,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 318
+        },
+        "username": "youcantbethatTT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1923361705012146444",
+    "created_at": "2025-05-17T13:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T14:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923728788980220023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880464735675813888",
+          "start": 0,
+          "username": "ShikuiL23822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923728788980220023",
+    "in_reply_to_user_id": "1880464735675813888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923728585900294452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShikuiL23822 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1923361705012146444",
+        "created_at": "2025-05-17T13:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923728788980220023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880464735675813888",
+              "start": 0,
+              "username": "ShikuiL23822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923728788980220023",
+        "in_reply_to_user_id": "1880464735675813888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923728585900294452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShikuiL23822 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464735675813888",
+        "conversation_id": "1923361705012146444",
+        "created_at": "2025-05-17T13:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923728585900294452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923728585900294452",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923361705012146444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我来！(◐‿◑)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1921585052485398547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923619606213623809/_Y2aCUCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 379,
+          "like_count": 6505,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:47.000Z",
+        "description": "二次元😈 | 游戏党👾 | 喜欢听金属摇滚 | 泛性 | 卑微社恐畜牲🤡🐮🐎 | 记录日常和感想 | 偶尔发疯 | 强迫 | 焦虑 | 抑郁 | 来我这里，随便聊聊，什么都行～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TTzC008",
+                "end": 23,
+                "expanded_url": "http://t.me/TTzC008",
+                "start": 0,
+                "url": "https://t.co/EjoAMBIto9"
+              }
+            ]
+          }
+        },
+        "id": "1880464735675813888",
+        "location": "天堂",
+        "name": "白羊✨冰淇淋ice🍦",
+        "pinned_tweet_id": "1900543917843759284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897872965955649537/BByH9jO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 120,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/EjoAMBIto9",
+        "username": "ShikuiL23822",
+        "verified": false
+      }
+    ]
+  }
+}

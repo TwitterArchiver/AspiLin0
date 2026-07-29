@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034189152162607104",
+        "3_2034189152150069250",
+        "3_2034189152149999616"
+      ],
+      "media_source_tweet_id": [
+        "2034189159238340768",
+        "2034189159238340768",
+        "2034189159238340768"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2034480512501448720",
+    "created_at": "2026-03-19T04:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034480512501448720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E2OqwB9G3y",
+          "end": 47,
+          "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+          "media_key": "3_2034189152162607104",
+          "start": 24,
+          "url": "https://t.co/E2OqwB9G3y"
+        },
+        {
+          "display_url": "pic.x.com/E2OqwB9G3y",
+          "end": 47,
+          "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+          "media_key": "3_2034189152150069250",
+          "start": 24,
+          "url": "https://t.co/E2OqwB9G3y"
+        },
+        {
+          "display_url": "pic.x.com/E2OqwB9G3y",
+          "end": 47,
+          "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+          "media_key": "3_2034189152149999616",
+          "start": 24,
+          "url": "https://t.co/E2OqwB9G3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034480512501448720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034189159238340768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: 風、夢、水 https://t.co/E2OqwB9G3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2034189152162607104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrkQZya8AA1bLu.jpg",
+        "width": 959
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2034189152150069250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrkQZvboAIp6Jw.jpg",
+        "width": 959
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2034189152149999616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrkQZvakAA0z2O.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034189152162607104",
+            "3_2034189152150069250",
+            "3_2034189152149999616"
+          ],
+          "media_source_tweet_id": [
+            "2034189159238340768",
+            "2034189159238340768",
+            "2034189159238340768"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2034480512501448720",
+        "created_at": "2026-03-19T04:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034480512501448720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2OqwB9G3y",
+              "end": 47,
+              "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+              "media_key": "3_2034189152162607104",
+              "start": 24,
+              "url": "https://t.co/E2OqwB9G3y"
+            },
+            {
+              "display_url": "pic.x.com/E2OqwB9G3y",
+              "end": 47,
+              "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+              "media_key": "3_2034189152150069250",
+              "start": 24,
+              "url": "https://t.co/E2OqwB9G3y"
+            },
+            {
+              "display_url": "pic.x.com/E2OqwB9G3y",
+              "end": 47,
+              "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+              "media_key": "3_2034189152149999616",
+              "start": 24,
+              "url": "https://t.co/E2OqwB9G3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034480512501448720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034189159238340768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: 風、夢、水 https://t.co/E2OqwB9G3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034189152162607104",
+            "3_2034189152150069250",
+            "3_2034189152149999616"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "2034189159238340768",
+        "created_at": "2026-03-18T08:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034189159238340768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2OqwB9G3y",
+              "end": 29,
+              "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+              "media_key": "3_2034189152162607104",
+              "start": 6,
+              "url": "https://t.co/E2OqwB9G3y"
+            },
+            {
+              "display_url": "pic.x.com/E2OqwB9G3y",
+              "end": 29,
+              "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+              "media_key": "3_2034189152150069250",
+              "start": 6,
+              "url": "https://t.co/E2OqwB9G3y"
+            },
+            {
+              "display_url": "pic.x.com/E2OqwB9G3y",
+              "end": 29,
+              "expanded_url": "https://x.com/nzawasaji777/status/2034189159238340768/photo/1",
+              "media_key": "3_2034189152149999616",
+              "start": 6,
+              "url": "https://t.co/E2OqwB9G3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034189159238340768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 18801,
+          "like_count": 1352,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "風、夢、水 https://t.co/E2OqwB9G3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 640,
+          "like_count": 18129,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 4309
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね✉️:nzawasaji777@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNsnGn"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "name": "ん沢　匙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7924,
+          "following_count": 685,
+          "like_count": 6887,
+          "listed_count": 43,
+          "media_count": 297,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/0RQYPNsnGn",
+        "username": "nzawasaji777",
+        "verified": false
+      }
+    ]
+  }
+}

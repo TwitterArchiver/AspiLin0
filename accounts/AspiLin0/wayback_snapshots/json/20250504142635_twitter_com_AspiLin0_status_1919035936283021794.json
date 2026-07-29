@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919035932101234688"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1919035936283021794",
+    "created_at": "2025-05-04T14:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T15:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919035936283021794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1359382729645649924",
+          "start": 13,
+          "username": "qingxuan404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JMmmCWAa1g",
+          "end": 84,
+          "expanded_url": "https://x.com/AspiLin0/status/1919035936283021794/photo/1",
+          "media_key": "3_1919035932101234688",
+          "start": 61,
+          "url": "https://t.co/JMmmCWAa1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919035936283021794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后难受或发病往这发了↓\n@qingxuan404 \n一方面好像有点人设了，一方面不想影响到别人（毕竟有时候睡一觉又好了 https://t.co/JMmmCWAa1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_1919035932101234688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqHJA0Qa0AAv0pM.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919035932101234688"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1919035936283021794",
+        "created_at": "2025-05-04T14:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919035936283021794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1359382729645649924",
+              "start": 13,
+              "username": "qingxuan404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMmmCWAa1g",
+              "end": 84,
+              "expanded_url": "https://x.com/AspiLin0/status/1919035936283021794/photo/1",
+              "media_key": "3_1919035932101234688",
+              "start": 61,
+              "url": "https://t.co/JMmmCWAa1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919035936283021794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后难受或发病往这发了↓\n@qingxuan404 \n一方面好像有点人设了，一方面不想影响到别人（毕竟有时候睡一觉又好了 https://t.co/JMmmCWAa1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 355,
+          "like_count": 5662,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-10T06:04:47.000Z",
+        "description": "去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aspilin.com",
+                "end": 23,
+                "expanded_url": "http://aspilin.com",
+                "start": 0,
+                "url": "https://t.co/cdO7rw91XT"
+              }
+            ]
+          }
+        },
+        "id": "1359382729645649924",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片不是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903045437915009024/1FCov1m7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/cdO7rw91XT",
+        "username": "qingxuan404",
+        "verified": false
+      }
+    ]
+  }
+}

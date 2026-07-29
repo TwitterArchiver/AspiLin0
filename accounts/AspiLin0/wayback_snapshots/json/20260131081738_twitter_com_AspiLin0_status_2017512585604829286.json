@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2017511301850010108",
+    "created_at": "2026-01-31T08:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017512585604829286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017512585604829286",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017512323670523930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许没有哪一个英文词比“locked-in”更精确地刻画这种处境——我们本是生而向自由的造物，却被锁入于一座唯有死亡方能逃离的监笼。（4/n）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2017511301850010108",
+        "created_at": "2026-01-31T08:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017512585604829286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017512585604829286",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017512323670523930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许没有哪一个英文词比“locked-in”更精确地刻画这种处境——我们本是生而向自由的造物，却被锁入于一座唯有死亡方能逃离的监笼。（4/n）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2017511301850010108",
+        "created_at": "2026-01-31T08:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017512323670523930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017512323670523930",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017511607300198470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在神经科学尚未成熟的年代，医师尚无法将此状态与持续性植物状态（persistent vegetative state）（即植物人）可靠地区分。于是我们目睹了那些骇人的场景：病人在毫无麻醉的情形下接受外科操作，或在清醒中聆听医生与亲人讨论自己的命运，却无法参与其中。（3/n）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2017266265623302211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 553,
+          "like_count": 15239,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 3824
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004569693965914136",
+    "created_at": "2025-12-27T06:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004797679927525424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4229371640",
+          "start": 0,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004797679927525424",
+    "in_reply_to_user_id": "4229371640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004794024457372061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringochichidim 奇奇是狐狸🦊（确信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004569693965914136",
+        "created_at": "2025-12-27T06:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004797679927525424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004797679927525424",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004794024457372061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim 奇奇是狐狸🦊（确信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4229371640",
+        "conversation_id": "2004569693965914136",
+        "created_at": "2025-12-27T05:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004794024457372061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            },
+            {
+              "end": 21,
+              "id": "1786055418684264448",
+              "start": 10,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004794024457372061",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004773689108365524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 @SIRliquid_ 可能刷新奇奇\n最近不会刷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 524,
+          "like_count": 13940,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3581
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "来たことがある",
+        "id": "4229371640",
+        "location": "Taiwan",
+        "name": "きた(舊稱窮奇)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1236,
+          "like_count": 38568,
+          "listed_count": 8,
+          "media_count": 3271,
+          "tweet_count": 10817
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

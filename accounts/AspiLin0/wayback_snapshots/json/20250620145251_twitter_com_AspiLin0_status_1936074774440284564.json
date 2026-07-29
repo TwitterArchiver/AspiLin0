@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1935984060956131485",
+    "created_at": "2025-06-20T14:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T15:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936074774440284564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732775121797136384",
+          "start": 0,
+          "username": "zuilizhishier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936074774440284564",
+    "in_reply_to_user_id": "1732775121797136384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935984060956131485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuilizhishier 感觉只在统计学上有效（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1935984060956131485",
+        "created_at": "2025-06-20T14:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936074774440284564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732775121797136384",
+              "start": 0,
+              "username": "zuilizhishier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936074774440284564",
+        "in_reply_to_user_id": "1732775121797136384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935984060956131485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuilizhishier 感觉只在统计学上有效（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732775121797136384",
+        "conversation_id": "1935984060956131485",
+        "created_at": "2025-06-20T08:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T09:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935984060956131485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935984060956131485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 217,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15岁青少年前额叶仅发育约70%负责复杂规划的神经回路尚未完善\n\n大学课程的高阶思维任务需依赖前额叶整合信息，但该脑区髓鞘化不足则会导致信息处理效率低下，会导致决策失误或拖延\n\n和大学同学平均年龄差异≥5岁\n会导致社交孤立可能阻碍眶额皮质发育\n进而增加成年后社交问题障碍\n\n我说的是奥数冠军姜萍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 431,
+          "like_count": 8916,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:52:46.000Z",
+        "description": "万物非猫，唯有哈猫，哈猫是希波克拉底行走在中推的影子，汉语、日语、英语，猫语使用者。每周会分享有趣的医学相关顶刊。哈猫喵咪咪（互粉请私信",
+        "id": "1732775121797136384",
+        "name": "枫糖哈猫🍐",
+        "pinned_tweet_id": "1934500578950033425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925358835340091392/0wu-aWfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 281,
+          "like_count": 2683,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1358
+        },
+        "username": "zuilizhishier",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1924843415868735715",
+    "created_at": "2025-05-20T15:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T16:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924843415868735715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tou12345678910…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/tou12345678910/status/1924339662140973388",
+          "start": 30,
+          "url": "https://t.co/Ick3cui9NO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924843415868735715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924339662140973388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那阿片是这样的\n甚至知道有时候规划不切实际，没达到还会内耗 https://t.co/Ick3cui9NO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1924843415868735715",
+        "created_at": "2025-05-20T15:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T16:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924843415868735715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tou12345678910…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/tou12345678910/status/1924339662140973388",
+              "start": 30,
+              "url": "https://t.co/Ick3cui9NO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924843415868735715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924339662140973388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那阿片是这样的\n甚至知道有时候规划不切实际，没达到还会内耗 https://t.co/Ick3cui9NO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1924148325865193933",
+        "created_at": "2025-05-19T05:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T06:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924339662140973388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924339662140973388",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 102357,
+          "like_count": 826,
+          "quote_count": 9,
+          "reply_count": 44,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924148325865193933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 黑塞的《生命之歌》中说，年轻人完全只想考虑为自己活，所以脆弱，因为他们的人生规划稍有差错那就会想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Neuroscience/Psychology/Philosophy/是狐狸，但也可能是其他东西/如果可以的话，可以称作阿片，阿司匹林片的话，也没意见/人的一生，就是复杂而曲折的自杀过程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 379,
+          "like_count": 6741,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8426,
+          "following_count": 5394,
+          "like_count": 199578,
+          "listed_count": 48,
+          "media_count": 2071,
+          "tweet_count": 35988
+        },
+        "username": "tou12345678910",
+        "verified": false
+      }
+    ]
+  }
+}

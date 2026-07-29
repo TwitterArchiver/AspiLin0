@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2042832981556068721",
+    "created_at": "2026-04-11T08:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042878163240296896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042878163240296896",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "\"死亡（或对死亡的记忆）使人变得珍贵，使人变得令人动情。人是因为会腐朽才显得感人。每一个举动都可能是最后一次；没有一张脸不会在消失前模糊。一切在凡人中都有不可挽回的、令人惋惜的价值。相反，在永生者中，每一个举动（以及每一个思想）都是无数次重复中的一个回声……没有任何事物不会迷失，记忆如同一种形式的遗忘……在永生者中间，相反，每个举动（以及每个思想）都是久远以前就已发生过的事情的回声。没有任何东西不是在无数面镜子之间迷失掉的。没有任何事物是不会反复出现的。\""
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042876260439961600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 \"死亡（或对死亡的记忆）使人变得珍贵，使人变得令人动情。人是因为会腐朽才显得感人。每一个举动都可能是最后一次；没有一张脸不会在消失前模糊。一切在凡人中都有不可挽回的、令人惋惜的价值。相反，在永生者中，每一个举动（以及每一个思想）都是无数次重复中的一个回声……没有任何事物不会迷失，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2042832981556068721",
+        "created_at": "2026-04-11T08:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042878163240296896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042878163240296896",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "\"死亡（或对死亡的记忆）使人变得珍贵，使人变得令人动情。人是因为会腐朽才显得感人。每一个举动都可能是最后一次；没有一张脸不会在消失前模糊。一切在凡人中都有不可挽回的、令人惋惜的价值。相反，在永生者中，每一个举动（以及每一个思想）都是无数次重复中的一个回声……没有任何事物不会迷失，记忆如同一种形式的遗忘……在永生者中间，相反，每个举动（以及每个思想）都是久远以前就已发生过的事情的回声。没有任何东西不是在无数面镜子之间迷失掉的。没有任何事物是不会反复出现的。\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042876260439961600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 \"死亡（或对死亡的记忆）使人变得珍贵，使人变得令人动情。人是因为会腐朽才显得感人。每一个举动都可能是最后一次；没有一张脸不会在消失前模糊。一切在凡人中都有不可挽回的、令人惋惜的价值。相反，在永生者中，每一个举动（以及每一个思想）都是无数次重复中的一个回声……没有任何事物不会迷失，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2042832981556068721",
+        "created_at": "2026-04-11T08:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042876260439961600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042876260439961600",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042872780388208857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 就是那个生了一大窝子的?\n没看过但是听说过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2042280046992462210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 695,
+          "like_count": 19475,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 4592
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "过于调皮有时被当做S的欠拴brat  |  \n只要不去就诊我就是健全B  |  \n大体上是直的，除非女人你在玩火",
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2042479071511396644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3962,
+          "following_count": 1430,
+          "like_count": 72012,
+          "listed_count": 4,
+          "media_count": 1017,
+          "tweet_count": 20342
+        },
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1993705158400962615",
+    "created_at": "2025-11-28T04:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994260689800905057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1729732433866903552",
+          "start": 0,
+          "username": "Nyx420_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994260689800905057",
+    "in_reply_to_user_id": "1729732433866903552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994259863510073503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyx420_ 不一定，有些人只是被困在修辞的迷宫里了。\n用浅显的语言，合适的类比，严谨的逻辑，有时或许不能达成共识，但至少别人会认真地审视你的看法\n而这只是换一个角度展示自我，而并非全然地顺应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1993705158400962615",
+        "created_at": "2025-11-28T04:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994260689800905057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1729732433866903552",
+              "start": 0,
+              "username": "Nyx420_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994260689800905057",
+        "in_reply_to_user_id": "1729732433866903552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994259863510073503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyx420_ 不一定，有些人只是被困在修辞的迷宫里了。\n用浅显的语言，合适的类比，严谨的逻辑，有时或许不能达成共识，但至少别人会认真地审视你的看法\n而这只是换一个角度展示自我，而并非全然地顺应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729732433866903552",
+        "conversation_id": "1993705158400962615",
+        "created_at": "2025-11-28T04:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994259863510073503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994259863510073503",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993705158400962615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 不要解释。你展露真实，频率接近的人只需要看几句话就能感受的出来。\n如果你为了这些人而将真实的自己掩藏起来，回避现实去成为他们，那么错过频率近似的人的概率就大大增加了\n爱是征服，哪怕我跟过去的我解释，他都不会接受，现代各类人文教育对人留下的习惯和感情惯性太深了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 517,
+          "like_count": 13620,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3504
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T05:22:16.000Z",
+        "description": "",
+        "id": "1729732433866903552",
+        "location": "𝐼𝑛 𝑀𝑜𝑚𝑒𝑛𝑡",
+        "name": "ℳℴ𝓂ℯ𝓃𝓉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958861052835504129/MzlpmqGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 7,
+          "like_count": 3695,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 103
+        },
+        "username": "Nyx420_",
+        "verified": false
+      }
+    ]
+  }
+}

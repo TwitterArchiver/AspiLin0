@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1931622695961305438",
+    "created_at": "2025-06-08T10:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T11:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931656756071219471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi5202"
+        },
+        {
+          "end": 23,
+          "id": "1750411215527137280",
+          "start": 10,
+          "username": "RikaRika8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931656756071219471",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931644450515853566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi5202 @RikaRika8964 我是土豆（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1931622695961305438",
+        "created_at": "2025-06-08T10:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931656756071219471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi5202"
+            },
+            {
+              "end": 23,
+              "id": "1750411215527137280",
+              "start": 10,
+              "username": "RikaRika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931656756071219471",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931644450515853566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi5202 @RikaRika8964 我是土豆（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1931622695961305438",
+        "created_at": "2025-06-08T09:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931644450515853566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1750411215527137280",
+              "start": 0,
+              "username": "RikaRika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931644450515853566",
+        "in_reply_to_user_id": "1750411215527137280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931622695961305438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikaRika8964 我是飞跃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 416,
+          "like_count": 8072,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1754
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "你好",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "枫糖小漓莫",
+        "pinned_tweet_id": "1886654791146987559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1233,
+          "like_count": 10706,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 4325
+        },
+        "username": "lizi5202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T06:52:19.000Z",
+        "description": "Post–structuralism/讓我們向統一的整體開戰 讓我們成為不可言說之物的見證者 讓我們不妥協的開發各種歧見差異 讓我們為正不同之名的榮譽而努力❤️@NE_Bot_Zhaoming ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "NE_Bot_Zhaoming"
+              }
+            ]
+          }
+        },
+        "id": "1750411215527137280",
+        "name": "ValentinaRichter",
+        "pinned_tweet_id": "1903726280429937149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918219800905695232/5KyeyvAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1006,
+          "like_count": 12479,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 9517
+        },
+        "username": "RikaRika8964",
+        "verified": false
+      }
+    ]
+  }
+}

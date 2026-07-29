@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004774341100384656",
+    "created_at": "2025-12-27T04:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T05:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004774341100384656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xing50062753/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xing50062753/status/2004377102968299543",
+          "start": 3,
+          "url": "https://t.co/I1Lu03MXbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004774341100384656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004377102968299543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仪式 https://t.co/I1Lu03MXbn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004774341100384656",
+        "created_at": "2025-12-27T04:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004774341100384656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xing50062753/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xing50062753/status/2004377102968299543",
+              "start": 3,
+              "url": "https://t.co/I1Lu03MXbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004774341100384656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004377102968299543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仪式 https://t.co/I1Lu03MXbn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571835424729104385",
+        "conversation_id": "2004377102968299543",
+        "created_at": "2025-12-26T02:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004377102968299543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004377102968299543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 45139,
+          "like_count": 488,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一定要梳头洗脸刷牙 这些真的可以帮助缓解身体的抑郁情绪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 524,
+          "like_count": 13926,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3577
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T12:15:58.000Z",
+        "description": "自由是个相对的概念 人生是场孤独的修行",
+        "id": "1571835424729104385",
+        "location": "❤️",
+        "name": "未命名",
+        "pinned_tweet_id": "1964951667369238841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003983357567434752/mxcNPbPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 39,
+          "like_count": 28535,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 94
+        },
+        "username": "xing50062753",
+        "verified": false
+      }
+    ]
+  }
+}

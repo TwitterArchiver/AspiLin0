@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034485255563071488"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2034485260461945112",
+    "created_at": "2026-03-19T04:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034485260461945112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9XQfFuXCT",
+          "end": 78,
+          "expanded_url": "https://x.com/AspiLin0/status/2034485260461945112/photo/1",
+          "media_key": "3_2034485255563071488",
+          "start": 55,
+          "url": "https://t.co/G9XQfFuXCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034485260461945112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像情绪防御功能开太强了\n昨天两个认识的人自杀了\n但是现在主要还是在想非线性动力学要怎么学\n这样的状态好怪（ https://t.co/G9XQfFuXCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2034485255563071488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvxj46bUAAdV5O.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034485255563071488"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2034485260461945112",
+        "created_at": "2026-03-19T04:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034485260461945112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9XQfFuXCT",
+              "end": 78,
+              "expanded_url": "https://x.com/AspiLin0/status/2034485260461945112/photo/1",
+              "media_key": "3_2034485255563071488",
+              "start": 55,
+              "url": "https://t.co/G9XQfFuXCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034485260461945112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像情绪防御功能开太强了\n昨天两个认识的人自杀了\n但是现在主要还是在想非线性动力学要怎么学\n这样的状态好怪（ https://t.co/G9XQfFuXCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 640,
+          "like_count": 18135,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 4311
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

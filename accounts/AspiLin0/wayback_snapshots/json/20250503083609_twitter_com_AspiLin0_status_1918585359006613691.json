@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918584380467101818",
+    "created_at": "2025-05-03T08:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T09:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918585359006613691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882326322187513856",
+          "start": 0,
+          "username": "DDRR8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918585359006613691",
+    "in_reply_to_user_id": "1882326322187513856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918584380467101818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDRR8964 中^^"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1918584377778552836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqAuU5UawAQXClN.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918584380467101818",
+        "created_at": "2025-05-03T08:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T09:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918585359006613691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882326322187513856",
+              "start": 0,
+              "username": "DDRR8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918585359006613691",
+        "in_reply_to_user_id": "1882326322187513856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918584380467101818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDRR8964 中^^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918584377778552836"
+          ]
+        },
+        "author_id": "1882326322187513856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1918584380467101818",
+        "created_at": "2025-05-03T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918584380467101818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/RjxGTRppYz"
+            },
+            {
+              "display_url": "pic.x.com/yyCucy05mg",
+              "end": 64,
+              "expanded_url": "https://x.com/DDRR8964/status/1918584380467101818/photo/1",
+              "media_key": "3_1918584377778552836",
+              "start": 41,
+              "url": "https://t.co/yyCucy05mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918584380467101818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/RjxGTRppYz https://t.co/yyCucy05mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 345,
+          "like_count": 5302,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T07:16:03.000Z",
+        "description": "本人尊重他人不同立场(∂ω∂) ，喜欢吃喝玩乐（求fo）",
+        "id": "1882326322187513856",
+        "location": "老北京地道里",
+        "name": "yuukaaa啊",
+        "pinned_tweet_id": "1911091794848489491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882334145978007552/0NcOKzaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 334,
+          "like_count": 2292,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 603
+        },
+        "username": "DDRR8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1965655918605205877",
+    "created_at": "2025-09-10T05:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T06:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965655918605205877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886878157711794177",
+          "start": 3,
+          "username": "Hezijun5593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965655918605205877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965276644169711927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hezijun5593: 接警出警多了，一般声称想自杀的人95%都不会真自杀，基本都是想得到他人关注和关心，是一种比较极端的寻求帮助的说辞\n真想自杀的人自己找个地方就死了，谁也不会说，往往死了几天，十天半个月甚至几年后才会被发现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1965655918605205877",
+        "created_at": "2025-09-10T05:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965655918605205877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886878157711794177",
+              "start": 3,
+              "username": "Hezijun5593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965655918605205877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965276644169711927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hezijun5593: 接警出警多了，一般声称想自杀的人95%都不会真自杀，基本都是想得到他人关注和关心，是一种比较极端的寻求帮助的说辞\n真想自杀的人自己找个地方就死了，谁也不会说，往往死了几天，十天半个月甚至几年后才会被发现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886878157711794177",
+        "conversation_id": "1965276644169711927",
+        "created_at": "2025-09-09T04:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965276644169711927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965276644169711927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18969,
+          "like_count": 228,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "接警出警多了，一般声称想自杀的人95%都不会真自杀，基本都是想得到他人关注和关心，是一种比较极端的寻求帮助的说辞\n真想自杀的人自己找个地方就死了，谁也不会说，往往死了几天，十天半个月甚至几年后才会被发现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 485,
+          "like_count": 12798,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3198
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T20:43:15.000Z",
+        "description": "一个无趣的人，但有个可以让我变的有趣的哥哥\n随机发送xql合照福利  是个技术一般的绳师，梦想是把互关都绑一遍😋\nngl提问: https://t.co/808mtprXF2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/av22osprey/",
+                "end": 87,
+                "expanded_url": "https://ngl.link/av22osprey/",
+                "start": 64,
+                "url": "https://t.co/808mtprXF2"
+              }
+            ]
+          }
+        },
+        "id": "1886878157711794177",
+        "location": "CN",
+        "name": "舟乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886884784724697089/EJW6OjVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 506,
+          "like_count": 16088,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 447
+        },
+        "username": "Hezijun5593",
+        "verified": false
+      }
+    ]
+  }
+}

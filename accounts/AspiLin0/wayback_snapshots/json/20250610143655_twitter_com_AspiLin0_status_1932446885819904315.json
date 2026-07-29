@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1932444075980140614",
+    "created_at": "2025-06-10T14:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T15:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932446885819904315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1820367933077651456",
+          "start": 0,
+          "username": "xunxunwangxun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932446885819904315",
+    "in_reply_to_user_id": "1820367933077651456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932444075980140614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunxunwangxun 代购是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_1932444062843637761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFrovobkAEVrdH.jpg",
+        "width": 1275
+      },
+      {
+        "height": 432,
+        "media_key": "3_1932444062810001408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFrovgaUAAz3Vk.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1932444075980140614",
+        "created_at": "2025-06-10T14:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932446885819904315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1820367933077651456",
+              "start": 0,
+              "username": "xunxunwangxun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932446885819904315",
+        "in_reply_to_user_id": "1820367933077651456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932444075980140614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunxunwangxun 代购是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932444062843637761",
+            "3_1932444062810001408"
+          ]
+        },
+        "author_id": "1820367933077651456",
+        "conversation_id": "1932444075980140614",
+        "created_at": "2025-06-10T14:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932444075980140614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Six6A75IPS",
+              "end": 32,
+              "expanded_url": "https://x.com/xunxunwangxun/status/1932444075980140614/photo/1",
+              "media_key": "3_1932444062843637761",
+              "start": 9,
+              "url": "https://t.co/Six6A75IPS"
+            },
+            {
+              "display_url": "pic.x.com/Six6A75IPS",
+              "end": 32,
+              "expanded_url": "https://x.com/xunxunwangxun/status/1932444075980140614/photo/1",
+              "media_key": "3_1932444062810001408",
+              "start": 9,
+              "url": "https://t.co/Six6A75IPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932444075980140614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个价格真是疯了 https://t.co/Six6A75IPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 428,
+          "like_count": 8547,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1848
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T07:55:22.000Z",
+        "description": "玩国服co和三角洲只会用轮椅(热点mg42の可能ccc可恶的匹配机制（悲惨的高中牲一个a我v常年500以下存款｜欢迎其他人来互foqaq｜友跨🏳️‍⚧️ ｜生日8.15（无效信息）mg42单推人｜liberalist|boyfriend @F30102174650            如果要玩游戏可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "F30102174650"
+              }
+            ]
+          }
+        },
+        "id": "1820367933077651456",
+        "location": "核弹小镇，地图名字七个字",
+        "name": "被网络速度摧残的悲哀",
+        "pinned_tweet_id": "1886384525514833972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890416511598399488/Vo_XpM4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 498,
+          "like_count": 33826,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1374
+        },
+        "username": "xunxunwangxun",
+        "verified": false
+      }
+    ]
+  }
+}

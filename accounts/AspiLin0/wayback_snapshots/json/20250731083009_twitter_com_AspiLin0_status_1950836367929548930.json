@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950833606420750686",
+    "created_at": "2025-07-31T08:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T09:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950836367929548930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyChino2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950836367929548930",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950833606420750686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyChino2013 不做等于没看#"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950833606420750686",
+        "created_at": "2025-07-31T08:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950836367929548930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyChino2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950836367929548930",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950833606420750686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyChino2013 不做等于没看#"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "1950833606420750686",
+        "created_at": "2025-07-31T08:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950833606420750686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950833606420750686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说大家看书会写读书笔记或者批注吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 448,
+          "like_count": 10122,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2568
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社恐\\主业历史学 \\ mtx🍥🏳️‍⚧️🏳️‍🌈但偏女一些可以叫我姐姐或妹妹\\喜欢穿Lolita\\不骂人\\Trotskyism \\托洛茨基主义（革命马克思主义）\\DDLC\\芳文社\\芙兰秀秀\\里世界郊游\\晓美焰\\点兔\\斩赤瞳\\l'Incorruptible",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQV65b"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "Earth",
+        "name": "KafuShusui🏳️‍⚧️",
+        "pinned_tweet_id": "1890741460934217971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949958159822426112/cbmSU2Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 560,
+          "like_count": 15173,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/UnTrdQV65b",
+        "username": "LovelyChino2013",
+        "verified": false
+      }
+    ]
+  }
+}

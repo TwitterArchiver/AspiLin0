@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2004739130023182745",
+    "created_at": "2025-12-27T02:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T03:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004739130023182745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970649523497377792",
+          "start": 3,
+          "username": "longbao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004739130023182745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004523062985986432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @longbao520: 你是说你隔着手机爱上了一个你从来没见过的人 仅仅只是因为你们每天都聊天？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2004739130023182745",
+        "created_at": "2025-12-27T02:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004739130023182745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970649523497377792",
+              "start": 3,
+              "username": "longbao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004739130023182745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004523062985986432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @longbao520: 你是说你隔着手机爱上了一个你从来没见过的人 仅仅只是因为你们每天都聊天？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970649523497377792",
+        "conversation_id": "2004523062985986432",
+        "created_at": "2025-12-26T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004523062985986432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004523062985986432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 47389,
+          "like_count": 477,
+          "quote_count": 8,
+          "reply_count": 63,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "你是说你隔着手机爱上了一个你从来没见过的人 仅仅只是因为你们每天都聊天？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 524,
+          "like_count": 13902,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3571
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T00:40:41.000Z",
+        "description": "在读书 不定期上推 私信基本都会回复 如果没回复就是太多了看不到 喜欢我可以投喂 ➕v 谢谢大家",
+        "id": "1970649523497377792",
+        "name": "电子蝴蝶",
+        "pinned_tweet_id": "2003067436380323854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990353476728274944/D5L0tQ1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1522
+        },
+        "username": "longbao520",
+        "verified": false
+      }
+    ]
+  }
+}

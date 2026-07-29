@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1913067400695890048",
+    "created_at": "2025-04-18T08:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T09:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913144520126112090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913144520126112090",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913067400695890048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 她都想着o布洛芬了还是顺从吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1913067400695890048",
+        "created_at": "2025-04-18T08:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913144520126112090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913144520126112090",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913067400695890048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 她都想着o布洛芬了还是顺从吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1913067400695890048",
+        "created_at": "2025-04-18T03:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T04:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913067400695890048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuo_zi27516/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/shuo_zi27516/status/1913063199148282103",
+              "start": 18,
+              "url": "https://t.co/TLytVyT5Yd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913067400695890048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 266,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913063199148282103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右美+舍曲林会死人的\n有谁能联系她 https://t.co/TLytVyT5Yd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 293,
+          "like_count": 3681,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "",
+        "id": "1850772146177576960",
+        "name": "MTF拖鞋批发bot",
+        "pinned_tweet_id": "1912715090715111687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911276093689987072/UP9QBcJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 372,
+          "like_count": 2065,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 3722
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

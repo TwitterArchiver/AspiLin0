@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1962552879031673277",
+    "created_at": "2025-09-01T16:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T17:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962552879031673277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1480218339557326849",
+          "start": 3,
+          "username": "luo663663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962552879031673277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961503353776861241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luo663663: 笑死，原来被女网友捧上神坛的“天才数学少女”是个跨性别。\nhannah cairo 生理男性，变性为女性。\n他在接受scientificamerican的采访中，承认了自己跨性别身份，但是很多媒体隐瞒了这点。\n他在加州大学伯克利的一门研究生课程中，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961503316271349760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzio36gawAAVald.jpg",
+        "width": 747
+      },
+      {
+        "height": 1549,
+        "media_key": "3_1961503347602853888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzio5vObkAAJ9Gs.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1927,
+        "media_key": "3_1961503348135530502",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzio5xNbkAYZ6Ji.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1890,
+        "media_key": "3_1961503350618554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzio56dbgAAqp37.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1962552879031673277",
+        "created_at": "2025-09-01T16:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962552879031673277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1480218339557326849",
+              "start": 3,
+              "username": "luo663663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962552879031673277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961503353776861241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luo663663: 笑死，原来被女网友捧上神坛的“天才数学少女”是个跨性别。\nhannah cairo 生理男性，变性为女性。\n他在接受scientificamerican的采访中，承认了自己跨性别身份，但是很多媒体隐瞒了这点。\n他在加州大学伯克利的一门研究生课程中，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961503316271349760",
+            "3_1961503347602853888",
+            "3_1961503348135530502",
+            "3_1961503350618554368"
+          ]
+        },
+        "author_id": "1480218339557326849",
+        "conversation_id": "1961503353776861241",
+        "created_at": "2025-08-29T18:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961503353776861241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3VFJ82qxH",
+              "end": 190,
+              "expanded_url": "https://x.com/luo663663/status/1961503353776861241/photo/1",
+              "media_key": "3_1961503316271349760",
+              "start": 167,
+              "url": "https://t.co/O3VFJ82qxH"
+            },
+            {
+              "display_url": "pic.x.com/O3VFJ82qxH",
+              "end": 190,
+              "expanded_url": "https://x.com/luo663663/status/1961503353776861241/photo/1",
+              "media_key": "3_1961503347602853888",
+              "start": 167,
+              "url": "https://t.co/O3VFJ82qxH"
+            },
+            {
+              "display_url": "pic.x.com/O3VFJ82qxH",
+              "end": 190,
+              "expanded_url": "https://x.com/luo663663/status/1961503353776861241/photo/1",
+              "media_key": "3_1961503348135530502",
+              "start": 167,
+              "url": "https://t.co/O3VFJ82qxH"
+            },
+            {
+              "display_url": "pic.x.com/O3VFJ82qxH",
+              "end": 190,
+              "expanded_url": "https://x.com/luo663663/status/1961503353776861241/photo/1",
+              "media_key": "3_1961503350618554368",
+              "start": 167,
+              "url": "https://t.co/O3VFJ82qxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961503353776861241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 25092,
+          "like_count": 223,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "笑死，原来被女网友捧上神坛的“天才数学少女”是个跨性别。\nhannah cairo 生理男性，变性为女性。\n他在接受scientificamerican的采访中，承认了自己跨性别身份，但是很多媒体隐瞒了这点。\n他在加州大学伯克利的一门研究生课程中，推翻了Mizohata-Takeuchi 猜想。\n完成证明后，他决定直接申请研究生院 https://t.co/O3VFJ82qxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 479,
+          "like_count": 12554,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 3113
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T16:42:13.000Z",
+        "description": "本人激进男同，id只是为了防止国女 视奸断章取义截图，无其它含义！不是反贼！不是小粉红！\n\n科技自由主义！\n\n反对雄竞文化 污染和祸害 男同。社会战乱的根源就是 雄竞和女本位。\n\n可加qq3929334721 ，通过验证后进群。",
+        "id": "1480218339557326849",
+        "location": "china ",
+        "name": "8964（id只是避免被断章取义截图）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774430459495424001/LYqofX6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 46,
+          "like_count": 7194,
+          "listed_count": 9,
+          "media_count": 932,
+          "tweet_count": 3620
+        },
+        "username": "luo663663",
+        "verified": false
+      }
+    ]
+  }
+}

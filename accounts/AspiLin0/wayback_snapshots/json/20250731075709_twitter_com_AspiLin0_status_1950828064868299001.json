@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1950826620014764325",
+    "created_at": "2025-07-31T07:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T08:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950828064868299001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950828064868299001",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950826998089064848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 这有什么好骂的（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1950826620014764325",
+        "created_at": "2025-07-31T07:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950828064868299001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950828064868299001",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950826998089064848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 这有什么好骂的（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908668668919398400",
+        "conversation_id": "1950826620014764325",
+        "created_at": "2025-07-31T07:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950826998089064848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950826998089064848",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950826620014764325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主包实在是找不到了所以在小红书上找的\n别骂主播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 448,
+          "like_count": 10110,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2567
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "平成24年（2012年）生まれの13歳🚹の中学二年生。| とても大切な人@chaox1220_2nd🥰 | 📬DMはFF/認証済みアカウントのみ | #あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて | 🫠@hhaaiibot 🎵@BbLlOoCcKk 选择性回fo 我可以帮骂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "あつ森"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "BbLlOoCcKk"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "叫我「佐佐木大将军/大统领」就好",
+        "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
+        "pinned_tweet_id": "1940757723765002505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2877,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 620,
+          "tweet_count": 3094
+        },
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

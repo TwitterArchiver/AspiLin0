@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1951304866971918465",
+    "created_at": "2025-08-02T01:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T02:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951455358754627611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1359720578446364675",
+          "start": 0,
+          "username": "4uinP_bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951455358754627611",
+    "in_reply_to_user_id": "1359720578446364675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951304866971918465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4uinP_bb 别样的碰碰车大战是高中生文学难以逾越的一座高峰（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1951304866971918465",
+        "created_at": "2025-08-02T01:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T02:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951455358754627611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1359720578446364675",
+              "start": 0,
+              "username": "4uinP_bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951455358754627611",
+        "in_reply_to_user_id": "1359720578446364675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951304866971918465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4uinP_bb 别样的碰碰车大战是高中生文学难以逾越的一座高峰（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359720578446364675",
+        "conversation_id": "1951304866971918465",
+        "created_at": "2025-08-01T15:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951304866971918465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1951242715871822194",
+              "start": 30,
+              "url": "https://t.co/CZLH78wiqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951304866971918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951242715871822194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就可读性与情感表达来说，我觉得本文不如『别样的碰碰车大战』 https://t.co/CZLH78wiqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 453,
+          "like_count": 10441,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 2639
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T04:27:20.000Z",
+        "description": "満州出身 中日語⭕\n学マス アズルレ 世界史  音ゲー \nむごんふぉろーごめん\n芽花幸佳組あるナー\nmai15800+🌈 真5 UK曲好き\nPS4 KV-5 姫崎莉波 推し\n@pienguin404  ←避難/🔑垢\n  ポスト/いいね≠賛同 有疑问敬请评论置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "pienguin404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hi7l0tyayx2jau…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hi7l0tyayx2jau4?t=YyjZyh&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5dduyzl1B1"
+              }
+            ]
+          }
+        },
+        "id": "1359720578446364675",
+        "location": "鞍山鋼鉄公司 ↓匿名提问（マシュマロ）↓",
+        "name": "ピエンぎん🥺🐧",
+        "pinned_tweet_id": "1825769700778979679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924817085567533056/o4Ni1MhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 2119,
+          "like_count": 22912,
+          "listed_count": 6,
+          "media_count": 1066,
+          "tweet_count": 7445
+        },
+        "url": "https://t.co/5dduyzl1B1",
+        "username": "4uinP_bb",
+        "verified": false
+      }
+    ]
+  }
+}

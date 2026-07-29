@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1908265980482277545",
+    "created_at": "2025-04-05T05:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908388066995429457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "tou12345678910"
+        },
+        {
+          "end": 25,
+          "id": "1825161629685936129",
+          "start": 16,
+          "username": "taki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908388066995429457",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908386800919597553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tou12345678910 @taki8964 再透彻一些的话，可能是上帝的问题🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1908265980482277545",
+        "created_at": "2025-04-05T05:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908388066995429457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "tou12345678910"
+            },
+            {
+              "end": 25,
+              "id": "1825161629685936129",
+              "start": 16,
+              "username": "taki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908388066995429457",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908386800919597553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou12345678910 @taki8964 再透彻一些的话，可能是上帝的问题🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1908265980482277545",
+        "created_at": "2025-04-05T05:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908386800919597553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825161629685936129",
+              "start": 0,
+              "username": "taki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908386800919597553",
+        "in_reply_to_user_id": "1825161629685936129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908265980482277545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taki8964 但长期来看，是乔治·华盛顿的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片/认知神经科学爱好者/平时发一些某名奇妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1906003520081555510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 283,
+          "like_count": 3385,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8340,
+          "following_count": 5024,
+          "like_count": 187528,
+          "listed_count": 49,
+          "media_count": 2045,
+          "tweet_count": 34704
+        },
+        "username": "tou12345678910",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T13:23:49.000Z",
+        "description": "stand with 🇺🇦🇹🇼 and 🚫🇷🇺🇨🇳/支持美国公审斯马克/Liberal-Socialism/不玩原神和黑猴/请记住，没有一个蜘蛛，爱川支，俄畜是无辜的。",
+        "id": "1825161629685936129",
+        "location": "五星美国",
+        "name": "准时不早退の椎名立希🇬🇱🦈🕷Krasnov Flation Sufferer",
+        "pinned_tweet_id": "1890227546391998827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907827314022354944/Gg51kSve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 270,
+          "like_count": 15575,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2822
+        },
+        "username": "taki8964",
+        "verified": false
+      }
+    ]
+  }
+}

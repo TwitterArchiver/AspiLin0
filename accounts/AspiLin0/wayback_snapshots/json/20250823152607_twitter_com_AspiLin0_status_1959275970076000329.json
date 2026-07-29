@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959273767718539264"
+      ],
+      "media_source_tweet_id": [
+        "1959273802254479434"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1959275970076000329",
+    "created_at": "2025-08-23T15:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T16:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959275970076000329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1228260397104283650",
+          "start": 3,
+          "username": "sofw0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrMRa7nIf5",
+          "end": 34,
+          "expanded_url": "https://x.com/sofw0/status/1959273802254479434/photo/1",
+          "media_key": "3_1959273767718539264",
+          "start": 11,
+          "url": "https://t.co/FrMRa7nIf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959275970076000329",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959273802254479434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sofw0: https://t.co/FrMRa7nIf5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_1959273767718539264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzC9HG6a0AA38yK.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959273767718539264"
+          ],
+          "media_source_tweet_id": [
+            "1959273802254479434"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1959275970076000329",
+        "created_at": "2025-08-23T15:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959275970076000329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1228260397104283650",
+              "start": 3,
+              "username": "sofw0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrMRa7nIf5",
+              "end": 34,
+              "expanded_url": "https://x.com/sofw0/status/1959273802254479434/photo/1",
+              "media_key": "3_1959273767718539264",
+              "start": 11,
+              "url": "https://t.co/FrMRa7nIf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959275970076000329",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959273802254479434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sofw0: https://t.co/FrMRa7nIf5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959273767718539264"
+          ]
+        },
+        "author_id": "1228260397104283650",
+        "conversation_id": "1959273802254479434",
+        "created_at": "2025-08-23T15:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959273802254479434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrMRa7nIf5",
+              "end": 23,
+              "expanded_url": "https://x.com/sofw0/status/1959273802254479434/photo/1",
+              "media_key": "3_1959273767718539264",
+              "start": 0,
+              "url": "https://t.co/FrMRa7nIf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959273802254479434",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 573,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FrMRa7nIf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 484,
+          "like_count": 12395,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3065
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T10:11:24.000Z",
+        "description": "絵/映像/ゲ制/他\nhttps://t.co/oMYVhA0jZF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suzua.booth.pm",
+                "end": 33,
+                "expanded_url": "http://suzua.booth.pm",
+                "start": 10,
+                "url": "https://t.co/oMYVhA0jZF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sofw0",
+                "end": 23,
+                "expanded_url": "http://lit.link/sofw0",
+                "start": 0,
+                "url": "https://t.co/rBVKoT6Cuh"
+              }
+            ]
+          }
+        },
+        "id": "1228260397104283650",
+        "name": "すずあ",
+        "pinned_tweet_id": "1640692715024441344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770367667679158272/Kvns9xUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13916,
+          "following_count": 81,
+          "like_count": 1068,
+          "listed_count": 119,
+          "media_count": 336,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/rBVKoT6Cuh",
+        "username": "sofw0",
+        "verified": false
+      }
+    ]
+  }
+}

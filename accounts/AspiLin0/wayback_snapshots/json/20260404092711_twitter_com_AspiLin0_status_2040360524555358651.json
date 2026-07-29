@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2040360524555358651",
+    "created_at": "2026-04-04T09:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040360524555358651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IzayoiMarin/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/IzayoiMarin/status/2040231050513625326",
+          "start": 17,
+          "url": "https://t.co/RB0DqtAd4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040360524555358651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040231050513625326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但代表你的痛苦会得到更少的认可（ https://t.co/RB0DqtAd4F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2040231048076800000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBbVCBXMAAcIp2.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2040360524555358651",
+        "created_at": "2026-04-04T09:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040360524555358651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IzayoiMarin/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/IzayoiMarin/status/2040231050513625326",
+              "start": 17,
+              "url": "https://t.co/RB0DqtAd4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040360524555358651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040231050513625326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但代表你的痛苦会得到更少的认可（ https://t.co/RB0DqtAd4F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040231048076800000"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2040231050513625326",
+        "created_at": "2026-04-04T00:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040231050513625326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNVdqDi5LV",
+              "end": 26,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2040231050513625326/photo/1",
+              "media_key": "3_2040231048076800000",
+              "start": 3,
+              "url": "https://t.co/aNVdqDi5LV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040231050513625326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 9608,
+          "like_count": 811,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "就是 https://t.co/aNVdqDi5LV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 679,
+          "like_count": 19063,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 4496
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "星野真凛（hoshino marin） | 白夜行（びゃくやこう）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  永遠のlove💍： @Yogiuras  ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Yogiuras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野 まりん",
+        "pinned_tweet_id": "2040102642983067940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035001529271263232/11cFwK_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 2332,
+          "like_count": 41667,
+          "listed_count": 5,
+          "media_count": 1943,
+          "tweet_count": 19623
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

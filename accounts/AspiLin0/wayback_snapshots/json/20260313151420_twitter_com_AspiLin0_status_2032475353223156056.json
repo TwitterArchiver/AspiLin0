@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2032475353223156056",
+    "created_at": "2026-03-13T15:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032475353223156056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1949220315336470529",
+          "start": 3,
+          "username": "wimzylens0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032475353223156056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032357028153143793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wimzylens0: 绝食死掉，不仅痛苦而且时间长，唯一好处就是中途可以放弃，还有很大几率被救回来，可以体验一下什么叫做致死而后生，犹豫的话很适合选择（bushi）\n\n如果不留什么反悔机会感觉还是跳楼最好，性价比极高，不仅死的快，还免费，疼痛说不定也少，还可以吓吓别人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2032475353223156056",
+        "created_at": "2026-03-13T15:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032475353223156056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1949220315336470529",
+              "start": 3,
+              "username": "wimzylens0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032475353223156056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032357028153143793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wimzylens0: 绝食死掉，不仅痛苦而且时间长，唯一好处就是中途可以放弃，还有很大几率被救回来，可以体验一下什么叫做致死而后生，犹豫的话很适合选择（bushi）\n\n如果不留什么反悔机会感觉还是跳楼最好，性价比极高，不仅死的快，还免费，疼痛说不定也少，还可以吓吓别人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949220315336470529",
+        "conversation_id": "2032357028153143793",
+        "created_at": "2026-03-13T07:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032357028153143793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032357028153143793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 824,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "绝食死掉，不仅痛苦而且时间长，唯一好处就是中途可以放弃，还有很大几率被救回来，可以体验一下什么叫做致死而后生，犹豫的话很适合选择（bushi）\n\n如果不留什么反悔机会感觉还是跳楼最好，性价比极高，不仅死的快，还免费，疼痛说不定也少，还可以吓吓别人，给人留下深刻印象，楼层高有几率直接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 625,
+          "like_count": 17838,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 4254
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-26T21:28:55.000Z",
+        "description": "Dreams shattered into gummy bears | \n🧸超可爱的妹妹：@caliE694030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "caliE694030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wimzylens.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wimzylens.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KTkSJFMGJZ"
+              }
+            ]
+          }
+        },
+        "id": "1949220315336470529",
+        "location": "dream",
+        "name": "Lens Zzz",
+        "pinned_tweet_id": "1994583508883575161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012321108067065856/ReA9O-1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 182,
+          "like_count": 10631,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/KTkSJFMGJZ",
+        "username": "wimzylens0",
+        "verified": false
+      }
+    ]
+  }
+}

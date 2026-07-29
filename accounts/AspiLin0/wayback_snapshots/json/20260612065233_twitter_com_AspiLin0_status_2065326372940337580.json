@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2065317348392017994",
+    "created_at": "2026-06-12T06:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065326372940337580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029957028807118848",
+          "start": 0,
+          "username": "Go_Karagawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065326372940337580",
+    "in_reply_to_user_id": "2029957028807118848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065325224976097617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Go_Karagawa 大概(\n等我买电脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2065317348392017994",
+        "created_at": "2026-06-12T06:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065326372940337580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029957028807118848",
+              "start": 0,
+              "username": "Go_Karagawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065326372940337580",
+        "in_reply_to_user_id": "2029957028807118848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325224976097617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Go_Karagawa 大概(\n等我买电脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029957028807118848",
+        "conversation_id": "2065317348392017994",
+        "created_at": "2026-06-12T06:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065325224976097617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325224976097617",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065317348392017994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 会有配音环节吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 760,
+          "like_count": 21132,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 4994
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T16:28:44.000Z",
+        "description": "容易被讨厌的坏人。\n@MeraK_Rinchi的逃生舱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "MeraK_Rinchi"
+              }
+            ]
+          }
+        },
+        "id": "2029957028807118848",
+        "location": "德国-波茨坦",
+        "name": "空川小五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029957480705630208/Iw8vdDWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 34,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 12
+        },
+        "username": "Go_Karagawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1929163990724190606",
+    "created_at": "2025-06-02T11:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T12:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929494785481445790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "tou12345678910"
+        },
+        {
+          "end": 32,
+          "id": "1568798168107864064",
+          "start": 16,
+          "username": "BlueJay87476298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929494785481445790",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929385702749327694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tou12345678910 @BlueJay87476298 答案：用ai鉴ai（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1929163990724190606",
+        "created_at": "2025-06-02T11:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929494785481445790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "tou12345678910"
+            },
+            {
+              "end": 32,
+              "id": "1568798168107864064",
+              "start": 16,
+              "username": "BlueJay87476298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929494785481445790",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929385702749327694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou12345678910 @BlueJay87476298 答案：用ai鉴ai（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1929163990724190606",
+        "created_at": "2025-06-02T03:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T04:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929385702749327694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568798168107864064",
+              "start": 0,
+              "username": "BlueJay87476298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929385702749327694",
+        "in_reply_to_user_id": "1568798168107864064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6095,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929163990724190606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueJay87476298 这一代人尚且还能分辨ai，难以想象以后的人会怎么被虚假产品塑造大脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 397,
+          "like_count": 7242,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8435,
+          "following_count": 5472,
+          "like_count": 204394,
+          "listed_count": 48,
+          "media_count": 2083,
+          "tweet_count": 36493
+        },
+        "username": "tou12345678910",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T03:06:55.000Z",
+        "description": "BASM ：哪家公司將成長，進而創造高報酬：經營模式(Business Model)、假設 (Assumptions)、策略 (Strategy)和管理(Management)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basm.substack.com",
+                "end": 23,
+                "expanded_url": "http://basm.substack.com",
+                "start": 0,
+                "url": "https://t.co/HBNCDFppWF"
+              }
+            ]
+          }
+        },
+        "id": "1568798168107864064",
+        "name": "BlueJay",
+        "pinned_tweet_id": "1801494018158956877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568798684254711808/tOgoO7q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14028,
+          "following_count": 497,
+          "like_count": 2293,
+          "listed_count": 159,
+          "media_count": 5512,
+          "tweet_count": 22020
+        },
+        "url": "https://t.co/HBNCDFppWF",
+        "username": "BlueJay87476298",
+        "verified": true
+      }
+    ]
+  }
+}

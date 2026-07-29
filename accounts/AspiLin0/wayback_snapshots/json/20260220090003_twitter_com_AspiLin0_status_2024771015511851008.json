@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2024762692612047235",
+    "created_at": "2026-02-20T09:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024771015511851008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982450015927971840",
+          "start": 0,
+          "username": "xichuan412888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024771015511851008",
+    "in_reply_to_user_id": "1982450015927971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024762692612047235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichuan412888 看你怎么解释，神学家说自杀下地狱是把自杀解释为你杀死了一个无罪的人）\n但自杀在常识里其实不被看作杀人，另一方面人都有活着的天性，自杀其实可以归因为外在力量逼迫你死，所以不是你主观上想杀死自己。\n唯一不可饶恕的罪只有亵渎圣灵，所以自杀实际上不一定会下地狱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2024762692612047235",
+        "created_at": "2026-02-20T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024771015511851008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982450015927971840",
+              "start": 0,
+              "username": "xichuan412888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024771015511851008",
+        "in_reply_to_user_id": "1982450015927971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024762692612047235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichuan412888 看你怎么解释，神学家说自杀下地狱是把自杀解释为你杀死了一个无罪的人）\n但自杀在常识里其实不被看作杀人，另一方面人都有活着的天性，自杀其实可以归因为外在力量逼迫你死，所以不是你主观上想杀死自己。\n唯一不可饶恕的罪只有亵渎圣灵，所以自杀实际上不一定会下地狱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982450015927971840",
+        "conversation_id": "2024762692612047235",
+        "created_at": "2026-02-20T08:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024762692612047235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024762692612047235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么自杀的人会下地狱呢，明明他们都是很可怜的人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2024074323133092264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 609,
+          "like_count": 17048,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 4107
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜是小废物(哭)｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 345,
+          "like_count": 6574,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 174
+        },
+        "username": "xichuan412888",
+        "verified": false
+      }
+    ]
+  }
+}

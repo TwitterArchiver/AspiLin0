@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2035962535594336348",
+    "created_at": "2026-03-23T09:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036008771156377686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036008771156377686",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035962535594336348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 阿片倒是对一切普遍地持有怀疑态度，包括自己的观点（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2035962503046561792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEExHAobAAAlB_n.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2035962535594336348",
+        "created_at": "2026-03-23T09:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036008771156377686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036008771156377686",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035962535594336348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 阿片倒是对一切普遍地持有怀疑态度，包括自己的观点（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035962503046561792"
+          ]
+        },
+        "author_id": "1643785305533874177",
+        "conversation_id": "2035962535594336348",
+        "created_at": "2026-03-23T06:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035962535594336348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIOifuWNke",
+              "end": 64,
+              "expanded_url": "https://x.com/MeraK_Rinchi/status/2035962535594336348/photo/1",
+              "media_key": "3_2035962503046561792",
+              "start": 41,
+              "url": "https://t.co/xIOifuWNke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035962535594336348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "列表问起来他毕设里面一部分代码能不能这么操作，我第一反应是举了个反例，遂被锐评： https://t.co/xIOifuWNke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 658,
+          "like_count": 18500,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 4368
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "Karagawa Roku \\ 旧名凛柒 \\ INFJ-T/OH \\ 可能是天使 \\ 曾经的数学天才 \\ 音游 + RTS + F/TPS玩家 \\ 704第一狙击手 \\ 手伤严重 \\ ADHD存疑 \\ 信息秒回——「望む結末へと伸ばした両手」\n逃生舱@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 125,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnchiie_roku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnchiie_roku",
+                "start": 0,
+                "url": "https://t.co/xerBWOl3hM"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2035030810768883832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028407094052012032/kaLqtjRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 459,
+          "like_count": 12878,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/xerBWOl3hM",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

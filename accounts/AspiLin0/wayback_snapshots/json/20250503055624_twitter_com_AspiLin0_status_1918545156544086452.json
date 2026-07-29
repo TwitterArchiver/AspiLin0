@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1918543666475614681",
+    "created_at": "2025-05-03T05:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T06:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918545156544086452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845085646383349763",
+          "start": 0,
+          "username": "Mmu_Yun_qian07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918545156544086452",
+    "in_reply_to_user_id": "1845085646383349763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918543666475614681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mmu_Yun_qian07 中^^"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1918543664437182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqAJTETawAA8Ugi.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1918543666475614681",
+        "created_at": "2025-05-03T05:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918545156544086452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845085646383349763",
+              "start": 0,
+              "username": "Mmu_Yun_qian07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918545156544086452",
+        "in_reply_to_user_id": "1845085646383349763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918543666475614681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mmu_Yun_qian07 中^^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918543664437182464"
+          ]
+        },
+        "author_id": "1845085646383349763",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1918543666475614681",
+        "created_at": "2025-05-03T05:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918543666475614681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/3l7sLRVVj5"
+            },
+            {
+              "display_url": "pic.x.com/bwyLJBvmsk",
+              "end": 64,
+              "expanded_url": "https://x.com/Mmu_Yun_qian07/status/1918543666475614681/photo/1",
+              "media_key": "3_1918543664437182464",
+              "start": 41,
+              "url": "https://t.co/bwyLJBvmsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918543666475614681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/3l7sLRVVj5 https://t.co/bwyLJBvmsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin🦊🍴🧠",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 345,
+          "like_count": 5244,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T12:55:48.000Z",
+        "description": "07/mtf/巨丑/无证含糖/要饭喵/接线下…🚪20喵/欢迎找我闲聊喵，梦想是变成可爱女孩子(现实应该不行惹)雌二醇超级粉丝~\n…浅浅最爱的姐姐@jiang_chua28655/@TheBurningComet杂鱼头子@WinkCat1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "jiang_chua28655"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "TheBurningComet"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WinkCat1234"
+              }
+            ]
+          }
+        },
+        "id": "1845085646383349763",
+        "name": "云浅才不是杂鱼喵🏳‍⚧",
+        "pinned_tweet_id": "1915812854344868294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912528839919517696/E3VZeYxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 338,
+          "like_count": 941,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 990
+        },
+        "username": "Mmu_Yun_qian07",
+        "verified": false
+      }
+    ]
+  }
+}

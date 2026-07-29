@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006420090145886208"
+      ],
+      "media_source_tweet_id": [
+        "2006420104645587372"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "2006725745570402788",
+    "created_at": "2026-01-01T13:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006725745570402788"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "足立レイ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1562028925378756609",
+          "start": 3,
+          "username": "PheTA19002119"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl24si7JqU",
+          "end": 53,
+          "expanded_url": "https://x.com/PheTA19002119/status/2006420104645587372/photo/1",
+          "media_key": "3_2006420090145886208",
+          "start": 30,
+          "url": "https://t.co/Yl24si7JqU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006725745570402788",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 607
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006420104645587372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PheTA19002119: re：\n #足立レイ https://t.co/Yl24si7JqU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_2006420090145886208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g8cQdaUAAV2AI.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006420090145886208"
+          ],
+          "media_source_tweet_id": [
+            "2006420104645587372"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2006725745570402788",
+        "created_at": "2026-01-01T13:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006725745570402788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "足立レイ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1562028925378756609",
+              "start": 3,
+              "username": "PheTA19002119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl24si7JqU",
+              "end": 53,
+              "expanded_url": "https://x.com/PheTA19002119/status/2006420104645587372/photo/1",
+              "media_key": "3_2006420090145886208",
+              "start": 30,
+              "url": "https://t.co/Yl24si7JqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006725745570402788",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 607
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006420104645587372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PheTA19002119: re：\n #足立レイ https://t.co/Yl24si7JqU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006420090145886208"
+          ]
+        },
+        "author_id": "1562028925378756609",
+        "conversation_id": "2006420104645587372",
+        "created_at": "2025-12-31T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006420104645587372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "足立レイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl24si7JqU",
+              "end": 34,
+              "expanded_url": "https://x.com/PheTA19002119/status/2006420104645587372/photo/1",
+              "media_key": "3_2006420090145886208",
+              "start": 11,
+              "url": "https://t.co/Yl24si7JqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006420104645587372",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 36379,
+          "like_count": 4405,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 607
+        },
+        "reply_settings": "everyone",
+        "text": "re：\n #足立レイ https://t.co/Yl24si7JqU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "自我在建中......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 523,
+          "like_count": 14009,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3591
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-23T10:48:21.000Z",
+        "description": "死欠 / PheTA / 2518471\n低浮上\n🚫無断転載禁止/AI學習禁止🚫",
+        "id": "1562028925378756609",
+        "name": "2518471",
+        "pinned_tweet_id": "1793728598534439269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562038627101773827/5_nWo5i7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 210,
+          "like_count": 1018,
+          "listed_count": 8,
+          "media_count": 250,
+          "tweet_count": 522
+        },
+        "username": "PheTA19002119",
+        "verified": false
+      }
+    ]
+  }
+}

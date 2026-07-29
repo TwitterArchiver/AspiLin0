@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2009995140165939671",
+    "created_at": "2026-01-10T14:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T15:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009995140165939671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009995140165939671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想到差不多是去年这个时候因为社交能力真的要退化的差不多了于是重新又开始上推，虽然从表面上看精神状态变差了很多（，不过似乎只是把潜在的问题暴露了出来，总体上是在向上发展的，希望未来能好一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2009995140165939671",
+        "created_at": "2026-01-10T14:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009995140165939671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009995140165939671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到差不多是去年这个时候因为社交能力真的要退化的差不多了于是重新又开始上推，虽然从表面上看精神状态变差了很多（，不过似乎只是把潜在的问题暴露了出来，总体上是在向上发展的，希望未来能好一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "思考.......",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "AspiLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 526,
+          "like_count": 14259,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3645
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

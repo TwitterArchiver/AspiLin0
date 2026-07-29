@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1952028826059608432",
+    "created_at": "2025-08-03T15:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952028826059608432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1648402059526569988",
+          "start": 3,
+          "username": "Avxxxxyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952028826059608432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952028040588148749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Avxxxxyyyyyy: 超级喜欢和别人在sps里聊天\n٩(◦`꒳´◦)۶\n好想和大家在sps里聊天\n(ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ)\n欢迎大家来找我私信！\n₍₍٩( ᐛ )۶₎₎♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1952028826059608432",
+        "created_at": "2025-08-03T15:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952028826059608432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648402059526569988",
+              "start": 3,
+              "username": "Avxxxxyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952028826059608432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952028040588148749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Avxxxxyyyyyy: 超级喜欢和别人在sps里聊天\n٩(◦`꒳´◦)۶\n好想和大家在sps里聊天\n(ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ)\n欢迎大家来找我私信！\n₍₍٩( ᐛ )۶₎₎♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "1952028040588148749",
+        "created_at": "2025-08-03T15:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952028040588148749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952028040588148749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "超级喜欢和别人在sps里聊天\n٩(◦`꒳´◦)۶\n好想和大家在sps里聊天\n(ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ)\n欢迎大家来找我私信！\n₍₍٩( ᐛ )۶₎₎♪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 462,
+          "like_count": 11004,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 2758
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "♂/拼凑人格中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/avxy95252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/avxy95252",
+                "start": 0,
+                "url": "https://t.co/UhVsTs8QYv"
+              }
+            ]
+          }
+        },
+        "id": "1648402059526569988",
+        "location": "墓地招租",
+        "name": "Avxy",
+        "pinned_tweet_id": "1917620493651435575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930942138164170752/zLi92VN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 241,
+          "like_count": 3940,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/UhVsTs8QYv",
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

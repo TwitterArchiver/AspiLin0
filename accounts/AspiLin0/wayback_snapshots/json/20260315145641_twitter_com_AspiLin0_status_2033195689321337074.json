@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2033171171546730692",
+    "created_at": "2026-03-15T14:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033195689321337074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20250…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/status/2025074465395077584",
+          "start": 14,
+          "url": "https://t.co/zl796EgWVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033195689321337074",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025074465395077584",
+        "type": "quoted"
+      },
+      {
+        "id": "2033171171546730692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusZeroQwQ https://t.co/zl796EgWVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2033171073957765121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdGUc7aIAEFa3a.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2033171171546730692",
+        "created_at": "2026-03-15T14:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033195689321337074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20250…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/status/2025074465395077584",
+              "start": 14,
+              "url": "https://t.co/zl796EgWVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033195689321337074",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025074465395077584",
+            "type": "quoted"
+          },
+          {
+            "id": "2033171171546730692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusZeroQwQ https://t.co/zl796EgWVL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2025058614176874926",
+        "created_at": "2026-02-21T05:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025074465395077584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025074465395077584",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025058614176874926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 什么表演型人格（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033171073957765121"
+          ]
+        },
+        "author_id": "1363090571397451778",
+        "conversation_id": "2033171171546730692",
+        "created_at": "2026-03-15T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033171171546730692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJRMMMFgjz",
+              "end": 42,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2033171171546730692/photo/1",
+              "media_key": "3_2033171073957765121",
+              "start": 19,
+              "url": "https://t.co/YJRMMMFgjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033171171546730692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1150,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味\n是不是有什么表演型人格之类的 https://t.co/YJRMMMFgjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 630,
+          "like_count": 17960,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 4273
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "再见 只为再见\n| 04mtx(f) 🏳️‍⚧️|she/her |不约不卖不线下 看黄的不要私信了\n//❤️Love：@orange44333 @BG5CZD @xixue_1 @WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "orange44333"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "BG5CZD"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "username": "xixue_1"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "username": "WSGM233"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "name": "Yuluoxk",
+        "pinned_tweet_id": "2005935708394143880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004345508941156352/3B2CrP08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 354,
+          "like_count": 10776,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1190
+        },
+        "username": "MinusZeroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

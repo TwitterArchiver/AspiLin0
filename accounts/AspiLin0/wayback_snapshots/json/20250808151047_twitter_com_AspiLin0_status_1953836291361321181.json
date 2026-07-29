@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953836288093904896"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1953836291361321181",
+    "created_at": "2025-08-08T15:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T16:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953836291361321181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1768924783734104064",
+          "start": 22,
+          "username": "shindeiru_ai"
+        },
+        {
+          "end": 52,
+          "id": "1596405792315691008",
+          "start": 36,
+          "username": "0502railgun1949"
+        },
+        {
+          "end": 71,
+          "id": "1758876738652942336",
+          "start": 59,
+          "username": "Felicia1337"
+        },
+        {
+          "end": 85,
+          "id": "1926313840557355008",
+          "start": 78,
+          "username": "yepa41"
+        },
+        {
+          "end": 99,
+          "id": "1518613067050807296",
+          "start": 86,
+          "username": "Zerstoorer23"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infintytweet.me/family-tree?la…",
+          "end": 127,
+          "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1953007833550843904/I5SsceXd?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1953007833550843904/I5SsceXd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+          "url": "https://t.co/I7YCL2FgAI"
+        },
+        {
+          "display_url": "pic.x.com/qsiTB9oNRR",
+          "end": 151,
+          "expanded_url": "https://x.com/AspiLin0/status/1953836291361321181/photo/1",
+          "media_key": "3_1953836288093904896",
+          "start": 128,
+          "url": "https://t.co/qsiTB9oNRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953836291361321181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @shindeiru_ai @0502railgun1949\n👰 配偶: @Felicia1337\n👶 孩子: @yepa41 @Zerstoorer23\n\n➡️ https://t.co/I7YCL2FgAI https://t.co/qsiTB9oNRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1953836288093904896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1rwI0a4AACgUT.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953836288093904896"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1953836291361321181",
+        "created_at": "2025-08-08T15:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953836291361321181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1768924783734104064",
+              "start": 22,
+              "username": "shindeiru_ai"
+            },
+            {
+              "end": 52,
+              "id": "1596405792315691008",
+              "start": 36,
+              "username": "0502railgun1949"
+            },
+            {
+              "end": 71,
+              "id": "1758876738652942336",
+              "start": 59,
+              "username": "Felicia1337"
+            },
+            {
+              "end": 85,
+              "id": "1926313840557355008",
+              "start": 78,
+              "username": "yepa41"
+            },
+            {
+              "end": 99,
+              "id": "1518613067050807296",
+              "start": 86,
+              "username": "Zerstoorer23"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1953007833550843904/I5SsceXd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1953007833550843904/I5SsceXd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/I7YCL2FgAI"
+            },
+            {
+              "display_url": "pic.x.com/qsiTB9oNRR",
+              "end": 151,
+              "expanded_url": "https://x.com/AspiLin0/status/1953836291361321181/photo/1",
+              "media_key": "3_1953836288093904896",
+              "start": 128,
+              "url": "https://t.co/qsiTB9oNRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953836291361321181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @shindeiru_ai @0502railgun1949\n👰 配偶: @Felicia1337\n👶 孩子: @yepa41 @Zerstoorer23\n\n➡️ https://t.co/I7YCL2FgAI https://t.co/qsiTB9oNRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "Aspilin🦊",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 473,
+          "like_count": 11845,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 2928
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T08:58:41.000Z",
+        "description": "低强度上推/主动型虚无主义(active nihilism)\n|17岁高中生 |幻想哥布林\n有时会用ai生图\n星怒⭐😡@karakara_void",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "karakara_void"
+              }
+            ]
+          }
+        },
+        "id": "1768924783734104064",
+        "location": "鸡窝托斯",
+        "name": "星野酱太可爱了🥰",
+        "pinned_tweet_id": "1946089498347196502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948966542810775557/xkovzGIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 3143,
+          "like_count": 11676,
+          "listed_count": 1,
+          "media_count": 1033,
+          "tweet_count": 3268
+        },
+        "username": "shindeiru_ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 628,
+          "like_count": 10398,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 7315
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T15:31:21.000Z",
+        "description": "Born2010.06.23/HRT2025.03.02/新高一/🏳️‍⚧️🇨🇳/被迫暂停HRT中/精神状态还好?/如果您的生活遇到困难我可以请您吃一顿饭/希望能交朋友/我还没死只是差点而已/来和我互fo打游戏干什么都行/QQ2917469595",
+        "id": "1758876738652942336",
+        "location": "首都医科大学附属北京安贞医院",
+        "name": "Felicia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953406607909605376/CSQM41Yl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 957,
+          "like_count": 38022,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 1272
+        },
+        "username": "Felicia1337",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "",
+        "id": "1926313840557355008",
+        "name": "斯德哥尔摩第二吉他手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926626530458841089/XGA2cnHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 126,
+          "like_count": 8210,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 155
+        },
+        "username": "yepa41",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T15:29:14.000Z",
+        "description": "中国人🇨🇳/高中生🏫/16yo/高二📚\n\n中文🇨🇳/EN🇬🇧\n\nACGN爱好者 似乎也没什么特别的，建议不要关注\n次人格（内阁）@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          }
+        },
+        "id": "1518613067050807296",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23⚓️",
+        "pinned_tweet_id": "1860680705518494086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936804607268638720/dhYGVFz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1868,
+          "like_count": 86563,
+          "listed_count": 6,
+          "media_count": 5623,
+          "tweet_count": 16650
+        },
+        "username": "Zerstoorer23",
+        "verified": false
+      }
+    ]
+  }
+}

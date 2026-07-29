@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1970740083218358626",
+    "created_at": "2025-09-27T05:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T06:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971815261562093862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyvv520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971815261562093862",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970862129780756789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyvv520 这个语义是广义的\n包含了字义与词义的内容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1970740083218358626",
+        "created_at": "2025-09-27T05:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971815261562093862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyvv520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971815261562093862",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970862129780756789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyvv520 这个语义是广义的\n包含了字义与词义的内容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694012668359634944",
+        "conversation_id": "1970740083218358626",
+        "created_at": "2025-09-24T14:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970862129780756789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970862129780756789",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970740083218358626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 应该加一个词义的概念吧，词义是最小的有意义的单元，比如密码子代表氨基酸，通过语义将其链接成有语义的蛋白质，三者缺一不可，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 498,
+          "like_count": 13045,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 3297
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "不线下  会互关同类\n药药🍥🏳️‍⚧️  hrt🍬2025.3.15  出柜，家长反对吃糖  \n精神很稳定 不割手不od \n会偶尔发负能量，慎关注\n努力攒钱ing\n2008.3.9北京\n减肥ing",
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "pinned_tweet_id": "1932347145019130124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 1126,
+          "like_count": 1413,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 887
+        },
+        "username": "yeyvv520",
+        "verified": false
+      }
+    ]
+  }
+}

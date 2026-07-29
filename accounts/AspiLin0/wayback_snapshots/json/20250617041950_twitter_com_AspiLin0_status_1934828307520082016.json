@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1934828307520082016",
+    "created_at": "2025-06-17T04:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T05:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934828307520082016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xohak_/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xohak_/status/1934597988728684630",
+          "start": 3,
+          "url": "https://t.co/PNrBsWA6vp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934828307520082016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934597988728684630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天使 https://t.co/PNrBsWA6vp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1934597963449606144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkSmQqboAAHPmW.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1934828307520082016",
+        "created_at": "2025-06-17T04:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934828307520082016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xohak_/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xohak_/status/1934597988728684630",
+              "start": 3,
+              "url": "https://t.co/PNrBsWA6vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934828307520082016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934597988728684630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天使 https://t.co/PNrBsWA6vp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934597963449606144"
+          ]
+        },
+        "author_id": "1807310175503818752",
+        "conversation_id": "1934597988728684630",
+        "created_at": "2025-06-16T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934597988728684630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfSFRpIEHG",
+              "end": 28,
+              "expanded_url": "https://x.com/xohak_/status/1934597988728684630/photo/1",
+              "media_key": "3_1934597963449606144",
+              "start": 5,
+              "url": "https://t.co/gfSFRpIEHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934597988728684630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 11506,
+          "like_count": 538,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "free https://t.co/gfSFRpIEHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 434,
+          "like_count": 8800,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T07:08:26.000Z",
+        "description": "AI illustration｜ご依頼 〇",
+        "id": "1807310175503818752",
+        "location": "2024.7/23〜",
+        "name": "-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903795606403088384/EdnDSWGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14990,
+          "following_count": 1,
+          "like_count": 6211,
+          "listed_count": 51,
+          "media_count": 657,
+          "tweet_count": 1614
+        },
+        "username": "xohak_",
+        "verified": true
+      }
+    ]
+  }
+}

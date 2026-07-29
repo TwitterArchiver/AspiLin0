@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2063965085996056662",
+    "created_at": "2026-06-08T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064008396475691307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034865150499725313",
+          "start": 0,
+          "username": "Weberkaliro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064008396475691307",
+    "in_reply_to_user_id": "2034865150499725313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063965085996056662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weberkaliro 应该就圆锥曲线用二级结论做非常之快（\n第三问虽然要用到到角公式不过推应该也好推的（？\n新定义有没有超纲知识应该不会差太多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063965082242142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKStTpPaUAAVRs_.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063965082271592448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKStTpWbsAA4bV0.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063965082821050368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKStTrZbwAAO_es.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063965083408195584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKStTtla4AAT11B.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2063965085996056662",
+        "created_at": "2026-06-08T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064008396475691307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034865150499725313",
+              "start": 0,
+              "username": "Weberkaliro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064008396475691307",
+        "in_reply_to_user_id": "2034865150499725313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063965085996056662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weberkaliro 应该就圆锥曲线用二级结论做非常之快（\n第三问虽然要用到到角公式不过推应该也好推的（？\n新定义有没有超纲知识应该不会差太多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063965082242142208",
+            "3_2063965082271592448",
+            "3_2063965082821050368",
+            "3_2063965083408195584"
+          ]
+        },
+        "author_id": "2034865150499725313",
+        "conversation_id": "2063965085996056662",
+        "created_at": "2026-06-08T12:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063965085996056662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJoMGloPdO",
+              "end": 72,
+              "expanded_url": "https://x.com/Weberkaliro/status/2063965085996056662/photo/1",
+              "media_key": "3_2063965082242142208",
+              "start": 49,
+              "url": "https://t.co/nJoMGloPdO"
+            },
+            {
+              "display_url": "pic.x.com/nJoMGloPdO",
+              "end": 72,
+              "expanded_url": "https://x.com/Weberkaliro/status/2063965085996056662/photo/1",
+              "media_key": "3_2063965082271592448",
+              "start": 49,
+              "url": "https://t.co/nJoMGloPdO"
+            },
+            {
+              "display_url": "pic.x.com/nJoMGloPdO",
+              "end": 72,
+              "expanded_url": "https://x.com/Weberkaliro/status/2063965085996056662/photo/1",
+              "media_key": "3_2063965082821050368",
+              "start": 49,
+              "url": "https://t.co/nJoMGloPdO"
+            },
+            {
+              "display_url": "pic.x.com/nJoMGloPdO",
+              "end": 72,
+              "expanded_url": "https://x.com/Weberkaliro/status/2063965085996056662/photo/1",
+              "media_key": "3_2063965083408195584",
+              "start": 49,
+              "url": "https://t.co/nJoMGloPdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063965085996056662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年数学国一 难度明显对表3.4年前九省联考的难度了 以后使用超纲知识或许会成为常规方法也说不定 https://t.co/nJoMGloPdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "努力高考中！！",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1975093843776397324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 758,
+          "like_count": 21007,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 4965
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215| 重度焦虑 重度抑郁 双相 精分 社交障碍 躁郁qwq|家暴-天残-无证含糖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥（学医期末复习限定）",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1278,
+          "like_count": 3648,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 541
+        },
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

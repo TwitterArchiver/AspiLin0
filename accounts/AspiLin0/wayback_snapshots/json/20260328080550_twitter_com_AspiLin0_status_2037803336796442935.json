@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2037803336796442935",
+    "created_at": "2026-03-28T08:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037803336796442935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/Cldeop/status/2037574999910056115",
+          "start": 88,
+          "url": "https://t.co/nrSzzJ9rJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037803336796442935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037574999910056115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多世界诠释\n这个理论阴间完了，就是说意识总能想办法存在下去。比如你用一把左轮玩轮盘赌，由于概率存在，不论开多少次枪都不会死。自杀成了不可能的事，人们将被迫永生（不管什么形式） https://t.co/nrSzzJ9rJt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_2037574993941561350",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbrqVUbAAY77EW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2037803336796442935",
+        "created_at": "2026-03-28T08:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037803336796442935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/Cldeop/status/2037574999910056115",
+              "start": 88,
+              "url": "https://t.co/nrSzzJ9rJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037803336796442935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037574999910056115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多世界诠释\n这个理论阴间完了，就是说意识总能想办法存在下去。比如你用一把左轮玩轮盘赌，由于概率存在，不论开多少次枪都不会死。自杀成了不可能的事，人们将被迫永生（不管什么形式） https://t.co/nrSzzJ9rJt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037574993941561350"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2037574999910056115",
+        "created_at": "2026-03-27T16:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037574999910056115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfBXWDVshs",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2037574999910056115/photo/1",
+              "media_key": "3_2037574993941561350",
+              "start": 0,
+              "url": "https://t.co/AfBXWDVshs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037574999910056115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 59411,
+          "like_count": 1163,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AfBXWDVshs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只狐狸/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多（",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "2029958514018484410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 666,
+          "like_count": 18705,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 4419
+        },
+        "username": "AspiLin0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101903,
+          "following_count": 747,
+          "like_count": 35705,
+          "listed_count": 289,
+          "media_count": 17080,
+          "tweet_count": 24579
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

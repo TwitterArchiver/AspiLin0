@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1970740083218358626",
+    "created_at": "2025-09-24T06:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970740083218358626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970740083218358626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主观和客观的关系绝大程度就是语义和语法的关系，也就是模型和形式理论的关系\n没有后者的前提就无以产生前者\n另一方面生命的一个本质就是自组装，对真核生物来说，其mRNA就是它的语法，通过核糖体转化为其语义，这其中就出现了一个联系而割裂的整体，可以说就是我们意识的起源"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1970740083218358626",
+        "created_at": "2025-09-24T06:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970740083218358626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970740083218358626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主观和客观的关系绝大程度就是语义和语法的关系，也就是模型和形式理论的关系\n没有后者的前提就无以产生前者\n另一方面生命的一个本质就是自组装，对真核生物来说，其mRNA就是它的语法，通过核糖体转化为其语义，这其中就出现了一个联系而割裂的整体，可以说就是我们意识的起源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 497,
+          "like_count": 13021,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 3292
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

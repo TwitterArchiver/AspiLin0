@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1937360192561381880",
+    "created_at": "2025-06-24T05:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T06:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937386361616760980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891618744960737280",
+          "start": 0,
+          "username": "axin1715253"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937386361616760980",
+    "in_reply_to_user_id": "1891618744960737280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937384570846089684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axin1715253 明白了👌\n不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1937360192561381880",
+        "created_at": "2025-06-24T05:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937386361616760980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891618744960737280",
+              "start": 0,
+              "username": "axin1715253"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937386361616760980",
+        "in_reply_to_user_id": "1891618744960737280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937384570846089684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axin1715253 明白了👌\n不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891618744960737280",
+        "conversation_id": "1937360192561381880",
+        "created_at": "2025-06-24T05:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937384570846089684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937384570846089684",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937383967105351843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 我的意思是，我做不到，我希望可以换个方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/咱友🏳️‍⚧️但不是🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 437,
+          "like_count": 9110,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T22:40:56.000Z",
+        "description": "男生哦，喜欢触手，不吃药不变性不约跑不是二次元）",
+        "id": "1891618744960737280",
+        "location": "中国",
+        "name": "axin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922773919263752193/SG3bBJkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 150,
+          "like_count": 5567,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 446
+        },
+        "username": "axin1715253",
+        "verified": false
+      }
+    ]
+  }
+}

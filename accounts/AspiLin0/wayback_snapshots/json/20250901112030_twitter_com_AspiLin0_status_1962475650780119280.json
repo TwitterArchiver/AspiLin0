@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962475646950707200"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962475650780119280",
+    "created_at": "2025-09-01T11:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962475650780119280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OqRq6ViJo4",
+          "end": 53,
+          "expanded_url": "https://x.com/AspiLin0/status/1962475650780119280/photo/1",
+          "media_key": "3_1962475646950707200",
+          "start": 30,
+          "url": "https://t.co/OqRq6ViJo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962475650780119280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“'一个重言式是一个重言式'是一个重言式”不是一个重言式! https://t.co/OqRq6ViJo4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1962475646950707200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwdNAjaEAAIuig.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962475646950707200"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962475650780119280",
+        "created_at": "2025-09-01T11:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962475650780119280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqRq6ViJo4",
+              "end": 53,
+              "expanded_url": "https://x.com/AspiLin0/status/1962475650780119280/photo/1",
+              "media_key": "3_1962475646950707200",
+              "start": 30,
+              "url": "https://t.co/OqRq6ViJo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962475650780119280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“'一个重言式是一个重言式'是一个重言式”不是一个重言式! https://t.co/OqRq6ViJo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 477,
+          "like_count": 12498,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 3108
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

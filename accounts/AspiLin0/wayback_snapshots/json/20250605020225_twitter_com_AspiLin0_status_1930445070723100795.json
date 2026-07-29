@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1930351190505861606",
+    "created_at": "2025-06-05T02:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930445070723100795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "AutismBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930445070723100795",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930351190505861606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutismBerry 不认同欸\n一个空间时间上连续的世界对任何事件都可以进行追因，再莫名的自杀也有理由\n另外我们对自杀的定义是基于结果，就如不管是报复杀人还是发疯杀人都是杀人，因痛苦自杀，因疾病自杀都是自杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_1930351187376873472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn8LW9aIAADqzD.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1930351190505861606",
+        "created_at": "2025-06-05T02:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930445070723100795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "AutismBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930445070723100795",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930351190505861606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutismBerry 不认同欸\n一个空间时间上连续的世界对任何事件都可以进行追因，再莫名的自杀也有理由\n另外我们对自杀的定义是基于结果，就如不管是报复杀人还是发疯杀人都是杀人，因痛苦自杀，因疾病自杀都是自杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930351187376873472"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "1930351190505861606",
+        "created_at": "2025-06-04T19:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T20:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930351190505861606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvDb2YgtUW",
+              "end": 23,
+              "expanded_url": "https://x.com/AutismBerry/status/1930351190505861606/photo/1",
+              "media_key": "3_1930351187376873472",
+              "start": 0,
+              "url": "https://t.co/dvDb2YgtUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930351190505861606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dvDb2YgtUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "Anxiety+Self-centred+Pretentious+Isolated+Lonely+Inferior+Nervous=AspiLin/神经科学爱好者，半吊子哲学家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 402,
+          "like_count": 7387,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1605
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Bipolar Disorder//Social Anxiety Disorder丨跨性别友好🏳️‍⚧️丨Kards//Minecraft丨不介意私聊丨Telegram: https://t.co/zqTPAQVwkL丨匿名提问: https://t.co/D25ASqutFq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/B0u1rr2y3",
+                "end": 109,
+                "expanded_url": "https://t.me/B0u1rr2y3",
+                "start": 86,
+                "url": "https://t.co/zqTPAQVwkL"
+              },
+              {
+                "display_url": "ngl.link/Autismberry700…",
+                "end": 139,
+                "expanded_url": "https://ngl.link/Autismberry70077",
+                "start": 116,
+                "url": "https://t.co/D25ASqutFq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BgYtllH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BgYtllH",
+                "start": 0,
+                "url": "https://t.co/W4UmUAk9cg"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Nakano-ku, Tokyo",
+        "name": "奶莓Berry (静默)",
+        "pinned_tweet_id": "1929578602774888759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 948,
+          "like_count": 10741,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/W4UmUAk9cg",
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

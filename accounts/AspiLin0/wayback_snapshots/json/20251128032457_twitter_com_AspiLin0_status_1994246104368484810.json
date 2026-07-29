@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1994246104368484810",
+    "created_at": "2025-11-28T03:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994246104368484810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/benpaoping666/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/benpaoping666/status/1994023631194869887",
+          "start": 29,
+          "url": "https://t.co/ECNisVDJSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994246104368484810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994023631194869887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这绝对是最大的谎言之一\n我跑了三年也没看到志同道合的人😇 https://t.co/ECNisVDJSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_1994023628619550720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wx7OmakAA0MoC.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1994246104368484810",
+        "created_at": "2025-11-28T03:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994246104368484810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/benpaoping666/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/benpaoping666/status/1994023631194869887",
+              "start": 29,
+              "url": "https://t.co/ECNisVDJSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994246104368484810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994023631194869887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这绝对是最大的谎言之一\n我跑了三年也没看到志同道合的人😇 https://t.co/ECNisVDJSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994023628619550720"
+          ]
+        },
+        "author_id": "1845000472832376835",
+        "conversation_id": "1994023631194869887",
+        "created_at": "2025-11-27T12:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994023631194869887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8rZzPZ28G",
+              "end": 37,
+              "expanded_url": "https://x.com/benpaoping666/status/1994023631194869887/photo/1",
+              "media_key": "3_1994023628619550720",
+              "start": 14,
+              "url": "https://t.co/b8rZzPZ28G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994023631194869887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 22792,
+          "like_count": 644,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 81
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "你要知道，你始终都是孤独的 https://t.co/b8rZzPZ28G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 516,
+          "like_count": 13610,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3502
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T07:16:50.000Z",
+        "description": "此号发图，发点情感，讲点段子，欢迎投稿欢迎关注我哦，杭州人，大号 @Xiaoyumama9968",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Xiaoyumama9968"
+              }
+            ]
+          }
+        },
+        "id": "1845000472832376835",
+        "name": "奔跑的萍萍",
+        "pinned_tweet_id": "1985995201274605602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845015209628532740/oXBljsoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45479,
+          "following_count": 4,
+          "like_count": 4482,
+          "listed_count": 75,
+          "media_count": 520,
+          "tweet_count": 844
+        },
+        "username": "benpaoping666",
+        "verified": false
+      }
+    ]
+  }
+}

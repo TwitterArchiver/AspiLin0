@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2050588462026498486",
+    "created_at": "2026-05-02T14:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050588462026498486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1360161759257104384",
+          "start": 3,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050588462026498486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975093843776397324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AspiLin0: “自杀的念头救了我，\n要不是有自杀的念头，\n我肯定会自杀的。\n我之所以选择坚持活了下来，\n是因为我知道我可以选择自杀，\n它总在我的眼前。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2050588462026498486",
+        "created_at": "2026-05-02T14:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050588462026498486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1360161759257104384",
+              "start": 3,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050588462026498486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975093843776397324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AspiLin0: “自杀的念头救了我，\n要不是有自杀的念头，\n我肯定会自杀的。\n我之所以选择坚持活了下来，\n是因为我知道我可以选择自杀，\n它总在我的眼前。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1975093843776397324",
+        "created_at": "2025-10-06T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975093843776397324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975093843776397324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 273,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“自杀的念头救了我，\n要不是有自杀的念头，\n我肯定会自杀的。\n我之所以选择坚持活了下来，\n是因为我知道我可以选择自杀，\n它总在我的眼前。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "阿片，或许是一只北极狐/人的一生，不过是曲折复杂的自杀过程/哲学/精神分析/心理学/认知神经科学/生物学/物理学/分析哲学/不过懂得都不多/MtX🏳️‍⚧️",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 737,
+          "like_count": 20582,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 4841
+        },
+        "username": "AspiLin0",
+        "verified": true
+      }
+    ]
+  }
+}

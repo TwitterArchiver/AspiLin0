@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "1917320525711565170",
+    "created_at": "2025-04-30T03:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T04:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917426039904690672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901896270",
+          "start": 0,
+          "username": "Ruizei_Ayan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917426039904690672",
+    "in_reply_to_user_id": "901896270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917320525711565170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruizei_Ayan 责任本来就是他人强加的，而且人确实没有自杀的权利\n但是人有自杀的自由就是了（虽然不推荐这样😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "1917320525711565170",
+        "created_at": "2025-04-30T03:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917426039904690672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901896270",
+              "start": 0,
+              "username": "Ruizei_Ayan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917426039904690672",
+        "in_reply_to_user_id": "901896270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917320525711565170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruizei_Ayan 责任本来就是他人强加的，而且人确实没有自杀的权利\n但是人有自杀的自由就是了（虽然不推荐这样😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901896270",
+        "conversation_id": "1917320525711565170",
+        "created_at": "2025-04-29T20:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T21:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917320525711565170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917320525711565170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是说自杀不负责任，连权利都没有何谈责任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "才不是发呆，是宇宙之海在微管里轻轻折叠了一下/大概自称是阿片，是在晚上十点半刷新的狐狸/认知神经科学爱好者/平时发一些莫名其妙的想法和碎碎念/希望能做大家的止痛药^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片🦊",
+        "pinned_tweet_id": "1908043240705605642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890712591623929856/MXVdHP26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 333,
+          "like_count": 4481,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-24T14:11:55.000Z",
+        "description": "冷泉狐 | 04 | 退役药娘(22-23.4) | 友跨 | 重度社恐 | INFP-T | ❤️对象位诚聘中❤️ | 不会聊天 | 不鉴证 | 日常or发病推 | 重抑中焦 | 分裂型人格障碍(?) | 认知重建中",
+        "id": "901896270",
+        "location": "杭州",
+        "name": "凌波冷泉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909505261695647747/6teDihf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 124,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 708
+        },
+        "username": "Ruizei_Ayan",
+        "verified": false
+      }
+    ]
+  }
+}
