@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1947622574877499477",
+    "created_at": "2025-07-22T11:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T12:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947623450199396805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4229371640",
+          "start": 0,
+          "username": "ringochichidim"
+        },
+        {
+          "end": 31,
+          "id": "1606690184564985856",
+          "start": 16,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947623450199396805",
+    "in_reply_to_user_id": "4229371640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947622574877499477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringochichidim @hgsbtin_nisaki 让grok概括一下（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1947622574877499477",
+        "created_at": "2025-07-22T11:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947623450199396805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            },
+            {
+              "end": 31,
+              "id": "1606690184564985856",
+              "start": 16,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947623450199396805",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947622574877499477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim @hgsbtin_nisaki 让grok概括一下（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4229371640",
+        "conversation_id": "1947622574877499477",
+        "created_at": "2025-07-22T11:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947622574877499477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1606690184564985856",
+              "start": 34,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947622574877499477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ニサキ問我楓糖小貓是誰，但這個故事我不知道怎麼樣講，有沒有懶人包。\n@hgsbtin_nisaki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aspilin01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aspilin01",
+                "start": 0,
+                "url": "https://t.co/5USE67XTjC"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1942462775785296312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923933407039365120/hdFBFrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 444,
+          "like_count": 9628,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2385
+        },
+        "url": "https://t.co/5USE67XTjC",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\nこいびと：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 1477,
+          "like_count": 35814,
+          "listed_count": 6,
+          "media_count": 3052,
+          "tweet_count": 9795
+        },
+        "username": "ringochichidim",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜微天赋党｜ N1考取中｜同类互fo🏳️‍⚧️｜ @WangPu90983 ｜妹妹 @Littlecat111007 ｜@chuF6yuanmen 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqN0VV"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 438,
+          "like_count": 8284,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/N9KjiqN0VV",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

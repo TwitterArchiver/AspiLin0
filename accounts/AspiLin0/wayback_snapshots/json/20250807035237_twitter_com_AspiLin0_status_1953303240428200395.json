@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953303237270093824"
+      ]
+    },
+    "author_id": "1360161759257104384",
+    "conversation_id": "1953282916760600952",
+    "created_at": "2025-08-07T03:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T04:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953303240428200395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169580433883136",
+          "start": 0,
+          "username": "_Shu_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4weAimrzd",
+          "end": 45,
+          "expanded_url": "https://x.com/AspiLin0/status/1953303240428200395/photo/1",
+          "media_key": "3_1953303237270093824",
+          "start": 22,
+          "url": "https://t.co/H4weAimrzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953303240428200395",
+    "in_reply_to_user_id": "1746169580433883136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953282916760600952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shu_official 来点经典数列 https://t.co/H4weAimrzd"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953282916760600952].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953282916760600952",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953282916760600952"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_1953303237270093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuG8fwawAAKx4m.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953303237270093824"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1953282916760600952",
+        "created_at": "2025-08-07T03:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T04:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953303240428200395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169580433883136",
+              "start": 0,
+              "username": "_Shu_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4weAimrzd",
+              "end": 45,
+              "expanded_url": "https://x.com/AspiLin0/status/1953303240428200395/photo/1",
+              "media_key": "3_1953303237270093824",
+              "start": 22,
+              "url": "https://t.co/H4weAimrzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953303240428200395",
+        "in_reply_to_user_id": "1746169580433883136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953282916760600952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shu_official 来点经典数列 https://t.co/H4weAimrzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "通天塔图书馆的一只狐狸，愿望是篡位当馆长!/学习了「Emergence」的魔法/喜欢的神灵是「Logos」/神（经）（科）学爱好者，会偷吃你的大脑/所有人友好",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1950564636006510766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 460,
+          "like_count": 11536,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 2876
+        },
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:57:35.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_yan_shu_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_yan_shu_",
+                "start": 0,
+                "url": "https://t.co/Ha0AmRONEp"
+              }
+            ]
+          }
+        },
+        "id": "1746169580433883136",
+        "location": "大炎 姜齐城",
+        "name": "Shu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922167314335543296/PU8utWsf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 581,
+          "like_count": 5288,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3157
+        },
+        "url": "https://t.co/Ha0AmRONEp",
+        "username": "_Shu_official",
+        "verified": false
+      }
+    ]
+  }
+}

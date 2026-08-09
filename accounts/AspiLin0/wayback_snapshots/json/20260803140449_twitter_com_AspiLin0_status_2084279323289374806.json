@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2084279323289374806",
+    "created_at": "2026-08-03T14:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084279323289374806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3889037112",
+          "start": 3,
+          "username": "ntfuko"
+        },
+        {
+          "end": 27,
+          "id": "1360161759257104384",
+          "start": 18,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084279323289374806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084278215754006629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ntfuko: 小洛的優點\n@AspiLin0 \n1.會讓我撒嬌\n2.會站在我的角度想會支持我\n3.會保護我\n4.不會忽冷忽熱\n5.懂得情緒溝通\n6.我們需要彼此陪伴\n7.會撒嬌很可愛\n8.會覺得自己軟軟的想被抱住很可愛\n9.不會突然消失突然冷落我\n10.喜歡去圖書館看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084278197643046913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzX-k-a8AE_F_O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2084279323289374806",
+        "created_at": "2026-08-03T14:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084279323289374806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3889037112",
+              "start": 3,
+              "username": "ntfuko"
+            },
+            {
+              "end": 27,
+              "id": "1360161759257104384",
+              "start": 18,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084279323289374806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084278215754006629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ntfuko: 小洛的優點\n@AspiLin0 \n1.會讓我撒嬌\n2.會站在我的角度想會支持我\n3.會保護我\n4.不會忽冷忽熱\n5.懂得情緒溝通\n6.我們需要彼此陪伴\n7.會撒嬌很可愛\n8.會覺得自己軟軟的想被抱住很可愛\n9.不會突然消失突然冷落我\n10.喜歡去圖書館看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084278197643046913"
+          ]
+        },
+        "author_id": "3889037112",
+        "conversation_id": "2084278215754006629",
+        "created_at": "2026-08-03T14:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084278215754006629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1360161759257104384",
+              "start": 6,
+              "username": "AspiLin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/avlZoHitza",
+              "end": 176,
+              "expanded_url": "https://x.com/ntfuko/status/2084278215754006629/photo/1",
+              "media_key": "3_2084278197643046913",
+              "start": 153,
+              "url": "https://t.co/avlZoHitza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084278215754006629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 15,
+                "id": "1360161759257104384",
+                "start": 6,
+                "username": "AspiLin0"
+              }
+            ]
+          },
+          "text": "小洛的優點\n@AspiLin0 \n1.會讓我撒嬌\n2.會站在我的角度想會支持我\n3.會保護我\n4.不會忽冷忽熱\n5.懂得情緒溝通\n6.我們需要彼此陪伴\n7.會撒嬌很可愛\n8.會覺得自己軟軟的想被抱住很可愛\n9.不會突然消失突然冷落我\n10.喜歡去圖書館看書，活動習慣也很契合\n11.會靠近我注意到我理解我\n12.會準備可愛的明信片送我\n13.會表達出愛我"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小洛的優點\n@AspiLin0 \n1.會讓我撒嬌\n2.會站在我的角度想會支持我\n3.會保護我\n4.不會忽冷忽熱\n5.懂得情緒溝通\n6.我們需要彼此陪伴\n7.會撒嬌很可愛\n8.會覺得自己軟軟的想被抱住很可愛\n9.不會突然消失突然冷落我\n10.喜歡去圖書館看書，活動習慣也很契合\n11.會靠近我注意到我理解我 https://t.co/avlZoHitza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛🍥",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 769,
+          "like_count": 22272,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 5279
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "恋人： @AspiLin0 \nI wanna be an android's dream of electric sheep.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "AspiLin0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+73oB26Bh_SYwY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+73oB26Bh_SYwYTA1",
+                "start": 0,
+                "url": "https://t.co/Q7RaV6M9D2"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "pinned_tweet_id": "2068862875889025436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 376,
+          "like_count": 5845,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/Q7RaV6M9D2",
+        "username": "ntfuko",
+        "verified": true
+      }
+    ]
+  }
+}
