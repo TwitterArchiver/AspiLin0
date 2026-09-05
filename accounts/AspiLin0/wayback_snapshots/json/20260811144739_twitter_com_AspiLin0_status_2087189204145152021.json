@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2087189204145152021",
+    "created_at": "2026-08-11T14:47:39.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087189204145152021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AspiLin0/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/AspiLin0/status/2087188049717522528",
+          "start": 26,
+          "url": "https://t.co/ce8eyV1Gch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087189204145152021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087188049717522528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是因为负面信息再次被封号的话我将严肃退出这个平台 https://t.co/ce8eyV1Gch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2087188041567977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcudyUaQAAlZzw.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2087189204145152021",
+        "created_at": "2026-08-11T14:47:39.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087189204145152021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AspiLin0/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/AspiLin0/status/2087188049717522528",
+              "start": 26,
+              "url": "https://t.co/ce8eyV1Gch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087189204145152021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087188049717522528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是因为负面信息再次被封号的话我将严肃退出这个平台 https://t.co/ce8eyV1Gch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087188041567977472"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "2087188049717522528",
+        "created_at": "2026-08-11T14:43:03.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087188049717522528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgsRoaasBU",
+              "end": 71,
+              "expanded_url": "https://x.com/AspiLin0/status/2087188049717522528/photo/1",
+              "media_key": "3_2087188041567977472",
+              "start": 48,
+              "url": "https://t.co/zgsRoaasBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087188049717522528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087188041567977472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是半年前的帖子都能秋后算账\n那我要怎么办，难道要自己把以前发的所有负面言论找出来删掉吗-_- https://t.co/zgsRoaasBU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "is_identity_verified": false,
+        "location": "梦之屿 通天塔图书馆",
+        "most_recent_tweet_id": "2087189204145152021",
+        "name": "绫洛洛",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360161759257104384/1742617414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 771,
+          "like_count": 22372,
+          "listed_count": 2,
+          "media_count": 438,
+          "tweet_count": 5315
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

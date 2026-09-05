@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2089475301919318475",
+    "created_at": "2026-08-17T22:44:24.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T23:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089483510025510960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1876712179216642048",
+          "start": 0,
+          "username": "y4797246075855"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089483510025510960",
+    "in_reply_to_user_id": "1876712179216642048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089482861019820087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4797246075855 我直接用家里的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2089475301919318475",
+        "created_at": "2026-08-17T22:44:24.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089483510025510960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1876712179216642048",
+              "start": 0,
+              "username": "y4797246075855"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089483510025510960",
+        "in_reply_to_user_id": "1876712179216642048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089482861019820087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4797246075855 我直接用家里的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876712179216642048",
+        "conversation_id": "2089475301919318475",
+        "created_at": "2026-08-17T22:41:49.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089482861019820087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089482861019820087",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089475301919318475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 有什么护发素推荐呢，每次一薅就感觉好难受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "is_identity_verified": false,
+        "location": "梦之屿 通天塔图书馆",
+        "most_recent_tweet_id": "2089483510025510960",
+        "name": "绫洛洛",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360161759257104384/1742617414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 771,
+          "like_count": 22440,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 5347
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T19:27:19.000Z",
+        "description": "好烦啊",
+        "id": "1876712179216642048",
+        "is_identity_verified": false,
+        "location": "离你10086km",
+        "most_recent_tweet_id": "2089483311693562360",
+        "name": "困死我了啊",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049572603942371328/Ocu1nDgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 83,
+          "like_count": 242,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "y4797246075855",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

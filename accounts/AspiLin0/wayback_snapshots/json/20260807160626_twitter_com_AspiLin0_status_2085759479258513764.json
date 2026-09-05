@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2085759479258513764",
+    "created_at": "2026-08-07T16:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085759479258513764"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085759479258513764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "\"拉伸\"与\"折叠\"是两个很漂亮的操作,可以产生复杂性\n物理上,对空间的拉伸与折叠可以产生混沌,使系统具有初值敏感,即一定程度的\"不可预测\"\n数理逻辑上,一个命题系统的形成规则如果既能使命题增长,又能使命题缩短,这种拉伸与折叠有机会产生递归可枚举\n而生理学上,人类大脑的复杂性也涉及皮质的拉伸与折叠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2085759479258513764",
+        "created_at": "2026-08-07T16:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085759479258513764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085759479258513764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"拉伸\"与\"折叠\"是两个很漂亮的操作,可以产生复杂性\n物理上,对空间的拉伸与折叠可以产生混沌,使系统具有初值敏感,即一定程度的\"不可预测\"\n数理逻辑上,一个命题系统的形成规则如果既能使命题增长,又能使命题缩短,这种拉伸与折叠有机会产生递归可枚举\n而生理学上,人类大脑的复杂性也涉及皮质的拉伸与折叠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "绫洛洛",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 772,
+          "like_count": 22301,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 5298
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}
