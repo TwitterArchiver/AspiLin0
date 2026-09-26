@@ -1,20 +1,12 @@
 {
-  "name": "绫洛洛",
+  "name": "阿司匹林片也是阿片",
   "username": "@AspiLin0",
-  "bio": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+  "bio": "暂空",
   "location": "梦之屿 通天塔图书馆",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2080302036508373234",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 47,
-        "start": 40,
-        "username": "ntfuko"
-      }
-    ]
-  },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg"
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2101336352034074624/7MKOrvdk_normal.jpg"
 }
