@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1360161759257104384",
+    "conversation_id": "2094965852877820368",
+    "created_at": "2026-09-02T04:24:11.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095004837746446521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980782799750852608",
+          "start": 0,
+          "username": "TD_Perturb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095004837746446521",
+    "in_reply_to_user_id": "1980782799750852608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094965852877820368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TD_Perturb 想看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2661,
+        "media_key": "3_2094965842945667072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLQVaVacAA473Q.jpg",
+        "width": 2401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360161759257104384",
+        "conversation_id": "2094965852877820368",
+        "created_at": "2026-09-02T04:24:11.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095004837746446521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980782799750852608",
+              "start": 0,
+              "username": "TD_Perturb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095004837746446521",
+        "in_reply_to_user_id": "1980782799750852608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094965852877820368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TD_Perturb 想看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094965842945667072"
+          ]
+        },
+        "author_id": "1980782799750852608",
+        "conversation_id": "2094965852877820368",
+        "created_at": "2026-09-02T01:49:16.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094965852877820368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HzFjmsCgky",
+              "end": 96,
+              "expanded_url": "https://x.com/TD_Perturb/status/2094965852877820368/photo/1",
+              "media_key": "3_2094965842945667072",
+              "start": 73,
+              "url": "https://t.co/HzFjmsCgky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094965852877820368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094965842945667072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校里新生在军训，偶然看到一个很漂亮的女生，发型竟然是这样的。忍不住多看了两眼，因为这种发型在现实里很少见......\n以及，担心对方是否会太热 https://t.co/HzFjmsCgky"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "「逻辑严密与否的梦境都与现实无法区分」\n似乎不太聪明的样子\n世界上最可爱的奇奇→@ntfuko\n大概是mtx(?)随便了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "1360161759257104384",
+        "is_identity_verified": false,
+        "location": "梦之屿 通天塔图书馆",
+        "most_recent_tweet_id": "2095004837746446521",
+        "name": "绫洛洛",
+        "pinned_tweet_id": "2080302036508373234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360161759257104384/1742617414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 762,
+          "like_count": 22481,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 5372
+        },
+        "url": "",
+        "username": "AspiLin0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T23:47:15.000Z",
+        "description": "they | GAHT 2025.10.21 | Physics | Math-rock | Observing Humanity |",
+        "id": "1980782799750852608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094987390926618736",
+        "name": "含時微擾",
+        "pinned_tweet_id": "2072568717045821789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980782799750852608/1774005014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980783913392865280/5JM-SjtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 150,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "TD_Perturb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
